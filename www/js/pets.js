@@ -5,7 +5,7 @@
 import * as THREE from 'three';
 import { say, stopSpeech, updateMouth, isSpeaking } from './speech.js?v=2';
 import { PET_ACTOR } from './objects.js?v=9';
-import { t, ALL_PETS, PET_NAMES, ownedPets, learnLanguage } from './ui.js?v=2';
+import { t, ALL_PETS, PET_NAMES, ownedPets, learnLanguage, homeLanguage } from './ui.js?v=2';
 
 const SPOTS = [                     // back row of five, front row of four
   [-4.8, -2.4], [-2.4, -2.4], [0, -2.4], [2.4, -2.4], [4.8, -2.4],
@@ -19,7 +19,8 @@ const STORE = {
 
 export function startPets(app) {
   const { renderer, actorsById, updateBlink } = app;
-  const lang = learnLanguage();
+  const lang = learnLanguage();          // pets talk in the language being learned
+  const nameLang = homeLanguage();       // written names are for grown-ups: home language
   const scene = new THREE.Scene();
   const camera = new THREE.PerspectiveCamera(38, 1, 0.1, 200);
   const cleanups = [];
@@ -98,7 +99,7 @@ export function startPets(app) {
   for (const p of pets) {
     const el = document.createElement('div');
     el.className = 'pet-tag' + (p.have ? '' : ' locked');
-    el.innerHTML = p.have ? `<span>${(PET_NAMES[p.name] || {})[lang] || p.name}</span>` : '<i class="lock"></i>';
+    el.innerHTML = p.have ? `<span>${(PET_NAMES[p.name] || {})[nameLang] || p.name}</span>` : '<i class="lock"></i>';
     tags.append(el);
     p.tag = el;
   }
