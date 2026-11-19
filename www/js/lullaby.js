@@ -1,6 +1,7 @@
 // Fun Lingo — lullabies
 // A calm night sky: twinkling stars, a sleepy moon, drifting clouds. Four songs, each
-// sung in the language the child is learning. The words glow line by line (with the
+// sung in the language spoken at home (the comfort language at bedtime), with the
+// language the child is learning shown softly underneath. The words glow line by line (with the
 // home-language meaning underneath). Songs start on their own and play one after
 // another; after the last one the room dims softly.
 
@@ -19,7 +20,8 @@ const ICONS = {
 };
 
 export function startLullaby(app) {
-  const lang = learnLanguage(), home = homeLanguage();
+  // songs are sung in the home language; the learning language is the small line underneath
+  const lang = homeLanguage(), home = learnLanguage();
   const bilingual = home && home !== lang;
   const ui = document.getElementById('lullaby-ui');
   const cleanups = [], timers = [];
