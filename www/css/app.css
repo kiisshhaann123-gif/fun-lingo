@@ -387,3 +387,18 @@ html, body {
 .stop .face[data-count="4"] b:nth-of-type(3) { left: 0; bottom: 0; }
 .stop .face[data-count="4"] b:nth-of-type(4) { right: 0; bottom: 0; }
 .stop .face .rstar { z-index: 2; }
+
+/* ---------- iPhone: "Add to Home Screen" hint ---------- */
+#ios-hint { position: fixed; left: 50%; bottom: max(12px, env(safe-area-inset-bottom)); transform: translateX(-50%); z-index: 25;
+  background: #fff; border-radius: 22px; padding: 12px 20px 10px; box-shadow: 0 8px 30px rgba(0,0,0,.25); text-align: center;
+  font: 600 clamp(12px, 2.4vh, 16px) system-ui, sans-serif; color: #2b2150; animation: pop .45s cubic-bezier(.34, 1.56, .64, 1) both; max-width: 92vw; }
+#ios-hint.hidden { display: none; }
+#ios-hint p { margin: 6px 0 0; }
+.ios-row { display: flex; align-items: center; justify-content: center; gap: 10px; }
+.ios-step { width: 40px; height: 40px; border-radius: 12px; background: #eef4ff; display: grid; place-items: center; }
+.ios-step svg { width: 26px; height: 26px; }
+.ios-arrow { font-size: 20px; color: #a0a6c0; }
+.ios-app { width: 40px; height: 40px; border-radius: 10px; }
+.ios-close { position: absolute; right: 6px; top: 4px; border: 0; background: none; font-size: 22px; color: #a0a6c0; cursor: pointer; }
+/* fill the whole screen, also behind notches and rounded corners */
+html, body { min-height: 100dvh; }

@@ -600,6 +600,7 @@ async function loadEverything() {
     if (leaving) return;                     // already moved on to the home page
     loaderEl.classList.add('done');
     playEl.classList.remove('hidden');
+    showIOSHint();
   }, 450);
 }
 
@@ -620,6 +621,32 @@ app.switchTo = async (page, opts = {}) => {
   app.dispose = mod[fn](app, opts);
   fade.classList.remove('on');
 };
+// ---------------- full screen on phones
+// Android/desktop: go full screen and sideways when a big "go" button is tapped
+// (browsers only allow it right after a tap). iPhone can't do this from a web page,
+// so parents get a one-time hint to add the app to the home screen instead.
+const standalone = navigator.standalone || window.matchMedia('(display-mode: standalone), (display-mode: fullscreen)').matches;
+function goFullscreen() {
+  const el = document.documentElement;
+  if (standalone || document.fullscreenElement || !(el.requestFullscreen || el.webkitRequestFullscreen)) return;
+  const p = el.requestFullscreen ? el.requestFullscreen({ navigationUI: 'hide' }) : el.webkitRequestFullscreen();
+  Promise.resolve(p).then(() => screen.orientation && screen.orientation.lock && screen.orientation.lock('landscape').catch(() => {})).catch(() => {});
+}
+document.addEventListener('click', (e) => {
+  if (e.target.closest('#play, #btn-start, .stop, #btn-done-next, .lang-card')) goFullscreen();
+}, true);
+const isIOS = /iPhone|iPad|iPod/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+const iosHint = document.getElementById('ios-hint');
+function showIOSHint() {
+  let seen = false;
+  try { seen = localStorage.getItem('funlingo.iosHintSeen') === '1'; } catch { /* fine */ }
+  if (!isIOS || standalone || seen) return;
+  iosHint.classList.remove('hidden');
+  const close = () => { iosHint.classList.add('hidden'); try { localStorage.setItem('funlingo.iosHintSeen', '1'); } catch { /* fine */ } };
+  iosHint.querySelector('.ios-close').addEventListener('click', close, { once: true });
+  playEl.addEventListener('click', close, { once: true });
+}
+
 playEl.addEventListener('click', () => {
   if (leaving) return;
   leaving = true;
