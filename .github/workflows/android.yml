@@ -40,6 +40,9 @@ jobs:
           npx cap add android
           npx cap sync android
 
+      - name: Image tool for the icon and splash
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq imagemagick
+
       - name: Full screen, sideways only, app icon and splash
         run: |
           RES=android/app/src/main/res
