@@ -62,5 +62,53 @@
    "ko",
    "ne"
   ]
+ },
+ {
+  "id": "mama_moon_story",
+  "icon": "owl",
+  "title": {
+   "en": "Mama Moon's Story",
+   "ja": "おつきさまの おはなし",
+   "ko": "달님의 옛날이야기",
+   "ne": "जून आमाको कथा"
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ {
+  "id": "flower_garden",
+  "icon": "flower",
+  "title": {
+   "en": "The Flower Garden Sleeps",
+   "ja": "おはなばたけの おやすみ",
+   "ko": "꽃밭이 잠들어요",
+   "ne": "फूलबारी निदायो"
+  },
+  "langs": [
+   "en"
+  ]
+ },
+ {
+  "id": "rain_on_roof",
+  "icon": "roof",
+  "title": {
+   "en": "Rain on the Roof",
+   "ja": "やねの うえの あめ",
+   "ko": "지붕 위의 빗소리",
+   "ne": "छानामा पानी"
+  },
+  "langs": []
+ },
+ {
+  "id": "family_hug",
+  "icon": "family",
+  "title": {
+   "en": "Family Hug",
+   "ja": "かぞくの ぎゅう",
+   "ko": "가족의 포옹",
+   "ne": "परिवारको अँगालो"
+  },
+  "langs": []
  }
 ]

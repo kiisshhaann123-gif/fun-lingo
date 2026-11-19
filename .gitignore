@@ -10,3 +10,9 @@ refs/
 .DS_Store
 *.swp
 __pycache__/
+
+# Android build (made fresh by GitHub Actions)
+app-android/node_modules/
+app-android/android/
+app-android/www/
+app-android/package-lock.json

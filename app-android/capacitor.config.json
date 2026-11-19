@@ -1,0 +1,9 @@
+{
+  "appId": "com.funlingo.app",
+  "appName": "FUN Lingo",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#8fd3ff"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fun-lingo-android",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Wraps the www folder into the FUN Lingo Android app (built by GitHub Actions).",
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/cli": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  }
+}

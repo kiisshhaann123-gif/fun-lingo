@@ -1,0 +1,47 @@
+{
+ "title": "The Flower Garden Sleeps",
+ "length": 76.0,
+ "lines": [
+  {
+   "text": "In the garden, flowers close their eyes,",
+   "start": 7.0,
+   "end": 13.5
+  },
+  {
+   "text": "petals folding softly, one by one,",
+   "start": 13.5,
+   "end": 20.0
+  },
+  {
+   "text": "busy bees fly home across the skies,",
+   "start": 20.0,
+   "end": 26.5
+  },
+  {
+   "text": "goodnight, garden, the day is done.",
+   "start": 26.5,
+   "end": 33.0
+  },
+  {
+   "text": "Butterfly folds her pretty wings,",
+   "start": 39.0,
+   "end": 45.5
+  },
+  {
+   "text": "the little bird stops singing songs,",
+   "start": 45.5,
+   "end": 52.0
+  },
+  {
+   "text": "the garden whispers sleepy things,",
+   "start": 52.0,
+   "end": 58.5
+  },
+  {
+   "text": "sleep, little flower, all night long.",
+   "start": 58.5,
+   "end": 65.0
+  }
+ ],
+ "fp": "b481dc3c7d2d"
+}

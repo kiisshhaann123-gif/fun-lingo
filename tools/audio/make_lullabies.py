@@ -82,6 +82,11 @@ def compose(key, plan):
                 print(f'    server busy ({e.code}), retrying in {wait}s')
                 time.sleep(wait)
                 continue
+            if 'quota_exceeded' in msg:
+                write_index(json.load(open(SONGS, encoding='utf-8'))['songs'])   # keep the app's list right
+                sys.exit('Not enough ElevenLabs credits left for this song (each song uses about 950).\n'
+                         'Songs already made are kept. Run this again after your credits refill or after topping up;\n'
+                         'it will pick up where it stopped.\n' + msg)
             if e.code in (401, 403):
                 sys.exit(f'ElevenLabs said no ({e.code}): {msg}\n'
                          'Your plan or key may not include Music. In ElevenLabs: Developers → API Keys → edit the key '

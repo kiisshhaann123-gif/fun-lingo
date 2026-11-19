@@ -555,3 +555,10 @@ html, body { min-height: 100dvh; }
 .pg-note { margin: 0; font-size: .72em; color: #8a83a8; text-align: center; font-weight: 600; }
 /* the parent tip stays put */
 #parent-tip { transition: opacity .6s; }
+
+/* 8 lullabies: two rows of four that fit a phone held sideways */
+.song-row { max-width: min(96vw, 900px); gap: clamp(8px, 2vw, 18px); }
+.song-card { width: clamp(108px, 21vh, 170px); padding: 10px 8px; border-radius: 22px; gap: 4px; }
+.song-icon { width: clamp(38px, 8.5vh, 62px); height: clamp(38px, 8.5vh, 62px); }
+.song-title { font-size: clamp(11px, 2.4vh, 16px); }
+.song-list { gap: 2vh; padding-top: 6vh; }

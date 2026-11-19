@@ -612,7 +612,7 @@ const app = { renderer, scene, camera, update: null, actorsById, updateBlink, sw
 // moves between pages (home, lesson, ...) with a soft white fade
 const PAGES = {
   home: ['./home.js?v=18', 'startHome'], map: ['./map.js?v=8', 'startMap'], lesson: ['./lesson.js?v=15', 'startLesson'],
-  pets: ['./pets.js?v=4', 'startPets'], stories: ['./stories.js?v=3', 'startStories'], lullaby: ['./lullaby.js?v=5', 'startLullaby'],
+  pets: ['./pets.js?v=4', 'startPets'], stories: ['./stories.js?v=3', 'startStories'], lullaby: ['./lullaby.js?v=6', 'startLullaby'],
 };
 app.switchTo = async (page, opts = {}) => {
   const fade = document.getElementById('fade');
