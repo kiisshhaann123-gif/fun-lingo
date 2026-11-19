@@ -193,7 +193,6 @@ export const ART = {
     blob('<path d="M100 40Q84 40 78 62L62 140Q60 160 80 162L100 162Z"/><path d="M100 40Q116 40 122 62L138 140Q140 160 120 162L100 162Z"/>', '#ffcf9e') +
     `<path d="M100 44V160" ${st(4)}/>` +
     `<path d="M86 52L82 70M114 52L118 70M80 72L76 92M120 72L124 92" stroke="#e9a774" stroke-width="4" stroke-linecap="round"/>` +
-    `<ellipse cx="90" cy="128" rx="9" ry="18" fill="#ffcf9e" ${st(4)} transform="rotate(12 90 128)"/><ellipse cx="110" cy="128" rx="9" ry="18" fill="#ffcf9e" ${st(4)} transform="rotate(-12 110 128)"/>` +
     heart(100, 26, 1.1) + heart(156, 74, 0.9, '#ff8fc1') + heart(44, 74, 0.9, '#ff8fc1') + star(40, 128, 8) + star(162, 126, 8, '#fff')),
 
   yes: pic('yes', '#d6f8d6',
@@ -258,6 +257,22 @@ export const ART = {
     `<rect x="90" y="74" width="20" height="100" fill="#ffd23f" ${st(4)}/>` +
     `<ellipse cx="80" cy="62" rx="22" ry="12" fill="#ffd23f" ${st()} transform="rotate(-20 80 62)"/><ellipse cx="120" cy="62" rx="22" ry="12" fill="#ffd23f" ${st()} transform="rotate(20 120 62)"/>` +
     `<circle cx="100" cy="68" r="9" fill="#ffb703" ${st(4)}/>` + star(34, 48, 10) + star(168, 42, 9, '#fff') + star(166, 150, 8)),
+  // Beep, the little robot (for stories and the pets room)
+  beep: pic('beep', '#d6f0ff',
+    `<path d="M100 42V24" ${st(5)}/><circle cx="100" cy="20" r="9" fill="#ff5fa2" ${st(4)}/>` +
+    `<ellipse cx="58" cy="148" rx="10" ry="17" fill="#2f9bff" ${st()} transform="rotate(25 58 148)"/><ellipse cx="142" cy="148" rx="10" ry="17" fill="#2f9bff" ${st()} transform="rotate(-25 142 148)"/>` +
+    `<rect x="66" y="122" width="68" height="54" rx="22" fill="#f4f7fb" ${st()}/>` + heart(100, 150, 0.9, '#ff5fa2') +
+    `<circle cx="44" cy="84" r="10" fill="#2f9bff" ${st()}/><circle cx="156" cy="84" r="10" fill="#2f9bff" ${st()}/>` +
+    `<rect x="46" y="42" width="108" height="84" rx="32" fill="#f4f7fb" ${st()}/>` +
+    `<rect x="60" y="55" width="80" height="58" rx="20" fill="#1d2a4a"/>` +
+    `<ellipse cx="84" cy="80" rx="8" ry="10" fill="#5ff3ff"/><ellipse cx="116" cy="80" rx="8" ry="10" fill="#5ff3ff"/>` +
+    `<circle cx="86" cy="76" r="3" fill="#fff"/><circle cx="118" cy="76" r="3" fill="#fff"/>` +
+    `<ellipse cx="72" cy="98" rx="6" ry="4" fill="#ff7aa8" opacity=".8"/><ellipse cx="128" cy="98" rx="6" ry="4" fill="#ff7aa8" opacity=".8"/>` +
+    `<path d="M90 96Q100 106 110 96" fill="none" stroke="#5ff3ff" stroke-width="4" stroke-linecap="round"/>`)
 };
 
-export const hasArt = (w) => !!ART[w];
+export const hasArt = (w) => !!ART[w] && w !== 'beep' && w !== 'gift';
+// the same picture without its coloured disc: a cut-out character for stories
+export const sticker = (w) => (ART[w] || '')
+  .replace(/<circle cx="100" cy="100" r="94" fill="[^"]+"\/>/, '')
+  .replace(/ clip-path="url\(#c-[^)]+\)"/, '');

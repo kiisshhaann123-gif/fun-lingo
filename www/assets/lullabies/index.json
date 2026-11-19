@@ -1,0 +1,66 @@
+[
+ {
+  "id": "little_star",
+  "icon": "star",
+  "title": {
+   "en": "Little Star",
+   "ja": "ちいさな おほしさま",
+   "ko": "작은 별님",
+   "ne": "सानो तारा"
+  },
+  "langs": [
+   "en",
+   "ja",
+   "ko",
+   "ne"
+  ]
+ },
+ {
+  "id": "moon_boat",
+  "icon": "moon",
+  "title": {
+   "en": "The Moon Boat",
+   "ja": "おつきさまの おふね",
+   "ko": "달님 배",
+   "ne": "जूनको डुङ्गा"
+  },
+  "langs": [
+   "en",
+   "ja",
+   "ko",
+   "ne"
+  ]
+ },
+ {
+  "id": "goodnight_friends",
+  "icon": "pets",
+  "title": {
+   "en": "Goodnight, Friends",
+   "ja": "おやすみ みんな",
+   "ko": "잘 자, 친구들",
+   "ne": "शुभरात्री साथीहरू"
+  },
+  "langs": [
+   "en",
+   "ja",
+   "ko",
+   "ne"
+  ]
+ },
+ {
+  "id": "hush_little_one",
+  "icon": "rain",
+  "title": {
+   "en": "Hush, Little One",
+   "ja": "ねんね かわいい こ",
+   "ko": "자장자장 우리 아기",
+   "ne": "निदाऊ मेरो नानी"
+  },
+  "langs": [
+   "en",
+   "ja",
+   "ko",
+   "ne"
+  ]
+ }
+]

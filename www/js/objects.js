@@ -3,7 +3,7 @@
 // child is learning, big, and the word in the home language, smaller, underneath.
 
 import * as THREE from 'three';
-import { ART, hasArt } from './art.js?v=2';
+import { ART, hasArt } from './art.js?v=3';
 
 let WORDS = null;              // word -> { en, ja, ko, ne }
 let LEARN = 'en', HOME = '';

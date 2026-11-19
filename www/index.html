@@ -13,7 +13,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="FUN LINGO" />
-  <link rel="stylesheet" href="css/app.css?v=36" />
+  <link rel="stylesheet" href="css/app.css?v=39" />
   <script type="importmap">
     {
       "imports": {
@@ -47,15 +47,47 @@
       <svg viewBox="0 0 24 24"><rect x="5" y="10.5" width="14" height="10" rx="2.5" fill="#fff"/><path d="M8 10.5V8a4 4 0 0 1 8 0v2.5" fill="none" stroke="#fff" stroke-width="2.4"/></svg>
       <span class="ring"></span>
     </button>
+    <div id="parent-tip"></div>
     <button id="btn-pets" class="hbtn" aria-label="Pets">
       <svg viewBox="0 0 24 24"><ellipse cx="12" cy="16" rx="5" ry="4" fill="#fff"/><circle cx="6" cy="10.5" r="2.1" fill="#fff"/><circle cx="18" cy="10.5" r="2.1" fill="#fff"/><circle cx="9.3" cy="6.6" r="2.1" fill="#fff"/><circle cx="14.7" cy="6.6" r="2.1" fill="#fff"/></svg>
+      <span class="lbl" data-k="pets"></span>
+    </button>
+    <button id="btn-lullaby" class="hbtn" aria-label="Lullabies">
+      <svg viewBox="0 0 24 24"><path d="M15 3.5a8.5 8.5 0 1 0 5.5 13.6A7 7 0 0 1 15 3.5z" fill="#fff"/><circle cx="18.5" cy="5" r="1" fill="#fff"/><circle cx="21" cy="9" r=".8" fill="#fff"/></svg>
+      <span class="lbl" data-k="lullaby"></span>
     </button>
     <button id="btn-start" class="hbtn big" aria-label="Start lesson">
       <svg viewBox="0 0 24 24"><path d="M8.5 5.5v13l10-6.5z" fill="#fff" stroke="#fff" stroke-width="1.5" stroke-linejoin="round"/></svg>
+      <span class="lbl" data-k="play"></span>
     </button>
     <button id="btn-stories" class="hbtn" aria-label="Stories">
       <svg viewBox="0 0 24 24"><path d="M3 5.5c3-1.2 6-1 9 1v13c-3-2-6-2.2-9-1z" fill="#fff"/><path d="M21 5.5c-3-1.2-6-1-9 1v13c3-2 6-2.2 9-1z" fill="#fff" opacity=".85"/></svg>
+      <span class="lbl" data-k="stories"></span>
     </button>
+  </div>
+
+  <!-- pets room: names, locks and the counter (the pets themselves are 3D) -->
+  <div id="pets-ui" class="hidden">
+    <button class="hbtn small pets-home" aria-label="Home"><svg viewBox="0 0 24 24"><path d="M3.5 11.5 12 4l8.5 7.5" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M6.5 10.5V20h11v-9.5" fill="#fff"/></svg></button>
+    <div class="pets-count"></div>
+    <div class="pets-tags"></div>
+    <div class="pets-tip"></div>
+  </div>
+
+  <!-- stories: a shelf of books, and the cartoon player -->
+  <div id="stories-ui" class="hidden">
+    <div class="story-shelf"></div>
+    <div class="story-player hidden"></div>
+    <button class="hbtn small stories-home" aria-label="Home"><svg viewBox="0 0 24 24"><path d="M3.5 11.5 12 4l8.5 7.5" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M6.5 10.5V20h11v-9.5" fill="#fff"/></svg></button>
+  </div>
+
+  <!-- lullabies: night sky, four songs -->
+  <div id="lullaby-ui" class="hidden">
+    <div class="night-sky"></div>
+    <div class="song-list"></div>
+    <div class="song-player hidden"></div>
+    <div class="night-dim"></div>
+    <button class="hbtn small lullaby-home" aria-label="Home"><svg viewBox="0 0 24 24"><path d="M3.5 11.5 12 4l8.5 7.5" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M6.5 10.5V20h11v-9.5" fill="#fff"/></svg></button>
   </div>
 
   <!-- languages, swiped sideways under the globe -->
@@ -117,6 +149,6 @@
   <!-- phones held upright: ask (with a picture, no words) to turn the phone sideways -->
   <div id="rotate" aria-hidden="true"><div class="phone"></div></div>
 
-  <script type="module" src="js/main.js?v=36"></script>
+  <script type="module" src="js/main.js?v=39"></script>
 </body>
 </html>

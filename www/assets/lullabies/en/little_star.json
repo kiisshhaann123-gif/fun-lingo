@@ -1,0 +1,47 @@
+{
+ "title": "Little Star",
+ "length": 76.0,
+ "lines": [
+  {
+   "text": "Little star up in the sky,",
+   "start": 7.0,
+   "end": 13.5
+  },
+  {
+   "text": "twinkle, twinkle, way up high,",
+   "start": 13.5,
+   "end": 20.0
+  },
+  {
+   "text": "close your eyes and sleep tight,",
+   "start": 20.0,
+   "end": 26.5
+  },
+  {
+   "text": "little star will shine all night.",
+   "start": 26.5,
+   "end": 33.0
+  },
+  {
+   "text": "Moon is smiling, soft and bright,",
+   "start": 39.0,
+   "end": 45.5
+  },
+  {
+   "text": "hugging you with silver light,",
+   "start": 45.5,
+   "end": 52.0
+  },
+  {
+   "text": "dream of flowers, dream of play,",
+   "start": 52.0,
+   "end": 58.5
+  },
+  {
+   "text": "see you on a sunny day.",
+   "start": 58.5,
+   "end": 65.0
+  }
+ ],
+ "fp": "57d72c70b409"
+}

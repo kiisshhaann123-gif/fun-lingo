@@ -402,3 +402,156 @@ html, body {
 .ios-close { position: absolute; right: 6px; top: 4px; border: 0; background: none; font-size: 22px; color: #a0a6c0; cursor: pointer; }
 /* fill the whole screen, also behind notches and rounded corners */
 html, body { min-height: 100dvh; }
+
+/* ================= round 4: labels, pets room, stories, lullabies ================= */
+
+/* --- home: second button on the left, labels under every button, tip for grown-ups --- */
+#btn-lullaby { left: calc(max(3vw, env(safe-area-inset-left)) + clamp(64px, 14vh, 96px) + 2.4vw);
+  background: radial-gradient(circle at 35% 30%, #7f9cff, #3a4bd6 70%); }
+.hbtn .lbl { position: absolute; left: 50%; bottom: -0.95em; transform: translateX(-50%); white-space: nowrap; pointer-events: none;
+  padding: 2px 10px; border-radius: 999px; background: #fff; color: #2b2150; box-shadow: 0 3px 0 rgba(0,0,0,.12);
+  font: 800 clamp(11px, 2.2vh, 15px)/1.35 "Arial Rounded MT Bold", "Hiragino Maru Gothic ProN", "Apple SD Gothic Neo", "Kohinoor Devanagari", system-ui, sans-serif; }
+#btn-start .lbl { font-size: clamp(12px, 2.6vh, 17px); }
+.hbtn .lbl:empty { display: none; }
+#parent-tip { position: fixed; z-index: 6; top: calc(max(2.5vh, env(safe-area-inset-top)) + clamp(40px, 8vh, 54px) + 10px); right: max(2vw, env(safe-area-inset-right));
+  max-width: min(46vw, 300px); padding: 8px 12px; border-radius: 14px; background: #fff; color: #2b2150; box-shadow: 0 6px 18px rgba(0,0,0,.18);
+  font: 700 clamp(11px, 2.1vh, 14px)/1.35 system-ui, sans-serif; opacity: 0; transform: translateY(-6px); transition: opacity .5s, transform .5s; pointer-events: none; }
+#parent-tip::before { content: ''; position: absolute; top: -8px; right: clamp(14px, 3vh, 20px); border: 8px solid transparent; border-top: 0; border-bottom-color: #fff; }
+#parent-tip.show { opacity: 1; transform: none; }
+
+/* shared: a small home button in the top-left corner */
+.pets-home, .stories-home, .lullaby-home { top: max(2.5vh, env(safe-area-inset-top)); bottom: auto; left: max(2.5vw, env(safe-area-inset-left));
+  width: clamp(44px, 9vh, 62px); height: clamp(44px, 9vh, 62px); background: radial-gradient(circle at 35% 30%, #8ecae6, #3a86ff 70%); z-index: 12; }
+.wiggle { animation: wiggle .5s ease; }
+@keyframes wiggle { 20%, 60% { rotate: -10deg; } 40%, 80% { rotate: 10deg; } }
+
+/* --- pets room --- */
+#pets-ui { position: fixed; inset: 0; z-index: 6; pointer-events: none; }
+#pets-ui.hidden { display: none; }
+#pets-ui button { pointer-events: auto; }
+.pets-count { position: fixed; top: max(2.5vh, env(safe-area-inset-top)); left: 50%; transform: translateX(-50%); padding: 8px 22px; border-radius: 999px;
+  background: #fff; color: #2b2150; box-shadow: 0 5px 0 rgba(0,0,0,.1); font: 700 clamp(14px, 3vh, 22px) "Arial Rounded MT Bold", system-ui, sans-serif; }
+.pets-count b { color: #ff7f2a; font-size: 1.15em; }
+.pet-tag { position: fixed; transform: translate(-50%, -10%); font: 800 clamp(11px, 2.2vh, 15px) "Arial Rounded MT Bold", "Hiragino Maru Gothic ProN", "Apple SD Gothic Neo", "Kohinoor Devanagari", system-ui, sans-serif; }
+.pet-tag span { display: block; padding: 2px 10px; border-radius: 999px; background: #fff; color: #2b2150; box-shadow: 0 3px 0 rgba(0,0,0,.1); }
+.pet-tag .lock { display: block; width: clamp(26px, 5.5vh, 38px); height: clamp(26px, 5.5vh, 38px); border-radius: 50%; background: #4a3f7a center / 60% no-repeat
+  url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect x='5' y='10.5' width='14' height='10' rx='2.5' fill='%23fff'/%3E%3Cpath d='M8 10.5V8a4 4 0 0 1 8 0v2.5' fill='none' stroke='%23fff' stroke-width='2.4'/%3E%3C/svg%3E");
+  border: 3px solid #fff; box-shadow: 0 3px 0 rgba(0,0,0,.15); }
+.pets-tip { position: fixed; bottom: max(3vh, env(safe-area-inset-bottom)); left: 50%; transform: translateX(-50%); padding: 8px 18px; border-radius: 14px;
+  background: rgba(74,63,122,.92); color: #fff; font: 700 clamp(12px, 2.4vh, 16px) system-ui, sans-serif; opacity: 0; transition: opacity .4s; white-space: nowrap; }
+.pets-tip.show { animation: tipflash 3s ease forwards; }
+@keyframes tipflash { 0% { opacity: 0; } 10%, 80% { opacity: 1; } 100% { opacity: 0; } }
+
+/* --- stories --- */
+#stories-ui { position: fixed; inset: 0; z-index: 6; }
+#stories-ui.hidden { display: none; }
+.story-shelf { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3vh;
+  background: linear-gradient(180deg, #ffe4f1 0%, #fff4d6 100%); }
+.story-shelf.hidden { display: none; }
+.shelf-hint { font: 800 clamp(16px, 3.6vh, 26px) "Arial Rounded MT Bold", system-ui, sans-serif; color: #7b4dff; }
+.shelf-row { display: flex; gap: clamp(20px, 5vw, 60px); }
+.book { width: clamp(170px, 38vh, 280px); padding: 0 0 14px; border: 0; border-radius: 22px 30px 30px 22px; cursor: pointer; background: var(--c);
+  box-shadow: inset 14px 0 0 rgba(0,0,0,.12), 0 10px 0 rgba(0,0,0,.15), 0 16px 30px rgba(0,0,0,.18); transition: transform .2s; color: #fff; }
+.book:hover, .book:active { transform: translateY(-6px) rotate(-1.5deg); }
+.book .cover { position: relative; height: clamp(120px, 27vh, 200px); margin: 14px 14px 10px 26px; border-radius: 16px; background: #fffaf0; overflow: hidden; }
+.book .cv { position: absolute; width: 52%; bottom: 4%; }
+.book .cv svg { width: 100%; height: auto; display: block; }
+.book .cv0 { left: 0; } .book .cv1 { left: 48%; bottom: 30%; width: 44%; } .book .cv2 { left: 28%; width: 46%; bottom: 0; }
+.book-title { font: 800 clamp(15px, 3.2vh, 22px)/1.2 "Arial Rounded MT Bold", "Hiragino Maru Gothic ProN", "Apple SD Gothic Neo", "Kohinoor Devanagari", system-ui, sans-serif; padding: 0 10px 0 22px; }
+.book-sub { font: 700 clamp(11px, 2.2vh, 15px) system-ui, sans-serif; opacity: .85; margin-top: 3px; padding-left: 12px; }
+.story-player { position: absolute; inset: 0; background: #bfe8ff; overflow: hidden; }
+.story-player.hidden { display: none; }
+.story-stage { position: absolute; inset: 0; width: 100%; height: 100%; touch-action: manipulation; }
+.story-stage .actor { cursor: pointer; }
+.story-back { top: max(2.5vh, env(safe-area-inset-top)); bottom: auto; left: calc(max(2.5vw, env(safe-area-inset-left)) + clamp(44px, 9vh, 62px) + 12px);
+  width: clamp(44px, 9vh, 62px); height: clamp(44px, 9vh, 62px); background: radial-gradient(circle at 35% 30%, #c39bff, #7b4dff 70%); z-index: 12; }
+.story-caption { position: absolute; left: 50%; bottom: max(2.5vh, env(safe-area-inset-bottom)); transform: translateX(-50%); max-width: 86vw; padding: 10px 26px 12px;
+  border-radius: 24px; background: rgba(255,255,255,.94); box-shadow: 0 6px 20px rgba(0,0,0,.15); text-align: center; opacity: 0; transition: opacity .4s; }
+.story-caption.show { opacity: 1; animation: capin .45s cubic-bezier(.34,1.56,.64,1); }
+@keyframes capin { from { transform: translate(-50%, 16px); } to { transform: translate(-50%, 0); } }
+.cap-main { font: 800 clamp(17px, 4vh, 30px)/1.25 "Arial Rounded MT Bold", "Hiragino Maru Gothic ProN", "Apple SD Gothic Neo", "Kohinoor Devanagari", system-ui, sans-serif; color: #2b2150; }
+.cap-sub { font: 700 clamp(12px, 2.6vh, 19px)/1.3 system-ui, sans-serif; color: #ff4f8b; margin-top: 3px; }
+.story-end { position: absolute; inset: 0; display: grid; place-items: center; background: rgba(255,240,250,.45); z-index: 11; }
+.end-card { display: flex; flex-direction: column; align-items: center; gap: 12px; padding: 22px 40px; border-radius: 30px; background: #fff; border: 6px solid #ffd23f;
+  box-shadow: 0 12px 30px rgba(0,0,0,.2); animation: pop .5s cubic-bezier(.34,1.56,.64,1) both; }
+.end-title { font: 900 clamp(26px, 7vh, 54px) "Arial Rounded MT Bold", "Hiragino Maru Gothic ProN", "Apple SD Gothic Neo", "Kohinoor Devanagari", system-ui, sans-serif; color: #7b4dff; }
+.end-sub { font: 700 clamp(13px, 2.6vh, 18px) system-ui, sans-serif; color: #ff4f8b; margin-top: -8px; }
+.end-buttons { display: flex; gap: 30px; }
+
+/* --- lullabies --- */
+#lullaby-ui { position: fixed; inset: 0; z-index: 6; color: #fff; overflow: hidden;
+  background: linear-gradient(180deg, #0d1640 0%, #23306e 55%, #4a3f8a 100%); }
+#lullaby-ui.hidden { display: none; }
+.night-sky { position: absolute; inset: 0; pointer-events: none; }
+.twinkle { position: absolute; border-radius: 50%; background: #fff; box-shadow: 0 0 6px #fff; animation: twinkle 3s ease-in-out infinite; }
+@keyframes twinkle { 0%, 100% { opacity: .25; transform: scale(.7); } 50% { opacity: 1; transform: scale(1.15); } }
+.sleepy-moon { position: absolute; right: 6vw; top: 5vh; width: clamp(90px, 22vh, 170px); animation: moonsway 6s ease-in-out infinite; filter: drop-shadow(0 0 30px rgba(255,240,160,.5)); }
+.sleepy-moon svg { width: 100%; height: auto; display: block; }
+@keyframes moonsway { 50% { transform: translateY(8px) rotate(-4deg); } }
+.night-cloud { position: absolute; left: -30vw; width: 26vw; height: 7vw; max-height: 70px; border-radius: 999px; background: rgba(255,255,255,.08);
+  filter: blur(2px); animation: drift 80s linear infinite; }
+@keyframes drift { to { transform: translateX(160vw); } }
+.song-list { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3vh; }
+.song-list.hidden { display: none; }
+.song-hint { font: 800 clamp(16px, 3.6vh, 26px) "Arial Rounded MT Bold", system-ui, sans-serif; color: #ffe9a8; text-shadow: 0 0 14px rgba(255,220,120,.5); }
+.song-row { display: flex; flex-wrap: wrap; justify-content: center; gap: clamp(12px, 3vw, 30px); max-width: 94vw; }
+.song-card { width: clamp(130px, 27vh, 190px); padding: 16px 10px 14px; border-radius: 26px; border: 3px solid rgba(255,255,255,.35); cursor: pointer;
+  background: rgba(255,255,255,.12); backdrop-filter: blur(4px); color: #fff; display: flex; flex-direction: column; align-items: center; gap: 6px;
+  box-shadow: 0 8px 24px rgba(0,0,0,.25); transition: transform .2s, background .2s; }
+.song-card:hover, .song-card:active { transform: translateY(-5px); background: rgba(255,255,255,.2); }
+.song-icon { width: clamp(46px, 11vh, 74px); height: clamp(46px, 11vh, 74px); border-radius: 50%; background: rgba(255,255,255,.9); display: grid; place-items: center; }
+.song-icon svg { width: 66%; height: 66%; }
+.song-title { font: 800 clamp(13px, 2.8vh, 19px)/1.2 "Arial Rounded MT Bold", "Hiragino Maru Gothic ProN", "Apple SD Gothic Neo", "Kohinoor Devanagari", system-ui, sans-serif; text-align: center; }
+.song-sub { font: 600 clamp(10px, 2vh, 14px) system-ui, sans-serif; opacity: .75; text-align: center; }
+.song-card.not-yet { opacity: .5; }
+.song-soon { font: 700 11px system-ui, sans-serif; padding: 2px 8px; border-radius: 999px; background: rgba(255,255,255,.2); }
+.song-player { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 8vh 6vw 4vh; }
+.song-player.hidden { display: none; }
+.song-now { display: flex; align-items: center; gap: 10px; font: 800 clamp(14px, 3vh, 20px) "Arial Rounded MT Bold", system-ui, sans-serif; color: #ffe9a8; }
+.song-now svg { width: 34px; height: 34px; }
+.lyrics { flex: 1; width: min(90vw, 760px); overflow: hidden; display: flex; flex-direction: column; gap: 1.6vh; padding: 20vh 0; mask-image: linear-gradient(transparent, #000 25%, #000 75%, transparent); }
+.ly { text-align: center; opacity: .35; transform: scale(.92); transition: opacity .8s, transform .8s; }
+.ly.on { opacity: 1; transform: scale(1.06); }
+.ly-main { font: 800 clamp(18px, 4.6vh, 34px)/1.3 "Arial Rounded MT Bold", "Hiragino Maru Gothic ProN", "Apple SD Gothic Neo", "Kohinoor Devanagari", system-ui, sans-serif; }
+.ly.on .ly-main { color: #fff6c8; text-shadow: 0 0 18px rgba(255,220,120,.8); }
+.ly-sub { font: 600 clamp(11px, 2.4vh, 17px) system-ui, sans-serif; color: #c9d4ff; margin-top: 2px; }
+.song-controls { display: flex; align-items: center; gap: 16px; width: min(80vw, 560px); }
+.ctl { width: clamp(44px, 9vh, 60px); height: clamp(44px, 9vh, 60px); border-radius: 50%; border: 3px solid rgba(255,255,255,.6); background: rgba(255,255,255,.15); cursor: pointer; display: grid; place-items: center; flex: none; }
+.ctl svg { width: 55%; height: 55%; }
+.song-bar { flex: 1; height: 8px; border-radius: 999px; background: rgba(255,255,255,.2); overflow: hidden; }
+.song-bar i { display: block; height: 100%; width: 0; background: linear-gradient(90deg, #ffe9a8, #ffb3d9); border-radius: 999px; }
+.night-dim { position: absolute; inset: 0; background: #050a20; opacity: 0; pointer-events: none; transition: opacity 6s ease; z-index: 5; }
+.night-dim.on { opacity: .7; }
+
+/* ================= parent area: tabs + progress page ================= */
+.setup-tabs { display: flex; gap: 8px; background: #f1edff; padding: 5px; border-radius: 999px; align-self: center; }
+.setup-tabs button { border: 0; background: none; padding: 7px 20px; border-radius: 999px; font: inherit; color: #6b6290; cursor: pointer; }
+.setup-tabs button.on { background: #fff; color: #2b2150; box-shadow: 0 2px 6px rgba(0,0,0,.12); }
+.setup-pane { display: flex; flex-direction: column; gap: clamp(8px, 2vh, 14px); }
+.setup-pane.hidden { display: none; }
+.setup-box { width: min(92vw, 640px); }
+.progress-pane { font-size: .92em; }
+.pg-card { background: #faf8ff; border-radius: 18px; padding: 12px 16px; }
+.pg-card h4 { margin: 0 0 8px; font-size: 1em; color: #7b4dff; }
+.pg-time { display: flex; gap: 10px; }
+.pg-time div, .pg-small div { flex: 1; display: flex; flex-direction: column; align-items: center; text-align: center; background: #fff; border-radius: 14px; padding: 8px 4px; }
+.pg-time b, .pg-small b { font-size: 1.15em; color: #2b2150; }
+.pg-time span, .pg-small span { font-size: .78em; color: #8a83a8; font-weight: 600; }
+.pg-small em { font-size: .72em; color: #ff7f2a; font-style: normal; margin-top: 2px; }
+.pg-bars { display: flex; gap: 8px; height: 70px; align-items: flex-end; margin-top: 10px; }
+.pg-bar { flex: 1; height: 100%; display: flex; flex-direction: column; justify-content: flex-end; align-items: center; gap: 3px; }
+.pg-bar i { display: block; width: 70%; border-radius: 6px 6px 2px 2px; background: linear-gradient(180deg, #a259ff, #ff5fa2); }
+.pg-bar span { font-size: .68em; color: #8a83a8; font-weight: 600; }
+.pg-lang + .pg-lang { margin-top: 10px; }
+.pg-row { display: flex; justify-content: space-between; }
+.pg-prog { height: 10px; border-radius: 999px; background: #e9e4fb; overflow: hidden; margin: 4px 0; }
+.pg-prog i { display: block; height: 100%; background: linear-gradient(90deg, #ffd23f, #ff8c42); border-radius: 999px; }
+.pg-words summary { cursor: pointer; font-size: .85em; color: #6b6290; font-weight: 600; }
+.pg-wgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(64px, 1fr)); gap: 8px; margin-top: 8px; }
+.pg-w { display: flex; flex-direction: column; align-items: center; font-size: .72em; text-align: center; }
+.pg-w svg { width: 52px; height: 52px; }
+.pg-none { margin: 0; color: #8a83a8; font-size: .85em; }
+.pg-small { display: flex; gap: 10px; }
+.pg-note { margin: 0; font-size: .72em; color: #8a83a8; text-align: center; font-weight: 600; }
+/* the parent tip stays put */
+#parent-tip { transition: opacity .6s; }

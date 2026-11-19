@@ -6,7 +6,7 @@
 
 import * as THREE from 'three';
 import { say, stopSpeech, updateMouth, isSpeaking } from './speech.js?v=2';
-import { ART } from './art.js?v=2';
+import { ART } from './art.js?v=3';
 import { fresh } from './variety.js?v=1';
 import { PET_ACTOR } from './objects.js?v=9';
 

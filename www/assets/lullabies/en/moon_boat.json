@@ -1,0 +1,47 @@
+{
+ "title": "The Moon Boat",
+ "length": 76.0,
+ "lines": [
+  {
+   "text": "The moon is a boat in the deep blue sky,",
+   "start": 7.0,
+   "end": 13.5
+  },
+  {
+   "text": "sailing so slowly, way up high,",
+   "start": 13.5,
+   "end": 20.0
+  },
+  {
+   "text": "rock-a, rock-a, side to side,",
+   "start": 20.0,
+   "end": 26.5
+  },
+  {
+   "text": "off to dreamland we will ride.",
+   "start": 26.5,
+   "end": 33.0
+  },
+  {
+   "text": "The clouds are pillows, soft and white,",
+   "start": 39.0,
+   "end": 45.5
+  },
+  {
+   "text": "the wind sings softly through the night,",
+   "start": 45.5,
+   "end": 52.0
+  },
+  {
+   "text": "rock-a, rock-a, close your eyes,",
+   "start": 52.0,
+   "end": 58.5
+  },
+  {
+   "text": "sleep until the sun will rise.",
+   "start": 58.5,
+   "end": 65.0
+  }
+ ],
+ "fp": "7604654a60f0"
+}

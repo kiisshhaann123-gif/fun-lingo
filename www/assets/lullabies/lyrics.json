@@ -1,0 +1,101 @@
+{
+  "_note": "Four original lullabies, each in all four languages. Sections become parts of the song; each line is one sung line. Styles must be English.",
+  "songs": [
+    {
+      "id": "little_star",
+      "icon": "star",
+      "title": { "en": "Little Star", "ja": "ちいさな おほしさま", "ko": "작은 별님", "ne": "सानो तारा" },
+      "styles": ["gentle lullaby", "soft warm female vocals", "music box", "celesta", "slow tempo", "calm", "for babies"],
+      "lyrics": {
+        "en": [
+          ["Little star up in the sky,", "twinkle, twinkle, way up high,", "close your eyes and sleep tight,", "little star will shine all night."],
+          ["Moon is smiling, soft and bright,", "hugging you with silver light,", "dream of flowers, dream of play,", "see you on a sunny day."]
+        ],
+        "ja": [
+          ["おそらの ちいさな おほしさま", "きらきら ひかって みているよ", "おめめを とじて おやすみね", "ひとばん ずっと そばに いる"],
+          ["おつきさまも にっこりと", "ぎんの ひかりで だっこして", "おはなの ゆめ あそぶ ゆめ", "また あした あいましょう"]
+        ],
+        "ko": [
+          ["하늘 위의 작은 별님", "반짝반짝 빛나요", "두 눈 감고 코 자자", "밤새도록 지켜 줄게"],
+          ["달님도 방긋 웃어요", "은빛으로 안아 줘요", "꽃 꿈 꾸고 놀이 꿈 꿔", "내일 아침 또 만나요"]
+        ],
+        "ne": [
+          ["आकाशमा सानो तारा", "टिलिक टिलिक बल्छ प्यारा", "आँखा चिम्लौं, निदाऔं है", "रातभरि साथ रहन्छ यहाँ"],
+          ["जून पनि मुस्कुराउँछ", "चाँदीको उज्यालोले अँगालो हाल्छ", "फूलको सपना, खेलको सपना", "भोलि बिहान फेरि भेटौंला"]
+        ]
+      }
+    },
+    {
+      "id": "moon_boat",
+      "icon": "moon",
+      "title": { "en": "The Moon Boat", "ja": "おつきさまの おふね", "ko": "달님 배", "ne": "जूनको डुङ्गा" },
+      "styles": ["gentle lullaby", "soft female vocals", "nylon guitar", "gentle rocking 6/8 waltz", "slow tempo", "dreamy", "for babies"],
+      "lyrics": {
+        "en": [
+          ["The moon is a boat in the deep blue sky,", "sailing so slowly, way up high,", "rock-a, rock-a, side to side,", "off to dreamland we will ride."],
+          ["The clouds are pillows, soft and white,", "the wind sings softly through the night,", "rock-a, rock-a, close your eyes,", "sleep until the sun will rise."]
+        ],
+        "ja": [
+          ["おつきさまは ちいさな おふね", "あおい おそらを ゆっくり すすむ", "ゆらゆら ゆらゆら ゆれながら", "ゆめの くにへ いきましょう"],
+          ["くもは ふかふか おふとんで", "かぜが やさしく うたってる", "ゆらゆら ゆらゆら おめめ とじて", "おひさま のぼるまで ねんね"]
+        ],
+        "ko": [
+          ["달님은 작은 배가 되어", "파란 하늘 천천히 가요", "흔들흔들 흔들흔들", "꿈나라로 떠나요"],
+          ["구름은 폭신한 베개", "바람은 살랑 노래해요", "흔들흔들 눈을 감고", "해님 뜰 때까지 코 자요"]
+        ],
+        "ne": [
+          ["जून त सानो डुङ्गा बन्यो", "निलो आकाशमा बिस्तारै चल्यो", "हल्लिँदै हल्लिँदै, यता र उता", "सपनाको देशमा जाऔं अब"],
+          ["बादल त नरम सेतो सिरानी", "बतासले गाउँछ मीठो गीत", "हल्लिँदै हल्लिँदै, आँखा चिम्लौं", "घाम नउदाउन्जेल सुतौं है"]
+        ]
+      }
+    },
+    {
+      "id": "goodnight_friends",
+      "icon": "pets",
+      "title": { "en": "Goodnight, Friends", "ja": "おやすみ みんな", "ko": "잘 자, 친구들", "ne": "शुभरात्री साथीहरू" },
+      "styles": ["gentle lullaby", "soft female vocals", "kalimba", "soft piano", "slow tempo", "sweet", "for babies"],
+      "lyrics": {
+        "en": [
+          ["Goodnight, Beep, goodnight, my friend,", "the happy day has come to end,", "Gaju yawns and Mimi sighs,", "Pandu closes sleepy eyes."],
+          ["Bobo cuddles in his tree,", "Himu snores so quietly,", "Sparky, Roary, Stardust too,", "all are sleeping, so are you."]
+        ],
+        "ja": [
+          ["おやすみ ビープ おやすみね", "きょうも たのしく あそんだね", "ガジュも ミミも あくびして", "パンドゥも おめめ とじてるよ"],
+          ["ボボは きのうえ まるくなり", "ヒムは すやすや ねむってる", "スパーキー ローリー スターダスト", "みんな ねんね あなたもね"]
+        ],
+        "ko": [
+          ["잘 자, 비프, 잘 자 친구야", "오늘 하루 즐거웠지", "가주도 미미도 하품하고", "판두도 눈을 감아요"],
+          ["보보는 나무 위에서 쿨쿨", "히무도 새근새근 자요", "스파키, 로리, 스타더스트", "모두 코 자요, 너도 자요"]
+        ],
+        "ne": [
+          ["शुभरात्री बिप, शुभरात्री साथी", "रमाइलो दिन सकियो आज", "गजु र मिमीले हाई काढे", "पण्डुले पनि आँखा चिम्ले"],
+          ["बोबो रूखमा गुटमुटिन्छ", "हिमु बिस्तारै घुर्दै सुत्छ", "स्पार्की, रोरी, स्टारडस्ट पनि", "सबै सुते, अब तिमी पनि"]
+        ]
+      }
+    },
+    {
+      "id": "hush_little_one",
+      "icon": "rain",
+      "title": { "en": "Hush, Little One", "ja": "ねんね かわいい こ", "ko": "자장자장 우리 아기", "ne": "निदाऊ मेरो नानी" },
+      "styles": ["gentle lullaby", "soft tender female vocals", "harp", "soft strings", "gentle rain ambience", "slow tempo", "for babies"],
+      "lyrics": {
+        "en": [
+          ["Hush, hush, little one,", "the busy day is done,", "soft rain is falling down,", "softly on the sleepy town."],
+          ["Mama's here and Papa too,", "we will always love you,", "hush, hush, sleep and dream,", "float along a gentle stream."]
+        ],
+        "ja": [
+          ["ねんね ねんね かわいい こ", "きょうも いちにち おつかれさま", "やさしい あめが ふってくる", "しずかな まちに ぽつぽつと"],
+          ["ママも パパも そばに いる", "いつでも だいすき あなたのこと", "ねんね ねんね ゆめを みて", "やさしい かわに うかんでね"]
+        ],
+        "ko": [
+          ["자장자장 우리 아기", "오늘 하루 잘 놀았지", "보슬보슬 비가 와요", "잠든 마을에 살며시"],
+          ["엄마도 아빠도 곁에 있어", "언제나 너를 사랑해", "자장자장 꿈을 꾸렴", "잔잔한 물결 따라가렴"]
+        ],
+        "ne": [
+          ["निदाऊ निदाऊ मेरो नानी", "थाकेको दिन सकियो अब", "सिमसिम पानी पर्दैछ बाहिर", "निदाएको गाउँमा बिस्तारै"],
+          ["आमा यहीँ छिन्, बुबा पनि", "सधैं तिमीलाई माया गर्छौं", "निदाऊ निदाऊ, मीठो सपना", "शान्त खोलामा बग्दै जाऔं"]
+        ]
+      }
+    }
+  ]
+}

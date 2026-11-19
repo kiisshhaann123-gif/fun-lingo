@@ -7,6 +7,8 @@
 import * as THREE from 'three';
 import { fresh, teacherGreetings, PET_GREETINGS, shuffle } from './variety.js?v=1';
 import { PET_ACTOR } from './objects.js?v=9';
+import { t as tr } from './ui.js?v=2';
+import { renderProgress } from './parent.js?v=2';
 import { say, stopSpeech, updateMouth, isSpeaking } from './speech.js?v=2';
 
 const LANGS = [
@@ -315,15 +317,18 @@ export function startHome(app) {
     app.switchTo('map', { lang: lang() });                  // the map shows which lesson is today
   }
   on(btn('btn-start'), 'click', (e) => { bounce(e.currentTarget); startLesson(); });
-  on(btn('btn-pets'), 'click', (e) => {
-    bounce(e.currentTarget);
-    if (pet) { pet.play('wave', { loop: false, fade: 0.3 }); if (!isSpeaking()) speak(pet, lang(), `pet.${petId}.lets_play`); hop(pet.holder); }
-  });
-  on(btn('btn-stories'), 'click', (e) => {
-    bounce(e.currentTarget);
-    leo && leo.play('wave_goodbye', { loop: false, fade: 0.3 });
-    speak(leo, lang(), 't.story_time.leo');
-  });
+  on(btn('btn-pets'), 'click', (e) => { bounce(e.currentTarget); stopSpeech(); app.switchTo('pets'); });
+  on(btn('btn-stories'), 'click', (e) => { bounce(e.currentTarget); stopSpeech(); app.switchTo('stories'); });
+  on(btn('btn-lullaby'), 'click', (e) => { bounce(e.currentTarget); stopSpeech(); app.switchTo('lullaby'); });
+
+  // words for grown-ups (in the home language): button names, and how to change languages
+  function paintLabels() {
+    for (const el of document.querySelectorAll('#home-ui .lbl')) el.textContent = tr(el.dataset.k);
+    const tip = document.getElementById('parent-tip');
+    tip.textContent = tr('parentTip');
+  }
+  paintLabels();
+  later(() => document.getElementById('parent-tip').classList.add('show'), 1200);   // always there for grown-ups
 
   // parent lock: hold for 3 seconds (too long for a toddler to do by accident)
   const lock = btn('btn-parent');
@@ -341,6 +346,22 @@ export function startHome(app) {
     picker.innerHTML = '';
     const box = document.createElement('div');
     box.className = 'setup-box';
+    const tabs = document.createElement('div');
+    tabs.className = 'setup-tabs';
+    tabs.innerHTML = `<button class="on" data-tab="lang">${tr('tabLanguages')}</button><button data-tab="prog">${tr('tabProgress')}</button>`;
+    const langPane = document.createElement('div');
+    langPane.className = 'setup-pane';
+    const progPane = document.createElement('div');
+    progPane.className = 'setup-pane progress-pane hidden';
+    box.append(tabs, langPane, progPane);
+    tabs.addEventListener('click', (e) => {
+      const b = e.target.closest('button');
+      if (!b) return;
+      for (const x of tabs.children) x.classList.toggle('on', x === b);
+      langPane.classList.toggle('hidden', b.dataset.tab !== 'lang');
+      progPane.classList.toggle('hidden', b.dataset.tab !== 'prog');
+      if (b.dataset.tab === 'prog') renderProgress(progPane);
+    });
     const rows = {};
     const section = (title, key) => {
       const h = document.createElement('h3');
@@ -367,7 +388,7 @@ export function startHome(app) {
         row.append(card);
         rows[key].push(card);
       }
-      box.append(h, row);
+      langPane.append(h, row);
     };
     const paint = () => {
       for (const c of rows.home) c.classList.toggle('chosen', c.dataset.code === homeLang);
@@ -375,12 +396,12 @@ export function startHome(app) {
       done.disabled = !(homeLang && targetLang);
       done.style.opacity = done.disabled ? 0.4 : 1;
     };
-    section('We speak at home', 'home');
-    section('My child learns', 'learn');
+    section(tr('weSpeak'), 'home');
+    section(tr('childLearns'), 'learn');
     const done = document.createElement('button');
     done.className = 'setup-done';
-    done.textContent = 'Done ✓';
-    done.addEventListener('click', () => { if (!done.disabled) picker.classList.add('hidden'); });
+    done.textContent = tr('done') + ' ✓';
+    done.addEventListener('click', () => { if (!done.disabled) { picker.classList.add('hidden'); paintLabels(); } });
     box.append(done);
     picker.append(box);
     paint();
@@ -520,6 +541,7 @@ export function startHome(app) {
   // called when leaving the home page
   return () => {
     stopSpeech();
+    document.getElementById('parent-tip').classList.remove('show');
     for (const t of timers) clearTimeout(t);
     clearTimeout(holdTimer);
     window.removeEventListener('resize', fit);

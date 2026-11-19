@@ -610,7 +610,10 @@ const clock = new THREE.Clock();
 // whichever page is showing sets app.scene / app.camera / app.update
 const app = { renderer, scene, camera, update: null, actorsById, updateBlink, switchTo: null, dispose: null };
 // moves between pages (home, lesson, ...) with a soft white fade
-const PAGES = { home: ['./home.js?v=15', 'startHome'], map: ['./map.js?v=7', 'startMap'], lesson: ['./lesson.js?v=14', 'startLesson'] };
+const PAGES = {
+  home: ['./home.js?v=18', 'startHome'], map: ['./map.js?v=8', 'startMap'], lesson: ['./lesson.js?v=15', 'startLesson'],
+  pets: ['./pets.js?v=3', 'startPets'], stories: ['./stories.js?v=3', 'startStories'], lullaby: ['./lullaby.js?v=3', 'startLullaby'],
+};
 app.switchTo = async (page, opts = {}) => {
   const fade = document.getElementById('fade');
   fade.classList.add('on');
@@ -621,6 +624,19 @@ app.switchTo = async (page, opts = {}) => {
   app.dispose = mod[fn](app, opts);
   fade.classList.remove('on');
 };
+// ---------------- time in the app (for the parents' progress page; stays on this phone)
+// Counted in 15-second steps, only while the app is open and on screen.
+setInterval(() => {
+  if (document.visibilityState !== 'visible') return;
+  try {
+    const d = new Date(), k = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+    const u = JSON.parse(localStorage.getItem('funlingo.usage') || '{}');
+    u[k] = (u[k] || 0) + 15;
+    for (const old of Object.keys(u).sort().slice(0, -400)) delete u[old];      // keep about a year
+    localStorage.setItem('funlingo.usage', JSON.stringify(u));
+  } catch { /* storage full or blocked: skip */ }
+}, 15000);
+
 // ---------------- full screen on phones
 // Android/desktop: go full screen and sideways when a big "go" button is tapped
 // (browsers only allow it right after a tap). iPhone can't do this from a web page,
