@@ -2,8 +2,8 @@
 // A calm night sky: twinkling stars, a sleepy moon, drifting clouds. Four songs, each
 // sung in the language spoken at home (the comfort language at bedtime), with the
 // language the child is learning shown softly underneath. The words glow line by line (with the
-// home-language meaning underneath). Songs start on their own and play one after
-// another; after the last one the room dims softly.
+// home-language meaning underneath). Once a song is tapped, the next one follows by
+// itself; after the last one the room dims softly.
 
 import * as THREE from 'three';
 import { stopSpeech } from './speech.js?v=2';
@@ -68,8 +68,6 @@ export function startLullaby(app) {
     try { index = await (await fetch('assets/lullabies/index.json')).json(); } catch { index = []; }
     if (gone) return;
     showList();
-    const first = songs.find((s) => ready(s.id));
-    if (first) timers.push(setTimeout(() => { if (!gone) playSong(first); }, 1200));   // start on its own
   }
   const ready = (id) => { const e = index.find((x) => x.id === id); return !!(e && e.langs.includes(lang)); };
 
