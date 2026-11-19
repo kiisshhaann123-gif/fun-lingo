@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.mimi.you_did_it.tmp.wav",
+    "duration": 0.91
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.17, "value": "B" },
+    { "start": 0.17, "end": 0.48, "value": "A" },
+    { "start": 0.48, "end": 0.69, "value": "E" },
+    { "start": 0.69, "end": 0.83, "value": "F" },
+    { "start": 0.83, "end": 0.90, "value": "C" },
+    { "start": 0.90, "end": 0.91, "value": "X" }
+  ]
+}

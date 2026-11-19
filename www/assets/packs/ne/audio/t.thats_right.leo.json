@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/t.thats_right.leo.tmp.wav",
+    "duration": 0.75
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.19, "value": "B" },
+    { "start": 0.19, "end": 0.61, "value": "F" },
+    { "start": 0.61, "end": 0.75, "value": "X" }
+  ]
+}

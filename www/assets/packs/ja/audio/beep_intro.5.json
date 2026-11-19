@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/beep_intro.5.tmp.wav",
+    "duration": 3.86
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.18, "value": "B" },
+    { "start": 0.18, "end": 0.32, "value": "F" },
+    { "start": 0.32, "end": 0.39, "value": "B" },
+    { "start": 0.39, "end": 0.46, "value": "C" },
+    { "start": 0.46, "end": 0.53, "value": "B" },
+    { "start": 0.53, "end": 0.60, "value": "E" },
+    { "start": 0.60, "end": 0.67, "value": "F" },
+    { "start": 0.67, "end": 0.81, "value": "B" },
+    { "start": 0.81, "end": 1.94, "value": "X" },
+    { "start": 1.94, "end": 2.05, "value": "B" },
+    { "start": 2.05, "end": 2.33, "value": "F" },
+    { "start": 2.33, "end": 2.40, "value": "B" },
+    { "start": 2.40, "end": 2.88, "value": "A" },
+    { "start": 2.88, "end": 3.03, "value": "B" },
+    { "start": 3.03, "end": 3.11, "value": "A" },
+    { "start": 3.11, "end": 3.18, "value": "B" },
+    { "start": 3.18, "end": 3.24, "value": "F" },
+    { "start": 3.24, "end": 3.38, "value": "B" },
+    { "start": 3.38, "end": 3.46, "value": "A" },
+    { "start": 3.46, "end": 3.52, "value": "F" },
+    { "start": 3.52, "end": 3.57, "value": "C" },
+    { "start": 3.57, "end": 3.85, "value": "B" },
+    { "start": 3.85, "end": 3.86, "value": "X" }
+  ]
+}

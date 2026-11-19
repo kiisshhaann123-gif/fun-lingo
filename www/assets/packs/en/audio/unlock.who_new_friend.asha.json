@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/unlock.who_new_friend.asha.tmp.wav",
+    "duration": 1.56
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.03, "value": "X" },
+    { "start": 0.03, "end": 0.24, "value": "F" },
+    { "start": 0.24, "end": 0.31, "value": "B" },
+    { "start": 0.31, "end": 0.39, "value": "A" },
+    { "start": 0.39, "end": 0.61, "value": "B" },
+    { "start": 0.61, "end": 0.68, "value": "C" },
+    { "start": 0.68, "end": 0.82, "value": "E" },
+    { "start": 0.82, "end": 1.03, "value": "F" },
+    { "start": 1.03, "end": 1.10, "value": "G" },
+    { "start": 1.10, "end": 1.17, "value": "B" },
+    { "start": 1.17, "end": 1.38, "value": "C" },
+    { "start": 1.38, "end": 1.52, "value": "B" },
+    { "start": 1.52, "end": 1.56, "value": "X" }
+  ]
+}

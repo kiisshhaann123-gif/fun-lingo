@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/ph.03.leo.tmp.wav",
+    "duration": 1.22
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.13, "value": "X" },
+    { "start": 0.13, "end": 0.17, "value": "F" },
+    { "start": 0.17, "end": 0.21, "value": "C" },
+    { "start": 0.21, "end": 0.28, "value": "B" },
+    { "start": 0.28, "end": 0.35, "value": "G" },
+    { "start": 0.35, "end": 0.42, "value": "F" },
+    { "start": 0.42, "end": 0.84, "value": "C" },
+    { "start": 0.84, "end": 0.98, "value": "B" },
+    { "start": 0.98, "end": 1.22, "value": "X" }
+  ]
+}

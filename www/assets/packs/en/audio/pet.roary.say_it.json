@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/pet.roary.say_it.tmp.wav",
+    "duration": 1.14
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.13, "value": "B" },
+    { "start": 0.13, "end": 0.20, "value": "C" },
+    { "start": 0.20, "end": 0.62, "value": "B" },
+    { "start": 0.62, "end": 0.69, "value": "C" },
+    { "start": 0.69, "end": 1.04, "value": "B" },
+    { "start": 1.04, "end": 1.14, "value": "X" }
+  ]
+}

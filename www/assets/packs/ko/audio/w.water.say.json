@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/w.water.say.tmp.wav",
+    "duration": 0.67
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.04, "value": "B" },
+    { "start": 0.04, "end": 0.06, "value": "X" },
+    { "start": 0.06, "end": 0.10, "value": "A" },
+    { "start": 0.10, "end": 0.15, "value": "E" },
+    { "start": 0.15, "end": 0.27, "value": "C" },
+    { "start": 0.27, "end": 0.48, "value": "B" },
+    { "start": 0.48, "end": 0.67, "value": "X" }
+  ]
+}

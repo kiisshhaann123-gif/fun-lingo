@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/w.hand.look.tmp.wav",
+    "duration": 1.56
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.12, "value": "F" },
+    { "start": 0.12, "end": 0.33, "value": "C" },
+    { "start": 0.33, "end": 0.40, "value": "B" },
+    { "start": 0.40, "end": 0.74, "value": "X" },
+    { "start": 0.74, "end": 0.98, "value": "B" },
+    { "start": 0.98, "end": 1.12, "value": "C" },
+    { "start": 1.12, "end": 1.33, "value": "B" },
+    { "start": 1.33, "end": 1.56, "value": "X" }
+  ]
+}

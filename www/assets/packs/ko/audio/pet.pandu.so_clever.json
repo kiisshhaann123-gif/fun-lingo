@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.pandu.so_clever.tmp.wav",
+    "duration": 1.56
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.04, "value": "B" },
+    { "start": 0.04, "end": 0.15, "value": "F" },
+    { "start": 0.15, "end": 0.36, "value": "B" },
+    { "start": 0.36, "end": 0.43, "value": "C" },
+    { "start": 0.43, "end": 0.72, "value": "B" },
+    { "start": 0.72, "end": 0.90, "value": "F" },
+    { "start": 0.90, "end": 0.95, "value": "E" },
+    { "start": 0.95, "end": 1.13, "value": "C" },
+    { "start": 1.13, "end": 1.20, "value": "B" },
+    { "start": 1.20, "end": 1.48, "value": "C" },
+    { "start": 1.48, "end": 1.55, "value": "B" },
+    { "start": 1.55, "end": 1.56, "value": "X" }
+  ]
+}

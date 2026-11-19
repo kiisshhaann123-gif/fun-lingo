@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.sparky.hi_friend.tmp.wav",
+    "duration": 1.30
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.53, "value": "B" },
+    { "start": 0.53, "end": 0.81, "value": "E" },
+    { "start": 0.81, "end": 0.88, "value": "F" },
+    { "start": 0.88, "end": 1.30, "value": "X" }
+  ]
+}

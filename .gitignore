@@ -1,0 +1,12 @@
+# --- never upload: private key ---
+tools/audio/elevenlabs_key.txt
+
+# --- big tools / local-only files ---
+tools/audio/rhubarb/
+tools/audio/previews/
+refs/
+
+# --- Mac / editor clutter ---
+.DS_Store
+*.swp
+__pycache__/

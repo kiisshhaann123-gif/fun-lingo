@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/unlock.who_new_friend.asha.tmp.wav",
+    "duration": 2.35
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "B" },
+    { "start": 0.05, "end": 0.09, "value": "A" },
+    { "start": 0.09, "end": 0.36, "value": "C" },
+    { "start": 0.36, "end": 0.57, "value": "B" },
+    { "start": 0.57, "end": 0.68, "value": "A" },
+    { "start": 0.68, "end": 0.76, "value": "B" },
+    { "start": 0.76, "end": 0.85, "value": "A" },
+    { "start": 0.85, "end": 0.92, "value": "E" },
+    { "start": 0.92, "end": 0.98, "value": "C" },
+    { "start": 0.98, "end": 1.19, "value": "B" },
+    { "start": 1.19, "end": 1.33, "value": "C" },
+    { "start": 1.33, "end": 1.70, "value": "B" },
+    { "start": 1.70, "end": 1.83, "value": "C" },
+    { "start": 1.83, "end": 1.90, "value": "B" },
+    { "start": 1.90, "end": 2.04, "value": "A" },
+    { "start": 2.04, "end": 2.18, "value": "B" },
+    { "start": 2.18, "end": 2.26, "value": "A" },
+    { "start": 2.26, "end": 2.34, "value": "B" },
+    { "start": 2.34, "end": 2.35, "value": "X" }
+  ]
+}

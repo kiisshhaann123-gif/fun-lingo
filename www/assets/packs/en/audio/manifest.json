@@ -1,0 +1,5602 @@
+{
+  "w.hello.say": {
+    "file": "w.hello.say.mp3",
+    "lips": "w.hello.say.json",
+    "speaker": "asha",
+    "text": "Hello!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "da47463ecb1b",
+    "reviewed": false
+  },
+  "w.bye.say": {
+    "file": "w.bye.say.mp3",
+    "lips": "w.bye.say.json",
+    "speaker": "asha",
+    "text": "Bye-bye!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "3335de1a7677",
+    "reviewed": false
+  },
+  "ph.01.asha": {
+    "file": "ph.01.asha.mp3",
+    "lips": "ph.01.asha.json",
+    "speaker": "asha",
+    "text": "Hello!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "da47463ecb1b",
+    "reviewed": false
+  },
+  "ph.01.leo": {
+    "file": "ph.01.leo.mp3",
+    "lips": "ph.01.leo.json",
+    "speaker": "leo",
+    "text": "Hello!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "ccab5a9105a9",
+    "reviewed": false
+  },
+  "w.mom.say": {
+    "file": "w.mom.say.mp3",
+    "lips": "w.mom.say.json",
+    "speaker": "leo",
+    "text": "Mom.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "59f03cce0d70",
+    "reviewed": false
+  },
+  "w.mom.look": {
+    "file": "w.mom.look.mp3",
+    "lips": "w.mom.look.json",
+    "speaker": "leo",
+    "text": "Look! Mom!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "ad27ddbfa5ce",
+    "reviewed": false
+  },
+  "w.mom.find": {
+    "file": "w.mom.find.mp3",
+    "lips": "w.mom.find.json",
+    "speaker": "leo",
+    "text": "Where is Mom?",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "fb9aabe9f7c3",
+    "reviewed": false
+  },
+  "w.mom.yes": {
+    "file": "w.mom.yes.mp3",
+    "lips": "w.mom.yes.json",
+    "speaker": "leo",
+    "text": "Yes! Mom!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "00f6c55bfbd7",
+    "reviewed": false
+  },
+  "w.dad.say": {
+    "file": "w.dad.say.mp3",
+    "lips": "w.dad.say.json",
+    "speaker": "leo",
+    "text": "Dad.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "eb357bc71c8c",
+    "reviewed": false
+  },
+  "w.dad.look": {
+    "file": "w.dad.look.mp3",
+    "lips": "w.dad.look.json",
+    "speaker": "leo",
+    "text": "Look! Dad!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "4f7b34aa5f45",
+    "reviewed": false
+  },
+  "w.dad.find": {
+    "file": "w.dad.find.mp3",
+    "lips": "w.dad.find.json",
+    "speaker": "leo",
+    "text": "Where is Dad?",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "a8888406053e",
+    "reviewed": false
+  },
+  "w.dad.yes": {
+    "file": "w.dad.yes.mp3",
+    "lips": "w.dad.yes.json",
+    "speaker": "leo",
+    "text": "Yes! Dad!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "3ea9f6d0cb12",
+    "reviewed": false
+  },
+  "ph.02.asha": {
+    "file": "ph.02.asha.mp3",
+    "lips": "ph.02.asha.json",
+    "speaker": "asha",
+    "text": "This is Mom.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "1ed388e9250d",
+    "reviewed": false
+  },
+  "ph.02.leo": {
+    "file": "ph.02.leo.mp3",
+    "lips": "ph.02.leo.json",
+    "speaker": "leo",
+    "text": "This is Mom.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "66cc1838a2b8",
+    "reviewed": false
+  },
+  "w.baby.say": {
+    "file": "w.baby.say.mp3",
+    "lips": "w.baby.say.json",
+    "speaker": "asha",
+    "text": "Baby.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "e7f3446f02e7",
+    "reviewed": false
+  },
+  "w.baby.look": {
+    "file": "w.baby.look.mp3",
+    "lips": "w.baby.look.json",
+    "speaker": "asha",
+    "text": "Look! A baby!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "b4937c28c219",
+    "reviewed": false
+  },
+  "w.baby.find": {
+    "file": "w.baby.find.mp3",
+    "lips": "w.baby.find.json",
+    "speaker": "asha",
+    "text": "Where is the baby?",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "40e3fe0e5001",
+    "reviewed": false
+  },
+  "w.baby.yes": {
+    "file": "w.baby.yes.mp3",
+    "lips": "w.baby.yes.json",
+    "speaker": "asha",
+    "text": "Yes! The baby!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "0b26937ba05c",
+    "reviewed": false
+  },
+  "w.hand.say": {
+    "file": "w.hand.say.mp3",
+    "lips": "w.hand.say.json",
+    "speaker": "asha",
+    "text": "Hand.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "058d585d2e69",
+    "reviewed": false
+  },
+  "w.hand.look": {
+    "file": "w.hand.look.mp3",
+    "lips": "w.hand.look.json",
+    "speaker": "asha",
+    "text": "Look! A hand!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "24e45876687c",
+    "reviewed": false
+  },
+  "w.hand.find": {
+    "file": "w.hand.find.mp3",
+    "lips": "w.hand.find.json",
+    "speaker": "asha",
+    "text": "Where is the hand?",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "e02b775405ba",
+    "reviewed": false
+  },
+  "w.hand.yes": {
+    "file": "w.hand.yes.mp3",
+    "lips": "w.hand.yes.json",
+    "speaker": "asha",
+    "text": "Yes! The hand!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "44718968663d",
+    "reviewed": false
+  },
+  "ph.03.asha": {
+    "file": "ph.03.asha.mp3",
+    "lips": "ph.03.asha.json",
+    "speaker": "asha",
+    "text": "Wave your hand!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "779e00fe6101",
+    "reviewed": false
+  },
+  "ph.03.leo": {
+    "file": "ph.03.leo.mp3",
+    "lips": "ph.03.leo.json",
+    "speaker": "leo",
+    "text": "Wave your hand!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "602b3c6cae72",
+    "reviewed": false
+  },
+  "w.eyes.say": {
+    "file": "w.eyes.say.mp3",
+    "lips": "w.eyes.say.json",
+    "speaker": "leo",
+    "text": "Eyes.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "60459b68938a",
+    "reviewed": false
+  },
+  "w.eyes.look": {
+    "file": "w.eyes.look.mp3",
+    "lips": "w.eyes.look.json",
+    "speaker": "leo",
+    "text": "Look! Eyes!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "83c58cfad782",
+    "reviewed": false
+  },
+  "w.eyes.find": {
+    "file": "w.eyes.find.mp3",
+    "lips": "w.eyes.find.json",
+    "speaker": "leo",
+    "text": "Where are the eyes?",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "2c7ad75e0922",
+    "reviewed": false
+  },
+  "w.eyes.yes": {
+    "file": "w.eyes.yes.mp3",
+    "lips": "w.eyes.yes.json",
+    "speaker": "leo",
+    "text": "Yes! The eyes!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "cac801b0f4c7",
+    "reviewed": false
+  },
+  "w.nose.say": {
+    "file": "w.nose.say.mp3",
+    "lips": "w.nose.say.json",
+    "speaker": "leo",
+    "text": "Nose.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "3960f347f88a",
+    "reviewed": false
+  },
+  "w.nose.look": {
+    "file": "w.nose.look.mp3",
+    "lips": "w.nose.look.json",
+    "speaker": "leo",
+    "text": "Look! A nose!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "2d56e5f49946",
+    "reviewed": false
+  },
+  "w.nose.find": {
+    "file": "w.nose.find.mp3",
+    "lips": "w.nose.find.json",
+    "speaker": "leo",
+    "text": "Where is the nose?",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "ad3155f2777b",
+    "reviewed": false
+  },
+  "w.nose.yes": {
+    "file": "w.nose.yes.mp3",
+    "lips": "w.nose.yes.json",
+    "speaker": "leo",
+    "text": "Yes! The nose!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "9b0611ffe65a",
+    "reviewed": false
+  },
+  "ph.04.asha": {
+    "file": "ph.04.asha.mp3",
+    "lips": "ph.04.asha.json",
+    "speaker": "asha",
+    "text": "Touch your nose!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "53739ad45da7",
+    "reviewed": false
+  },
+  "ph.04.leo": {
+    "file": "ph.04.leo.mp3",
+    "lips": "ph.04.leo.json",
+    "speaker": "leo",
+    "text": "Touch your nose!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "c018dbc73fad",
+    "reviewed": false
+  },
+  "w.dog.say": {
+    "file": "w.dog.say.mp3",
+    "lips": "w.dog.say.json",
+    "speaker": "leo",
+    "text": "Dog.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "3ff9d28cb15e",
+    "reviewed": false
+  },
+  "w.dog.look": {
+    "file": "w.dog.look.mp3",
+    "lips": "w.dog.look.json",
+    "speaker": "leo",
+    "text": "Look! A dog!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "f234fefb2492",
+    "reviewed": false
+  },
+  "w.dog.find": {
+    "file": "w.dog.find.mp3",
+    "lips": "w.dog.find.json",
+    "speaker": "leo",
+    "text": "Where is the dog?",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "31df641d910b",
+    "reviewed": false
+  },
+  "w.dog.yes": {
+    "file": "w.dog.yes.mp3",
+    "lips": "w.dog.yes.json",
+    "speaker": "leo",
+    "text": "Yes! The dog!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "3fb3bf6b8f34",
+    "reviewed": false
+  },
+  "w.cat.say": {
+    "file": "w.cat.say.mp3",
+    "lips": "w.cat.say.json",
+    "speaker": "leo",
+    "text": "Cat.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "264273f76a2b",
+    "reviewed": false
+  },
+  "w.cat.look": {
+    "file": "w.cat.look.mp3",
+    "lips": "w.cat.look.json",
+    "speaker": "leo",
+    "text": "Look! A cat!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "27e14f18a418",
+    "reviewed": false
+  },
+  "w.cat.find": {
+    "file": "w.cat.find.mp3",
+    "lips": "w.cat.find.json",
+    "speaker": "leo",
+    "text": "Where is the cat?",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "c1e68c4f776e",
+    "reviewed": false
+  },
+  "w.cat.yes": {
+    "file": "w.cat.yes.mp3",
+    "lips": "w.cat.yes.json",
+    "speaker": "leo",
+    "text": "Yes! The cat!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "de3f291da4e1",
+    "reviewed": false
+  },
+  "ph.06.asha": {
+    "file": "ph.06.asha.mp3",
+    "lips": "ph.06.asha.json",
+    "speaker": "asha",
+    "text": "The dog says woof.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "1f38cfbdff36",
+    "reviewed": false
+  },
+  "ph.06.leo": {
+    "file": "ph.06.leo.mp3",
+    "lips": "ph.06.leo.json",
+    "speaker": "leo",
+    "text": "The dog says woof.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "25d37f3e6c10",
+    "reviewed": false
+  },
+  "w.cow.say": {
+    "file": "w.cow.say.mp3",
+    "lips": "w.cow.say.json",
+    "speaker": "asha",
+    "text": "Cow.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "1a5087813a41",
+    "reviewed": false
+  },
+  "w.cow.look": {
+    "file": "w.cow.look.mp3",
+    "lips": "w.cow.look.json",
+    "speaker": "asha",
+    "text": "Look! A cow!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "1cca24b72169",
+    "reviewed": false
+  },
+  "w.cow.find": {
+    "file": "w.cow.find.mp3",
+    "lips": "w.cow.find.json",
+    "speaker": "asha",
+    "text": "Where is the cow?",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "3ca1aabc7a18",
+    "reviewed": false
+  },
+  "w.cow.yes": {
+    "file": "w.cow.yes.mp3",
+    "lips": "w.cow.yes.json",
+    "speaker": "asha",
+    "text": "Yes! The cow!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "b5c86d137c06",
+    "reviewed": false
+  },
+  "w.bird.say": {
+    "file": "w.bird.say.mp3",
+    "lips": "w.bird.say.json",
+    "speaker": "asha",
+    "text": "Bird.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "a52181595c03",
+    "reviewed": false
+  },
+  "w.bird.look": {
+    "file": "w.bird.look.mp3",
+    "lips": "w.bird.look.json",
+    "speaker": "asha",
+    "text": "Look! A bird!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "59720502d170",
+    "reviewed": false
+  },
+  "w.bird.find": {
+    "file": "w.bird.find.mp3",
+    "lips": "w.bird.find.json",
+    "speaker": "asha",
+    "text": "Where is the bird?",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "25390a87d48a",
+    "reviewed": false
+  },
+  "w.bird.yes": {
+    "file": "w.bird.yes.mp3",
+    "lips": "w.bird.yes.json",
+    "speaker": "asha",
+    "text": "Yes! The bird!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "96f263275fc1",
+    "reviewed": false
+  },
+  "ph.07.asha": {
+    "file": "ph.07.asha.mp3",
+    "lips": "ph.07.asha.json",
+    "speaker": "asha",
+    "text": "The cow says moo.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "92c35908f454",
+    "reviewed": false
+  },
+  "ph.07.leo": {
+    "file": "ph.07.leo.mp3",
+    "lips": "ph.07.leo.json",
+    "speaker": "leo",
+    "text": "The cow says moo.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "5c9b2896df39",
+    "reviewed": false
+  },
+  "w.fish.say": {
+    "file": "w.fish.say.mp3",
+    "lips": "w.fish.say.json",
+    "speaker": "leo",
+    "text": "Fish.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "4bfba1aa28d3",
+    "reviewed": false
+  },
+  "w.fish.look": {
+    "file": "w.fish.look.mp3",
+    "lips": "w.fish.look.json",
+    "speaker": "leo",
+    "text": "Look! A fish!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "20d5d67bd8c7",
+    "reviewed": false
+  },
+  "w.fish.find": {
+    "file": "w.fish.find.mp3",
+    "lips": "w.fish.find.json",
+    "speaker": "leo",
+    "text": "Where is the fish?",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "94f1f5d049c4",
+    "reviewed": false
+  },
+  "w.fish.yes": {
+    "file": "w.fish.yes.mp3",
+    "lips": "w.fish.yes.json",
+    "speaker": "leo",
+    "text": "Yes! The fish!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "047bfdee6839",
+    "reviewed": false
+  },
+  "w.butterfly.say": {
+    "file": "w.butterfly.say.mp3",
+    "lips": "w.butterfly.say.json",
+    "speaker": "leo",
+    "text": "Butterfly.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "5d483b684407",
+    "reviewed": false
+  },
+  "w.butterfly.look": {
+    "file": "w.butterfly.look.mp3",
+    "lips": "w.butterfly.look.json",
+    "speaker": "leo",
+    "text": "Look! A butterfly!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "2fb0472ba95c",
+    "reviewed": false
+  },
+  "w.butterfly.find": {
+    "file": "w.butterfly.find.mp3",
+    "lips": "w.butterfly.find.json",
+    "speaker": "leo",
+    "text": "Where is the butterfly?",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "26e84b93624e",
+    "reviewed": false
+  },
+  "w.butterfly.yes": {
+    "file": "w.butterfly.yes.mp3",
+    "lips": "w.butterfly.yes.json",
+    "speaker": "leo",
+    "text": "Yes! The butterfly!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "943c52695773",
+    "reviewed": false
+  },
+  "ph.08.asha": {
+    "file": "ph.08.asha.mp3",
+    "lips": "ph.08.asha.json",
+    "speaker": "asha",
+    "text": "The fish swims.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "e58f187f3a20",
+    "reviewed": false
+  },
+  "ph.08.leo": {
+    "file": "ph.08.leo.mp3",
+    "lips": "ph.08.leo.json",
+    "speaker": "leo",
+    "text": "The fish swims.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "1cfb9b6b36ee",
+    "reviewed": false
+  },
+  "w.elephant.say": {
+    "file": "w.elephant.say.mp3",
+    "lips": "w.elephant.say.json",
+    "speaker": "asha",
+    "text": "Elephant.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "5901f0493b2c",
+    "reviewed": false
+  },
+  "w.elephant.look": {
+    "file": "w.elephant.look.mp3",
+    "lips": "w.elephant.look.json",
+    "speaker": "asha",
+    "text": "Look! An elephant!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "0bd30daa0e74",
+    "reviewed": false
+  },
+  "w.elephant.find": {
+    "file": "w.elephant.find.mp3",
+    "lips": "w.elephant.find.json",
+    "speaker": "asha",
+    "text": "Where is the elephant?",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "890ec06689d0",
+    "reviewed": false
+  },
+  "w.elephant.yes": {
+    "file": "w.elephant.yes.mp3",
+    "lips": "w.elephant.yes.json",
+    "speaker": "asha",
+    "text": "Yes! The elephant!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "488c9034ba9e",
+    "reviewed": false
+  },
+  "w.monkey.say": {
+    "file": "w.monkey.say.mp3",
+    "lips": "w.monkey.say.json",
+    "speaker": "asha",
+    "text": "Monkey.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "08ad82efc248",
+    "reviewed": false
+  },
+  "w.monkey.look": {
+    "file": "w.monkey.look.mp3",
+    "lips": "w.monkey.look.json",
+    "speaker": "asha",
+    "text": "Look! A monkey!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "eb452d681238",
+    "reviewed": false
+  },
+  "w.monkey.find": {
+    "file": "w.monkey.find.mp3",
+    "lips": "w.monkey.find.json",
+    "speaker": "asha",
+    "text": "Where is the monkey?",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "6856817499ab",
+    "reviewed": false
+  },
+  "w.monkey.yes": {
+    "file": "w.monkey.yes.mp3",
+    "lips": "w.monkey.yes.json",
+    "speaker": "asha",
+    "text": "Yes! The monkey!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "ad72f5d1f997",
+    "reviewed": false
+  },
+  "ph.09.asha": {
+    "file": "ph.09.asha.mp3",
+    "lips": "ph.09.asha.json",
+    "speaker": "asha",
+    "text": "The monkey jumps.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "b5674edf028b",
+    "reviewed": false
+  },
+  "ph.09.leo": {
+    "file": "ph.09.leo.mp3",
+    "lips": "ph.09.leo.json",
+    "speaker": "leo",
+    "text": "The monkey jumps.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "a705ea8f6c6e",
+    "reviewed": false
+  },
+  "w.red.say": {
+    "file": "w.red.say.mp3",
+    "lips": "w.red.say.json",
+    "speaker": "asha",
+    "text": "Red.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "cee07ffe9cc5",
+    "reviewed": false
+  },
+  "w.red.look": {
+    "file": "w.red.look.mp3",
+    "lips": "w.red.look.json",
+    "speaker": "asha",
+    "text": "Look! Red!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "5162528faf46",
+    "reviewed": false
+  },
+  "w.red.find": {
+    "file": "w.red.find.mp3",
+    "lips": "w.red.find.json",
+    "speaker": "asha",
+    "text": "Where is red?",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "f00efd6a9fe4",
+    "reviewed": false
+  },
+  "w.red.yes": {
+    "file": "w.red.yes.mp3",
+    "lips": "w.red.yes.json",
+    "speaker": "asha",
+    "text": "Yes! Red!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "104b7479f951",
+    "reviewed": false
+  },
+  "w.blue.say": {
+    "file": "w.blue.say.mp3",
+    "lips": "w.blue.say.json",
+    "speaker": "asha",
+    "text": "Blue.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "f2b1302948a1",
+    "reviewed": false
+  },
+  "w.blue.look": {
+    "file": "w.blue.look.mp3",
+    "lips": "w.blue.look.json",
+    "speaker": "asha",
+    "text": "Look! Blue!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "8e7e61acf447",
+    "reviewed": false
+  },
+  "w.blue.find": {
+    "file": "w.blue.find.mp3",
+    "lips": "w.blue.find.json",
+    "speaker": "asha",
+    "text": "Where is blue?",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "d8d3df0f2a88",
+    "reviewed": false
+  },
+  "w.blue.yes": {
+    "file": "w.blue.yes.mp3",
+    "lips": "w.blue.yes.json",
+    "speaker": "asha",
+    "text": "Yes! Blue!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "6fe0ee6357fc",
+    "reviewed": false
+  },
+  "ph.11.asha": {
+    "file": "ph.11.asha.mp3",
+    "lips": "ph.11.asha.json",
+    "speaker": "asha",
+    "text": "It's red!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "b03683999b09",
+    "reviewed": false
+  },
+  "ph.11.leo": {
+    "file": "ph.11.leo.mp3",
+    "lips": "ph.11.leo.json",
+    "speaker": "leo",
+    "text": "It's red!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "87d0a6fc21c2",
+    "reviewed": false
+  },
+  "w.yellow.say": {
+    "file": "w.yellow.say.mp3",
+    "lips": "w.yellow.say.json",
+    "speaker": "leo",
+    "text": "Yellow.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "368a11bacba7",
+    "reviewed": false
+  },
+  "w.yellow.look": {
+    "file": "w.yellow.look.mp3",
+    "lips": "w.yellow.look.json",
+    "speaker": "leo",
+    "text": "Look! Yellow!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "d1ed9fa0615a",
+    "reviewed": false
+  },
+  "w.yellow.find": {
+    "file": "w.yellow.find.mp3",
+    "lips": "w.yellow.find.json",
+    "speaker": "leo",
+    "text": "Where is yellow?",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "8e37c1b50fcb",
+    "reviewed": false
+  },
+  "w.yellow.yes": {
+    "file": "w.yellow.yes.mp3",
+    "lips": "w.yellow.yes.json",
+    "speaker": "leo",
+    "text": "Yes! Yellow!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "5645858c29cd",
+    "reviewed": false
+  },
+  "w.green.say": {
+    "file": "w.green.say.mp3",
+    "lips": "w.green.say.json",
+    "speaker": "leo",
+    "text": "Green.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "e62e9bed1cd8",
+    "reviewed": false
+  },
+  "w.green.look": {
+    "file": "w.green.look.mp3",
+    "lips": "w.green.look.json",
+    "speaker": "leo",
+    "text": "Look! Green!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "ffa18ef89542",
+    "reviewed": false
+  },
+  "w.green.find": {
+    "file": "w.green.find.mp3",
+    "lips": "w.green.find.json",
+    "speaker": "leo",
+    "text": "Where is green?",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "be4a34f9aac6",
+    "reviewed": false
+  },
+  "w.green.yes": {
+    "file": "w.green.yes.mp3",
+    "lips": "w.green.yes.json",
+    "speaker": "leo",
+    "text": "Yes! Green!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "33b9ffabf026",
+    "reviewed": false
+  },
+  "ph.12.asha": {
+    "file": "ph.12.asha.mp3",
+    "lips": "ph.12.asha.json",
+    "speaker": "asha",
+    "text": "It's yellow!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "f1a9a2c3fa11",
+    "reviewed": false
+  },
+  "ph.12.leo": {
+    "file": "ph.12.leo.mp3",
+    "lips": "ph.12.leo.json",
+    "speaker": "leo",
+    "text": "It's yellow!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "9adcdef223b2",
+    "reviewed": false
+  },
+  "w.white.say": {
+    "file": "w.white.say.mp3",
+    "lips": "w.white.say.json",
+    "speaker": "asha",
+    "text": "White.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "8c2709a558da",
+    "reviewed": false
+  },
+  "w.white.look": {
+    "file": "w.white.look.mp3",
+    "lips": "w.white.look.json",
+    "speaker": "asha",
+    "text": "Look! White!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "39aadca26b1a",
+    "reviewed": false
+  },
+  "w.white.find": {
+    "file": "w.white.find.mp3",
+    "lips": "w.white.find.json",
+    "speaker": "asha",
+    "text": "Where is white?",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "6430fb0c2662",
+    "reviewed": false
+  },
+  "w.white.yes": {
+    "file": "w.white.yes.mp3",
+    "lips": "w.white.yes.json",
+    "speaker": "asha",
+    "text": "Yes! White!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "2a3281f8b58f",
+    "reviewed": false
+  },
+  "w.black.say": {
+    "file": "w.black.say.mp3",
+    "lips": "w.black.say.json",
+    "speaker": "asha",
+    "text": "Black.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "ee13cc429837",
+    "reviewed": false
+  },
+  "w.black.look": {
+    "file": "w.black.look.mp3",
+    "lips": "w.black.look.json",
+    "speaker": "asha",
+    "text": "Look! Black!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "529f403b9080",
+    "reviewed": false
+  },
+  "w.black.find": {
+    "file": "w.black.find.mp3",
+    "lips": "w.black.find.json",
+    "speaker": "asha",
+    "text": "Where is black?",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "180d1f4f724b",
+    "reviewed": false
+  },
+  "w.black.yes": {
+    "file": "w.black.yes.mp3",
+    "lips": "w.black.yes.json",
+    "speaker": "asha",
+    "text": "Yes! Black!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "654fb2f371cc",
+    "reviewed": false
+  },
+  "ph.13.asha": {
+    "file": "ph.13.asha.mp3",
+    "lips": "ph.13.asha.json",
+    "speaker": "asha",
+    "text": "A black cat!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "3ec39604db45",
+    "reviewed": false
+  },
+  "ph.13.leo": {
+    "file": "ph.13.leo.mp3",
+    "lips": "ph.13.leo.json",
+    "speaker": "leo",
+    "text": "A black cat!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "5e641219fc3a",
+    "reviewed": false
+  },
+  "w.thankyou.say": {
+    "file": "w.thankyou.say.mp3",
+    "lips": "w.thankyou.say.json",
+    "speaker": "leo",
+    "text": "Thank you!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "3e7c6b5a33ff",
+    "reviewed": false
+  },
+  "w.yes.say": {
+    "file": "w.yes.say.mp3",
+    "lips": "w.yes.say.json",
+    "speaker": "leo",
+    "text": "Yes!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "9edbf8c46745",
+    "reviewed": false
+  },
+  "w.no.say": {
+    "file": "w.no.say.mp3",
+    "lips": "w.no.say.json",
+    "speaker": "leo",
+    "text": "No!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "2f8afd376b0d",
+    "reviewed": false
+  },
+  "ph.14.asha": {
+    "file": "ph.14.asha.mp3",
+    "lips": "ph.14.asha.json",
+    "speaker": "asha",
+    "text": "Thank you!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "07670c4caa07",
+    "reviewed": false
+  },
+  "ph.14.leo": {
+    "file": "ph.14.leo.mp3",
+    "lips": "ph.14.leo.json",
+    "speaker": "leo",
+    "text": "Thank you!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "3e7c6b5a33ff",
+    "reviewed": false
+  },
+  "w.apple.say": {
+    "file": "w.apple.say.mp3",
+    "lips": "w.apple.say.json",
+    "speaker": "leo",
+    "text": "Apple.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "55733fd25882",
+    "reviewed": false
+  },
+  "w.apple.look": {
+    "file": "w.apple.look.mp3",
+    "lips": "w.apple.look.json",
+    "speaker": "leo",
+    "text": "Look! An apple!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "7e7b6204d1b2",
+    "reviewed": false
+  },
+  "w.apple.find": {
+    "file": "w.apple.find.mp3",
+    "lips": "w.apple.find.json",
+    "speaker": "leo",
+    "text": "Where is the apple?",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "316e94f495f2",
+    "reviewed": false
+  },
+  "w.apple.yes": {
+    "file": "w.apple.yes.mp3",
+    "lips": "w.apple.yes.json",
+    "speaker": "leo",
+    "text": "Yes! The apple!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "dede85080871",
+    "reviewed": false
+  },
+  "w.banana.say": {
+    "file": "w.banana.say.mp3",
+    "lips": "w.banana.say.json",
+    "speaker": "leo",
+    "text": "Banana.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "c4cc8a7c8f7d",
+    "reviewed": false
+  },
+  "w.banana.look": {
+    "file": "w.banana.look.mp3",
+    "lips": "w.banana.look.json",
+    "speaker": "leo",
+    "text": "Look! A banana!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "d59f6e4ff62d",
+    "reviewed": false
+  },
+  "w.banana.find": {
+    "file": "w.banana.find.mp3",
+    "lips": "w.banana.find.json",
+    "speaker": "leo",
+    "text": "Where is the banana?",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "87831c2f3f0d",
+    "reviewed": false
+  },
+  "w.banana.yes": {
+    "file": "w.banana.yes.mp3",
+    "lips": "w.banana.yes.json",
+    "speaker": "leo",
+    "text": "Yes! The banana!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "c45f8e3fb759",
+    "reviewed": false
+  },
+  "ph.16.asha": {
+    "file": "ph.16.asha.mp3",
+    "lips": "ph.16.asha.json",
+    "speaker": "asha",
+    "text": "Yummy!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "4bbb0aa78fe5",
+    "reviewed": false
+  },
+  "ph.16.leo": {
+    "file": "ph.16.leo.mp3",
+    "lips": "ph.16.leo.json",
+    "speaker": "leo",
+    "text": "Yummy!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "0562c8e9520d",
+    "reviewed": false
+  },
+  "w.milk.say": {
+    "file": "w.milk.say.mp3",
+    "lips": "w.milk.say.json",
+    "speaker": "asha",
+    "text": "Milk.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "5ba2ab875588",
+    "reviewed": false
+  },
+  "w.milk.look": {
+    "file": "w.milk.look.mp3",
+    "lips": "w.milk.look.json",
+    "speaker": "asha",
+    "text": "Look! Milk!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "e88f55787ecd",
+    "reviewed": false
+  },
+  "w.milk.find": {
+    "file": "w.milk.find.mp3",
+    "lips": "w.milk.find.json",
+    "speaker": "asha",
+    "text": "Where is the milk?",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "566b5613550a",
+    "reviewed": false
+  },
+  "w.milk.yes": {
+    "file": "w.milk.yes.mp3",
+    "lips": "w.milk.yes.json",
+    "speaker": "asha",
+    "text": "Yes! Milk!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "e16c9655ae6b",
+    "reviewed": false
+  },
+  "w.water.say": {
+    "file": "w.water.say.mp3",
+    "lips": "w.water.say.json",
+    "speaker": "asha",
+    "text": "Water.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "1eec54a2b386",
+    "reviewed": false
+  },
+  "w.water.look": {
+    "file": "w.water.look.mp3",
+    "lips": "w.water.look.json",
+    "speaker": "asha",
+    "text": "Look! Water!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "307b88dff757",
+    "reviewed": false
+  },
+  "w.water.find": {
+    "file": "w.water.find.mp3",
+    "lips": "w.water.find.json",
+    "speaker": "asha",
+    "text": "Where is the water?",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "1d5e826d9c3e",
+    "reviewed": false
+  },
+  "w.water.yes": {
+    "file": "w.water.yes.mp3",
+    "lips": "w.water.yes.json",
+    "speaker": "asha",
+    "text": "Yes! Water!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "7ccaf226f686",
+    "reviewed": false
+  },
+  "ph.17.asha": {
+    "file": "ph.17.asha.mp3",
+    "lips": "ph.17.asha.json",
+    "speaker": "asha",
+    "text": "I want water.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "131865115845",
+    "reviewed": false
+  },
+  "ph.17.leo": {
+    "file": "ph.17.leo.mp3",
+    "lips": "ph.17.leo.json",
+    "speaker": "leo",
+    "text": "I want water.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "f4fac6edb53f",
+    "reviewed": false
+  },
+  "w.rice.say": {
+    "file": "w.rice.say.mp3",
+    "lips": "w.rice.say.json",
+    "speaker": "leo",
+    "text": "Rice.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "dd2ad526811f",
+    "reviewed": false
+  },
+  "w.rice.look": {
+    "file": "w.rice.look.mp3",
+    "lips": "w.rice.look.json",
+    "speaker": "leo",
+    "text": "Look! Rice!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "8d6e666167f2",
+    "reviewed": false
+  },
+  "w.rice.find": {
+    "file": "w.rice.find.mp3",
+    "lips": "w.rice.find.json",
+    "speaker": "leo",
+    "text": "Where is the rice?",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "df8ea73b0108",
+    "reviewed": false
+  },
+  "w.rice.yes": {
+    "file": "w.rice.yes.mp3",
+    "lips": "w.rice.yes.json",
+    "speaker": "leo",
+    "text": "Yes! Rice!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "ee319ee8c5b1",
+    "reviewed": false
+  },
+  "w.egg.say": {
+    "file": "w.egg.say.mp3",
+    "lips": "w.egg.say.json",
+    "speaker": "leo",
+    "text": "Egg.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "7976bc2f3f83",
+    "reviewed": false
+  },
+  "w.egg.look": {
+    "file": "w.egg.look.mp3",
+    "lips": "w.egg.look.json",
+    "speaker": "leo",
+    "text": "Look! An egg!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "357bdbeaa81f",
+    "reviewed": false
+  },
+  "w.egg.find": {
+    "file": "w.egg.find.mp3",
+    "lips": "w.egg.find.json",
+    "speaker": "leo",
+    "text": "Where is the egg?",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "56519166bff3",
+    "reviewed": false
+  },
+  "w.egg.yes": {
+    "file": "w.egg.yes.mp3",
+    "lips": "w.egg.yes.json",
+    "speaker": "leo",
+    "text": "Yes! The egg!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "b339e6cdb389",
+    "reviewed": false
+  },
+  "ph.18.asha": {
+    "file": "ph.18.asha.mp3",
+    "lips": "ph.18.asha.json",
+    "speaker": "asha",
+    "text": "Rice, please.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "eb2b106fbeae",
+    "reviewed": false
+  },
+  "ph.18.leo": {
+    "file": "ph.18.leo.mp3",
+    "lips": "ph.18.leo.json",
+    "speaker": "leo",
+    "text": "Rice, please.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "8e86d8f155ea",
+    "reviewed": false
+  },
+  "w.please.say": {
+    "file": "w.please.say.mp3",
+    "lips": "w.please.say.json",
+    "speaker": "asha",
+    "text": "Please!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "ae2c0d088963",
+    "reviewed": false
+  },
+  "ph.19.asha": {
+    "file": "ph.19.asha.mp3",
+    "lips": "ph.19.asha.json",
+    "speaker": "asha",
+    "text": "My name is Asha.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "c38cd9777c45",
+    "reviewed": false
+  },
+  "ph.19.leo": {
+    "file": "ph.19.leo.mp3",
+    "lips": "ph.19.leo.json",
+    "speaker": "leo",
+    "text": "My name is Leo.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "66442f9bbf85",
+    "reviewed": false
+  },
+  "t.intro_self.asha": {
+    "file": "t.intro_self.asha.mp3",
+    "lips": "t.intro_self.asha.json",
+    "speaker": "asha",
+    "text": "I'm Didi Asha!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "49dde2fca0c0",
+    "reviewed": false
+  },
+  "t.hello_friend.asha": {
+    "file": "t.hello_friend.asha.mp3",
+    "lips": "t.hello_friend.asha.json",
+    "speaker": "asha",
+    "text": "Hello, friend!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "bfdd17ed4b4c",
+    "reviewed": false
+  },
+  "t.good_morning.asha": {
+    "file": "t.good_morning.asha.mp3",
+    "lips": "t.good_morning.asha.json",
+    "speaker": "asha",
+    "text": "Good morning!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "8b342e7ac136",
+    "reviewed": false
+  },
+  "t.ready.asha": {
+    "file": "t.ready.asha.mp3",
+    "lips": "t.ready.asha.json",
+    "speaker": "asha",
+    "text": "Are you ready? Let's learn!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "18a74845c471",
+    "reviewed": false
+  },
+  "t.game_first.asha": {
+    "file": "t.game_first.asha.mp3",
+    "lips": "t.game_first.asha.json",
+    "speaker": "asha",
+    "text": "Let's play a game first!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "2e00f2775e2c",
+    "reviewed": false
+  },
+  "t.remember.asha": {
+    "file": "t.remember.asha.mp3",
+    "lips": "t.remember.asha.json",
+    "speaker": "asha",
+    "text": "Remember this?",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "bdf8f741e278",
+    "reviewed": false
+  },
+  "t.look.asha": {
+    "file": "t.look.asha.mp3",
+    "lips": "t.look.asha.json",
+    "speaker": "asha",
+    "text": "Look!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "f54ce1fe4749",
+    "reviewed": false
+  },
+  "t.listen.asha": {
+    "file": "t.listen.asha.mp3",
+    "lips": "t.listen.asha.json",
+    "speaker": "asha",
+    "text": "Listen.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "eed227859108",
+    "reviewed": false
+  },
+  "t.again.asha": {
+    "file": "t.again.asha.mp3",
+    "lips": "t.again.asha.json",
+    "speaker": "asha",
+    "text": "Again!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "dc9429ff4aef",
+    "reviewed": false
+  },
+  "t.say_with_me.asha": {
+    "file": "t.say_with_me.asha.mp3",
+    "lips": "t.say_with_me.asha.json",
+    "speaker": "asha",
+    "text": "Say it with me!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "272bb8857552",
+    "reviewed": false
+  },
+  "t.your_turn.asha": {
+    "file": "t.your_turn.asha.mp3",
+    "lips": "t.your_turn.asha.json",
+    "speaker": "asha",
+    "text": "Your turn!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "12d072130ba1",
+    "reviewed": false
+  },
+  "t.slowly.asha": {
+    "file": "t.slowly.asha.mp3",
+    "lips": "t.slowly.asha.json",
+    "speaker": "asha",
+    "text": "Slowly now.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "4c3a98dd04b2",
+    "reviewed": false
+  },
+  "t.louder.asha": {
+    "file": "t.louder.asha.mp3",
+    "lips": "t.louder.asha.json",
+    "speaker": "asha",
+    "text": "Louder!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "4c7b66ce385c",
+    "reviewed": false
+  },
+  "t.whisper.asha": {
+    "file": "t.whisper.asha.mp3",
+    "lips": "t.whisper.asha.json",
+    "speaker": "asha",
+    "text": "Whisper it!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "91b79fc011e2",
+    "reviewed": false
+  },
+  "t.do_what_i_do.asha": {
+    "file": "t.do_what_i_do.asha.mp3",
+    "lips": "t.do_what_i_do.asha.json",
+    "speaker": "asha",
+    "text": "Do what I do!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "1f180423621b",
+    "reviewed": false
+  },
+  "t.tap_it.asha": {
+    "file": "t.tap_it.asha.mp3",
+    "lips": "t.tap_it.asha.json",
+    "speaker": "asha",
+    "text": "Tap it!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "429cacb587e2",
+    "reviewed": false
+  },
+  "t.find_it.asha": {
+    "file": "t.find_it.asha.mp3",
+    "lips": "t.find_it.asha.json",
+    "speaker": "asha",
+    "text": "Find it!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "4118c19c0bf1",
+    "reviewed": false
+  },
+  "t.which_one.asha": {
+    "file": "t.which_one.asha.mp3",
+    "lips": "t.which_one.asha.json",
+    "speaker": "asha",
+    "text": "Which one?",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "4512aa3259d4",
+    "reviewed": false
+  },
+  "t.count_with_me.asha": {
+    "file": "t.count_with_me.asha.mp3",
+    "lips": "t.count_with_me.asha.json",
+    "speaker": "asha",
+    "text": "Count with me!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "c688620b4a3c",
+    "reviewed": false
+  },
+  "t.lets_sing.asha": {
+    "file": "t.lets_sing.asha.mp3",
+    "lips": "t.lets_sing.asha.json",
+    "speaker": "asha",
+    "text": "Let's sing!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "8c9398fd7c7a",
+    "reviewed": false
+  },
+  "t.story_time.asha": {
+    "file": "t.story_time.asha.mp3",
+    "lips": "t.story_time.asha.json",
+    "speaker": "asha",
+    "text": "Story time!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "ce6702835c4d",
+    "reviewed": false
+  },
+  "t.yes.asha": {
+    "file": "t.yes.asha.mp3",
+    "lips": "t.yes.asha.json",
+    "speaker": "asha",
+    "text": "Yes!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "997d28f70504",
+    "reviewed": false
+  },
+  "t.thats_right.asha": {
+    "file": "t.thats_right.asha.mp3",
+    "lips": "t.thats_right.asha.json",
+    "speaker": "asha",
+    "text": "That's right!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "a62a676f1649",
+    "reviewed": false
+  },
+  "t.great_job.asha": {
+    "file": "t.great_job.asha.mp3",
+    "lips": "t.great_job.asha.json",
+    "speaker": "asha",
+    "text": "Great job!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "123548a13352",
+    "reviewed": false
+  },
+  "t.wow.asha": {
+    "file": "t.wow.asha.mp3",
+    "lips": "t.wow.asha.json",
+    "speaker": "asha",
+    "text": "Wow!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "97219eefdcf6",
+    "reviewed": false
+  },
+  "t.super.asha": {
+    "file": "t.super.asha.mp3",
+    "lips": "t.super.asha.json",
+    "speaker": "asha",
+    "text": "Super!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "b0aa7b62a5d0",
+    "reviewed": false
+  },
+  "t.so_clever.asha": {
+    "file": "t.so_clever.asha.mp3",
+    "lips": "t.so_clever.asha.json",
+    "speaker": "asha",
+    "text": "You're so clever!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "22aab2c73261",
+    "reviewed": false
+  },
+  "t.well_done.asha": {
+    "file": "t.well_done.asha.mp3",
+    "lips": "t.well_done.asha.json",
+    "speaker": "asha",
+    "text": "Well done!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "e83f4d0ba2c3",
+    "reviewed": false
+  },
+  "t.high_five.asha": {
+    "file": "t.high_five.asha.mp3",
+    "lips": "t.high_five.asha.json",
+    "speaker": "asha",
+    "text": "High five!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "4518da1aafea",
+    "reviewed": false
+  },
+  "t.you_remembered.asha": {
+    "file": "t.you_remembered.asha.mp3",
+    "lips": "t.you_remembered.asha.json",
+    "speaker": "asha",
+    "text": "You remembered!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "519701986baa",
+    "reviewed": false
+  },
+  "t.oops_look_again.asha": {
+    "file": "t.oops_look_again.asha.mp3",
+    "lips": "t.oops_look_again.asha.json",
+    "speaker": "asha",
+    "text": "Oops! Let's look again.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "4ac1268c06c6",
+    "reviewed": false
+  },
+  "t.try_another.asha": {
+    "file": "t.try_another.asha.mp3",
+    "lips": "t.try_another.asha.json",
+    "speaker": "asha",
+    "text": "Hmm, try another one!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "6cfa426444ea",
+    "reviewed": false
+  },
+  "t.here_it_is.asha": {
+    "file": "t.here_it_is.asha.mp3",
+    "lips": "t.here_it_is.asha.json",
+    "speaker": "asha",
+    "text": "Look, here it is!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "a5a62e1245c2",
+    "reviewed": false
+  },
+  "t.almost.asha": {
+    "file": "t.almost.asha.mp3",
+    "lips": "t.almost.asha.json",
+    "speaker": "asha",
+    "text": "Almost!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "fb3264771e0f",
+    "reviewed": false
+  },
+  "t.next_one.asha": {
+    "file": "t.next_one.asha.mp3",
+    "lips": "t.next_one.asha.json",
+    "speaker": "asha",
+    "text": "Next one!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "fc8855285abd",
+    "reviewed": false
+  },
+  "t.last_one.asha": {
+    "file": "t.last_one.asha.mp3",
+    "lips": "t.last_one.asha.json",
+    "speaker": "asha",
+    "text": "Last one!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "4f28c05c6ce4",
+    "reviewed": false
+  },
+  "t.got_star.asha": {
+    "file": "t.got_star.asha.mp3",
+    "lips": "t.got_star.asha.json",
+    "speaker": "asha",
+    "text": "You got a star!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "cc3a0af10025",
+    "reviewed": false
+  },
+  "t.pet_closer.asha": {
+    "file": "t.pet_closer.asha.mp3",
+    "lips": "t.pet_closer.asha.json",
+    "speaker": "asha",
+    "text": "Your new friend is getting closer!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "91963fee0075",
+    "reviewed": false
+  },
+  "t.learned_so_much.asha": {
+    "file": "t.learned_so_much.asha.mp3",
+    "lips": "t.learned_so_much.asha.json",
+    "speaker": "asha",
+    "text": "You learned so much today!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "6917638bf6c0",
+    "reviewed": false
+  },
+  "t.see_you_tomorrow.asha": {
+    "file": "t.see_you_tomorrow.asha.mp3",
+    "lips": "t.see_you_tomorrow.asha.json",
+    "speaker": "asha",
+    "text": "See you tomorrow!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "76e1607f6afc",
+    "reviewed": false
+  },
+  "t.bye.asha": {
+    "file": "t.bye.asha.mp3",
+    "lips": "t.bye.asha.json",
+    "speaker": "asha",
+    "text": "Bye-bye!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "3335de1a7677",
+    "reviewed": false
+  },
+  "t.intro_self.leo": {
+    "file": "t.intro_self.leo.mp3",
+    "lips": "t.intro_self.leo.json",
+    "speaker": "leo",
+    "text": "I'm Dai Leo!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "d341e73e0eb5",
+    "reviewed": false
+  },
+  "t.hello_friend.leo": {
+    "file": "t.hello_friend.leo.mp3",
+    "lips": "t.hello_friend.leo.json",
+    "speaker": "leo",
+    "text": "Hello, friend!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "a64cbb716fac",
+    "reviewed": false
+  },
+  "t.good_morning.leo": {
+    "file": "t.good_morning.leo.mp3",
+    "lips": "t.good_morning.leo.json",
+    "speaker": "leo",
+    "text": "Good morning!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "d9127a434d98",
+    "reviewed": false
+  },
+  "t.ready.leo": {
+    "file": "t.ready.leo.mp3",
+    "lips": "t.ready.leo.json",
+    "speaker": "leo",
+    "text": "Are you ready? Let's learn!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "f3459355e122",
+    "reviewed": false
+  },
+  "t.game_first.leo": {
+    "file": "t.game_first.leo.mp3",
+    "lips": "t.game_first.leo.json",
+    "speaker": "leo",
+    "text": "Let's play a game first!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "f9e9cae640af",
+    "reviewed": false
+  },
+  "t.remember.leo": {
+    "file": "t.remember.leo.mp3",
+    "lips": "t.remember.leo.json",
+    "speaker": "leo",
+    "text": "Remember this?",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "127a2ac1d675",
+    "reviewed": false
+  },
+  "t.look.leo": {
+    "file": "t.look.leo.mp3",
+    "lips": "t.look.leo.json",
+    "speaker": "leo",
+    "text": "Look!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "2240e01e3ea2",
+    "reviewed": false
+  },
+  "t.listen.leo": {
+    "file": "t.listen.leo.mp3",
+    "lips": "t.listen.leo.json",
+    "speaker": "leo",
+    "text": "Listen.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "9799e8677d56",
+    "reviewed": false
+  },
+  "t.again.leo": {
+    "file": "t.again.leo.mp3",
+    "lips": "t.again.leo.json",
+    "speaker": "leo",
+    "text": "Again!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "7428562f054f",
+    "reviewed": false
+  },
+  "t.say_with_me.leo": {
+    "file": "t.say_with_me.leo.mp3",
+    "lips": "t.say_with_me.leo.json",
+    "speaker": "leo",
+    "text": "Say it with me!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "96b4640f5760",
+    "reviewed": false
+  },
+  "t.your_turn.leo": {
+    "file": "t.your_turn.leo.mp3",
+    "lips": "t.your_turn.leo.json",
+    "speaker": "leo",
+    "text": "Your turn!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "db147d7d6cca",
+    "reviewed": false
+  },
+  "t.slowly.leo": {
+    "file": "t.slowly.leo.mp3",
+    "lips": "t.slowly.leo.json",
+    "speaker": "leo",
+    "text": "Slowly now.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "e13e9264c560",
+    "reviewed": false
+  },
+  "t.louder.leo": {
+    "file": "t.louder.leo.mp3",
+    "lips": "t.louder.leo.json",
+    "speaker": "leo",
+    "text": "Louder!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "0f6260a4ef45",
+    "reviewed": false
+  },
+  "t.whisper.leo": {
+    "file": "t.whisper.leo.mp3",
+    "lips": "t.whisper.leo.json",
+    "speaker": "leo",
+    "text": "Whisper it!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "c9c83a9587ae",
+    "reviewed": false
+  },
+  "t.do_what_i_do.leo": {
+    "file": "t.do_what_i_do.leo.mp3",
+    "lips": "t.do_what_i_do.leo.json",
+    "speaker": "leo",
+    "text": "Do what I do!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "134420d3b3dc",
+    "reviewed": false
+  },
+  "t.tap_it.leo": {
+    "file": "t.tap_it.leo.mp3",
+    "lips": "t.tap_it.leo.json",
+    "speaker": "leo",
+    "text": "Tap it!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "0310bc8e850e",
+    "reviewed": false
+  },
+  "t.find_it.leo": {
+    "file": "t.find_it.leo.mp3",
+    "lips": "t.find_it.leo.json",
+    "speaker": "leo",
+    "text": "Find it!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "a291f7c7c5e1",
+    "reviewed": false
+  },
+  "t.which_one.leo": {
+    "file": "t.which_one.leo.mp3",
+    "lips": "t.which_one.leo.json",
+    "speaker": "leo",
+    "text": "Which one?",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "27f6e2e6cdb6",
+    "reviewed": false
+  },
+  "t.count_with_me.leo": {
+    "file": "t.count_with_me.leo.mp3",
+    "lips": "t.count_with_me.leo.json",
+    "speaker": "leo",
+    "text": "Count with me!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "33cd1b9ec9fe",
+    "reviewed": false
+  },
+  "t.lets_sing.leo": {
+    "file": "t.lets_sing.leo.mp3",
+    "lips": "t.lets_sing.leo.json",
+    "speaker": "leo",
+    "text": "Let's sing!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "9f6a436a2353",
+    "reviewed": false
+  },
+  "t.story_time.leo": {
+    "file": "t.story_time.leo.mp3",
+    "lips": "t.story_time.leo.json",
+    "speaker": "leo",
+    "text": "Story time!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "cfa7d79c21f3",
+    "reviewed": false
+  },
+  "t.yes.leo": {
+    "file": "t.yes.leo.mp3",
+    "lips": "t.yes.leo.json",
+    "speaker": "leo",
+    "text": "Yes!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "9edbf8c46745",
+    "reviewed": false
+  },
+  "t.thats_right.leo": {
+    "file": "t.thats_right.leo.mp3",
+    "lips": "t.thats_right.leo.json",
+    "speaker": "leo",
+    "text": "That's right!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "4056e5c2452a",
+    "reviewed": false
+  },
+  "t.great_job.leo": {
+    "file": "t.great_job.leo.mp3",
+    "lips": "t.great_job.leo.json",
+    "speaker": "leo",
+    "text": "Great job!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "417650c89013",
+    "reviewed": false
+  },
+  "t.wow.leo": {
+    "file": "t.wow.leo.mp3",
+    "lips": "t.wow.leo.json",
+    "speaker": "leo",
+    "text": "Wow!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "e8d183847617",
+    "reviewed": false
+  },
+  "t.super.leo": {
+    "file": "t.super.leo.mp3",
+    "lips": "t.super.leo.json",
+    "speaker": "leo",
+    "text": "Super!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "d025bab2ba0a",
+    "reviewed": false
+  },
+  "t.so_clever.leo": {
+    "file": "t.so_clever.leo.mp3",
+    "lips": "t.so_clever.leo.json",
+    "speaker": "leo",
+    "text": "You're so clever!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "be2936ed1217",
+    "reviewed": false
+  },
+  "t.well_done.leo": {
+    "file": "t.well_done.leo.mp3",
+    "lips": "t.well_done.leo.json",
+    "speaker": "leo",
+    "text": "Well done!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "801513659420",
+    "reviewed": false
+  },
+  "t.high_five.leo": {
+    "file": "t.high_five.leo.mp3",
+    "lips": "t.high_five.leo.json",
+    "speaker": "leo",
+    "text": "High five!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "905de1cb642f",
+    "reviewed": false
+  },
+  "t.you_remembered.leo": {
+    "file": "t.you_remembered.leo.mp3",
+    "lips": "t.you_remembered.leo.json",
+    "speaker": "leo",
+    "text": "You remembered!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "e71d70dd090b",
+    "reviewed": false
+  },
+  "t.oops_look_again.leo": {
+    "file": "t.oops_look_again.leo.mp3",
+    "lips": "t.oops_look_again.leo.json",
+    "speaker": "leo",
+    "text": "Oops! Let's look again.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "120a10010d86",
+    "reviewed": false
+  },
+  "t.try_another.leo": {
+    "file": "t.try_another.leo.mp3",
+    "lips": "t.try_another.leo.json",
+    "speaker": "leo",
+    "text": "Hmm, try another one!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "5275a72ad06d",
+    "reviewed": false
+  },
+  "t.here_it_is.leo": {
+    "file": "t.here_it_is.leo.mp3",
+    "lips": "t.here_it_is.leo.json",
+    "speaker": "leo",
+    "text": "Look, here it is!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "ea85fd07802f",
+    "reviewed": false
+  },
+  "t.almost.leo": {
+    "file": "t.almost.leo.mp3",
+    "lips": "t.almost.leo.json",
+    "speaker": "leo",
+    "text": "Almost!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "782f2744228e",
+    "reviewed": false
+  },
+  "t.next_one.leo": {
+    "file": "t.next_one.leo.mp3",
+    "lips": "t.next_one.leo.json",
+    "speaker": "leo",
+    "text": "Next one!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "8f92471a3adb",
+    "reviewed": false
+  },
+  "t.last_one.leo": {
+    "file": "t.last_one.leo.mp3",
+    "lips": "t.last_one.leo.json",
+    "speaker": "leo",
+    "text": "Last one!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "83ba7b8a834c",
+    "reviewed": false
+  },
+  "t.got_star.leo": {
+    "file": "t.got_star.leo.mp3",
+    "lips": "t.got_star.leo.json",
+    "speaker": "leo",
+    "text": "You got a star!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "4b123a5a37f9",
+    "reviewed": false
+  },
+  "t.pet_closer.leo": {
+    "file": "t.pet_closer.leo.mp3",
+    "lips": "t.pet_closer.leo.json",
+    "speaker": "leo",
+    "text": "Your new friend is getting closer!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "af9a80877461",
+    "reviewed": false
+  },
+  "t.learned_so_much.leo": {
+    "file": "t.learned_so_much.leo.mp3",
+    "lips": "t.learned_so_much.leo.json",
+    "speaker": "leo",
+    "text": "You learned so much today!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "6282fedfc1df",
+    "reviewed": false
+  },
+  "t.see_you_tomorrow.leo": {
+    "file": "t.see_you_tomorrow.leo.mp3",
+    "lips": "t.see_you_tomorrow.leo.json",
+    "speaker": "leo",
+    "text": "See you tomorrow!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "689e501bfcad",
+    "reviewed": false
+  },
+  "t.bye.leo": {
+    "file": "t.bye.leo.mp3",
+    "lips": "t.bye.leo.json",
+    "speaker": "leo",
+    "text": "Bye-bye!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "4c43bbda85bc",
+    "reviewed": false
+  },
+  "beep_intro.1": {
+    "file": "beep_intro.1.mp3",
+    "lips": "beep_intro.1.json",
+    "speaker": "asha",
+    "text": "Hello! I'm Didi Asha.",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "d1792d030dfd",
+    "reviewed": false
+  },
+  "beep_intro.2": {
+    "file": "beep_intro.2.mp3",
+    "lips": "beep_intro.2.json",
+    "speaker": "leo",
+    "text": "And I'm Dai Leo! Hello!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "9aa40a9963cb",
+    "reviewed": false
+  },
+  "beep_intro.3": {
+    "file": "beep_intro.3.mp3",
+    "lips": "beep_intro.3.json",
+    "speaker": "asha",
+    "text": "Ooh! What's this?",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "05d93a8c475b",
+    "reviewed": false
+  },
+  "beep_intro.4": {
+    "file": "beep_intro.4.mp3",
+    "lips": "beep_intro.4.json",
+    "speaker": "beep",
+    "text": "Beep boop! Hello!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "d77a9409c287",
+    "reviewed": false
+  },
+  "beep_intro.5": {
+    "file": "beep_intro.5.mp3",
+    "lips": "beep_intro.5.json",
+    "speaker": "leo",
+    "text": "This is Beep! Beep is your friend.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "a966b91f4110",
+    "reviewed": false
+  },
+  "beep_intro.6": {
+    "file": "beep_intro.6.mp3",
+    "lips": "beep_intro.6.json",
+    "speaker": "beep",
+    "text": "Hi, friend! Let's learn together!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "2c342aafba1e",
+    "reviewed": false
+  },
+  "beep_intro.7": {
+    "file": "beep_intro.7.mp3",
+    "lips": "beep_intro.7.json",
+    "speaker": "asha",
+    "text": "Say hello to Beep! Hello!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "a384730bcedf",
+    "reviewed": false
+  },
+  "beep_intro.8": {
+    "file": "beep_intro.8.mp3",
+    "lips": "beep_intro.8.json",
+    "speaker": "beep",
+    "text": "Yay! Beep boop!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "6101589620bf",
+    "reviewed": false
+  },
+  "unlock.did_it_20.asha": {
+    "file": "unlock.did_it_20.asha.mp3",
+    "lips": "unlock.did_it_20.asha.json",
+    "speaker": "asha",
+    "text": "You did it! Twenty lessons!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "ffc7a540a005",
+    "reviewed": false
+  },
+  "unlock.who_new_friend.asha": {
+    "file": "unlock.who_new_friend.asha.mp3",
+    "lips": "unlock.who_new_friend.asha.json",
+    "speaker": "asha",
+    "text": "Who will be your new friend?",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "b79ee4b6e1f2",
+    "reviewed": false
+  },
+  "unlock.hooray.asha": {
+    "file": "unlock.hooray.asha.mp3",
+    "lips": "unlock.hooray.asha.json",
+    "speaker": "asha",
+    "text": "Hooray!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "1ec2bdbaaab9",
+    "reviewed": false
+  },
+  "unlock.this_is_gaju.asha": {
+    "file": "unlock.this_is_gaju.asha.mp3",
+    "lips": "unlock.this_is_gaju.asha.json",
+    "speaker": "asha",
+    "text": "This is Gaju!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "5c2457920f38",
+    "reviewed": false
+  },
+  "unlock.this_is_sparky.asha": {
+    "file": "unlock.this_is_sparky.asha.mp3",
+    "lips": "unlock.this_is_sparky.asha.json",
+    "speaker": "asha",
+    "text": "This is Sparky!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "e38ba7d37ec1",
+    "reviewed": false
+  },
+  "unlock.this_is_bobo.asha": {
+    "file": "unlock.this_is_bobo.asha.mp3",
+    "lips": "unlock.this_is_bobo.asha.json",
+    "speaker": "asha",
+    "text": "This is Bobo!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "1119277636a8",
+    "reviewed": false
+  },
+  "unlock.this_is_himu.asha": {
+    "file": "unlock.this_is_himu.asha.mp3",
+    "lips": "unlock.this_is_himu.asha.json",
+    "speaker": "asha",
+    "text": "This is Himu!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "db0154f5b873",
+    "reviewed": false
+  },
+  "unlock.this_is_mimi.asha": {
+    "file": "unlock.this_is_mimi.asha.mp3",
+    "lips": "unlock.this_is_mimi.asha.json",
+    "speaker": "asha",
+    "text": "This is Mimi!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "d321cb33d945",
+    "reviewed": false
+  },
+  "unlock.this_is_pandu.asha": {
+    "file": "unlock.this_is_pandu.asha.mp3",
+    "lips": "unlock.this_is_pandu.asha.json",
+    "speaker": "asha",
+    "text": "This is Pandu!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "eb60f1023971",
+    "reviewed": false
+  },
+  "unlock.this_is_stardust.asha": {
+    "file": "unlock.this_is_stardust.asha.mp3",
+    "lips": "unlock.this_is_stardust.asha.json",
+    "speaker": "asha",
+    "text": "This is Stardust!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "ca2709fa3882",
+    "reviewed": false
+  },
+  "unlock.this_is_roary.asha": {
+    "file": "unlock.this_is_roary.asha.mp3",
+    "lips": "unlock.this_is_roary.asha.json",
+    "speaker": "asha",
+    "text": "This is Roary!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "7a9fbd0e3f8c",
+    "reviewed": false
+  },
+  "unlock.did_it_20.leo": {
+    "file": "unlock.did_it_20.leo.mp3",
+    "lips": "unlock.did_it_20.leo.json",
+    "speaker": "leo",
+    "text": "You did it! Twenty lessons!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "f5a7f1448aa1",
+    "reviewed": false
+  },
+  "unlock.who_new_friend.leo": {
+    "file": "unlock.who_new_friend.leo.mp3",
+    "lips": "unlock.who_new_friend.leo.json",
+    "speaker": "leo",
+    "text": "Who will be your new friend?",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "b8755366cff5",
+    "reviewed": false
+  },
+  "unlock.hooray.leo": {
+    "file": "unlock.hooray.leo.mp3",
+    "lips": "unlock.hooray.leo.json",
+    "speaker": "leo",
+    "text": "Hooray!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "ff9d73a1e9c3",
+    "reviewed": false
+  },
+  "unlock.this_is_gaju.leo": {
+    "file": "unlock.this_is_gaju.leo.mp3",
+    "lips": "unlock.this_is_gaju.leo.json",
+    "speaker": "leo",
+    "text": "This is Gaju!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "b55e2d52744c",
+    "reviewed": false
+  },
+  "unlock.this_is_sparky.leo": {
+    "file": "unlock.this_is_sparky.leo.mp3",
+    "lips": "unlock.this_is_sparky.leo.json",
+    "speaker": "leo",
+    "text": "This is Sparky!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "e58a34146390",
+    "reviewed": false
+  },
+  "unlock.this_is_bobo.leo": {
+    "file": "unlock.this_is_bobo.leo.mp3",
+    "lips": "unlock.this_is_bobo.leo.json",
+    "speaker": "leo",
+    "text": "This is Bobo!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "b97f4b78c918",
+    "reviewed": false
+  },
+  "unlock.this_is_himu.leo": {
+    "file": "unlock.this_is_himu.leo.mp3",
+    "lips": "unlock.this_is_himu.leo.json",
+    "speaker": "leo",
+    "text": "This is Himu!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "e9b5a50e61d0",
+    "reviewed": false
+  },
+  "unlock.this_is_mimi.leo": {
+    "file": "unlock.this_is_mimi.leo.mp3",
+    "lips": "unlock.this_is_mimi.leo.json",
+    "speaker": "leo",
+    "text": "This is Mimi!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "995389879e22",
+    "reviewed": false
+  },
+  "unlock.this_is_pandu.leo": {
+    "file": "unlock.this_is_pandu.leo.mp3",
+    "lips": "unlock.this_is_pandu.leo.json",
+    "speaker": "leo",
+    "text": "This is Pandu!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "1b777445aca9",
+    "reviewed": false
+  },
+  "unlock.this_is_stardust.leo": {
+    "file": "unlock.this_is_stardust.leo.mp3",
+    "lips": "unlock.this_is_stardust.leo.json",
+    "speaker": "leo",
+    "text": "This is Stardust!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "df5561e3902a",
+    "reviewed": false
+  },
+  "unlock.this_is_roary.leo": {
+    "file": "unlock.this_is_roary.leo.mp3",
+    "lips": "unlock.this_is_roary.leo.json",
+    "speaker": "leo",
+    "text": "This is Roary!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "9d337b597e24",
+    "reviewed": false
+  },
+  "story.who_says_hello.1": {
+    "file": "story.who_says_hello.1.mp3",
+    "lips": "story.who_says_hello.1.json",
+    "speaker": "leo",
+    "text": "Beep goes for a walk.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "4065046dad10",
+    "reviewed": false
+  },
+  "story.who_says_hello.2": {
+    "file": "story.who_says_hello.2.mp3",
+    "lips": "story.who_says_hello.2.json",
+    "speaker": "beep",
+    "text": "Hello!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "56ce78292ffc",
+    "reviewed": false
+  },
+  "story.who_says_hello.3": {
+    "file": "story.who_says_hello.3.mp3",
+    "lips": "story.who_says_hello.3.json",
+    "speaker": "leo",
+    "text": "A dog! The dog says woof.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "549c3a7ab8f7",
+    "reviewed": false
+  },
+  "story.who_says_hello.4": {
+    "file": "story.who_says_hello.4.mp3",
+    "lips": "story.who_says_hello.4.json",
+    "speaker": "leo",
+    "text": "A cat! The cat says meow.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "b9402fab0d3d",
+    "reviewed": false
+  },
+  "story.who_says_hello.5": {
+    "file": "story.who_says_hello.5.mp3",
+    "lips": "story.who_says_hello.5.json",
+    "speaker": "leo",
+    "text": "A cow! The cow says moo.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "e2696f190904",
+    "reviewed": false
+  },
+  "story.who_says_hello.6": {
+    "file": "story.who_says_hello.6.mp3",
+    "lips": "story.who_says_hello.6.json",
+    "speaker": "leo",
+    "text": "A bird! The bird says tweet.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "14edf6bc4620",
+    "reviewed": false
+  },
+  "story.who_says_hello.7": {
+    "file": "story.who_says_hello.7.mp3",
+    "lips": "story.who_says_hello.7.json",
+    "speaker": "leo",
+    "text": "An elephant and a monkey!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "97d49f529d60",
+    "reviewed": false
+  },
+  "story.who_says_hello.8": {
+    "file": "story.who_says_hello.8.mp3",
+    "lips": "story.who_says_hello.8.json",
+    "speaker": "leo",
+    "text": "Everyone says hello!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "ac8be16fb7d9",
+    "reviewed": false
+  },
+  "story.who_says_hello.9": {
+    "file": "story.who_says_hello.9.mp3",
+    "lips": "story.who_says_hello.9.json",
+    "speaker": "beep",
+    "text": "Hello, friends! Bye-bye!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "022b957ac1a6",
+    "reviewed": false
+  },
+  "story.beeps_big_day.1": {
+    "file": "story.beeps_big_day.1.mp3",
+    "lips": "story.beeps_big_day.1.json",
+    "speaker": "leo",
+    "text": "It's Beep's big day!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "57e11a8df3ea",
+    "reviewed": false
+  },
+  "story.beeps_big_day.2": {
+    "file": "story.beeps_big_day.2.mp3",
+    "lips": "story.beeps_big_day.2.json",
+    "speaker": "beep",
+    "text": "Hello! My name is Beep!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "54efcce0f953",
+    "reviewed": false
+  },
+  "story.beeps_big_day.3": {
+    "file": "story.beeps_big_day.3.mp3",
+    "lips": "story.beeps_big_day.3.json",
+    "speaker": "leo",
+    "text": "Beep sees a red apple and a yellow banana.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "5fb78c4978b6",
+    "reviewed": false
+  },
+  "story.beeps_big_day.4": {
+    "file": "story.beeps_big_day.4.mp3",
+    "lips": "story.beeps_big_day.4.json",
+    "speaker": "beep",
+    "text": "Yummy!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "6e6fe343f7e7",
+    "reviewed": false
+  },
+  "story.beeps_big_day.5": {
+    "file": "story.beeps_big_day.5.mp3",
+    "lips": "story.beeps_big_day.5.json",
+    "speaker": "leo",
+    "text": "Mom gives Beep rice and an egg.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "bbb500be0b5c",
+    "reviewed": false
+  },
+  "story.beeps_big_day.6": {
+    "file": "story.beeps_big_day.6.mp3",
+    "lips": "story.beeps_big_day.6.json",
+    "speaker": "beep",
+    "text": "Thank you!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "e1c2a5244baf",
+    "reviewed": false
+  },
+  "story.beeps_big_day.7": {
+    "file": "story.beeps_big_day.7.mp3",
+    "lips": "story.beeps_big_day.7.json",
+    "speaker": "leo",
+    "text": "Dad gives Beep milk and water.",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "9eed5a8c59c6",
+    "reviewed": false
+  },
+  "story.beeps_big_day.8": {
+    "file": "story.beeps_big_day.8.mp3",
+    "lips": "story.beeps_big_day.8.json",
+    "speaker": "leo",
+    "text": "A blue fish, a green butterfly, a black and white cow!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "510a4ae5166b",
+    "reviewed": false
+  },
+  "story.beeps_big_day.9": {
+    "file": "story.beeps_big_day.9.mp3",
+    "lips": "story.beeps_big_day.9.json",
+    "speaker": "beep",
+    "text": "I love my big day! Bye-bye!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "bf52a878865e",
+    "reviewed": false
+  },
+  "pet.beep.hi_friend": {
+    "file": "pet.beep.hi_friend.mp3",
+    "lips": "pet.beep.hi_friend.json",
+    "speaker": "beep",
+    "text": "Hi, friend!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "fd0b80466558",
+    "reviewed": false
+  },
+  "pet.beep.yay_here": {
+    "file": "pet.beep.yay_here.mp3",
+    "lips": "pet.beep.yay_here.json",
+    "speaker": "beep",
+    "text": "Yay, you're here!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "d72a5725e93f",
+    "reviewed": false
+  },
+  "pet.beep.learn_together": {
+    "file": "pet.beep.learn_together.mp3",
+    "lips": "pet.beep.learn_together.json",
+    "speaker": "beep",
+    "text": "Let's learn together!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "7b2d0f2f9436",
+    "reviewed": false
+  },
+  "pet.beep.yay": {
+    "file": "pet.beep.yay.mp3",
+    "lips": "pet.beep.yay.json",
+    "speaker": "beep",
+    "text": "Yay!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "77ffcaebb7fd",
+    "reviewed": false
+  },
+  "pet.beep.you_did_it": {
+    "file": "pet.beep.you_did_it.mp3",
+    "lips": "pet.beep.you_did_it.json",
+    "speaker": "beep",
+    "text": "You did it!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "8bc47f7fbdd0",
+    "reviewed": false
+  },
+  "pet.beep.great_job": {
+    "file": "pet.beep.great_job.mp3",
+    "lips": "pet.beep.great_job.json",
+    "speaker": "beep",
+    "text": "Great job!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "ab0032ce0afa",
+    "reviewed": false
+  },
+  "pet.beep.so_clever": {
+    "file": "pet.beep.so_clever.mp3",
+    "lips": "pet.beep.so_clever.json",
+    "speaker": "beep",
+    "text": "Wow, so clever!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "1957217a7ef8",
+    "reviewed": false
+  },
+  "pet.beep.high_five": {
+    "file": "pet.beep.high_five.mp3",
+    "lips": "pet.beep.high_five.json",
+    "speaker": "beep",
+    "text": "High five!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "aab1b053d89c",
+    "reviewed": false
+  },
+  "pet.beep.oopsie": {
+    "file": "pet.beep.oopsie.mp3",
+    "lips": "pet.beep.oopsie.json",
+    "speaker": "beep",
+    "text": "Oopsie! Try again!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "22a7a01c0fae",
+    "reviewed": false
+  },
+  "pet.beep.you_can": {
+    "file": "pet.beep.you_can.mp3",
+    "lips": "pet.beep.you_can.json",
+    "speaker": "beep",
+    "text": "You can do it!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "e35d5456e7c4",
+    "reviewed": false
+  },
+  "pet.beep.ill_help": {
+    "file": "pet.beep.ill_help.mp3",
+    "lips": "pet.beep.ill_help.json",
+    "speaker": "beep",
+    "text": "I'll help you!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "99b54f7bf032",
+    "reviewed": false
+  },
+  "pet.beep.your_turn": {
+    "file": "pet.beep.your_turn.mp3",
+    "lips": "pet.beep.your_turn.json",
+    "speaker": "beep",
+    "text": "Your turn!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "873114f5da90",
+    "reviewed": false
+  },
+  "pet.beep.say_it": {
+    "file": "pet.beep.say_it.mp3",
+    "lips": "pet.beep.say_it.json",
+    "speaker": "beep",
+    "text": "Say it, say it!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "b92a9fbfdfaf",
+    "reviewed": false
+  },
+  "pet.beep.listening": {
+    "file": "pet.beep.listening.mp3",
+    "lips": "pet.beep.listening.json",
+    "speaker": "beep",
+    "text": "I'm listening!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "18bdcf369d98",
+    "reviewed": false
+  },
+  "pet.beep.again_again": {
+    "file": "pet.beep.again_again.mp3",
+    "lips": "pet.beep.again_again.json",
+    "speaker": "beep",
+    "text": "Again, again!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "80ba909da3ec",
+    "reviewed": false
+  },
+  "pet.beep.like_word": {
+    "file": "pet.beep.like_word.mp3",
+    "lips": "pet.beep.like_word.json",
+    "speaker": "beep",
+    "text": "I like that word!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "0fefdf3e00bb",
+    "reviewed": false
+  },
+  "pet.beep.got_star": {
+    "file": "pet.beep.got_star.mp3",
+    "lips": "pet.beep.got_star.json",
+    "speaker": "beep",
+    "text": "You got a star!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "0ee1c472faa9",
+    "reviewed": false
+  },
+  "pet.beep.proud": {
+    "file": "pet.beep.proud.mp3",
+    "lips": "pet.beep.proud.json",
+    "speaker": "beep",
+    "text": "I'm so proud of you!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "78bde6bee152",
+    "reviewed": false
+  },
+  "pet.beep.hooray": {
+    "file": "pet.beep.hooray.mp3",
+    "lips": "pet.beep.hooray.json",
+    "speaker": "beep",
+    "text": "Hooray!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "e9dbd66b5b6a",
+    "reviewed": false
+  },
+  "pet.beep.see_you": {
+    "file": "pet.beep.see_you.mp3",
+    "lips": "pet.beep.see_you.json",
+    "speaker": "beep",
+    "text": "See you tomorrow!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "5a75ace67db3",
+    "reviewed": false
+  },
+  "pet.beep.bye": {
+    "file": "pet.beep.bye.mp3",
+    "lips": "pet.beep.bye.json",
+    "speaker": "beep",
+    "text": "Bye-bye!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "8ba1973e6567",
+    "reviewed": false
+  },
+  "pet.beep.tickles": {
+    "file": "pet.beep.tickles.mp3",
+    "lips": "pet.beep.tickles.json",
+    "speaker": "beep",
+    "text": "Hee hee, that tickles!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "bfda10505ec0",
+    "reviewed": false
+  },
+  "pet.beep.love_you": {
+    "file": "pet.beep.love_you.mp3",
+    "lips": "pet.beep.love_you.json",
+    "speaker": "beep",
+    "text": "I love you!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "3641255ce3ca",
+    "reviewed": false
+  },
+  "pet.beep.lets_play": {
+    "file": "pet.beep.lets_play.mp3",
+    "lips": "pet.beep.lets_play.json",
+    "speaker": "beep",
+    "text": "Let's play!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "1a28c044a4f4",
+    "reviewed": false
+  },
+  "pet.beep.happy_meet": {
+    "file": "pet.beep.happy_meet.mp3",
+    "lips": "pet.beep.happy_meet.json",
+    "speaker": "beep",
+    "text": "I'm so happy to meet you!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "a33535e75393",
+    "reviewed": false
+  },
+  "pet.beep.own1": {
+    "file": "pet.beep.own1.mp3",
+    "lips": "pet.beep.own1.json",
+    "speaker": "beep",
+    "text": "Beep boop! Learning mode on!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "60dc6570d84e",
+    "reviewed": false
+  },
+  "pet.beep.own2": {
+    "file": "pet.beep.own2.mp3",
+    "lips": "pet.beep.own2.json",
+    "speaker": "beep",
+    "text": "My circuits are so happy!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "b70e8fa39538",
+    "reviewed": false
+  },
+  "pet.beep.own3": {
+    "file": "pet.beep.own3.mp3",
+    "lips": "pet.beep.own3.json",
+    "speaker": "beep",
+    "text": "Beep! Did I get it right?",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "0af2f117cd58",
+    "reviewed": false
+  },
+  "pet.beep.own4": {
+    "file": "pet.beep.own4.mp3",
+    "lips": "pet.beep.own4.json",
+    "speaker": "beep",
+    "text": "Battery full of love!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "58abbfeea0ab",
+    "reviewed": false
+  },
+  "pet.gaju.hi_friend": {
+    "file": "pet.gaju.hi_friend.mp3",
+    "lips": "pet.gaju.hi_friend.json",
+    "speaker": "gaju",
+    "text": "Hi, friend!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "16d29d226a32",
+    "reviewed": false
+  },
+  "pet.gaju.yay_here": {
+    "file": "pet.gaju.yay_here.mp3",
+    "lips": "pet.gaju.yay_here.json",
+    "speaker": "gaju",
+    "text": "Yay, you're here!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "fc956b1b5e35",
+    "reviewed": false
+  },
+  "pet.gaju.learn_together": {
+    "file": "pet.gaju.learn_together.mp3",
+    "lips": "pet.gaju.learn_together.json",
+    "speaker": "gaju",
+    "text": "Let's learn together!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "5e559a835a97",
+    "reviewed": false
+  },
+  "pet.gaju.yay": {
+    "file": "pet.gaju.yay.mp3",
+    "lips": "pet.gaju.yay.json",
+    "speaker": "gaju",
+    "text": "Yay!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "9ce360ebe7fc",
+    "reviewed": false
+  },
+  "pet.gaju.you_did_it": {
+    "file": "pet.gaju.you_did_it.mp3",
+    "lips": "pet.gaju.you_did_it.json",
+    "speaker": "gaju",
+    "text": "You did it!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "18dd1e3e7183",
+    "reviewed": false
+  },
+  "pet.gaju.great_job": {
+    "file": "pet.gaju.great_job.mp3",
+    "lips": "pet.gaju.great_job.json",
+    "speaker": "gaju",
+    "text": "Great job!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "850802990512",
+    "reviewed": false
+  },
+  "pet.gaju.so_clever": {
+    "file": "pet.gaju.so_clever.mp3",
+    "lips": "pet.gaju.so_clever.json",
+    "speaker": "gaju",
+    "text": "Wow, so clever!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "8e6bbb5361eb",
+    "reviewed": false
+  },
+  "pet.gaju.high_five": {
+    "file": "pet.gaju.high_five.mp3",
+    "lips": "pet.gaju.high_five.json",
+    "speaker": "gaju",
+    "text": "High five!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "eaaf847863d8",
+    "reviewed": false
+  },
+  "pet.gaju.oopsie": {
+    "file": "pet.gaju.oopsie.mp3",
+    "lips": "pet.gaju.oopsie.json",
+    "speaker": "gaju",
+    "text": "Oopsie! Try again!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "9395af9e4129",
+    "reviewed": false
+  },
+  "pet.gaju.you_can": {
+    "file": "pet.gaju.you_can.mp3",
+    "lips": "pet.gaju.you_can.json",
+    "speaker": "gaju",
+    "text": "You can do it!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "c6a0018c0543",
+    "reviewed": false
+  },
+  "pet.gaju.ill_help": {
+    "file": "pet.gaju.ill_help.mp3",
+    "lips": "pet.gaju.ill_help.json",
+    "speaker": "gaju",
+    "text": "I'll help you!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "0fc55ab2929e",
+    "reviewed": false
+  },
+  "pet.gaju.your_turn": {
+    "file": "pet.gaju.your_turn.mp3",
+    "lips": "pet.gaju.your_turn.json",
+    "speaker": "gaju",
+    "text": "Your turn!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "fff402bd0d44",
+    "reviewed": false
+  },
+  "pet.gaju.say_it": {
+    "file": "pet.gaju.say_it.mp3",
+    "lips": "pet.gaju.say_it.json",
+    "speaker": "gaju",
+    "text": "Say it, say it!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "712f31bcacd3",
+    "reviewed": false
+  },
+  "pet.gaju.listening": {
+    "file": "pet.gaju.listening.mp3",
+    "lips": "pet.gaju.listening.json",
+    "speaker": "gaju",
+    "text": "I'm listening!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "fc37eec3633a",
+    "reviewed": false
+  },
+  "pet.gaju.again_again": {
+    "file": "pet.gaju.again_again.mp3",
+    "lips": "pet.gaju.again_again.json",
+    "speaker": "gaju",
+    "text": "Again, again!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "50d5d9583d31",
+    "reviewed": false
+  },
+  "pet.gaju.like_word": {
+    "file": "pet.gaju.like_word.mp3",
+    "lips": "pet.gaju.like_word.json",
+    "speaker": "gaju",
+    "text": "I like that word!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "0448eac69fd8",
+    "reviewed": false
+  },
+  "pet.gaju.got_star": {
+    "file": "pet.gaju.got_star.mp3",
+    "lips": "pet.gaju.got_star.json",
+    "speaker": "gaju",
+    "text": "You got a star!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "54bdb1efc834",
+    "reviewed": false
+  },
+  "pet.gaju.proud": {
+    "file": "pet.gaju.proud.mp3",
+    "lips": "pet.gaju.proud.json",
+    "speaker": "gaju",
+    "text": "I'm so proud of you!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "4faf32d04f4b",
+    "reviewed": false
+  },
+  "pet.gaju.hooray": {
+    "file": "pet.gaju.hooray.mp3",
+    "lips": "pet.gaju.hooray.json",
+    "speaker": "gaju",
+    "text": "Hooray!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "21974dc20013",
+    "reviewed": false
+  },
+  "pet.gaju.see_you": {
+    "file": "pet.gaju.see_you.mp3",
+    "lips": "pet.gaju.see_you.json",
+    "speaker": "gaju",
+    "text": "See you tomorrow!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "0a3cafb60cff",
+    "reviewed": false
+  },
+  "pet.gaju.bye": {
+    "file": "pet.gaju.bye.mp3",
+    "lips": "pet.gaju.bye.json",
+    "speaker": "gaju",
+    "text": "Bye-bye!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "33eefb6ffa32",
+    "reviewed": false
+  },
+  "pet.gaju.tickles": {
+    "file": "pet.gaju.tickles.mp3",
+    "lips": "pet.gaju.tickles.json",
+    "speaker": "gaju",
+    "text": "Hee hee, that tickles!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "4fd0bacaed28",
+    "reviewed": false
+  },
+  "pet.gaju.love_you": {
+    "file": "pet.gaju.love_you.mp3",
+    "lips": "pet.gaju.love_you.json",
+    "speaker": "gaju",
+    "text": "I love you!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "1ffaf67b3bfa",
+    "reviewed": false
+  },
+  "pet.gaju.lets_play": {
+    "file": "pet.gaju.lets_play.mp3",
+    "lips": "pet.gaju.lets_play.json",
+    "speaker": "gaju",
+    "text": "Let's play!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "c37338d57436",
+    "reviewed": false
+  },
+  "pet.gaju.happy_meet": {
+    "file": "pet.gaju.happy_meet.mp3",
+    "lips": "pet.gaju.happy_meet.json",
+    "speaker": "gaju",
+    "text": "I'm so happy to meet you!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "b59a7dbfefd2",
+    "reviewed": false
+  },
+  "pet.gaju.own1": {
+    "file": "pet.gaju.own1.mp3",
+    "lips": "pet.gaju.own1.json",
+    "speaker": "gaju",
+    "text": "A big elephant hug for you!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "59bcc3ac9048",
+    "reviewed": false
+  },
+  "pet.gaju.own2": {
+    "file": "pet.gaju.own2.mp3",
+    "lips": "pet.gaju.own2.json",
+    "speaker": "gaju",
+    "text": "I never forget a word!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "bcf97796e83e",
+    "reviewed": false
+  },
+  "pet.gaju.own3": {
+    "file": "pet.gaju.own3.mp3",
+    "lips": "pet.gaju.own3.json",
+    "speaker": "gaju",
+    "text": "Slowly, slowly, we've got this.",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "629125600ef9",
+    "reviewed": false
+  },
+  "pet.gaju.own4": {
+    "file": "pet.gaju.own4.mp3",
+    "lips": "pet.gaju.own4.json",
+    "speaker": "gaju",
+    "text": "You're as smart as an elephant!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "6b22041d6fb7",
+    "reviewed": false
+  },
+  "pet.sparky.hi_friend": {
+    "file": "pet.sparky.hi_friend.mp3",
+    "lips": "pet.sparky.hi_friend.json",
+    "speaker": "sparky",
+    "text": "Hi, friend!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "d1ce2b014195",
+    "reviewed": false
+  },
+  "pet.sparky.yay_here": {
+    "file": "pet.sparky.yay_here.mp3",
+    "lips": "pet.sparky.yay_here.json",
+    "speaker": "sparky",
+    "text": "Yay, you're here!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "32d02234e933",
+    "reviewed": false
+  },
+  "pet.sparky.learn_together": {
+    "file": "pet.sparky.learn_together.mp3",
+    "lips": "pet.sparky.learn_together.json",
+    "speaker": "sparky",
+    "text": "Let's learn together!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "791dcaa88226",
+    "reviewed": false
+  },
+  "pet.sparky.yay": {
+    "file": "pet.sparky.yay.mp3",
+    "lips": "pet.sparky.yay.json",
+    "speaker": "sparky",
+    "text": "Yay!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "badd67c2cb40",
+    "reviewed": false
+  },
+  "pet.sparky.you_did_it": {
+    "file": "pet.sparky.you_did_it.mp3",
+    "lips": "pet.sparky.you_did_it.json",
+    "speaker": "sparky",
+    "text": "You did it!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "1ef24e598a64",
+    "reviewed": false
+  },
+  "pet.sparky.great_job": {
+    "file": "pet.sparky.great_job.mp3",
+    "lips": "pet.sparky.great_job.json",
+    "speaker": "sparky",
+    "text": "Great job!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "dc17b90f4c3f",
+    "reviewed": false
+  },
+  "pet.sparky.so_clever": {
+    "file": "pet.sparky.so_clever.mp3",
+    "lips": "pet.sparky.so_clever.json",
+    "speaker": "sparky",
+    "text": "Wow, so clever!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "f7074f6fe1a7",
+    "reviewed": false
+  },
+  "pet.sparky.high_five": {
+    "file": "pet.sparky.high_five.mp3",
+    "lips": "pet.sparky.high_five.json",
+    "speaker": "sparky",
+    "text": "High five!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "92138eec08e2",
+    "reviewed": false
+  },
+  "pet.sparky.oopsie": {
+    "file": "pet.sparky.oopsie.mp3",
+    "lips": "pet.sparky.oopsie.json",
+    "speaker": "sparky",
+    "text": "Oopsie! Try again!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "e016e2173dda",
+    "reviewed": false
+  },
+  "pet.sparky.you_can": {
+    "file": "pet.sparky.you_can.mp3",
+    "lips": "pet.sparky.you_can.json",
+    "speaker": "sparky",
+    "text": "You can do it!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "a26173d49eca",
+    "reviewed": false
+  },
+  "pet.sparky.ill_help": {
+    "file": "pet.sparky.ill_help.mp3",
+    "lips": "pet.sparky.ill_help.json",
+    "speaker": "sparky",
+    "text": "I'll help you!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "b6776d94ecfb",
+    "reviewed": false
+  },
+  "pet.sparky.your_turn": {
+    "file": "pet.sparky.your_turn.mp3",
+    "lips": "pet.sparky.your_turn.json",
+    "speaker": "sparky",
+    "text": "Your turn!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "6e5dce1dd117",
+    "reviewed": false
+  },
+  "pet.sparky.say_it": {
+    "file": "pet.sparky.say_it.mp3",
+    "lips": "pet.sparky.say_it.json",
+    "speaker": "sparky",
+    "text": "Say it, say it!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "5f9fc0f5ed02",
+    "reviewed": false
+  },
+  "pet.sparky.listening": {
+    "file": "pet.sparky.listening.mp3",
+    "lips": "pet.sparky.listening.json",
+    "speaker": "sparky",
+    "text": "I'm listening!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "211a101f4c0d",
+    "reviewed": false
+  },
+  "pet.sparky.again_again": {
+    "file": "pet.sparky.again_again.mp3",
+    "lips": "pet.sparky.again_again.json",
+    "speaker": "sparky",
+    "text": "Again, again!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "c51c57b22b84",
+    "reviewed": false
+  },
+  "pet.sparky.like_word": {
+    "file": "pet.sparky.like_word.mp3",
+    "lips": "pet.sparky.like_word.json",
+    "speaker": "sparky",
+    "text": "I like that word!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "93ac3253ea6f",
+    "reviewed": false
+  },
+  "pet.sparky.got_star": {
+    "file": "pet.sparky.got_star.mp3",
+    "lips": "pet.sparky.got_star.json",
+    "speaker": "sparky",
+    "text": "You got a star!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "51d73479529c",
+    "reviewed": false
+  },
+  "pet.sparky.proud": {
+    "file": "pet.sparky.proud.mp3",
+    "lips": "pet.sparky.proud.json",
+    "speaker": "sparky",
+    "text": "I'm so proud of you!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "eced29178adb",
+    "reviewed": false
+  },
+  "pet.sparky.hooray": {
+    "file": "pet.sparky.hooray.mp3",
+    "lips": "pet.sparky.hooray.json",
+    "speaker": "sparky",
+    "text": "Hooray!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "7656bf725ad5",
+    "reviewed": false
+  },
+  "pet.sparky.see_you": {
+    "file": "pet.sparky.see_you.mp3",
+    "lips": "pet.sparky.see_you.json",
+    "speaker": "sparky",
+    "text": "See you tomorrow!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "1f889ceb0d7a",
+    "reviewed": false
+  },
+  "pet.sparky.bye": {
+    "file": "pet.sparky.bye.mp3",
+    "lips": "pet.sparky.bye.json",
+    "speaker": "sparky",
+    "text": "Bye-bye!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "c6b806f1a5f8",
+    "reviewed": false
+  },
+  "pet.sparky.tickles": {
+    "file": "pet.sparky.tickles.mp3",
+    "lips": "pet.sparky.tickles.json",
+    "speaker": "sparky",
+    "text": "Hee hee, that tickles!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "5041fdee7745",
+    "reviewed": false
+  },
+  "pet.sparky.love_you": {
+    "file": "pet.sparky.love_you.mp3",
+    "lips": "pet.sparky.love_you.json",
+    "speaker": "sparky",
+    "text": "I love you!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "366d37c20c08",
+    "reviewed": false
+  },
+  "pet.sparky.lets_play": {
+    "file": "pet.sparky.lets_play.mp3",
+    "lips": "pet.sparky.lets_play.json",
+    "speaker": "sparky",
+    "text": "Let's play!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "ac99097ff186",
+    "reviewed": false
+  },
+  "pet.sparky.happy_meet": {
+    "file": "pet.sparky.happy_meet.mp3",
+    "lips": "pet.sparky.happy_meet.json",
+    "speaker": "sparky",
+    "text": "I'm so happy to meet you!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "67278dd225a3",
+    "reviewed": false
+  },
+  "pet.sparky.own1": {
+    "file": "pet.sparky.own1.mp3",
+    "lips": "pet.sparky.own1.json",
+    "speaker": "sparky",
+    "text": "Fwoosh! That was awesome!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "4b27e3f9a835",
+    "reviewed": false
+  },
+  "pet.sparky.own2": {
+    "file": "pet.sparky.own2.mp3",
+    "lips": "pet.sparky.own2.json",
+    "speaker": "sparky",
+    "text": "Adventure time!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "313637195c8e",
+    "reviewed": false
+  },
+  "pet.sparky.own3": {
+    "file": "pet.sparky.own3.mp3",
+    "lips": "pet.sparky.own3.json",
+    "speaker": "sparky",
+    "text": "I'm a brave little dragon!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "2e4e9e0358fe",
+    "reviewed": false
+  },
+  "pet.sparky.own4": {
+    "file": "pet.sparky.own4.mp3",
+    "lips": "pet.sparky.own4.json",
+    "speaker": "sparky",
+    "text": "Let's fly to the next one!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "a6d6266e2fe4",
+    "reviewed": false
+  },
+  "pet.bobo.hi_friend": {
+    "file": "pet.bobo.hi_friend.mp3",
+    "lips": "pet.bobo.hi_friend.json",
+    "speaker": "bobo",
+    "text": "Hi, friend!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "0d4fc9eaa66a",
+    "reviewed": false
+  },
+  "pet.bobo.yay_here": {
+    "file": "pet.bobo.yay_here.mp3",
+    "lips": "pet.bobo.yay_here.json",
+    "speaker": "bobo",
+    "text": "Yay, you're here!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "c3c80ddc3760",
+    "reviewed": false
+  },
+  "pet.bobo.learn_together": {
+    "file": "pet.bobo.learn_together.mp3",
+    "lips": "pet.bobo.learn_together.json",
+    "speaker": "bobo",
+    "text": "Let's learn together!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "12f47d846eb9",
+    "reviewed": false
+  },
+  "pet.bobo.yay": {
+    "file": "pet.bobo.yay.mp3",
+    "lips": "pet.bobo.yay.json",
+    "speaker": "bobo",
+    "text": "Yay!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "85d5560d3e5b",
+    "reviewed": false
+  },
+  "pet.bobo.you_did_it": {
+    "file": "pet.bobo.you_did_it.mp3",
+    "lips": "pet.bobo.you_did_it.json",
+    "speaker": "bobo",
+    "text": "You did it!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "d8ae168607d7",
+    "reviewed": false
+  },
+  "pet.bobo.great_job": {
+    "file": "pet.bobo.great_job.mp3",
+    "lips": "pet.bobo.great_job.json",
+    "speaker": "bobo",
+    "text": "Great job!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "34b57173dbc8",
+    "reviewed": false
+  },
+  "pet.bobo.so_clever": {
+    "file": "pet.bobo.so_clever.mp3",
+    "lips": "pet.bobo.so_clever.json",
+    "speaker": "bobo",
+    "text": "Wow, so clever!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "d039f2ff8049",
+    "reviewed": false
+  },
+  "pet.bobo.high_five": {
+    "file": "pet.bobo.high_five.mp3",
+    "lips": "pet.bobo.high_five.json",
+    "speaker": "bobo",
+    "text": "High five!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "adc2ebcb6b71",
+    "reviewed": false
+  },
+  "pet.bobo.oopsie": {
+    "file": "pet.bobo.oopsie.mp3",
+    "lips": "pet.bobo.oopsie.json",
+    "speaker": "bobo",
+    "text": "Oopsie! Try again!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "f80e8354c56e",
+    "reviewed": false
+  },
+  "pet.bobo.you_can": {
+    "file": "pet.bobo.you_can.mp3",
+    "lips": "pet.bobo.you_can.json",
+    "speaker": "bobo",
+    "text": "You can do it!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "496c05d41733",
+    "reviewed": false
+  },
+  "pet.bobo.ill_help": {
+    "file": "pet.bobo.ill_help.mp3",
+    "lips": "pet.bobo.ill_help.json",
+    "speaker": "bobo",
+    "text": "I'll help you!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "b98a2fa9ec44",
+    "reviewed": false
+  },
+  "pet.bobo.your_turn": {
+    "file": "pet.bobo.your_turn.mp3",
+    "lips": "pet.bobo.your_turn.json",
+    "speaker": "bobo",
+    "text": "Your turn!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "808aa662ea49",
+    "reviewed": false
+  },
+  "pet.bobo.say_it": {
+    "file": "pet.bobo.say_it.mp3",
+    "lips": "pet.bobo.say_it.json",
+    "speaker": "bobo",
+    "text": "Say it, say it!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "64ad84ebfc3a",
+    "reviewed": false
+  },
+  "pet.bobo.listening": {
+    "file": "pet.bobo.listening.mp3",
+    "lips": "pet.bobo.listening.json",
+    "speaker": "bobo",
+    "text": "I'm listening!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "bcdf8f51f703",
+    "reviewed": false
+  },
+  "pet.bobo.again_again": {
+    "file": "pet.bobo.again_again.mp3",
+    "lips": "pet.bobo.again_again.json",
+    "speaker": "bobo",
+    "text": "Again, again!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "d26f7774751c",
+    "reviewed": false
+  },
+  "pet.bobo.like_word": {
+    "file": "pet.bobo.like_word.mp3",
+    "lips": "pet.bobo.like_word.json",
+    "speaker": "bobo",
+    "text": "I like that word!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "e284ee9258e7",
+    "reviewed": false
+  },
+  "pet.bobo.got_star": {
+    "file": "pet.bobo.got_star.mp3",
+    "lips": "pet.bobo.got_star.json",
+    "speaker": "bobo",
+    "text": "You got a star!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "3a44135db36a",
+    "reviewed": false
+  },
+  "pet.bobo.proud": {
+    "file": "pet.bobo.proud.mp3",
+    "lips": "pet.bobo.proud.json",
+    "speaker": "bobo",
+    "text": "I'm so proud of you!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "c7a762225544",
+    "reviewed": false
+  },
+  "pet.bobo.hooray": {
+    "file": "pet.bobo.hooray.mp3",
+    "lips": "pet.bobo.hooray.json",
+    "speaker": "bobo",
+    "text": "Hooray!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "9dc96815c661",
+    "reviewed": false
+  },
+  "pet.bobo.see_you": {
+    "file": "pet.bobo.see_you.mp3",
+    "lips": "pet.bobo.see_you.json",
+    "speaker": "bobo",
+    "text": "See you tomorrow!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "7169a86cf32d",
+    "reviewed": false
+  },
+  "pet.bobo.bye": {
+    "file": "pet.bobo.bye.mp3",
+    "lips": "pet.bobo.bye.json",
+    "speaker": "bobo",
+    "text": "Bye-bye!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "a1e00a1f6e8b",
+    "reviewed": false
+  },
+  "pet.bobo.tickles": {
+    "file": "pet.bobo.tickles.mp3",
+    "lips": "pet.bobo.tickles.json",
+    "speaker": "bobo",
+    "text": "Hee hee, that tickles!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "96ac9c2e1d19",
+    "reviewed": false
+  },
+  "pet.bobo.love_you": {
+    "file": "pet.bobo.love_you.mp3",
+    "lips": "pet.bobo.love_you.json",
+    "speaker": "bobo",
+    "text": "I love you!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "7bfedc049098",
+    "reviewed": false
+  },
+  "pet.bobo.lets_play": {
+    "file": "pet.bobo.lets_play.mp3",
+    "lips": "pet.bobo.lets_play.json",
+    "speaker": "bobo",
+    "text": "Let's play!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "d99f48a525fe",
+    "reviewed": false
+  },
+  "pet.bobo.happy_meet": {
+    "file": "pet.bobo.happy_meet.mp3",
+    "lips": "pet.bobo.happy_meet.json",
+    "speaker": "bobo",
+    "text": "I'm so happy to meet you!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "38800eb519a9",
+    "reviewed": false
+  },
+  "pet.bobo.own1": {
+    "file": "pet.bobo.own1.mp3",
+    "lips": "pet.bobo.own1.json",
+    "speaker": "bobo",
+    "text": "Ooh-ooh! Banana for you!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "a51671a72c29",
+    "reviewed": false
+  },
+  "pet.bobo.own2": {
+    "file": "pet.bobo.own2.mp3",
+    "lips": "pet.bobo.own2.json",
+    "speaker": "bobo",
+    "text": "Let's swing to the next one!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "fdbc420b002f",
+    "reviewed": false
+  },
+  "pet.bobo.own3": {
+    "file": "pet.bobo.own3.mp3",
+    "lips": "pet.bobo.own3.json",
+    "speaker": "bobo",
+    "text": "That was so funny!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "7c72f6dd7e5c",
+    "reviewed": false
+  },
+  "pet.bobo.own4": {
+    "file": "pet.bobo.own4.mp3",
+    "lips": "pet.bobo.own4.json",
+    "speaker": "bobo",
+    "text": "Monkey see, monkey do!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "123ad1cd4c5e",
+    "reviewed": false
+  },
+  "pet.himu.hi_friend": {
+    "file": "pet.himu.hi_friend.mp3",
+    "lips": "pet.himu.hi_friend.json",
+    "speaker": "himu",
+    "text": "Hi, friend!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "f80657ef19fa",
+    "reviewed": false
+  },
+  "pet.himu.yay_here": {
+    "file": "pet.himu.yay_here.mp3",
+    "lips": "pet.himu.yay_here.json",
+    "speaker": "himu",
+    "text": "Yay, you're here!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "148c08e267a0",
+    "reviewed": false
+  },
+  "pet.himu.learn_together": {
+    "file": "pet.himu.learn_together.mp3",
+    "lips": "pet.himu.learn_together.json",
+    "speaker": "himu",
+    "text": "Let's learn together!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "ea8bebc6acc9",
+    "reviewed": false
+  },
+  "pet.himu.yay": {
+    "file": "pet.himu.yay.mp3",
+    "lips": "pet.himu.yay.json",
+    "speaker": "himu",
+    "text": "Yay!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "83581fb5007d",
+    "reviewed": false
+  },
+  "pet.himu.you_did_it": {
+    "file": "pet.himu.you_did_it.mp3",
+    "lips": "pet.himu.you_did_it.json",
+    "speaker": "himu",
+    "text": "You did it!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "fb861d2505ba",
+    "reviewed": false
+  },
+  "pet.himu.great_job": {
+    "file": "pet.himu.great_job.mp3",
+    "lips": "pet.himu.great_job.json",
+    "speaker": "himu",
+    "text": "Great job!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "d52d297643e9",
+    "reviewed": false
+  },
+  "pet.himu.so_clever": {
+    "file": "pet.himu.so_clever.mp3",
+    "lips": "pet.himu.so_clever.json",
+    "speaker": "himu",
+    "text": "Wow, so clever!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "861d713f8344",
+    "reviewed": false
+  },
+  "pet.himu.high_five": {
+    "file": "pet.himu.high_five.mp3",
+    "lips": "pet.himu.high_five.json",
+    "speaker": "himu",
+    "text": "High five!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "db3fe0c65efc",
+    "reviewed": false
+  },
+  "pet.himu.oopsie": {
+    "file": "pet.himu.oopsie.mp3",
+    "lips": "pet.himu.oopsie.json",
+    "speaker": "himu",
+    "text": "Oopsie! Try again!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "f9b23a6fdf1b",
+    "reviewed": false
+  },
+  "pet.himu.you_can": {
+    "file": "pet.himu.you_can.mp3",
+    "lips": "pet.himu.you_can.json",
+    "speaker": "himu",
+    "text": "You can do it!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "07fa30fe70d9",
+    "reviewed": false
+  },
+  "pet.himu.ill_help": {
+    "file": "pet.himu.ill_help.mp3",
+    "lips": "pet.himu.ill_help.json",
+    "speaker": "himu",
+    "text": "I'll help you!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "08a3470a669a",
+    "reviewed": false
+  },
+  "pet.himu.your_turn": {
+    "file": "pet.himu.your_turn.mp3",
+    "lips": "pet.himu.your_turn.json",
+    "speaker": "himu",
+    "text": "Your turn!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "6a87d135fb23",
+    "reviewed": false
+  },
+  "pet.himu.say_it": {
+    "file": "pet.himu.say_it.mp3",
+    "lips": "pet.himu.say_it.json",
+    "speaker": "himu",
+    "text": "Say it, say it!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "30d782ca7b2f",
+    "reviewed": false
+  },
+  "pet.himu.listening": {
+    "file": "pet.himu.listening.mp3",
+    "lips": "pet.himu.listening.json",
+    "speaker": "himu",
+    "text": "I'm listening!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "1d35fd1f1a3e",
+    "reviewed": false
+  },
+  "pet.himu.again_again": {
+    "file": "pet.himu.again_again.mp3",
+    "lips": "pet.himu.again_again.json",
+    "speaker": "himu",
+    "text": "Again, again!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "61aaf619dc6b",
+    "reviewed": false
+  },
+  "pet.himu.like_word": {
+    "file": "pet.himu.like_word.mp3",
+    "lips": "pet.himu.like_word.json",
+    "speaker": "himu",
+    "text": "I like that word!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "a1dec2044792",
+    "reviewed": false
+  },
+  "pet.himu.got_star": {
+    "file": "pet.himu.got_star.mp3",
+    "lips": "pet.himu.got_star.json",
+    "speaker": "himu",
+    "text": "You got a star!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "105deded06c1",
+    "reviewed": false
+  },
+  "pet.himu.proud": {
+    "file": "pet.himu.proud.mp3",
+    "lips": "pet.himu.proud.json",
+    "speaker": "himu",
+    "text": "I'm so proud of you!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "9c6604cf6331",
+    "reviewed": false
+  },
+  "pet.himu.hooray": {
+    "file": "pet.himu.hooray.mp3",
+    "lips": "pet.himu.hooray.json",
+    "speaker": "himu",
+    "text": "Hooray!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "c10b2e159b19",
+    "reviewed": false
+  },
+  "pet.himu.see_you": {
+    "file": "pet.himu.see_you.mp3",
+    "lips": "pet.himu.see_you.json",
+    "speaker": "himu",
+    "text": "See you tomorrow!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "c91e54bbe294",
+    "reviewed": false
+  },
+  "pet.himu.bye": {
+    "file": "pet.himu.bye.mp3",
+    "lips": "pet.himu.bye.json",
+    "speaker": "himu",
+    "text": "Bye-bye!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "e30dee570266",
+    "reviewed": false
+  },
+  "pet.himu.tickles": {
+    "file": "pet.himu.tickles.mp3",
+    "lips": "pet.himu.tickles.json",
+    "speaker": "himu",
+    "text": "Hee hee, that tickles!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "4f028bd3addc",
+    "reviewed": false
+  },
+  "pet.himu.love_you": {
+    "file": "pet.himu.love_you.mp3",
+    "lips": "pet.himu.love_you.json",
+    "speaker": "himu",
+    "text": "I love you!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "9ddf7a547f89",
+    "reviewed": false
+  },
+  "pet.himu.lets_play": {
+    "file": "pet.himu.lets_play.mp3",
+    "lips": "pet.himu.lets_play.json",
+    "speaker": "himu",
+    "text": "Let's play!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "487c353a8631",
+    "reviewed": false
+  },
+  "pet.himu.happy_meet": {
+    "file": "pet.himu.happy_meet.mp3",
+    "lips": "pet.himu.happy_meet.json",
+    "speaker": "himu",
+    "text": "I'm so happy to meet you!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "3ba34bf3a59e",
+    "reviewed": false
+  },
+  "pet.himu.own1": {
+    "file": "pet.himu.own1.mp3",
+    "lips": "pet.himu.own1.json",
+    "speaker": "himu",
+    "text": "Brrr, but my heart is warm!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "995f0671a668",
+    "reviewed": false
+  },
+  "pet.himu.own2": {
+    "file": "pet.himu.own2.mp3",
+    "lips": "pet.himu.own2.json",
+    "speaker": "himu",
+    "text": "Snowball high five!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "b32fbb94ac69",
+    "reviewed": false
+  },
+  "pet.himu.own3": {
+    "file": "pet.himu.own3.mp3",
+    "lips": "pet.himu.own3.json",
+    "speaker": "himu",
+    "text": "I'm big but a little shy.",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "7f75a22599bf",
+    "reviewed": false
+  },
+  "pet.himu.own4": {
+    "file": "pet.himu.own4.mp3",
+    "lips": "pet.himu.own4.json",
+    "speaker": "himu",
+    "text": "Let's learn, nice and cosy.",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "50e4c5ba0f28",
+    "reviewed": false
+  },
+  "pet.mimi.hi_friend": {
+    "file": "pet.mimi.hi_friend.mp3",
+    "lips": "pet.mimi.hi_friend.json",
+    "speaker": "mimi",
+    "text": "Hi, friend!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "cecd5e61b89c",
+    "reviewed": false
+  },
+  "pet.mimi.yay_here": {
+    "file": "pet.mimi.yay_here.mp3",
+    "lips": "pet.mimi.yay_here.json",
+    "speaker": "mimi",
+    "text": "Yay, you're here!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "948ae34a4cf7",
+    "reviewed": false
+  },
+  "pet.mimi.learn_together": {
+    "file": "pet.mimi.learn_together.mp3",
+    "lips": "pet.mimi.learn_together.json",
+    "speaker": "mimi",
+    "text": "Let's learn together!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "79d3977a17ea",
+    "reviewed": false
+  },
+  "pet.mimi.yay": {
+    "file": "pet.mimi.yay.mp3",
+    "lips": "pet.mimi.yay.json",
+    "speaker": "mimi",
+    "text": "Yay!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "710e368a878c",
+    "reviewed": false
+  },
+  "pet.mimi.you_did_it": {
+    "file": "pet.mimi.you_did_it.mp3",
+    "lips": "pet.mimi.you_did_it.json",
+    "speaker": "mimi",
+    "text": "You did it!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "07073eb8b10d",
+    "reviewed": false
+  },
+  "pet.mimi.great_job": {
+    "file": "pet.mimi.great_job.mp3",
+    "lips": "pet.mimi.great_job.json",
+    "speaker": "mimi",
+    "text": "Great job!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "fdd199d99437",
+    "reviewed": false
+  },
+  "pet.mimi.so_clever": {
+    "file": "pet.mimi.so_clever.mp3",
+    "lips": "pet.mimi.so_clever.json",
+    "speaker": "mimi",
+    "text": "Wow, so clever!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "47bb23411f03",
+    "reviewed": false
+  },
+  "pet.mimi.high_five": {
+    "file": "pet.mimi.high_five.mp3",
+    "lips": "pet.mimi.high_five.json",
+    "speaker": "mimi",
+    "text": "High five!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "cd2e1846666d",
+    "reviewed": false
+  },
+  "pet.mimi.oopsie": {
+    "file": "pet.mimi.oopsie.mp3",
+    "lips": "pet.mimi.oopsie.json",
+    "speaker": "mimi",
+    "text": "Oopsie! Try again!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "61126afa58ac",
+    "reviewed": false
+  },
+  "pet.mimi.you_can": {
+    "file": "pet.mimi.you_can.mp3",
+    "lips": "pet.mimi.you_can.json",
+    "speaker": "mimi",
+    "text": "You can do it!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "66b3b7d3c926",
+    "reviewed": false
+  },
+  "pet.mimi.ill_help": {
+    "file": "pet.mimi.ill_help.mp3",
+    "lips": "pet.mimi.ill_help.json",
+    "speaker": "mimi",
+    "text": "I'll help you!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "30f56807bbf0",
+    "reviewed": false
+  },
+  "pet.mimi.your_turn": {
+    "file": "pet.mimi.your_turn.mp3",
+    "lips": "pet.mimi.your_turn.json",
+    "speaker": "mimi",
+    "text": "Your turn!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "ad0f1ada93a0",
+    "reviewed": false
+  },
+  "pet.mimi.say_it": {
+    "file": "pet.mimi.say_it.mp3",
+    "lips": "pet.mimi.say_it.json",
+    "speaker": "mimi",
+    "text": "Say it, say it!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "1f9eb8ff5fcb",
+    "reviewed": false
+  },
+  "pet.mimi.listening": {
+    "file": "pet.mimi.listening.mp3",
+    "lips": "pet.mimi.listening.json",
+    "speaker": "mimi",
+    "text": "I'm listening!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "e0b195fda91f",
+    "reviewed": false
+  },
+  "pet.mimi.again_again": {
+    "file": "pet.mimi.again_again.mp3",
+    "lips": "pet.mimi.again_again.json",
+    "speaker": "mimi",
+    "text": "Again, again!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "41a15320b1ac",
+    "reviewed": false
+  },
+  "pet.mimi.like_word": {
+    "file": "pet.mimi.like_word.mp3",
+    "lips": "pet.mimi.like_word.json",
+    "speaker": "mimi",
+    "text": "I like that word!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "a612db844252",
+    "reviewed": false
+  },
+  "pet.mimi.got_star": {
+    "file": "pet.mimi.got_star.mp3",
+    "lips": "pet.mimi.got_star.json",
+    "speaker": "mimi",
+    "text": "You got a star!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "3abd7964e0ad",
+    "reviewed": false
+  },
+  "pet.mimi.proud": {
+    "file": "pet.mimi.proud.mp3",
+    "lips": "pet.mimi.proud.json",
+    "speaker": "mimi",
+    "text": "I'm so proud of you!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "780795592ccb",
+    "reviewed": false
+  },
+  "pet.mimi.hooray": {
+    "file": "pet.mimi.hooray.mp3",
+    "lips": "pet.mimi.hooray.json",
+    "speaker": "mimi",
+    "text": "Hooray!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "7cd478c3af59",
+    "reviewed": false
+  },
+  "pet.mimi.see_you": {
+    "file": "pet.mimi.see_you.mp3",
+    "lips": "pet.mimi.see_you.json",
+    "speaker": "mimi",
+    "text": "See you tomorrow!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "9820a2321683",
+    "reviewed": false
+  },
+  "pet.mimi.bye": {
+    "file": "pet.mimi.bye.mp3",
+    "lips": "pet.mimi.bye.json",
+    "speaker": "mimi",
+    "text": "Bye-bye!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "bad7650de454",
+    "reviewed": false
+  },
+  "pet.mimi.tickles": {
+    "file": "pet.mimi.tickles.mp3",
+    "lips": "pet.mimi.tickles.json",
+    "speaker": "mimi",
+    "text": "Hee hee, that tickles!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "81e8d1152101",
+    "reviewed": false
+  },
+  "pet.mimi.love_you": {
+    "file": "pet.mimi.love_you.mp3",
+    "lips": "pet.mimi.love_you.json",
+    "speaker": "mimi",
+    "text": "I love you!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "db1c2b4e45dc",
+    "reviewed": false
+  },
+  "pet.mimi.lets_play": {
+    "file": "pet.mimi.lets_play.mp3",
+    "lips": "pet.mimi.lets_play.json",
+    "speaker": "mimi",
+    "text": "Let's play!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "4a3d5922da24",
+    "reviewed": false
+  },
+  "pet.mimi.happy_meet": {
+    "file": "pet.mimi.happy_meet.mp3",
+    "lips": "pet.mimi.happy_meet.json",
+    "speaker": "mimi",
+    "text": "I'm so happy to meet you!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "692efaa7f6a9",
+    "reviewed": false
+  },
+  "pet.mimi.own1": {
+    "file": "pet.mimi.own1.mp3",
+    "lips": "pet.mimi.own1.json",
+    "speaker": "mimi",
+    "text": "Meow! Purrfect!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "7987e876c8a1",
+    "reviewed": false
+  },
+  "pet.mimi.own2": {
+    "file": "pet.mimi.own2.mp3",
+    "lips": "pet.mimi.own2.json",
+    "speaker": "mimi",
+    "text": "Pounce on it!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "e4f48cc25aca",
+    "reviewed": false
+  },
+  "pet.mimi.own3": {
+    "file": "pet.mimi.own3.mp3",
+    "lips": "pet.mimi.own3.json",
+    "speaker": "mimi",
+    "text": "Kitten cuddles!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "a6f7c1c5ccf7",
+    "reviewed": false
+  },
+  "pet.mimi.own4": {
+    "file": "pet.mimi.own4.mp3",
+    "lips": "pet.mimi.own4.json",
+    "speaker": "mimi",
+    "text": "My whiskers are wiggling!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "90f6b5499168",
+    "reviewed": false
+  },
+  "pet.pandu.hi_friend": {
+    "file": "pet.pandu.hi_friend.mp3",
+    "lips": "pet.pandu.hi_friend.json",
+    "speaker": "pandu",
+    "text": "Hi, friend!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "00830eadc72b",
+    "reviewed": false
+  },
+  "pet.pandu.yay_here": {
+    "file": "pet.pandu.yay_here.mp3",
+    "lips": "pet.pandu.yay_here.json",
+    "speaker": "pandu",
+    "text": "Yay, you're here!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "f1c15050ab9d",
+    "reviewed": false
+  },
+  "pet.pandu.learn_together": {
+    "file": "pet.pandu.learn_together.mp3",
+    "lips": "pet.pandu.learn_together.json",
+    "speaker": "pandu",
+    "text": "Let's learn together!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "056c01487f6f",
+    "reviewed": false
+  },
+  "pet.pandu.yay": {
+    "file": "pet.pandu.yay.mp3",
+    "lips": "pet.pandu.yay.json",
+    "speaker": "pandu",
+    "text": "Yay!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "681e44b65ffa",
+    "reviewed": false
+  },
+  "pet.pandu.you_did_it": {
+    "file": "pet.pandu.you_did_it.mp3",
+    "lips": "pet.pandu.you_did_it.json",
+    "speaker": "pandu",
+    "text": "You did it!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "f0974ec367bd",
+    "reviewed": false
+  },
+  "pet.pandu.great_job": {
+    "file": "pet.pandu.great_job.mp3",
+    "lips": "pet.pandu.great_job.json",
+    "speaker": "pandu",
+    "text": "Great job!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "10d57ec49f84",
+    "reviewed": false
+  },
+  "pet.pandu.so_clever": {
+    "file": "pet.pandu.so_clever.mp3",
+    "lips": "pet.pandu.so_clever.json",
+    "speaker": "pandu",
+    "text": "Wow, so clever!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "79244ed4b74b",
+    "reviewed": false
+  },
+  "pet.pandu.high_five": {
+    "file": "pet.pandu.high_five.mp3",
+    "lips": "pet.pandu.high_five.json",
+    "speaker": "pandu",
+    "text": "High five!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "f44efc5f8b6d",
+    "reviewed": false
+  },
+  "pet.pandu.oopsie": {
+    "file": "pet.pandu.oopsie.mp3",
+    "lips": "pet.pandu.oopsie.json",
+    "speaker": "pandu",
+    "text": "Oopsie! Try again!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "df5574b9565c",
+    "reviewed": false
+  },
+  "pet.pandu.you_can": {
+    "file": "pet.pandu.you_can.mp3",
+    "lips": "pet.pandu.you_can.json",
+    "speaker": "pandu",
+    "text": "You can do it!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "00137a77b4bc",
+    "reviewed": false
+  },
+  "pet.pandu.ill_help": {
+    "file": "pet.pandu.ill_help.mp3",
+    "lips": "pet.pandu.ill_help.json",
+    "speaker": "pandu",
+    "text": "I'll help you!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "d7534a323c8f",
+    "reviewed": false
+  },
+  "pet.pandu.your_turn": {
+    "file": "pet.pandu.your_turn.mp3",
+    "lips": "pet.pandu.your_turn.json",
+    "speaker": "pandu",
+    "text": "Your turn!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "7bd53663102d",
+    "reviewed": false
+  },
+  "pet.pandu.say_it": {
+    "file": "pet.pandu.say_it.mp3",
+    "lips": "pet.pandu.say_it.json",
+    "speaker": "pandu",
+    "text": "Say it, say it!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "a1ae097df34d",
+    "reviewed": false
+  },
+  "pet.pandu.listening": {
+    "file": "pet.pandu.listening.mp3",
+    "lips": "pet.pandu.listening.json",
+    "speaker": "pandu",
+    "text": "I'm listening!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "81fd9ca5f28c",
+    "reviewed": false
+  },
+  "pet.pandu.again_again": {
+    "file": "pet.pandu.again_again.mp3",
+    "lips": "pet.pandu.again_again.json",
+    "speaker": "pandu",
+    "text": "Again, again!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "59552d321a58",
+    "reviewed": false
+  },
+  "pet.pandu.like_word": {
+    "file": "pet.pandu.like_word.mp3",
+    "lips": "pet.pandu.like_word.json",
+    "speaker": "pandu",
+    "text": "I like that word!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "6f9b443be4d7",
+    "reviewed": false
+  },
+  "pet.pandu.got_star": {
+    "file": "pet.pandu.got_star.mp3",
+    "lips": "pet.pandu.got_star.json",
+    "speaker": "pandu",
+    "text": "You got a star!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "f882d0d23ac8",
+    "reviewed": false
+  },
+  "pet.pandu.proud": {
+    "file": "pet.pandu.proud.mp3",
+    "lips": "pet.pandu.proud.json",
+    "speaker": "pandu",
+    "text": "I'm so proud of you!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "fd8b0ce31b62",
+    "reviewed": false
+  },
+  "pet.pandu.hooray": {
+    "file": "pet.pandu.hooray.mp3",
+    "lips": "pet.pandu.hooray.json",
+    "speaker": "pandu",
+    "text": "Hooray!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "2b983943aa93",
+    "reviewed": false
+  },
+  "pet.pandu.see_you": {
+    "file": "pet.pandu.see_you.mp3",
+    "lips": "pet.pandu.see_you.json",
+    "speaker": "pandu",
+    "text": "See you tomorrow!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "938d94adadb8",
+    "reviewed": false
+  },
+  "pet.pandu.bye": {
+    "file": "pet.pandu.bye.mp3",
+    "lips": "pet.pandu.bye.json",
+    "speaker": "pandu",
+    "text": "Bye-bye!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "fdb35e5e37a7",
+    "reviewed": false
+  },
+  "pet.pandu.tickles": {
+    "file": "pet.pandu.tickles.mp3",
+    "lips": "pet.pandu.tickles.json",
+    "speaker": "pandu",
+    "text": "Hee hee, that tickles!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "b0a586a0e166",
+    "reviewed": false
+  },
+  "pet.pandu.love_you": {
+    "file": "pet.pandu.love_you.mp3",
+    "lips": "pet.pandu.love_you.json",
+    "speaker": "pandu",
+    "text": "I love you!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "c666225f41a4",
+    "reviewed": false
+  },
+  "pet.pandu.lets_play": {
+    "file": "pet.pandu.lets_play.mp3",
+    "lips": "pet.pandu.lets_play.json",
+    "speaker": "pandu",
+    "text": "Let's play!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "66350114d49d",
+    "reviewed": false
+  },
+  "pet.pandu.happy_meet": {
+    "file": "pet.pandu.happy_meet.mp3",
+    "lips": "pet.pandu.happy_meet.json",
+    "speaker": "pandu",
+    "text": "I'm so happy to meet you!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "5fd036cead9f",
+    "reviewed": false
+  },
+  "pet.pandu.own1": {
+    "file": "pet.pandu.own1.mp3",
+    "lips": "pet.pandu.own1.json",
+    "speaker": "pandu",
+    "text": "Snack break? Just kidding!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "08927a667fbd",
+    "reviewed": false
+  },
+  "pet.pandu.own2": {
+    "file": "pet.pandu.own2.mp3",
+    "lips": "pet.pandu.own2.json",
+    "speaker": "pandu",
+    "text": "Yawn... no, I'm awake!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "ea6a368a0b72",
+    "reviewed": false
+  },
+  "pet.pandu.own3": {
+    "file": "pet.pandu.own3.mp3",
+    "lips": "pet.pandu.own3.json",
+    "speaker": "pandu",
+    "text": "Cuddle time!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "f48e6be96789",
+    "reviewed": false
+  },
+  "pet.pandu.own4": {
+    "file": "pet.pandu.own4.mp3",
+    "lips": "pet.pandu.own4.json",
+    "speaker": "pandu",
+    "text": "Soft and slow, here we go.",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "ad2ef62d908c",
+    "reviewed": false
+  },
+  "pet.stardust.hi_friend": {
+    "file": "pet.stardust.hi_friend.mp3",
+    "lips": "pet.stardust.hi_friend.json",
+    "speaker": "stardust",
+    "text": "Hi, friend!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "7b4fb84349b6",
+    "reviewed": false
+  },
+  "pet.stardust.yay_here": {
+    "file": "pet.stardust.yay_here.mp3",
+    "lips": "pet.stardust.yay_here.json",
+    "speaker": "stardust",
+    "text": "Yay, you're here!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "cf6dd31046b5",
+    "reviewed": false
+  },
+  "pet.stardust.learn_together": {
+    "file": "pet.stardust.learn_together.mp3",
+    "lips": "pet.stardust.learn_together.json",
+    "speaker": "stardust",
+    "text": "Let's learn together!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "e8bc613b9eba",
+    "reviewed": false
+  },
+  "pet.stardust.yay": {
+    "file": "pet.stardust.yay.mp3",
+    "lips": "pet.stardust.yay.json",
+    "speaker": "stardust",
+    "text": "Yay!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "382f2ac6df30",
+    "reviewed": false
+  },
+  "pet.stardust.you_did_it": {
+    "file": "pet.stardust.you_did_it.mp3",
+    "lips": "pet.stardust.you_did_it.json",
+    "speaker": "stardust",
+    "text": "You did it!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "f05e9e5d6562",
+    "reviewed": false
+  },
+  "pet.stardust.great_job": {
+    "file": "pet.stardust.great_job.mp3",
+    "lips": "pet.stardust.great_job.json",
+    "speaker": "stardust",
+    "text": "Great job!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "6fdc19e187ff",
+    "reviewed": false
+  },
+  "pet.stardust.so_clever": {
+    "file": "pet.stardust.so_clever.mp3",
+    "lips": "pet.stardust.so_clever.json",
+    "speaker": "stardust",
+    "text": "Wow, so clever!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "26024f86598e",
+    "reviewed": false
+  },
+  "pet.stardust.high_five": {
+    "file": "pet.stardust.high_five.mp3",
+    "lips": "pet.stardust.high_five.json",
+    "speaker": "stardust",
+    "text": "High five!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "4ad63a5da8db",
+    "reviewed": false
+  },
+  "pet.stardust.oopsie": {
+    "file": "pet.stardust.oopsie.mp3",
+    "lips": "pet.stardust.oopsie.json",
+    "speaker": "stardust",
+    "text": "Oopsie! Try again!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "4cb724d655fe",
+    "reviewed": false
+  },
+  "pet.stardust.you_can": {
+    "file": "pet.stardust.you_can.mp3",
+    "lips": "pet.stardust.you_can.json",
+    "speaker": "stardust",
+    "text": "You can do it!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "9f995b27fe20",
+    "reviewed": false
+  },
+  "pet.stardust.ill_help": {
+    "file": "pet.stardust.ill_help.mp3",
+    "lips": "pet.stardust.ill_help.json",
+    "speaker": "stardust",
+    "text": "I'll help you!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "02cac462d4f5",
+    "reviewed": false
+  },
+  "pet.stardust.your_turn": {
+    "file": "pet.stardust.your_turn.mp3",
+    "lips": "pet.stardust.your_turn.json",
+    "speaker": "stardust",
+    "text": "Your turn!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "fd6a2718d293",
+    "reviewed": false
+  },
+  "pet.stardust.say_it": {
+    "file": "pet.stardust.say_it.mp3",
+    "lips": "pet.stardust.say_it.json",
+    "speaker": "stardust",
+    "text": "Say it, say it!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "56ea0b7944f7",
+    "reviewed": false
+  },
+  "pet.stardust.listening": {
+    "file": "pet.stardust.listening.mp3",
+    "lips": "pet.stardust.listening.json",
+    "speaker": "stardust",
+    "text": "I'm listening!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "9668f65334f4",
+    "reviewed": false
+  },
+  "pet.stardust.again_again": {
+    "file": "pet.stardust.again_again.mp3",
+    "lips": "pet.stardust.again_again.json",
+    "speaker": "stardust",
+    "text": "Again, again!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "59bfa47074be",
+    "reviewed": false
+  },
+  "pet.stardust.like_word": {
+    "file": "pet.stardust.like_word.mp3",
+    "lips": "pet.stardust.like_word.json",
+    "speaker": "stardust",
+    "text": "I like that word!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "8056d8d2ae55",
+    "reviewed": false
+  },
+  "pet.stardust.got_star": {
+    "file": "pet.stardust.got_star.mp3",
+    "lips": "pet.stardust.got_star.json",
+    "speaker": "stardust",
+    "text": "You got a star!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "7ba53287e4c3",
+    "reviewed": false
+  },
+  "pet.stardust.proud": {
+    "file": "pet.stardust.proud.mp3",
+    "lips": "pet.stardust.proud.json",
+    "speaker": "stardust",
+    "text": "I'm so proud of you!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "bdcf5e63713d",
+    "reviewed": false
+  },
+  "pet.stardust.hooray": {
+    "file": "pet.stardust.hooray.mp3",
+    "lips": "pet.stardust.hooray.json",
+    "speaker": "stardust",
+    "text": "Hooray!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "35385c920402",
+    "reviewed": false
+  },
+  "pet.stardust.see_you": {
+    "file": "pet.stardust.see_you.mp3",
+    "lips": "pet.stardust.see_you.json",
+    "speaker": "stardust",
+    "text": "See you tomorrow!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "56ccb7276cfa",
+    "reviewed": false
+  },
+  "pet.stardust.bye": {
+    "file": "pet.stardust.bye.mp3",
+    "lips": "pet.stardust.bye.json",
+    "speaker": "stardust",
+    "text": "Bye-bye!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "f9635bc60065",
+    "reviewed": false
+  },
+  "pet.stardust.tickles": {
+    "file": "pet.stardust.tickles.mp3",
+    "lips": "pet.stardust.tickles.json",
+    "speaker": "stardust",
+    "text": "Hee hee, that tickles!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "972095347776",
+    "reviewed": false
+  },
+  "pet.stardust.love_you": {
+    "file": "pet.stardust.love_you.mp3",
+    "lips": "pet.stardust.love_you.json",
+    "speaker": "stardust",
+    "text": "I love you!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "02a498591ac9",
+    "reviewed": false
+  },
+  "pet.stardust.lets_play": {
+    "file": "pet.stardust.lets_play.mp3",
+    "lips": "pet.stardust.lets_play.json",
+    "speaker": "stardust",
+    "text": "Let's play!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "33f34bfbeff6",
+    "reviewed": false
+  },
+  "pet.stardust.happy_meet": {
+    "file": "pet.stardust.happy_meet.mp3",
+    "lips": "pet.stardust.happy_meet.json",
+    "speaker": "stardust",
+    "text": "I'm so happy to meet you!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "758b9cd86597",
+    "reviewed": false
+  },
+  "pet.stardust.own1": {
+    "file": "pet.stardust.own1.mp3",
+    "lips": "pet.stardust.own1.json",
+    "speaker": "stardust",
+    "text": "Sparkle, sparkle!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "4fba51cd50aa",
+    "reviewed": false
+  },
+  "pet.stardust.own2": {
+    "file": "pet.stardust.own2.mp3",
+    "lips": "pet.stardust.own2.json",
+    "speaker": "stardust",
+    "text": "That's magical!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "821d4fcf686b",
+    "reviewed": false
+  },
+  "pet.stardust.own3": {
+    "file": "pet.stardust.own3.mp3",
+    "lips": "pet.stardust.own3.json",
+    "speaker": "stardust",
+    "text": "Let's add some colour!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "1e2d778abf94",
+    "reviewed": false
+  },
+  "pet.stardust.own4": {
+    "file": "pet.stardust.own4.mp3",
+    "lips": "pet.stardust.own4.json",
+    "speaker": "stardust",
+    "text": "Make a wish!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "38fbdc458975",
+    "reviewed": false
+  },
+  "pet.roary.hi_friend": {
+    "file": "pet.roary.hi_friend.mp3",
+    "lips": "pet.roary.hi_friend.json",
+    "speaker": "roary",
+    "text": "Hi, friend!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "74a294a970a9",
+    "reviewed": false
+  },
+  "pet.roary.yay_here": {
+    "file": "pet.roary.yay_here.mp3",
+    "lips": "pet.roary.yay_here.json",
+    "speaker": "roary",
+    "text": "Yay, you're here!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "eaeb64ec660c",
+    "reviewed": false
+  },
+  "pet.roary.learn_together": {
+    "file": "pet.roary.learn_together.mp3",
+    "lips": "pet.roary.learn_together.json",
+    "speaker": "roary",
+    "text": "Let's learn together!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "2b850360f620",
+    "reviewed": false
+  },
+  "pet.roary.yay": {
+    "file": "pet.roary.yay.mp3",
+    "lips": "pet.roary.yay.json",
+    "speaker": "roary",
+    "text": "Yay!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "4c6836ef6c2f",
+    "reviewed": false
+  },
+  "pet.roary.you_did_it": {
+    "file": "pet.roary.you_did_it.mp3",
+    "lips": "pet.roary.you_did_it.json",
+    "speaker": "roary",
+    "text": "You did it!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "53ca245251c6",
+    "reviewed": false
+  },
+  "pet.roary.great_job": {
+    "file": "pet.roary.great_job.mp3",
+    "lips": "pet.roary.great_job.json",
+    "speaker": "roary",
+    "text": "Great job!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "fbdf3379f5ee",
+    "reviewed": false
+  },
+  "pet.roary.so_clever": {
+    "file": "pet.roary.so_clever.mp3",
+    "lips": "pet.roary.so_clever.json",
+    "speaker": "roary",
+    "text": "Wow, so clever!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "d155ad9dbf09",
+    "reviewed": false
+  },
+  "pet.roary.high_five": {
+    "file": "pet.roary.high_five.mp3",
+    "lips": "pet.roary.high_five.json",
+    "speaker": "roary",
+    "text": "High five!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "ae7c9509d46a",
+    "reviewed": false
+  },
+  "pet.roary.oopsie": {
+    "file": "pet.roary.oopsie.mp3",
+    "lips": "pet.roary.oopsie.json",
+    "speaker": "roary",
+    "text": "Oopsie! Try again!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "1d4961940c65",
+    "reviewed": false
+  },
+  "pet.roary.you_can": {
+    "file": "pet.roary.you_can.mp3",
+    "lips": "pet.roary.you_can.json",
+    "speaker": "roary",
+    "text": "You can do it!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "4332ad5f48b1",
+    "reviewed": false
+  },
+  "pet.roary.ill_help": {
+    "file": "pet.roary.ill_help.mp3",
+    "lips": "pet.roary.ill_help.json",
+    "speaker": "roary",
+    "text": "I'll help you!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "cfd93655e283",
+    "reviewed": false
+  },
+  "pet.roary.your_turn": {
+    "file": "pet.roary.your_turn.mp3",
+    "lips": "pet.roary.your_turn.json",
+    "speaker": "roary",
+    "text": "Your turn!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "5451f623bd60",
+    "reviewed": false
+  },
+  "pet.roary.say_it": {
+    "file": "pet.roary.say_it.mp3",
+    "lips": "pet.roary.say_it.json",
+    "speaker": "roary",
+    "text": "Say it, say it!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "bc35b107a14a",
+    "reviewed": false
+  },
+  "pet.roary.listening": {
+    "file": "pet.roary.listening.mp3",
+    "lips": "pet.roary.listening.json",
+    "speaker": "roary",
+    "text": "I'm listening!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "e658858aa91a",
+    "reviewed": false
+  },
+  "pet.roary.again_again": {
+    "file": "pet.roary.again_again.mp3",
+    "lips": "pet.roary.again_again.json",
+    "speaker": "roary",
+    "text": "Again, again!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "b27dabf069a8",
+    "reviewed": false
+  },
+  "pet.roary.like_word": {
+    "file": "pet.roary.like_word.mp3",
+    "lips": "pet.roary.like_word.json",
+    "speaker": "roary",
+    "text": "I like that word!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "c54cf5d1cbf8",
+    "reviewed": false
+  },
+  "pet.roary.got_star": {
+    "file": "pet.roary.got_star.mp3",
+    "lips": "pet.roary.got_star.json",
+    "speaker": "roary",
+    "text": "You got a star!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "3c921d94ad1e",
+    "reviewed": false
+  },
+  "pet.roary.proud": {
+    "file": "pet.roary.proud.mp3",
+    "lips": "pet.roary.proud.json",
+    "speaker": "roary",
+    "text": "I'm so proud of you!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "cd8416707bd5",
+    "reviewed": false
+  },
+  "pet.roary.hooray": {
+    "file": "pet.roary.hooray.mp3",
+    "lips": "pet.roary.hooray.json",
+    "speaker": "roary",
+    "text": "Hooray!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "cb1840dad0b5",
+    "reviewed": false
+  },
+  "pet.roary.see_you": {
+    "file": "pet.roary.see_you.mp3",
+    "lips": "pet.roary.see_you.json",
+    "speaker": "roary",
+    "text": "See you tomorrow!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "a823c0e70b80",
+    "reviewed": false
+  },
+  "pet.roary.bye": {
+    "file": "pet.roary.bye.mp3",
+    "lips": "pet.roary.bye.json",
+    "speaker": "roary",
+    "text": "Bye-bye!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "66da0b454d94",
+    "reviewed": false
+  },
+  "pet.roary.tickles": {
+    "file": "pet.roary.tickles.mp3",
+    "lips": "pet.roary.tickles.json",
+    "speaker": "roary",
+    "text": "Hee hee, that tickles!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "8c5ce4dc802c",
+    "reviewed": false
+  },
+  "pet.roary.love_you": {
+    "file": "pet.roary.love_you.mp3",
+    "lips": "pet.roary.love_you.json",
+    "speaker": "roary",
+    "text": "I love you!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "68dd41172a57",
+    "reviewed": false
+  },
+  "pet.roary.lets_play": {
+    "file": "pet.roary.lets_play.mp3",
+    "lips": "pet.roary.lets_play.json",
+    "speaker": "roary",
+    "text": "Let's play!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "8636880d194c",
+    "reviewed": false
+  },
+  "pet.roary.happy_meet": {
+    "file": "pet.roary.happy_meet.mp3",
+    "lips": "pet.roary.happy_meet.json",
+    "speaker": "roary",
+    "text": "I'm so happy to meet you!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "087634fd6b93",
+    "reviewed": false
+  },
+  "pet.roary.own1": {
+    "file": "pet.roary.own1.mp3",
+    "lips": "pet.roary.own1.json",
+    "speaker": "roary",
+    "text": "Roar! You're a champion!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "c7060d45ebc8",
+    "reviewed": false
+  },
+  "pet.roary.own2": {
+    "file": "pet.roary.own2.mp3",
+    "lips": "pet.roary.own2.json",
+    "speaker": "roary",
+    "text": "Be brave, little friend!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "df57d43356b7",
+    "reviewed": false
+  },
+  "pet.roary.own3": {
+    "file": "pet.roary.own3.mp3",
+    "lips": "pet.roary.own3.json",
+    "speaker": "roary",
+    "text": "King of learning!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "882ee49d21e9",
+    "reviewed": false
+  },
+  "pet.roary.own4": {
+    "file": "pet.roary.own4.mp3",
+    "lips": "pet.roary.own4.json",
+    "speaker": "roary",
+    "text": "Let's roar it loud!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "acbdade80533",
+    "reviewed": false
+  },
+  "pet.beep.start_today": {
+    "file": "pet.beep.start_today.mp3",
+    "lips": "pet.beep.start_today.json",
+    "speaker": "beep",
+    "text": "Let's start today's lesson!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "7ba39d118587",
+    "reviewed": false
+  },
+  "pet.gaju.start_today": {
+    "file": "pet.gaju.start_today.mp3",
+    "lips": "pet.gaju.start_today.json",
+    "speaker": "gaju",
+    "text": "Let's start today's lesson!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "4ef42603320c",
+    "reviewed": false
+  },
+  "pet.sparky.start_today": {
+    "file": "pet.sparky.start_today.mp3",
+    "lips": "pet.sparky.start_today.json",
+    "speaker": "sparky",
+    "text": "Let's start today's lesson!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "44141223efc5",
+    "reviewed": false
+  },
+  "pet.bobo.start_today": {
+    "file": "pet.bobo.start_today.mp3",
+    "lips": "pet.bobo.start_today.json",
+    "speaker": "bobo",
+    "text": "Let's start today's lesson!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "7c684421ca58",
+    "reviewed": false
+  },
+  "pet.mimi.start_today": {
+    "file": "pet.mimi.start_today.mp3",
+    "lips": "pet.mimi.start_today.json",
+    "speaker": "mimi",
+    "text": "Let's start today's lesson!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "749e7238b1e2",
+    "reviewed": false
+  },
+  "pet.himu.start_today": {
+    "file": "pet.himu.start_today.mp3",
+    "lips": "pet.himu.start_today.json",
+    "speaker": "himu",
+    "text": "Let's start today's lesson!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "e85ac284f495",
+    "reviewed": false
+  },
+  "pet.pandu.start_today": {
+    "file": "pet.pandu.start_today.mp3",
+    "lips": "pet.pandu.start_today.json",
+    "speaker": "pandu",
+    "text": "Let's start today's lesson!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "54a192b836a2",
+    "reviewed": false
+  },
+  "pet.stardust.start_today": {
+    "file": "pet.stardust.start_today.mp3",
+    "lips": "pet.stardust.start_today.json",
+    "speaker": "stardust",
+    "text": "Let's start today's lesson!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "0d42ae8b44a8",
+    "reviewed": false
+  },
+  "pet.roary.start_today": {
+    "file": "pet.roary.start_today.mp3",
+    "lips": "pet.roary.start_today.json",
+    "speaker": "roary",
+    "text": "Let's start today's lesson!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "52a2e8132cf6",
+    "reviewed": false
+  },
+  "t.good_evening.asha": {
+    "file": "t.good_evening.asha.mp3",
+    "lips": "t.good_evening.asha.json",
+    "speaker": "asha",
+    "text": "Good evening!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "a5a04d5c17a6",
+    "reviewed": false
+  },
+  "t.welcome_back.asha": {
+    "file": "t.welcome_back.asha.mp3",
+    "lips": "t.welcome_back.asha.json",
+    "speaker": "asha",
+    "text": "Welcome back!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "2101961423d4",
+    "reviewed": false
+  },
+  "t.good_afternoon.asha": {
+    "file": "t.good_afternoon.asha.mp3",
+    "lips": "t.good_afternoon.asha.json",
+    "speaker": "asha",
+    "text": "Good afternoon!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "6b57d702e6ba",
+    "reviewed": false
+  },
+  "t.nice_to_see.asha": {
+    "file": "t.nice_to_see.asha.mp3",
+    "lips": "t.nice_to_see.asha.json",
+    "speaker": "asha",
+    "text": "Nice to see you!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "c22269e6fd9c",
+    "reviewed": false
+  },
+  "t.hi_there.asha": {
+    "file": "t.hi_there.asha.mp3",
+    "lips": "t.hi_there.asha.json",
+    "speaker": "asha",
+    "text": "Hi there!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "c1a483ecd464",
+    "reviewed": false
+  },
+  "t.fun_today.asha": {
+    "file": "t.fun_today.asha.mp3",
+    "lips": "t.fun_today.asha.json",
+    "speaker": "asha",
+    "text": "Let's have fun today!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "a0e0f1d31e6e",
+    "reviewed": false
+  },
+  "t.missed_you.asha": {
+    "file": "t.missed_you.asha.mp3",
+    "lips": "t.missed_you.asha.json",
+    "speaker": "asha",
+    "text": "I missed you!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "8ce3ada9955c",
+    "reviewed": false
+  },
+  "t.yay_youre_here.asha": {
+    "file": "t.yay_youre_here.asha.mp3",
+    "lips": "t.yay_youre_here.asha.json",
+    "speaker": "asha",
+    "text": "You're here, yay!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "ea7f9950c3e6",
+    "reviewed": false
+  },
+  "t.so_happy.asha": {
+    "file": "t.so_happy.asha.mp3",
+    "lips": "t.so_happy.asha.json",
+    "speaker": "asha",
+    "text": "I'm so happy you came!",
+    "voice_id": "cgSgspJ2msm6clMCkdW9",
+    "model": "eleven_v3",
+    "fp": "c7ab91bf2ed2",
+    "reviewed": false
+  },
+  "t.good_afternoon.leo": {
+    "file": "t.good_afternoon.leo.mp3",
+    "lips": "t.good_afternoon.leo.json",
+    "speaker": "leo",
+    "text": "Good afternoon!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "9eaadd96a9ab",
+    "reviewed": false
+  },
+  "t.good_evening.leo": {
+    "file": "t.good_evening.leo.mp3",
+    "lips": "t.good_evening.leo.json",
+    "speaker": "leo",
+    "text": "Good evening!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "6e44129b0090",
+    "reviewed": false
+  },
+  "t.welcome_back.leo": {
+    "file": "t.welcome_back.leo.mp3",
+    "lips": "t.welcome_back.leo.json",
+    "speaker": "leo",
+    "text": "Welcome back!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "c5e240a2a480",
+    "reviewed": false
+  },
+  "t.nice_to_see.leo": {
+    "file": "t.nice_to_see.leo.mp3",
+    "lips": "t.nice_to_see.leo.json",
+    "speaker": "leo",
+    "text": "Nice to see you!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "5b0b927042d1",
+    "reviewed": false
+  },
+  "t.hi_there.leo": {
+    "file": "t.hi_there.leo.mp3",
+    "lips": "t.hi_there.leo.json",
+    "speaker": "leo",
+    "text": "Hi there!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "9dc0effcb0db",
+    "reviewed": false
+  },
+  "t.fun_today.leo": {
+    "file": "t.fun_today.leo.mp3",
+    "lips": "t.fun_today.leo.json",
+    "speaker": "leo",
+    "text": "Let's have fun today!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "f78ef7793e97",
+    "reviewed": false
+  },
+  "t.yay_youre_here.leo": {
+    "file": "t.yay_youre_here.leo.mp3",
+    "lips": "t.yay_youre_here.leo.json",
+    "speaker": "leo",
+    "text": "You're here, yay!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "9a6516989ef1",
+    "reviewed": false
+  },
+  "t.missed_you.leo": {
+    "file": "t.missed_you.leo.mp3",
+    "lips": "t.missed_you.leo.json",
+    "speaker": "leo",
+    "text": "I missed you!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "8426ba6f11d1",
+    "reviewed": false
+  },
+  "t.so_happy.leo": {
+    "file": "t.so_happy.leo.mp3",
+    "lips": "t.so_happy.leo.json",
+    "speaker": "leo",
+    "text": "I'm so happy you came!",
+    "voice_id": "bIHbv24MWmeRgasZH58o",
+    "model": "eleven_v3",
+    "fp": "69cd9bc28d58",
+    "reviewed": false
+  }
+}

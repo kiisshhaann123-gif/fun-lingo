@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/w.egg.look.tmp.wav",
+    "duration": 1.72
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.15, "value": "B" },
+    { "start": 0.15, "end": 0.22, "value": "F" },
+    { "start": 0.22, "end": 0.29, "value": "B" },
+    { "start": 0.29, "end": 0.43, "value": "C" },
+    { "start": 0.43, "end": 0.57, "value": "E" },
+    { "start": 0.57, "end": 0.84, "value": "C" },
+    { "start": 0.84, "end": 0.90, "value": "B" },
+    { "start": 0.90, "end": 0.95, "value": "E" },
+    { "start": 0.95, "end": 1.02, "value": "F" },
+    { "start": 1.02, "end": 1.16, "value": "C" },
+    { "start": 1.16, "end": 1.37, "value": "B" },
+    { "start": 1.37, "end": 1.72, "value": "X" }
+  ]
+}

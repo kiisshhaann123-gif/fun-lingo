@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/w.green.say.tmp.wav",
+    "duration": 1.56
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.22, "value": "B" },
+    { "start": 0.22, "end": 0.29, "value": "E" },
+    { "start": 0.29, "end": 0.50, "value": "B" },
+    { "start": 0.50, "end": 1.56, "value": "X" }
+  ]
+}

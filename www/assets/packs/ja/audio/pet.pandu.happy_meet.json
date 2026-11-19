@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.pandu.happy_meet.tmp.wav",
+    "duration": 1.88
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.11, "value": "B" },
+    { "start": 0.11, "end": 0.17, "value": "D" },
+    { "start": 0.17, "end": 0.31, "value": "B" },
+    { "start": 0.31, "end": 0.39, "value": "A" },
+    { "start": 0.39, "end": 0.66, "value": "C" },
+    { "start": 0.66, "end": 0.73, "value": "B" },
+    { "start": 0.73, "end": 1.00, "value": "X" },
+    { "start": 1.00, "end": 1.16, "value": "B" },
+    { "start": 1.16, "end": 1.30, "value": "C" },
+    { "start": 1.30, "end": 1.58, "value": "F" },
+    { "start": 1.58, "end": 1.86, "value": "B" },
+    { "start": 1.86, "end": 1.88, "value": "X" }
+  ]
+}

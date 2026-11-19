@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/w.apple.look.tmp.wav",
+    "duration": 1.48
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.06, "value": "X" },
+    { "start": 0.06, "end": 0.27, "value": "F" },
+    { "start": 0.27, "end": 0.61, "value": "B" },
+    { "start": 0.61, "end": 0.84, "value": "C" },
+    { "start": 0.84, "end": 1.00, "value": "A" },
+    { "start": 1.00, "end": 1.07, "value": "B" },
+    { "start": 1.07, "end": 1.28, "value": "H" },
+    { "start": 1.28, "end": 1.48, "value": "X" }
+  ]
+}

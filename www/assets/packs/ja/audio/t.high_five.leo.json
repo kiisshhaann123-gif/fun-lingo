@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/t.high_five.leo.tmp.wav",
+    "duration": 1.88
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.13, "value": "A" },
+    { "start": 0.13, "end": 0.75, "value": "B" },
+    { "start": 0.75, "end": 0.82, "value": "C" },
+    { "start": 0.82, "end": 1.88, "value": "X" }
+  ]
+}

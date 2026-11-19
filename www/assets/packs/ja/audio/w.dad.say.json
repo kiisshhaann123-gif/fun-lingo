@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/w.dad.say.tmp.wav",
+    "duration": 1.22
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.09, "value": "B" },
+    { "start": 0.09, "end": 0.17, "value": "A" },
+    { "start": 0.17, "end": 0.37, "value": "E" },
+    { "start": 0.37, "end": 1.21, "value": "B" },
+    { "start": 1.21, "end": 1.22, "value": "X" }
+  ]
+}

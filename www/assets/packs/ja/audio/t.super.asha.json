@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/t.super.asha.tmp.wav",
+    "duration": 1.14
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.21, "value": "B" },
+    { "start": 0.21, "end": 0.29, "value": "A" },
+    { "start": 0.29, "end": 0.40, "value": "F" },
+    { "start": 0.40, "end": 0.54, "value": "E" },
+    { "start": 0.54, "end": 0.61, "value": "F" },
+    { "start": 0.61, "end": 0.82, "value": "B" },
+    { "start": 0.82, "end": 1.14, "value": "X" }
+  ]
+}

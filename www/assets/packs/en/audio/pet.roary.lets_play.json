@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/pet.roary.lets_play.tmp.wav",
+    "duration": 1.41
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.04, "value": "X" },
+    { "start": 0.04, "end": 0.20, "value": "H" },
+    { "start": 0.20, "end": 0.34, "value": "B" },
+    { "start": 0.34, "end": 0.42, "value": "A" },
+    { "start": 0.42, "end": 0.64, "value": "H" },
+    { "start": 0.64, "end": 0.83, "value": "C" },
+    { "start": 0.83, "end": 0.88, "value": "E" },
+    { "start": 0.88, "end": 1.13, "value": "F" },
+    { "start": 1.13, "end": 1.41, "value": "X" }
+  ]
+}

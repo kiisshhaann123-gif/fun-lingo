@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/t.here_it_is.leo.tmp.wav",
+    "duration": 1.56
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.21, "value": "F" },
+    { "start": 0.21, "end": 0.42, "value": "B" },
+    { "start": 0.42, "end": 0.75, "value": "X" },
+    { "start": 0.75, "end": 1.46, "value": "B" },
+    { "start": 1.46, "end": 1.56, "value": "X" }
+  ]
+}

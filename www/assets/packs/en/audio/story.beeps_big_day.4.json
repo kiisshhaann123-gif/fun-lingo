@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/story.beeps_big_day.4.tmp.wav",
+    "duration": 0.91
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.28, "value": "C" },
+    { "start": 0.28, "end": 0.36, "value": "A" },
+    { "start": 0.36, "end": 0.71, "value": "B" },
+    { "start": 0.71, "end": 0.91, "value": "X" }
+  ]
+}

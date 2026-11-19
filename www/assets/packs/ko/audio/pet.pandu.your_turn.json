@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.pandu.your_turn.tmp.wav",
+    "duration": 1.22
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.19, "value": "F" },
+    { "start": 0.19, "end": 0.23, "value": "E" },
+    { "start": 0.23, "end": 0.63, "value": "C" },
+    { "start": 0.63, "end": 0.77, "value": "D" },
+    { "start": 0.77, "end": 0.84, "value": "C" },
+    { "start": 0.84, "end": 1.22, "value": "X" }
+  ]
+}

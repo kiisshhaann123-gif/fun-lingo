@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/w.fish.say.tmp.wav",
+    "duration": 1.30
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.04, "value": "B" },
+    { "start": 0.04, "end": 0.12, "value": "A" },
+    { "start": 0.12, "end": 0.19, "value": "C" },
+    { "start": 0.19, "end": 0.26, "value": "B" },
+    { "start": 0.26, "end": 0.40, "value": "C" },
+    { "start": 0.40, "end": 0.47, "value": "E" },
+    { "start": 0.47, "end": 0.61, "value": "B" },
+    { "start": 0.61, "end": 1.30, "value": "X" }
+  ]
+}

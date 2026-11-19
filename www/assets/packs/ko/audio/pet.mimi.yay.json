@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.mimi.yay.tmp.wav",
+    "duration": 1.22
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.71, "value": "B" },
+    { "start": 0.71, "end": 0.92, "value": "F" },
+    { "start": 0.92, "end": 1.22, "value": "X" }
+  ]
+}

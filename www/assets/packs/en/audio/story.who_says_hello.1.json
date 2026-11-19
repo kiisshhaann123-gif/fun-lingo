@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/story.who_says_hello.1.tmp.wav",
+    "duration": 1.64
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.06, "value": "A" },
+    { "start": 0.06, "end": 0.15, "value": "B" },
+    { "start": 0.15, "end": 0.31, "value": "A" },
+    { "start": 0.31, "end": 0.52, "value": "E" },
+    { "start": 0.52, "end": 0.66, "value": "F" },
+    { "start": 0.66, "end": 0.80, "value": "G" },
+    { "start": 0.80, "end": 0.94, "value": "E" },
+    { "start": 0.94, "end": 1.01, "value": "F" },
+    { "start": 1.01, "end": 1.15, "value": "D" },
+    { "start": 1.15, "end": 1.22, "value": "C" },
+    { "start": 1.22, "end": 1.43, "value": "B" },
+    { "start": 1.43, "end": 1.64, "value": "X" }
+  ]
+}

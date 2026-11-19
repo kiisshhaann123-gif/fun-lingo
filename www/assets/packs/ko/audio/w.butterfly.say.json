@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/w.butterfly.say.tmp.wav",
+    "duration": 0.75
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.06, "value": "A" },
+    { "start": 0.06, "end": 0.15, "value": "D" },
+    { "start": 0.15, "end": 0.19, "value": "C" },
+    { "start": 0.19, "end": 0.27, "value": "A" },
+    { "start": 0.27, "end": 0.46, "value": "B" },
+    { "start": 0.46, "end": 0.53, "value": "F" },
+    { "start": 0.53, "end": 0.74, "value": "B" },
+    { "start": 0.74, "end": 0.75, "value": "X" }
+  ]
+}

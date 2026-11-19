@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/pet.roary.yay_here.tmp.wav",
+    "duration": 1.72
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.31, "value": "B" },
+    { "start": 0.31, "end": 0.45, "value": "F" },
+    { "start": 0.45, "end": 0.52, "value": "E" },
+    { "start": 0.52, "end": 0.66, "value": "F" },
+    { "start": 0.66, "end": 0.74, "value": "A" },
+    { "start": 0.74, "end": 1.36, "value": "B" },
+    { "start": 1.36, "end": 1.50, "value": "E" },
+    { "start": 1.50, "end": 1.64, "value": "F" },
+    { "start": 1.64, "end": 1.71, "value": "B" },
+    { "start": 1.71, "end": 1.72, "value": "X" }
+  ]
+}

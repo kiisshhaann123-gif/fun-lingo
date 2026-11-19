@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/pet.stardust.start_today.tmp.wav",
+    "duration": 1.88
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.08, "value": "B" },
+    { "start": 0.08, "end": 0.15, "value": "D" },
+    { "start": 0.15, "end": 0.22, "value": "F" },
+    { "start": 0.22, "end": 0.29, "value": "B" },
+    { "start": 0.29, "end": 0.43, "value": "C" },
+    { "start": 0.43, "end": 0.51, "value": "A" },
+    { "start": 0.51, "end": 0.69, "value": "C" },
+    { "start": 0.69, "end": 1.11, "value": "B" },
+    { "start": 1.11, "end": 1.18, "value": "G" },
+    { "start": 1.18, "end": 1.32, "value": "B" },
+    { "start": 1.32, "end": 1.39, "value": "F" },
+    { "start": 1.39, "end": 1.46, "value": "C" },
+    { "start": 1.46, "end": 1.53, "value": "B" },
+    { "start": 1.53, "end": 1.67, "value": "E" },
+    { "start": 1.67, "end": 1.75, "value": "A" },
+    { "start": 1.75, "end": 1.87, "value": "B" },
+    { "start": 1.87, "end": 1.88, "value": "X" }
+  ]
+}

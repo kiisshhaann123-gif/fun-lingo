@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/w.fish.look.tmp.wav",
+    "duration": 1.48
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.26, "value": "F" },
+    { "start": 0.26, "end": 0.40, "value": "B" },
+    { "start": 0.40, "end": 0.67, "value": "X" },
+    { "start": 0.67, "end": 0.74, "value": "B" },
+    { "start": 0.74, "end": 0.88, "value": "G" },
+    { "start": 0.88, "end": 1.23, "value": "B" },
+    { "start": 1.23, "end": 1.48, "value": "X" }
+  ]
+}

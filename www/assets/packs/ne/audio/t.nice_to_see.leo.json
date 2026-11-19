@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/t.nice_to_see.leo.tmp.wav",
+    "duration": 1.48
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.12, "value": "B" },
+    { "start": 0.12, "end": 0.33, "value": "F" },
+    { "start": 0.33, "end": 0.68, "value": "B" },
+    { "start": 0.68, "end": 0.82, "value": "C" },
+    { "start": 0.82, "end": 1.10, "value": "B" },
+    { "start": 1.10, "end": 1.48, "value": "X" }
+  ]
+}

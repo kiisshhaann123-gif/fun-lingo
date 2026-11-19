@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/t.look.leo.tmp.wav",
+    "duration": 0.67
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.10, "value": "A" },
+    { "start": 0.10, "end": 0.24, "value": "C" },
+    { "start": 0.24, "end": 0.52, "value": "H" },
+    { "start": 0.52, "end": 0.66, "value": "B" },
+    { "start": 0.66, "end": 0.67, "value": "X" }
+  ]
+}

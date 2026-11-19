@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/t.bye.leo.tmp.wav",
+    "duration": 0.91
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "B" },
+    { "start": 0.05, "end": 0.66, "value": "E" },
+    { "start": 0.66, "end": 0.91, "value": "X" }
+  ]
+}

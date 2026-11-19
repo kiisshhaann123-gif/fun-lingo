@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/t.good_evening.asha.tmp.wav",
+    "duration": 1.14
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.33, "value": "B" },
+    { "start": 0.33, "end": 0.40, "value": "G" },
+    { "start": 0.40, "end": 0.82, "value": "B" },
+    { "start": 0.82, "end": 1.14, "value": "X" }
+  ]
+}

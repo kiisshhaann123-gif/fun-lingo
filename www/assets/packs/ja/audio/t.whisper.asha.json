@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/t.whisper.asha.tmp.wav",
+    "duration": 1.64
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.38, "value": "F" },
+    { "start": 0.38, "end": 0.59, "value": "B" },
+    { "start": 0.59, "end": 0.73, "value": "X" },
+    { "start": 0.73, "end": 0.87, "value": "B" },
+    { "start": 0.87, "end": 0.99, "value": "X" },
+    { "start": 0.99, "end": 1.01, "value": "B" },
+    { "start": 1.01, "end": 1.07, "value": "A" },
+    { "start": 1.07, "end": 1.12, "value": "F" },
+    { "start": 1.12, "end": 1.17, "value": "A" },
+    { "start": 1.17, "end": 1.35, "value": "C" },
+    { "start": 1.35, "end": 1.49, "value": "B" },
+    { "start": 1.49, "end": 1.64, "value": "X" }
+  ]
+}

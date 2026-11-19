@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.gaju.great_job.tmp.wav",
+    "duration": 0.91
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.13, "value": "B" },
+    { "start": 0.13, "end": 0.38, "value": "F" },
+    { "start": 0.38, "end": 0.45, "value": "E" },
+    { "start": 0.45, "end": 0.90, "value": "C" },
+    { "start": 0.90, "end": 0.91, "value": "X" }
+  ]
+}

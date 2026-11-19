@@ -1,0 +1,2807 @@
+{
+ "language": "ja",
+ "unit": 1,
+ "_note": "Unit 1 script. A native speaker checks every line before audio is made.",
+ "lines": [
+  {
+   "id": "w.hello.say",
+   "speaker": "asha",
+   "text": "こんにちは！"
+  },
+  {
+   "id": "w.bye.say",
+   "speaker": "asha",
+   "text": "バイバイ！"
+  },
+  {
+   "id": "ph.01.asha",
+   "speaker": "asha",
+   "text": "こんにちは！"
+  },
+  {
+   "id": "ph.01.leo",
+   "speaker": "leo",
+   "text": "こんにちは！"
+  },
+  {
+   "id": "w.mom.say",
+   "speaker": "leo",
+   "text": "ママ。"
+  },
+  {
+   "id": "w.mom.look",
+   "speaker": "leo",
+   "text": "みて！ママ！"
+  },
+  {
+   "id": "w.mom.find",
+   "speaker": "leo",
+   "text": "ママは どこかな？"
+  },
+  {
+   "id": "w.mom.yes",
+   "speaker": "leo",
+   "text": "そう！ママ！"
+  },
+  {
+   "id": "w.dad.say",
+   "speaker": "leo",
+   "text": "パパ。"
+  },
+  {
+   "id": "w.dad.look",
+   "speaker": "leo",
+   "text": "みて！パパ！"
+  },
+  {
+   "id": "w.dad.find",
+   "speaker": "leo",
+   "text": "パパは どこかな？"
+  },
+  {
+   "id": "w.dad.yes",
+   "speaker": "leo",
+   "text": "そう！パパ！"
+  },
+  {
+   "id": "ph.02.asha",
+   "speaker": "asha",
+   "text": "これは ママ。"
+  },
+  {
+   "id": "ph.02.leo",
+   "speaker": "leo",
+   "text": "これは ママ。"
+  },
+  {
+   "id": "w.baby.say",
+   "speaker": "asha",
+   "text": "あかちゃん。"
+  },
+  {
+   "id": "w.baby.look",
+   "speaker": "asha",
+   "text": "みて！あかちゃん！"
+  },
+  {
+   "id": "w.baby.find",
+   "speaker": "asha",
+   "text": "あかちゃんは どこかな？"
+  },
+  {
+   "id": "w.baby.yes",
+   "speaker": "asha",
+   "text": "そう！あかちゃん！"
+  },
+  {
+   "id": "w.hand.say",
+   "speaker": "asha",
+   "text": "て。"
+  },
+  {
+   "id": "w.hand.look",
+   "speaker": "asha",
+   "text": "みて！て！"
+  },
+  {
+   "id": "w.hand.find",
+   "speaker": "asha",
+   "text": "ては どこかな？"
+  },
+  {
+   "id": "w.hand.yes",
+   "speaker": "asha",
+   "text": "そう！て！"
+  },
+  {
+   "id": "ph.03.asha",
+   "speaker": "asha",
+   "text": "てを ふって！"
+  },
+  {
+   "id": "ph.03.leo",
+   "speaker": "leo",
+   "text": "てを ふって！"
+  },
+  {
+   "id": "w.eyes.say",
+   "speaker": "leo",
+   "text": "め。"
+  },
+  {
+   "id": "w.eyes.look",
+   "speaker": "leo",
+   "text": "みて！め！"
+  },
+  {
+   "id": "w.eyes.find",
+   "speaker": "leo",
+   "text": "めは どこかな？"
+  },
+  {
+   "id": "w.eyes.yes",
+   "speaker": "leo",
+   "text": "そう！め！"
+  },
+  {
+   "id": "w.nose.say",
+   "speaker": "leo",
+   "text": "はな。"
+  },
+  {
+   "id": "w.nose.look",
+   "speaker": "leo",
+   "text": "みて！はな！"
+  },
+  {
+   "id": "w.nose.find",
+   "speaker": "leo",
+   "text": "はなは どこかな？"
+  },
+  {
+   "id": "w.nose.yes",
+   "speaker": "leo",
+   "text": "そう！はな！"
+  },
+  {
+   "id": "ph.04.asha",
+   "speaker": "asha",
+   "text": "はなを さわって！"
+  },
+  {
+   "id": "ph.04.leo",
+   "speaker": "leo",
+   "text": "はなを さわって！"
+  },
+  {
+   "id": "w.dog.say",
+   "speaker": "leo",
+   "text": "いぬ。"
+  },
+  {
+   "id": "w.dog.look",
+   "speaker": "leo",
+   "text": "みて！いぬ！"
+  },
+  {
+   "id": "w.dog.find",
+   "speaker": "leo",
+   "text": "いぬは どこかな？"
+  },
+  {
+   "id": "w.dog.yes",
+   "speaker": "leo",
+   "text": "そう！いぬ！"
+  },
+  {
+   "id": "w.cat.say",
+   "speaker": "leo",
+   "text": "ねこ。"
+  },
+  {
+   "id": "w.cat.look",
+   "speaker": "leo",
+   "text": "みて！ねこ！"
+  },
+  {
+   "id": "w.cat.find",
+   "speaker": "leo",
+   "text": "ねこは どこかな？"
+  },
+  {
+   "id": "w.cat.yes",
+   "speaker": "leo",
+   "text": "そう！ねこ！"
+  },
+  {
+   "id": "ph.06.asha",
+   "speaker": "asha",
+   "text": "いぬは ワンワン。"
+  },
+  {
+   "id": "ph.06.leo",
+   "speaker": "leo",
+   "text": "いぬは ワンワン。"
+  },
+  {
+   "id": "w.cow.say",
+   "speaker": "asha",
+   "text": "うし。"
+  },
+  {
+   "id": "w.cow.look",
+   "speaker": "asha",
+   "text": "みて！うし！"
+  },
+  {
+   "id": "w.cow.find",
+   "speaker": "asha",
+   "text": "うしは どこかな？"
+  },
+  {
+   "id": "w.cow.yes",
+   "speaker": "asha",
+   "text": "そう！うし！"
+  },
+  {
+   "id": "w.bird.say",
+   "speaker": "asha",
+   "text": "とり。"
+  },
+  {
+   "id": "w.bird.look",
+   "speaker": "asha",
+   "text": "みて！とり！"
+  },
+  {
+   "id": "w.bird.find",
+   "speaker": "asha",
+   "text": "とりは どこかな？"
+  },
+  {
+   "id": "w.bird.yes",
+   "speaker": "asha",
+   "text": "そう！とり！"
+  },
+  {
+   "id": "ph.07.asha",
+   "speaker": "asha",
+   "text": "うしは モーモー。"
+  },
+  {
+   "id": "ph.07.leo",
+   "speaker": "leo",
+   "text": "うしは モーモー。"
+  },
+  {
+   "id": "w.fish.say",
+   "speaker": "leo",
+   "text": "さかな。"
+  },
+  {
+   "id": "w.fish.look",
+   "speaker": "leo",
+   "text": "みて！さかな！"
+  },
+  {
+   "id": "w.fish.find",
+   "speaker": "leo",
+   "text": "さかなは どこかな？"
+  },
+  {
+   "id": "w.fish.yes",
+   "speaker": "leo",
+   "text": "そう！さかな！"
+  },
+  {
+   "id": "w.butterfly.say",
+   "speaker": "leo",
+   "text": "ちょうちょ。"
+  },
+  {
+   "id": "w.butterfly.look",
+   "speaker": "leo",
+   "text": "みて！ちょうちょ！"
+  },
+  {
+   "id": "w.butterfly.find",
+   "speaker": "leo",
+   "text": "ちょうちょは どこかな？"
+  },
+  {
+   "id": "w.butterfly.yes",
+   "speaker": "leo",
+   "text": "そう！ちょうちょ！"
+  },
+  {
+   "id": "ph.08.asha",
+   "speaker": "asha",
+   "text": "さかなが およぐよ。"
+  },
+  {
+   "id": "ph.08.leo",
+   "speaker": "leo",
+   "text": "さかなが およぐよ。"
+  },
+  {
+   "id": "w.elephant.say",
+   "speaker": "asha",
+   "text": "ぞう。"
+  },
+  {
+   "id": "w.elephant.look",
+   "speaker": "asha",
+   "text": "みて！ぞう！"
+  },
+  {
+   "id": "w.elephant.find",
+   "speaker": "asha",
+   "text": "ぞうは どこかな？"
+  },
+  {
+   "id": "w.elephant.yes",
+   "speaker": "asha",
+   "text": "そう！ぞう！"
+  },
+  {
+   "id": "w.monkey.say",
+   "speaker": "asha",
+   "text": "さる。"
+  },
+  {
+   "id": "w.monkey.look",
+   "speaker": "asha",
+   "text": "みて！さる！"
+  },
+  {
+   "id": "w.monkey.find",
+   "speaker": "asha",
+   "text": "さるは どこかな？"
+  },
+  {
+   "id": "w.monkey.yes",
+   "speaker": "asha",
+   "text": "そう！さる！"
+  },
+  {
+   "id": "ph.09.asha",
+   "speaker": "asha",
+   "text": "さるが ジャンプ！"
+  },
+  {
+   "id": "ph.09.leo",
+   "speaker": "leo",
+   "text": "さるが ジャンプ！"
+  },
+  {
+   "id": "w.red.say",
+   "speaker": "asha",
+   "text": "あか。"
+  },
+  {
+   "id": "w.red.look",
+   "speaker": "asha",
+   "text": "みて！あか！"
+  },
+  {
+   "id": "w.red.find",
+   "speaker": "asha",
+   "text": "あかは どこかな？"
+  },
+  {
+   "id": "w.red.yes",
+   "speaker": "asha",
+   "text": "そう！あか！"
+  },
+  {
+   "id": "w.blue.say",
+   "speaker": "asha",
+   "text": "あお。"
+  },
+  {
+   "id": "w.blue.look",
+   "speaker": "asha",
+   "text": "みて！あお！"
+  },
+  {
+   "id": "w.blue.find",
+   "speaker": "asha",
+   "text": "あおは どこかな？"
+  },
+  {
+   "id": "w.blue.yes",
+   "speaker": "asha",
+   "text": "そう！あお！"
+  },
+  {
+   "id": "ph.11.asha",
+   "speaker": "asha",
+   "text": "あかだ！"
+  },
+  {
+   "id": "ph.11.leo",
+   "speaker": "leo",
+   "text": "あかだ！"
+  },
+  {
+   "id": "w.yellow.say",
+   "speaker": "leo",
+   "text": "きいろ。"
+  },
+  {
+   "id": "w.yellow.look",
+   "speaker": "leo",
+   "text": "みて！きいろ！"
+  },
+  {
+   "id": "w.yellow.find",
+   "speaker": "leo",
+   "text": "きいろは どこかな？"
+  },
+  {
+   "id": "w.yellow.yes",
+   "speaker": "leo",
+   "text": "そう！きいろ！"
+  },
+  {
+   "id": "w.green.say",
+   "speaker": "leo",
+   "text": "みどり。"
+  },
+  {
+   "id": "w.green.look",
+   "speaker": "leo",
+   "text": "みて！みどり！"
+  },
+  {
+   "id": "w.green.find",
+   "speaker": "leo",
+   "text": "みどりは どこかな？"
+  },
+  {
+   "id": "w.green.yes",
+   "speaker": "leo",
+   "text": "そう！みどり！"
+  },
+  {
+   "id": "ph.12.asha",
+   "speaker": "asha",
+   "text": "きいろだ！"
+  },
+  {
+   "id": "ph.12.leo",
+   "speaker": "leo",
+   "text": "きいろだ！"
+  },
+  {
+   "id": "w.white.say",
+   "speaker": "asha",
+   "text": "しろ。"
+  },
+  {
+   "id": "w.white.look",
+   "speaker": "asha",
+   "text": "みて！しろ！"
+  },
+  {
+   "id": "w.white.find",
+   "speaker": "asha",
+   "text": "しろは どこかな？"
+  },
+  {
+   "id": "w.white.yes",
+   "speaker": "asha",
+   "text": "そう！しろ！"
+  },
+  {
+   "id": "w.black.say",
+   "speaker": "asha",
+   "text": "くろ。"
+  },
+  {
+   "id": "w.black.look",
+   "speaker": "asha",
+   "text": "みて！くろ！"
+  },
+  {
+   "id": "w.black.find",
+   "speaker": "asha",
+   "text": "くろは どこかな？"
+  },
+  {
+   "id": "w.black.yes",
+   "speaker": "asha",
+   "text": "そう！くろ！"
+  },
+  {
+   "id": "ph.13.asha",
+   "speaker": "asha",
+   "text": "くろい ねこ！"
+  },
+  {
+   "id": "ph.13.leo",
+   "speaker": "leo",
+   "text": "くろい ねこ！"
+  },
+  {
+   "id": "w.thankyou.say",
+   "speaker": "leo",
+   "text": "ありがとう！"
+  },
+  {
+   "id": "w.yes.say",
+   "speaker": "leo",
+   "text": "はい！"
+  },
+  {
+   "id": "w.no.say",
+   "speaker": "leo",
+   "text": "いいえ！"
+  },
+  {
+   "id": "ph.14.asha",
+   "speaker": "asha",
+   "text": "ありがとう！"
+  },
+  {
+   "id": "ph.14.leo",
+   "speaker": "leo",
+   "text": "ありがとう！"
+  },
+  {
+   "id": "w.apple.say",
+   "speaker": "leo",
+   "text": "りんご。"
+  },
+  {
+   "id": "w.apple.look",
+   "speaker": "leo",
+   "text": "みて！りんご！"
+  },
+  {
+   "id": "w.apple.find",
+   "speaker": "leo",
+   "text": "りんごは どこかな？"
+  },
+  {
+   "id": "w.apple.yes",
+   "speaker": "leo",
+   "text": "そう！りんご！"
+  },
+  {
+   "id": "w.banana.say",
+   "speaker": "leo",
+   "text": "バナナ。"
+  },
+  {
+   "id": "w.banana.look",
+   "speaker": "leo",
+   "text": "みて！バナナ！"
+  },
+  {
+   "id": "w.banana.find",
+   "speaker": "leo",
+   "text": "バナナは どこかな？"
+  },
+  {
+   "id": "w.banana.yes",
+   "speaker": "leo",
+   "text": "そう！バナナ！"
+  },
+  {
+   "id": "ph.16.asha",
+   "speaker": "asha",
+   "text": "おいしい！"
+  },
+  {
+   "id": "ph.16.leo",
+   "speaker": "leo",
+   "text": "おいしい！"
+  },
+  {
+   "id": "w.milk.say",
+   "speaker": "asha",
+   "text": "ぎゅうにゅう。"
+  },
+  {
+   "id": "w.milk.look",
+   "speaker": "asha",
+   "text": "みて！ぎゅうにゅう！"
+  },
+  {
+   "id": "w.milk.find",
+   "speaker": "asha",
+   "text": "ぎゅうにゅうは どこかな？"
+  },
+  {
+   "id": "w.milk.yes",
+   "speaker": "asha",
+   "text": "そう！ぎゅうにゅう！"
+  },
+  {
+   "id": "w.water.say",
+   "speaker": "asha",
+   "text": "みず。"
+  },
+  {
+   "id": "w.water.look",
+   "speaker": "asha",
+   "text": "みて！みず！"
+  },
+  {
+   "id": "w.water.find",
+   "speaker": "asha",
+   "text": "みずは どこかな？"
+  },
+  {
+   "id": "w.water.yes",
+   "speaker": "asha",
+   "text": "そう！みず！"
+  },
+  {
+   "id": "ph.17.asha",
+   "speaker": "asha",
+   "text": "みずが ほしい。"
+  },
+  {
+   "id": "ph.17.leo",
+   "speaker": "leo",
+   "text": "みずが ほしい。"
+  },
+  {
+   "id": "w.rice.say",
+   "speaker": "leo",
+   "text": "ごはん。"
+  },
+  {
+   "id": "w.rice.look",
+   "speaker": "leo",
+   "text": "みて！ごはん！"
+  },
+  {
+   "id": "w.rice.find",
+   "speaker": "leo",
+   "text": "ごはんは どこかな？"
+  },
+  {
+   "id": "w.rice.yes",
+   "speaker": "leo",
+   "text": "そう！ごはん！"
+  },
+  {
+   "id": "w.egg.say",
+   "speaker": "leo",
+   "text": "たまご。"
+  },
+  {
+   "id": "w.egg.look",
+   "speaker": "leo",
+   "text": "みて！たまご！"
+  },
+  {
+   "id": "w.egg.find",
+   "speaker": "leo",
+   "text": "たまごは どこかな？"
+  },
+  {
+   "id": "w.egg.yes",
+   "speaker": "leo",
+   "text": "そう！たまご！"
+  },
+  {
+   "id": "ph.18.asha",
+   "speaker": "asha",
+   "text": "ごはん ください。"
+  },
+  {
+   "id": "ph.18.leo",
+   "speaker": "leo",
+   "text": "ごはん ください。"
+  },
+  {
+   "id": "w.please.say",
+   "speaker": "asha",
+   "text": "おねがい！"
+  },
+  {
+   "id": "ph.19.asha",
+   "speaker": "asha",
+   "text": "わたしの なまえは アシャ です。"
+  },
+  {
+   "id": "ph.19.leo",
+   "speaker": "leo",
+   "text": "ぼくの なまえは レオ です。"
+  },
+  {
+   "id": "t.intro_self.asha",
+   "speaker": "asha",
+   "text": "わたしは アシャ ねえさん！"
+  },
+  {
+   "id": "t.hello_friend.asha",
+   "speaker": "asha",
+   "text": "こんにちは、おともだち！"
+  },
+  {
+   "id": "t.good_morning.asha",
+   "speaker": "asha",
+   "text": "おはよう！"
+  },
+  {
+   "id": "t.good_afternoon.asha",
+   "speaker": "asha",
+   "text": "こんにちは！"
+  },
+  {
+   "id": "t.good_evening.asha",
+   "speaker": "asha",
+   "text": "こんばんは！"
+  },
+  {
+   "id": "t.welcome_back.asha",
+   "speaker": "asha",
+   "text": "おかえり！"
+  },
+  {
+   "id": "t.nice_to_see.asha",
+   "speaker": "asha",
+   "text": "あえて うれしいな！"
+  },
+  {
+   "id": "t.hi_there.asha",
+   "speaker": "asha",
+   "text": "やあ！"
+  },
+  {
+   "id": "t.fun_today.asha",
+   "speaker": "asha",
+   "text": "きょうも たのしもうね！"
+  },
+  {
+   "id": "t.yay_youre_here.asha",
+   "speaker": "asha",
+   "text": "きてくれたね、やったー！"
+  },
+  {
+   "id": "t.missed_you.asha",
+   "speaker": "asha",
+   "text": "あいたかったよ！"
+  },
+  {
+   "id": "t.so_happy.asha",
+   "speaker": "asha",
+   "text": "きてくれて うれしい！"
+  },
+  {
+   "id": "t.ready.asha",
+   "speaker": "asha",
+   "text": "じゅんびは いい？ まなぼう！"
+  },
+  {
+   "id": "t.game_first.asha",
+   "speaker": "asha",
+   "text": "まずは ゲームを しよう！"
+  },
+  {
+   "id": "t.remember.asha",
+   "speaker": "asha",
+   "text": "これ、おぼえてる？"
+  },
+  {
+   "id": "t.look.asha",
+   "speaker": "asha",
+   "text": "みて！"
+  },
+  {
+   "id": "t.listen.asha",
+   "speaker": "asha",
+   "text": "きいてね。"
+  },
+  {
+   "id": "t.again.asha",
+   "speaker": "asha",
+   "text": "もういちど！"
+  },
+  {
+   "id": "t.say_with_me.asha",
+   "speaker": "asha",
+   "text": "いっしょに いってみよう！"
+  },
+  {
+   "id": "t.your_turn.asha",
+   "speaker": "asha",
+   "text": "つぎは きみの ばん！"
+  },
+  {
+   "id": "t.slowly.asha",
+   "speaker": "asha",
+   "text": "ゆっくりね。"
+  },
+  {
+   "id": "t.louder.asha",
+   "speaker": "asha",
+   "text": "もっと おおきな こえで！"
+  },
+  {
+   "id": "t.whisper.asha",
+   "speaker": "asha",
+   "text": "こっそり いってみて！"
+  },
+  {
+   "id": "t.do_what_i_do.asha",
+   "speaker": "asha",
+   "text": "まねしてね！"
+  },
+  {
+   "id": "t.tap_it.asha",
+   "speaker": "asha",
+   "text": "タッチしてね！"
+  },
+  {
+   "id": "t.find_it.asha",
+   "speaker": "asha",
+   "text": "さがしてみて！"
+  },
+  {
+   "id": "t.which_one.asha",
+   "speaker": "asha",
+   "text": "どれかな？"
+  },
+  {
+   "id": "t.count_with_me.asha",
+   "speaker": "asha",
+   "text": "いっしょに かぞえよう！"
+  },
+  {
+   "id": "t.lets_sing.asha",
+   "speaker": "asha",
+   "text": "うたおう！"
+  },
+  {
+   "id": "t.story_time.asha",
+   "speaker": "asha",
+   "text": "おはなしの じかん！"
+  },
+  {
+   "id": "t.yes.asha",
+   "speaker": "asha",
+   "text": "そう！"
+  },
+  {
+   "id": "t.thats_right.asha",
+   "speaker": "asha",
+   "text": "せいかい！"
+  },
+  {
+   "id": "t.great_job.asha",
+   "speaker": "asha",
+   "text": "よくできました！"
+  },
+  {
+   "id": "t.wow.asha",
+   "speaker": "asha",
+   "text": "わあ！"
+  },
+  {
+   "id": "t.super.asha",
+   "speaker": "asha",
+   "text": "すごい！"
+  },
+  {
+   "id": "t.so_clever.asha",
+   "speaker": "asha",
+   "text": "かしこいね！"
+  },
+  {
+   "id": "t.well_done.asha",
+   "speaker": "asha",
+   "text": "じょうず！"
+  },
+  {
+   "id": "t.high_five.asha",
+   "speaker": "asha",
+   "text": "ハイタッチ！"
+  },
+  {
+   "id": "t.you_remembered.asha",
+   "speaker": "asha",
+   "text": "おぼえてたね！"
+  },
+  {
+   "id": "t.oops_look_again.asha",
+   "speaker": "asha",
+   "text": "あれれ？ もういちど みてみよう。"
+  },
+  {
+   "id": "t.try_another.asha",
+   "speaker": "asha",
+   "text": "うーん、ほかのも ためしてみて！"
+  },
+  {
+   "id": "t.here_it_is.asha",
+   "speaker": "asha",
+   "text": "ほら、ここだよ！"
+  },
+  {
+   "id": "t.almost.asha",
+   "speaker": "asha",
+   "text": "おしい！"
+  },
+  {
+   "id": "t.next_one.asha",
+   "speaker": "asha",
+   "text": "つぎ！"
+  },
+  {
+   "id": "t.last_one.asha",
+   "speaker": "asha",
+   "text": "さいごだよ！"
+  },
+  {
+   "id": "t.got_star.asha",
+   "speaker": "asha",
+   "text": "ほしを もらったよ！"
+  },
+  {
+   "id": "t.pet_closer.asha",
+   "speaker": "asha",
+   "text": "あたらしい ともだちに もうすぐ あえるよ！"
+  },
+  {
+   "id": "t.learned_so_much.asha",
+   "speaker": "asha",
+   "text": "きょうは いっぱい まなんだね！"
+  },
+  {
+   "id": "t.see_you_tomorrow.asha",
+   "speaker": "asha",
+   "text": "また あしたね！"
+  },
+  {
+   "id": "t.bye.asha",
+   "speaker": "asha",
+   "text": "バイバイ！"
+  },
+  {
+   "id": "t.intro_self.leo",
+   "speaker": "leo",
+   "text": "ぼくは レオ にいさん！"
+  },
+  {
+   "id": "t.hello_friend.leo",
+   "speaker": "leo",
+   "text": "こんにちは、おともだち！"
+  },
+  {
+   "id": "t.good_morning.leo",
+   "speaker": "leo",
+   "text": "おはよう！"
+  },
+  {
+   "id": "t.good_afternoon.leo",
+   "speaker": "leo",
+   "text": "こんにちは！"
+  },
+  {
+   "id": "t.good_evening.leo",
+   "speaker": "leo",
+   "text": "こんばんは！"
+  },
+  {
+   "id": "t.welcome_back.leo",
+   "speaker": "leo",
+   "text": "おかえり！"
+  },
+  {
+   "id": "t.nice_to_see.leo",
+   "speaker": "leo",
+   "text": "あえて うれしいな！"
+  },
+  {
+   "id": "t.hi_there.leo",
+   "speaker": "leo",
+   "text": "やあ！"
+  },
+  {
+   "id": "t.fun_today.leo",
+   "speaker": "leo",
+   "text": "きょうも たのしもうね！"
+  },
+  {
+   "id": "t.yay_youre_here.leo",
+   "speaker": "leo",
+   "text": "きてくれたね、やったー！"
+  },
+  {
+   "id": "t.missed_you.leo",
+   "speaker": "leo",
+   "text": "あいたかったよ！"
+  },
+  {
+   "id": "t.so_happy.leo",
+   "speaker": "leo",
+   "text": "きてくれて うれしい！"
+  },
+  {
+   "id": "t.ready.leo",
+   "speaker": "leo",
+   "text": "じゅんびは いい？ まなぼう！"
+  },
+  {
+   "id": "t.game_first.leo",
+   "speaker": "leo",
+   "text": "まずは ゲームを しよう！"
+  },
+  {
+   "id": "t.remember.leo",
+   "speaker": "leo",
+   "text": "これ、おぼえてる？"
+  },
+  {
+   "id": "t.look.leo",
+   "speaker": "leo",
+   "text": "みて！"
+  },
+  {
+   "id": "t.listen.leo",
+   "speaker": "leo",
+   "text": "きいてね。"
+  },
+  {
+   "id": "t.again.leo",
+   "speaker": "leo",
+   "text": "もういちど！"
+  },
+  {
+   "id": "t.say_with_me.leo",
+   "speaker": "leo",
+   "text": "いっしょに いってみよう！"
+  },
+  {
+   "id": "t.your_turn.leo",
+   "speaker": "leo",
+   "text": "つぎは きみの ばん！"
+  },
+  {
+   "id": "t.slowly.leo",
+   "speaker": "leo",
+   "text": "ゆっくりね。"
+  },
+  {
+   "id": "t.louder.leo",
+   "speaker": "leo",
+   "text": "もっと おおきな こえで！"
+  },
+  {
+   "id": "t.whisper.leo",
+   "speaker": "leo",
+   "text": "こっそり いってみて！"
+  },
+  {
+   "id": "t.do_what_i_do.leo",
+   "speaker": "leo",
+   "text": "まねしてね！"
+  },
+  {
+   "id": "t.tap_it.leo",
+   "speaker": "leo",
+   "text": "タッチしてね！"
+  },
+  {
+   "id": "t.find_it.leo",
+   "speaker": "leo",
+   "text": "さがしてみて！"
+  },
+  {
+   "id": "t.which_one.leo",
+   "speaker": "leo",
+   "text": "どれかな？"
+  },
+  {
+   "id": "t.count_with_me.leo",
+   "speaker": "leo",
+   "text": "いっしょに かぞえよう！"
+  },
+  {
+   "id": "t.lets_sing.leo",
+   "speaker": "leo",
+   "text": "うたおう！"
+  },
+  {
+   "id": "t.story_time.leo",
+   "speaker": "leo",
+   "text": "おはなしの じかん！"
+  },
+  {
+   "id": "t.yes.leo",
+   "speaker": "leo",
+   "text": "そう！"
+  },
+  {
+   "id": "t.thats_right.leo",
+   "speaker": "leo",
+   "text": "せいかい！"
+  },
+  {
+   "id": "t.great_job.leo",
+   "speaker": "leo",
+   "text": "よくできました！"
+  },
+  {
+   "id": "t.wow.leo",
+   "speaker": "leo",
+   "text": "わあ！"
+  },
+  {
+   "id": "t.super.leo",
+   "speaker": "leo",
+   "text": "すごい！"
+  },
+  {
+   "id": "t.so_clever.leo",
+   "speaker": "leo",
+   "text": "かしこいね！"
+  },
+  {
+   "id": "t.well_done.leo",
+   "speaker": "leo",
+   "text": "じょうず！"
+  },
+  {
+   "id": "t.high_five.leo",
+   "speaker": "leo",
+   "text": "ハイタッチ！"
+  },
+  {
+   "id": "t.you_remembered.leo",
+   "speaker": "leo",
+   "text": "おぼえてたね！"
+  },
+  {
+   "id": "t.oops_look_again.leo",
+   "speaker": "leo",
+   "text": "あれれ？ もういちど みてみよう。"
+  },
+  {
+   "id": "t.try_another.leo",
+   "speaker": "leo",
+   "text": "うーん、ほかのも ためしてみて！"
+  },
+  {
+   "id": "t.here_it_is.leo",
+   "speaker": "leo",
+   "text": "ほら、ここだよ！"
+  },
+  {
+   "id": "t.almost.leo",
+   "speaker": "leo",
+   "text": "おしい！"
+  },
+  {
+   "id": "t.next_one.leo",
+   "speaker": "leo",
+   "text": "つぎ！"
+  },
+  {
+   "id": "t.last_one.leo",
+   "speaker": "leo",
+   "text": "さいごだよ！"
+  },
+  {
+   "id": "t.got_star.leo",
+   "speaker": "leo",
+   "text": "ほしを もらったよ！"
+  },
+  {
+   "id": "t.pet_closer.leo",
+   "speaker": "leo",
+   "text": "あたらしい ともだちに もうすぐ あえるよ！"
+  },
+  {
+   "id": "t.learned_so_much.leo",
+   "speaker": "leo",
+   "text": "きょうは いっぱい まなんだね！"
+  },
+  {
+   "id": "t.see_you_tomorrow.leo",
+   "speaker": "leo",
+   "text": "また あしたね！"
+  },
+  {
+   "id": "t.bye.leo",
+   "speaker": "leo",
+   "text": "バイバイ！"
+  },
+  {
+   "id": "beep_intro.1",
+   "speaker": "asha",
+   "text": "こんにちは！ わたしは アシャ ねえさん。"
+  },
+  {
+   "id": "beep_intro.2",
+   "speaker": "leo",
+   "text": "ぼくは レオ にいさん！ こんにちは！"
+  },
+  {
+   "id": "beep_intro.3",
+   "speaker": "asha",
+   "text": "あれ？ これ なあに？"
+  },
+  {
+   "id": "beep_intro.4",
+   "speaker": "beep",
+   "text": "ピポパ！ こんにちは！"
+  },
+  {
+   "id": "beep_intro.5",
+   "speaker": "leo",
+   "text": "ビープだよ！ ビープは きみの ともだち。"
+  },
+  {
+   "id": "beep_intro.6",
+   "speaker": "beep",
+   "text": "やあ、ともだち！ いっしょに まなぼう！"
+  },
+  {
+   "id": "beep_intro.7",
+   "speaker": "asha",
+   "text": "ビープに こんにちは って いってみて！ こんにちは！"
+  },
+  {
+   "id": "beep_intro.8",
+   "speaker": "beep",
+   "text": "やったー！ ピポパ！"
+  },
+  {
+   "id": "unlock.did_it_20.asha",
+   "speaker": "asha",
+   "text": "やったね！ 20かい できた！"
+  },
+  {
+   "id": "unlock.who_new_friend.asha",
+   "speaker": "asha",
+   "text": "あたらしい ともだちは だれかな？"
+  },
+  {
+   "id": "unlock.hooray.asha",
+   "speaker": "asha",
+   "text": "ばんざい！"
+  },
+  {
+   "id": "unlock.this_is_gaju.asha",
+   "speaker": "asha",
+   "text": "ガジュ だよ！"
+  },
+  {
+   "id": "unlock.this_is_sparky.asha",
+   "speaker": "asha",
+   "text": "スパーキー だよ！"
+  },
+  {
+   "id": "unlock.this_is_bobo.asha",
+   "speaker": "asha",
+   "text": "ボボ だよ！"
+  },
+  {
+   "id": "unlock.this_is_himu.asha",
+   "speaker": "asha",
+   "text": "ヒム だよ！"
+  },
+  {
+   "id": "unlock.this_is_mimi.asha",
+   "speaker": "asha",
+   "text": "ミミ だよ！"
+  },
+  {
+   "id": "unlock.this_is_pandu.asha",
+   "speaker": "asha",
+   "text": "パンドゥ だよ！"
+  },
+  {
+   "id": "unlock.this_is_stardust.asha",
+   "speaker": "asha",
+   "text": "スターダスト だよ！"
+  },
+  {
+   "id": "unlock.this_is_roary.asha",
+   "speaker": "asha",
+   "text": "ローリー だよ！"
+  },
+  {
+   "id": "unlock.did_it_20.leo",
+   "speaker": "leo",
+   "text": "やったね！ 20かい できた！"
+  },
+  {
+   "id": "unlock.who_new_friend.leo",
+   "speaker": "leo",
+   "text": "あたらしい ともだちは だれかな？"
+  },
+  {
+   "id": "unlock.hooray.leo",
+   "speaker": "leo",
+   "text": "ばんざい！"
+  },
+  {
+   "id": "unlock.this_is_gaju.leo",
+   "speaker": "leo",
+   "text": "ガジュ だよ！"
+  },
+  {
+   "id": "unlock.this_is_sparky.leo",
+   "speaker": "leo",
+   "text": "スパーキー だよ！"
+  },
+  {
+   "id": "unlock.this_is_bobo.leo",
+   "speaker": "leo",
+   "text": "ボボ だよ！"
+  },
+  {
+   "id": "unlock.this_is_himu.leo",
+   "speaker": "leo",
+   "text": "ヒム だよ！"
+  },
+  {
+   "id": "unlock.this_is_mimi.leo",
+   "speaker": "leo",
+   "text": "ミミ だよ！"
+  },
+  {
+   "id": "unlock.this_is_pandu.leo",
+   "speaker": "leo",
+   "text": "パンドゥ だよ！"
+  },
+  {
+   "id": "unlock.this_is_stardust.leo",
+   "speaker": "leo",
+   "text": "スターダスト だよ！"
+  },
+  {
+   "id": "unlock.this_is_roary.leo",
+   "speaker": "leo",
+   "text": "ローリー だよ！"
+  },
+  {
+   "id": "story.who_says_hello.1",
+   "speaker": "leo",
+   "text": "ビープが おさんぽ。"
+  },
+  {
+   "id": "story.who_says_hello.2",
+   "speaker": "beep",
+   "text": "こんにちは！"
+  },
+  {
+   "id": "story.who_says_hello.3",
+   "speaker": "leo",
+   "text": "いぬだ！ いぬは ワンワン。"
+  },
+  {
+   "id": "story.who_says_hello.4",
+   "speaker": "leo",
+   "text": "ねこだ！ ねこは ニャー。"
+  },
+  {
+   "id": "story.who_says_hello.5",
+   "speaker": "leo",
+   "text": "うしだ！ うしは モーモー。"
+  },
+  {
+   "id": "story.who_says_hello.6",
+   "speaker": "leo",
+   "text": "とりだ！ とりは ピヨピヨ。"
+  },
+  {
+   "id": "story.who_says_hello.7",
+   "speaker": "leo",
+   "text": "ぞうと さる！"
+  },
+  {
+   "id": "story.who_says_hello.8",
+   "speaker": "leo",
+   "text": "みんなで こんにちは！"
+  },
+  {
+   "id": "story.who_says_hello.9",
+   "speaker": "beep",
+   "text": "こんにちは、みんな！ バイバイ！"
+  },
+  {
+   "id": "story.beeps_big_day.1",
+   "speaker": "leo",
+   "text": "きょうは ビープの とくべつな ひ！"
+  },
+  {
+   "id": "story.beeps_big_day.2",
+   "speaker": "beep",
+   "text": "こんにちは！ ぼくの なまえは ビープ！"
+  },
+  {
+   "id": "story.beeps_big_day.3",
+   "speaker": "leo",
+   "text": "ビープは あかい りんごと きいろい バナナを みつけた。"
+  },
+  {
+   "id": "story.beeps_big_day.4",
+   "speaker": "beep",
+   "text": "おいしそう！"
+  },
+  {
+   "id": "story.beeps_big_day.5",
+   "speaker": "leo",
+   "text": "ママが ビープに ごはんと たまごを くれた。"
+  },
+  {
+   "id": "story.beeps_big_day.6",
+   "speaker": "beep",
+   "text": "ありがとう！"
+  },
+  {
+   "id": "story.beeps_big_day.7",
+   "speaker": "leo",
+   "text": "パパが ぎゅうにゅうと みずを くれた。"
+  },
+  {
+   "id": "story.beeps_big_day.8",
+   "speaker": "leo",
+   "text": "あおい さかな、みどりの ちょうちょ、しろくろの うし！"
+  },
+  {
+   "id": "story.beeps_big_day.9",
+   "speaker": "beep",
+   "text": "とくべつな ひ、だいすき！ バイバイ！"
+  },
+  {
+   "id": "pet.beep.hi_friend",
+   "speaker": "beep",
+   "text": "やあ、ともだち！"
+  },
+  {
+   "id": "pet.beep.yay_here",
+   "speaker": "beep",
+   "text": "わーい、きてくれた！"
+  },
+  {
+   "id": "pet.beep.learn_together",
+   "speaker": "beep",
+   "text": "いっしょに まなぼう！"
+  },
+  {
+   "id": "pet.beep.start_today",
+   "speaker": "beep",
+   "text": "きょうの レッスンを はじめよう！"
+  },
+  {
+   "id": "pet.beep.yay",
+   "speaker": "beep",
+   "text": "やったー！"
+  },
+  {
+   "id": "pet.beep.you_did_it",
+   "speaker": "beep",
+   "text": "できたね！"
+  },
+  {
+   "id": "pet.beep.great_job",
+   "speaker": "beep",
+   "text": "すごいね！"
+  },
+  {
+   "id": "pet.beep.so_clever",
+   "speaker": "beep",
+   "text": "わあ、かしこい！"
+  },
+  {
+   "id": "pet.beep.high_five",
+   "speaker": "beep",
+   "text": "ハイタッチ！"
+  },
+  {
+   "id": "pet.beep.oopsie",
+   "speaker": "beep",
+   "text": "あれれ？ もういっかい！"
+  },
+  {
+   "id": "pet.beep.you_can",
+   "speaker": "beep",
+   "text": "きみなら できるよ！"
+  },
+  {
+   "id": "pet.beep.ill_help",
+   "speaker": "beep",
+   "text": "てつだうよ！"
+  },
+  {
+   "id": "pet.beep.your_turn",
+   "speaker": "beep",
+   "text": "きみの ばんだよ！"
+  },
+  {
+   "id": "pet.beep.say_it",
+   "speaker": "beep",
+   "text": "いってみて、いってみて！"
+  },
+  {
+   "id": "pet.beep.listening",
+   "speaker": "beep",
+   "text": "きいてるよ！"
+  },
+  {
+   "id": "pet.beep.again_again",
+   "speaker": "beep",
+   "text": "もういっかい、もういっかい！"
+  },
+  {
+   "id": "pet.beep.like_word",
+   "speaker": "beep",
+   "text": "その ことば だいすき！"
+  },
+  {
+   "id": "pet.beep.got_star",
+   "speaker": "beep",
+   "text": "ほしを ゲット！"
+  },
+  {
+   "id": "pet.beep.proud",
+   "speaker": "beep",
+   "text": "きみの こと ほこらしいよ！"
+  },
+  {
+   "id": "pet.beep.hooray",
+   "speaker": "beep",
+   "text": "ばんざい！"
+  },
+  {
+   "id": "pet.beep.see_you",
+   "speaker": "beep",
+   "text": "また あしたね！"
+  },
+  {
+   "id": "pet.beep.bye",
+   "speaker": "beep",
+   "text": "バイバイ！"
+  },
+  {
+   "id": "pet.beep.tickles",
+   "speaker": "beep",
+   "text": "くすぐったい！"
+  },
+  {
+   "id": "pet.beep.love_you",
+   "speaker": "beep",
+   "text": "だいすき！"
+  },
+  {
+   "id": "pet.beep.lets_play",
+   "speaker": "beep",
+   "text": "あそぼう！"
+  },
+  {
+   "id": "pet.beep.happy_meet",
+   "speaker": "beep",
+   "text": "あえて うれしい！"
+  },
+  {
+   "id": "pet.beep.own1",
+   "speaker": "beep",
+   "text": "ピポパ！ がくしゅうモード オン！"
+  },
+  {
+   "id": "pet.beep.own2",
+   "speaker": "beep",
+   "text": "ぼくの かいろが よろこんでる！"
+  },
+  {
+   "id": "pet.beep.own3",
+   "speaker": "beep",
+   "text": "ピッ！ あってた？"
+  },
+  {
+   "id": "pet.beep.own4",
+   "speaker": "beep",
+   "text": "あいで バッテリー まんたん！"
+  },
+  {
+   "id": "pet.gaju.hi_friend",
+   "speaker": "gaju",
+   "text": "やあ、ともだち！"
+  },
+  {
+   "id": "pet.gaju.yay_here",
+   "speaker": "gaju",
+   "text": "わーい、きてくれた！"
+  },
+  {
+   "id": "pet.gaju.learn_together",
+   "speaker": "gaju",
+   "text": "いっしょに まなぼう！"
+  },
+  {
+   "id": "pet.gaju.start_today",
+   "speaker": "gaju",
+   "text": "きょうの レッスンを はじめよう！"
+  },
+  {
+   "id": "pet.gaju.yay",
+   "speaker": "gaju",
+   "text": "やったー！"
+  },
+  {
+   "id": "pet.gaju.you_did_it",
+   "speaker": "gaju",
+   "text": "できたね！"
+  },
+  {
+   "id": "pet.gaju.great_job",
+   "speaker": "gaju",
+   "text": "すごいね！"
+  },
+  {
+   "id": "pet.gaju.so_clever",
+   "speaker": "gaju",
+   "text": "わあ、かしこい！"
+  },
+  {
+   "id": "pet.gaju.high_five",
+   "speaker": "gaju",
+   "text": "ハイタッチ！"
+  },
+  {
+   "id": "pet.gaju.oopsie",
+   "speaker": "gaju",
+   "text": "あれれ？ もういっかい！"
+  },
+  {
+   "id": "pet.gaju.you_can",
+   "speaker": "gaju",
+   "text": "きみなら できるよ！"
+  },
+  {
+   "id": "pet.gaju.ill_help",
+   "speaker": "gaju",
+   "text": "てつだうよ！"
+  },
+  {
+   "id": "pet.gaju.your_turn",
+   "speaker": "gaju",
+   "text": "きみの ばんだよ！"
+  },
+  {
+   "id": "pet.gaju.say_it",
+   "speaker": "gaju",
+   "text": "いってみて、いってみて！"
+  },
+  {
+   "id": "pet.gaju.listening",
+   "speaker": "gaju",
+   "text": "きいてるよ！"
+  },
+  {
+   "id": "pet.gaju.again_again",
+   "speaker": "gaju",
+   "text": "もういっかい、もういっかい！"
+  },
+  {
+   "id": "pet.gaju.like_word",
+   "speaker": "gaju",
+   "text": "その ことば だいすき！"
+  },
+  {
+   "id": "pet.gaju.got_star",
+   "speaker": "gaju",
+   "text": "ほしを ゲット！"
+  },
+  {
+   "id": "pet.gaju.proud",
+   "speaker": "gaju",
+   "text": "きみの こと ほこらしいよ！"
+  },
+  {
+   "id": "pet.gaju.hooray",
+   "speaker": "gaju",
+   "text": "ばんざい！"
+  },
+  {
+   "id": "pet.gaju.see_you",
+   "speaker": "gaju",
+   "text": "また あしたね！"
+  },
+  {
+   "id": "pet.gaju.bye",
+   "speaker": "gaju",
+   "text": "バイバイ！"
+  },
+  {
+   "id": "pet.gaju.tickles",
+   "speaker": "gaju",
+   "text": "くすぐったい！"
+  },
+  {
+   "id": "pet.gaju.love_you",
+   "speaker": "gaju",
+   "text": "だいすき！"
+  },
+  {
+   "id": "pet.gaju.lets_play",
+   "speaker": "gaju",
+   "text": "あそぼう！"
+  },
+  {
+   "id": "pet.gaju.happy_meet",
+   "speaker": "gaju",
+   "text": "あえて うれしい！"
+  },
+  {
+   "id": "pet.gaju.own1",
+   "speaker": "gaju",
+   "text": "ぞうさんの おおきな ハグ！"
+  },
+  {
+   "id": "pet.gaju.own2",
+   "speaker": "gaju",
+   "text": "ことばは ぜったい わすれないよ！"
+  },
+  {
+   "id": "pet.gaju.own3",
+   "speaker": "gaju",
+   "text": "ゆっくり ゆっくり、だいじょうぶ。"
+  },
+  {
+   "id": "pet.gaju.own4",
+   "speaker": "gaju",
+   "text": "ぞうさんみたいに かしこいね！"
+  },
+  {
+   "id": "pet.sparky.hi_friend",
+   "speaker": "sparky",
+   "text": "やあ、ともだち！"
+  },
+  {
+   "id": "pet.sparky.yay_here",
+   "speaker": "sparky",
+   "text": "わーい、きてくれた！"
+  },
+  {
+   "id": "pet.sparky.learn_together",
+   "speaker": "sparky",
+   "text": "いっしょに まなぼう！"
+  },
+  {
+   "id": "pet.sparky.start_today",
+   "speaker": "sparky",
+   "text": "きょうの レッスンを はじめよう！"
+  },
+  {
+   "id": "pet.sparky.yay",
+   "speaker": "sparky",
+   "text": "やったー！"
+  },
+  {
+   "id": "pet.sparky.you_did_it",
+   "speaker": "sparky",
+   "text": "できたね！"
+  },
+  {
+   "id": "pet.sparky.great_job",
+   "speaker": "sparky",
+   "text": "すごいね！"
+  },
+  {
+   "id": "pet.sparky.so_clever",
+   "speaker": "sparky",
+   "text": "わあ、かしこい！"
+  },
+  {
+   "id": "pet.sparky.high_five",
+   "speaker": "sparky",
+   "text": "ハイタッチ！"
+  },
+  {
+   "id": "pet.sparky.oopsie",
+   "speaker": "sparky",
+   "text": "あれれ？ もういっかい！"
+  },
+  {
+   "id": "pet.sparky.you_can",
+   "speaker": "sparky",
+   "text": "きみなら できるよ！"
+  },
+  {
+   "id": "pet.sparky.ill_help",
+   "speaker": "sparky",
+   "text": "てつだうよ！"
+  },
+  {
+   "id": "pet.sparky.your_turn",
+   "speaker": "sparky",
+   "text": "きみの ばんだよ！"
+  },
+  {
+   "id": "pet.sparky.say_it",
+   "speaker": "sparky",
+   "text": "いってみて、いってみて！"
+  },
+  {
+   "id": "pet.sparky.listening",
+   "speaker": "sparky",
+   "text": "きいてるよ！"
+  },
+  {
+   "id": "pet.sparky.again_again",
+   "speaker": "sparky",
+   "text": "もういっかい、もういっかい！"
+  },
+  {
+   "id": "pet.sparky.like_word",
+   "speaker": "sparky",
+   "text": "その ことば だいすき！"
+  },
+  {
+   "id": "pet.sparky.got_star",
+   "speaker": "sparky",
+   "text": "ほしを ゲット！"
+  },
+  {
+   "id": "pet.sparky.proud",
+   "speaker": "sparky",
+   "text": "きみの こと ほこらしいよ！"
+  },
+  {
+   "id": "pet.sparky.hooray",
+   "speaker": "sparky",
+   "text": "ばんざい！"
+  },
+  {
+   "id": "pet.sparky.see_you",
+   "speaker": "sparky",
+   "text": "また あしたね！"
+  },
+  {
+   "id": "pet.sparky.bye",
+   "speaker": "sparky",
+   "text": "バイバイ！"
+  },
+  {
+   "id": "pet.sparky.tickles",
+   "speaker": "sparky",
+   "text": "くすぐったい！"
+  },
+  {
+   "id": "pet.sparky.love_you",
+   "speaker": "sparky",
+   "text": "だいすき！"
+  },
+  {
+   "id": "pet.sparky.lets_play",
+   "speaker": "sparky",
+   "text": "あそぼう！"
+  },
+  {
+   "id": "pet.sparky.happy_meet",
+   "speaker": "sparky",
+   "text": "あえて うれしい！"
+  },
+  {
+   "id": "pet.sparky.own1",
+   "speaker": "sparky",
+   "text": "ボワッ！ さいこう！"
+  },
+  {
+   "id": "pet.sparky.own2",
+   "speaker": "sparky",
+   "text": "ぼうけんの じかんだ！"
+  },
+  {
+   "id": "pet.sparky.own3",
+   "speaker": "sparky",
+   "text": "ぼくは ゆうかんな ちいさな ドラゴン！"
+  },
+  {
+   "id": "pet.sparky.own4",
+   "speaker": "sparky",
+   "text": "つぎへ とんでいこう！"
+  },
+  {
+   "id": "pet.bobo.hi_friend",
+   "speaker": "bobo",
+   "text": "やあ、ともだち！"
+  },
+  {
+   "id": "pet.bobo.yay_here",
+   "speaker": "bobo",
+   "text": "わーい、きてくれた！"
+  },
+  {
+   "id": "pet.bobo.learn_together",
+   "speaker": "bobo",
+   "text": "いっしょに まなぼう！"
+  },
+  {
+   "id": "pet.bobo.start_today",
+   "speaker": "bobo",
+   "text": "きょうの レッスンを はじめよう！"
+  },
+  {
+   "id": "pet.bobo.yay",
+   "speaker": "bobo",
+   "text": "やったー！"
+  },
+  {
+   "id": "pet.bobo.you_did_it",
+   "speaker": "bobo",
+   "text": "できたね！"
+  },
+  {
+   "id": "pet.bobo.great_job",
+   "speaker": "bobo",
+   "text": "すごいね！"
+  },
+  {
+   "id": "pet.bobo.so_clever",
+   "speaker": "bobo",
+   "text": "わあ、かしこい！"
+  },
+  {
+   "id": "pet.bobo.high_five",
+   "speaker": "bobo",
+   "text": "ハイタッチ！"
+  },
+  {
+   "id": "pet.bobo.oopsie",
+   "speaker": "bobo",
+   "text": "あれれ？ もういっかい！"
+  },
+  {
+   "id": "pet.bobo.you_can",
+   "speaker": "bobo",
+   "text": "きみなら できるよ！"
+  },
+  {
+   "id": "pet.bobo.ill_help",
+   "speaker": "bobo",
+   "text": "てつだうよ！"
+  },
+  {
+   "id": "pet.bobo.your_turn",
+   "speaker": "bobo",
+   "text": "きみの ばんだよ！"
+  },
+  {
+   "id": "pet.bobo.say_it",
+   "speaker": "bobo",
+   "text": "いってみて、いってみて！"
+  },
+  {
+   "id": "pet.bobo.listening",
+   "speaker": "bobo",
+   "text": "きいてるよ！"
+  },
+  {
+   "id": "pet.bobo.again_again",
+   "speaker": "bobo",
+   "text": "もういっかい、もういっかい！"
+  },
+  {
+   "id": "pet.bobo.like_word",
+   "speaker": "bobo",
+   "text": "その ことば だいすき！"
+  },
+  {
+   "id": "pet.bobo.got_star",
+   "speaker": "bobo",
+   "text": "ほしを ゲット！"
+  },
+  {
+   "id": "pet.bobo.proud",
+   "speaker": "bobo",
+   "text": "きみの こと ほこらしいよ！"
+  },
+  {
+   "id": "pet.bobo.hooray",
+   "speaker": "bobo",
+   "text": "ばんざい！"
+  },
+  {
+   "id": "pet.bobo.see_you",
+   "speaker": "bobo",
+   "text": "また あしたね！"
+  },
+  {
+   "id": "pet.bobo.bye",
+   "speaker": "bobo",
+   "text": "バイバイ！"
+  },
+  {
+   "id": "pet.bobo.tickles",
+   "speaker": "bobo",
+   "text": "くすぐったい！"
+  },
+  {
+   "id": "pet.bobo.love_you",
+   "speaker": "bobo",
+   "text": "だいすき！"
+  },
+  {
+   "id": "pet.bobo.lets_play",
+   "speaker": "bobo",
+   "text": "あそぼう！"
+  },
+  {
+   "id": "pet.bobo.happy_meet",
+   "speaker": "bobo",
+   "text": "あえて うれしい！"
+  },
+  {
+   "id": "pet.bobo.own1",
+   "speaker": "bobo",
+   "text": "ウキキ！ バナナ あげる！"
+  },
+  {
+   "id": "pet.bobo.own2",
+   "speaker": "bobo",
+   "text": "つぎへ ブランコみたいに いこう！"
+  },
+  {
+   "id": "pet.bobo.own3",
+   "speaker": "bobo",
+   "text": "おもしろかった！"
+  },
+  {
+   "id": "pet.bobo.own4",
+   "speaker": "bobo",
+   "text": "まねっこ まねっこ！"
+  },
+  {
+   "id": "pet.himu.hi_friend",
+   "speaker": "himu",
+   "text": "やあ、ともだち！"
+  },
+  {
+   "id": "pet.himu.yay_here",
+   "speaker": "himu",
+   "text": "わーい、きてくれた！"
+  },
+  {
+   "id": "pet.himu.learn_together",
+   "speaker": "himu",
+   "text": "いっしょに まなぼう！"
+  },
+  {
+   "id": "pet.himu.start_today",
+   "speaker": "himu",
+   "text": "きょうの レッスンを はじめよう！"
+  },
+  {
+   "id": "pet.himu.yay",
+   "speaker": "himu",
+   "text": "やったー！"
+  },
+  {
+   "id": "pet.himu.you_did_it",
+   "speaker": "himu",
+   "text": "できたね！"
+  },
+  {
+   "id": "pet.himu.great_job",
+   "speaker": "himu",
+   "text": "すごいね！"
+  },
+  {
+   "id": "pet.himu.so_clever",
+   "speaker": "himu",
+   "text": "わあ、かしこい！"
+  },
+  {
+   "id": "pet.himu.high_five",
+   "speaker": "himu",
+   "text": "ハイタッチ！"
+  },
+  {
+   "id": "pet.himu.oopsie",
+   "speaker": "himu",
+   "text": "あれれ？ もういっかい！"
+  },
+  {
+   "id": "pet.himu.you_can",
+   "speaker": "himu",
+   "text": "きみなら できるよ！"
+  },
+  {
+   "id": "pet.himu.ill_help",
+   "speaker": "himu",
+   "text": "てつだうよ！"
+  },
+  {
+   "id": "pet.himu.your_turn",
+   "speaker": "himu",
+   "text": "きみの ばんだよ！"
+  },
+  {
+   "id": "pet.himu.say_it",
+   "speaker": "himu",
+   "text": "いってみて、いってみて！"
+  },
+  {
+   "id": "pet.himu.listening",
+   "speaker": "himu",
+   "text": "きいてるよ！"
+  },
+  {
+   "id": "pet.himu.again_again",
+   "speaker": "himu",
+   "text": "もういっかい、もういっかい！"
+  },
+  {
+   "id": "pet.himu.like_word",
+   "speaker": "himu",
+   "text": "その ことば だいすき！"
+  },
+  {
+   "id": "pet.himu.got_star",
+   "speaker": "himu",
+   "text": "ほしを ゲット！"
+  },
+  {
+   "id": "pet.himu.proud",
+   "speaker": "himu",
+   "text": "きみの こと ほこらしいよ！"
+  },
+  {
+   "id": "pet.himu.hooray",
+   "speaker": "himu",
+   "text": "ばんざい！"
+  },
+  {
+   "id": "pet.himu.see_you",
+   "speaker": "himu",
+   "text": "また あしたね！"
+  },
+  {
+   "id": "pet.himu.bye",
+   "speaker": "himu",
+   "text": "バイバイ！"
+  },
+  {
+   "id": "pet.himu.tickles",
+   "speaker": "himu",
+   "text": "くすぐったい！"
+  },
+  {
+   "id": "pet.himu.love_you",
+   "speaker": "himu",
+   "text": "だいすき！"
+  },
+  {
+   "id": "pet.himu.lets_play",
+   "speaker": "himu",
+   "text": "あそぼう！"
+  },
+  {
+   "id": "pet.himu.happy_meet",
+   "speaker": "himu",
+   "text": "あえて うれしい！"
+  },
+  {
+   "id": "pet.himu.own1",
+   "speaker": "himu",
+   "text": "ブルブル、でも こころは ぽかぽか！"
+  },
+  {
+   "id": "pet.himu.own2",
+   "speaker": "himu",
+   "text": "ゆきだま ハイタッチ！"
+  },
+  {
+   "id": "pet.himu.own3",
+   "speaker": "himu",
+   "text": "おおきいけど ちょっと はずかしがりや。"
+  },
+  {
+   "id": "pet.himu.own4",
+   "speaker": "himu",
+   "text": "ぬくぬく まなぼう。"
+  },
+  {
+   "id": "pet.mimi.hi_friend",
+   "speaker": "mimi",
+   "text": "やあ、ともだち！"
+  },
+  {
+   "id": "pet.mimi.yay_here",
+   "speaker": "mimi",
+   "text": "わーい、きてくれた！"
+  },
+  {
+   "id": "pet.mimi.learn_together",
+   "speaker": "mimi",
+   "text": "いっしょに まなぼう！"
+  },
+  {
+   "id": "pet.mimi.start_today",
+   "speaker": "mimi",
+   "text": "きょうの レッスンを はじめよう！"
+  },
+  {
+   "id": "pet.mimi.yay",
+   "speaker": "mimi",
+   "text": "やったー！"
+  },
+  {
+   "id": "pet.mimi.you_did_it",
+   "speaker": "mimi",
+   "text": "できたね！"
+  },
+  {
+   "id": "pet.mimi.great_job",
+   "speaker": "mimi",
+   "text": "すごいね！"
+  },
+  {
+   "id": "pet.mimi.so_clever",
+   "speaker": "mimi",
+   "text": "わあ、かしこい！"
+  },
+  {
+   "id": "pet.mimi.high_five",
+   "speaker": "mimi",
+   "text": "ハイタッチ！"
+  },
+  {
+   "id": "pet.mimi.oopsie",
+   "speaker": "mimi",
+   "text": "あれれ？ もういっかい！"
+  },
+  {
+   "id": "pet.mimi.you_can",
+   "speaker": "mimi",
+   "text": "きみなら できるよ！"
+  },
+  {
+   "id": "pet.mimi.ill_help",
+   "speaker": "mimi",
+   "text": "てつだうよ！"
+  },
+  {
+   "id": "pet.mimi.your_turn",
+   "speaker": "mimi",
+   "text": "きみの ばんだよ！"
+  },
+  {
+   "id": "pet.mimi.say_it",
+   "speaker": "mimi",
+   "text": "いってみて、いってみて！"
+  },
+  {
+   "id": "pet.mimi.listening",
+   "speaker": "mimi",
+   "text": "きいてるよ！"
+  },
+  {
+   "id": "pet.mimi.again_again",
+   "speaker": "mimi",
+   "text": "もういっかい、もういっかい！"
+  },
+  {
+   "id": "pet.mimi.like_word",
+   "speaker": "mimi",
+   "text": "その ことば だいすき！"
+  },
+  {
+   "id": "pet.mimi.got_star",
+   "speaker": "mimi",
+   "text": "ほしを ゲット！"
+  },
+  {
+   "id": "pet.mimi.proud",
+   "speaker": "mimi",
+   "text": "きみの こと ほこらしいよ！"
+  },
+  {
+   "id": "pet.mimi.hooray",
+   "speaker": "mimi",
+   "text": "ばんざい！"
+  },
+  {
+   "id": "pet.mimi.see_you",
+   "speaker": "mimi",
+   "text": "また あしたね！"
+  },
+  {
+   "id": "pet.mimi.bye",
+   "speaker": "mimi",
+   "text": "バイバイ！"
+  },
+  {
+   "id": "pet.mimi.tickles",
+   "speaker": "mimi",
+   "text": "くすぐったい！"
+  },
+  {
+   "id": "pet.mimi.love_you",
+   "speaker": "mimi",
+   "text": "だいすき！"
+  },
+  {
+   "id": "pet.mimi.lets_play",
+   "speaker": "mimi",
+   "text": "あそぼう！"
+  },
+  {
+   "id": "pet.mimi.happy_meet",
+   "speaker": "mimi",
+   "text": "あえて うれしい！"
+  },
+  {
+   "id": "pet.mimi.own1",
+   "speaker": "mimi",
+   "text": "ニャー！ かんぺき！"
+  },
+  {
+   "id": "pet.mimi.own2",
+   "speaker": "mimi",
+   "text": "えいっ、とびつこう！"
+  },
+  {
+   "id": "pet.mimi.own3",
+   "speaker": "mimi",
+   "text": "こねこの ぎゅー！"
+  },
+  {
+   "id": "pet.mimi.own4",
+   "speaker": "mimi",
+   "text": "ひげが ぴくぴく！"
+  },
+  {
+   "id": "pet.pandu.hi_friend",
+   "speaker": "pandu",
+   "text": "やあ、ともだち！"
+  },
+  {
+   "id": "pet.pandu.yay_here",
+   "speaker": "pandu",
+   "text": "わーい、きてくれた！"
+  },
+  {
+   "id": "pet.pandu.learn_together",
+   "speaker": "pandu",
+   "text": "いっしょに まなぼう！"
+  },
+  {
+   "id": "pet.pandu.start_today",
+   "speaker": "pandu",
+   "text": "きょうの レッスンを はじめよう！"
+  },
+  {
+   "id": "pet.pandu.yay",
+   "speaker": "pandu",
+   "text": "やったー！"
+  },
+  {
+   "id": "pet.pandu.you_did_it",
+   "speaker": "pandu",
+   "text": "できたね！"
+  },
+  {
+   "id": "pet.pandu.great_job",
+   "speaker": "pandu",
+   "text": "すごいね！"
+  },
+  {
+   "id": "pet.pandu.so_clever",
+   "speaker": "pandu",
+   "text": "わあ、かしこい！"
+  },
+  {
+   "id": "pet.pandu.high_five",
+   "speaker": "pandu",
+   "text": "ハイタッチ！"
+  },
+  {
+   "id": "pet.pandu.oopsie",
+   "speaker": "pandu",
+   "text": "あれれ？ もういっかい！"
+  },
+  {
+   "id": "pet.pandu.you_can",
+   "speaker": "pandu",
+   "text": "きみなら できるよ！"
+  },
+  {
+   "id": "pet.pandu.ill_help",
+   "speaker": "pandu",
+   "text": "てつだうよ！"
+  },
+  {
+   "id": "pet.pandu.your_turn",
+   "speaker": "pandu",
+   "text": "きみの ばんだよ！"
+  },
+  {
+   "id": "pet.pandu.say_it",
+   "speaker": "pandu",
+   "text": "いってみて、いってみて！"
+  },
+  {
+   "id": "pet.pandu.listening",
+   "speaker": "pandu",
+   "text": "きいてるよ！"
+  },
+  {
+   "id": "pet.pandu.again_again",
+   "speaker": "pandu",
+   "text": "もういっかい、もういっかい！"
+  },
+  {
+   "id": "pet.pandu.like_word",
+   "speaker": "pandu",
+   "text": "その ことば だいすき！"
+  },
+  {
+   "id": "pet.pandu.got_star",
+   "speaker": "pandu",
+   "text": "ほしを ゲット！"
+  },
+  {
+   "id": "pet.pandu.proud",
+   "speaker": "pandu",
+   "text": "きみの こと ほこらしいよ！"
+  },
+  {
+   "id": "pet.pandu.hooray",
+   "speaker": "pandu",
+   "text": "ばんざい！"
+  },
+  {
+   "id": "pet.pandu.see_you",
+   "speaker": "pandu",
+   "text": "また あしたね！"
+  },
+  {
+   "id": "pet.pandu.bye",
+   "speaker": "pandu",
+   "text": "バイバイ！"
+  },
+  {
+   "id": "pet.pandu.tickles",
+   "speaker": "pandu",
+   "text": "くすぐったい！"
+  },
+  {
+   "id": "pet.pandu.love_you",
+   "speaker": "pandu",
+   "text": "だいすき！"
+  },
+  {
+   "id": "pet.pandu.lets_play",
+   "speaker": "pandu",
+   "text": "あそぼう！"
+  },
+  {
+   "id": "pet.pandu.happy_meet",
+   "speaker": "pandu",
+   "text": "あえて うれしい！"
+  },
+  {
+   "id": "pet.pandu.own1",
+   "speaker": "pandu",
+   "text": "おやつ？ うそだよ！"
+  },
+  {
+   "id": "pet.pandu.own2",
+   "speaker": "pandu",
+   "text": "ふあ～… ううん、おきてるよ！"
+  },
+  {
+   "id": "pet.pandu.own3",
+   "speaker": "pandu",
+   "text": "ぎゅーの じかん！"
+  },
+  {
+   "id": "pet.pandu.own4",
+   "speaker": "pandu",
+   "text": "ゆっくり ふんわり、いくよ。"
+  },
+  {
+   "id": "pet.stardust.hi_friend",
+   "speaker": "stardust",
+   "text": "やあ、ともだち！"
+  },
+  {
+   "id": "pet.stardust.yay_here",
+   "speaker": "stardust",
+   "text": "わーい、きてくれた！"
+  },
+  {
+   "id": "pet.stardust.learn_together",
+   "speaker": "stardust",
+   "text": "いっしょに まなぼう！"
+  },
+  {
+   "id": "pet.stardust.start_today",
+   "speaker": "stardust",
+   "text": "きょうの レッスンを はじめよう！"
+  },
+  {
+   "id": "pet.stardust.yay",
+   "speaker": "stardust",
+   "text": "やったー！"
+  },
+  {
+   "id": "pet.stardust.you_did_it",
+   "speaker": "stardust",
+   "text": "できたね！"
+  },
+  {
+   "id": "pet.stardust.great_job",
+   "speaker": "stardust",
+   "text": "すごいね！"
+  },
+  {
+   "id": "pet.stardust.so_clever",
+   "speaker": "stardust",
+   "text": "わあ、かしこい！"
+  },
+  {
+   "id": "pet.stardust.high_five",
+   "speaker": "stardust",
+   "text": "ハイタッチ！"
+  },
+  {
+   "id": "pet.stardust.oopsie",
+   "speaker": "stardust",
+   "text": "あれれ？ もういっかい！"
+  },
+  {
+   "id": "pet.stardust.you_can",
+   "speaker": "stardust",
+   "text": "きみなら できるよ！"
+  },
+  {
+   "id": "pet.stardust.ill_help",
+   "speaker": "stardust",
+   "text": "てつだうよ！"
+  },
+  {
+   "id": "pet.stardust.your_turn",
+   "speaker": "stardust",
+   "text": "きみの ばんだよ！"
+  },
+  {
+   "id": "pet.stardust.say_it",
+   "speaker": "stardust",
+   "text": "いってみて、いってみて！"
+  },
+  {
+   "id": "pet.stardust.listening",
+   "speaker": "stardust",
+   "text": "きいてるよ！"
+  },
+  {
+   "id": "pet.stardust.again_again",
+   "speaker": "stardust",
+   "text": "もういっかい、もういっかい！"
+  },
+  {
+   "id": "pet.stardust.like_word",
+   "speaker": "stardust",
+   "text": "その ことば だいすき！"
+  },
+  {
+   "id": "pet.stardust.got_star",
+   "speaker": "stardust",
+   "text": "ほしを ゲット！"
+  },
+  {
+   "id": "pet.stardust.proud",
+   "speaker": "stardust",
+   "text": "きみの こと ほこらしいよ！"
+  },
+  {
+   "id": "pet.stardust.hooray",
+   "speaker": "stardust",
+   "text": "ばんざい！"
+  },
+  {
+   "id": "pet.stardust.see_you",
+   "speaker": "stardust",
+   "text": "また あしたね！"
+  },
+  {
+   "id": "pet.stardust.bye",
+   "speaker": "stardust",
+   "text": "バイバイ！"
+  },
+  {
+   "id": "pet.stardust.tickles",
+   "speaker": "stardust",
+   "text": "くすぐったい！"
+  },
+  {
+   "id": "pet.stardust.love_you",
+   "speaker": "stardust",
+   "text": "だいすき！"
+  },
+  {
+   "id": "pet.stardust.lets_play",
+   "speaker": "stardust",
+   "text": "あそぼう！"
+  },
+  {
+   "id": "pet.stardust.happy_meet",
+   "speaker": "stardust",
+   "text": "あえて うれしい！"
+  },
+  {
+   "id": "pet.stardust.own1",
+   "speaker": "stardust",
+   "text": "キラキラ！"
+  },
+  {
+   "id": "pet.stardust.own2",
+   "speaker": "stardust",
+   "text": "まほうみたい！"
+  },
+  {
+   "id": "pet.stardust.own3",
+   "speaker": "stardust",
+   "text": "いろを つけよう！"
+  },
+  {
+   "id": "pet.stardust.own4",
+   "speaker": "stardust",
+   "text": "おねがいごと しよう！"
+  },
+  {
+   "id": "pet.roary.hi_friend",
+   "speaker": "roary",
+   "text": "やあ、ともだち！"
+  },
+  {
+   "id": "pet.roary.yay_here",
+   "speaker": "roary",
+   "text": "わーい、きてくれた！"
+  },
+  {
+   "id": "pet.roary.learn_together",
+   "speaker": "roary",
+   "text": "いっしょに まなぼう！"
+  },
+  {
+   "id": "pet.roary.start_today",
+   "speaker": "roary",
+   "text": "きょうの レッスンを はじめよう！"
+  },
+  {
+   "id": "pet.roary.yay",
+   "speaker": "roary",
+   "text": "やったー！"
+  },
+  {
+   "id": "pet.roary.you_did_it",
+   "speaker": "roary",
+   "text": "できたね！"
+  },
+  {
+   "id": "pet.roary.great_job",
+   "speaker": "roary",
+   "text": "すごいね！"
+  },
+  {
+   "id": "pet.roary.so_clever",
+   "speaker": "roary",
+   "text": "わあ、かしこい！"
+  },
+  {
+   "id": "pet.roary.high_five",
+   "speaker": "roary",
+   "text": "ハイタッチ！"
+  },
+  {
+   "id": "pet.roary.oopsie",
+   "speaker": "roary",
+   "text": "あれれ？ もういっかい！"
+  },
+  {
+   "id": "pet.roary.you_can",
+   "speaker": "roary",
+   "text": "きみなら できるよ！"
+  },
+  {
+   "id": "pet.roary.ill_help",
+   "speaker": "roary",
+   "text": "てつだうよ！"
+  },
+  {
+   "id": "pet.roary.your_turn",
+   "speaker": "roary",
+   "text": "きみの ばんだよ！"
+  },
+  {
+   "id": "pet.roary.say_it",
+   "speaker": "roary",
+   "text": "いってみて、いってみて！"
+  },
+  {
+   "id": "pet.roary.listening",
+   "speaker": "roary",
+   "text": "きいてるよ！"
+  },
+  {
+   "id": "pet.roary.again_again",
+   "speaker": "roary",
+   "text": "もういっかい、もういっかい！"
+  },
+  {
+   "id": "pet.roary.like_word",
+   "speaker": "roary",
+   "text": "その ことば だいすき！"
+  },
+  {
+   "id": "pet.roary.got_star",
+   "speaker": "roary",
+   "text": "ほしを ゲット！"
+  },
+  {
+   "id": "pet.roary.proud",
+   "speaker": "roary",
+   "text": "きみの こと ほこらしいよ！"
+  },
+  {
+   "id": "pet.roary.hooray",
+   "speaker": "roary",
+   "text": "ばんざい！"
+  },
+  {
+   "id": "pet.roary.see_you",
+   "speaker": "roary",
+   "text": "また あしたね！"
+  },
+  {
+   "id": "pet.roary.bye",
+   "speaker": "roary",
+   "text": "バイバイ！"
+  },
+  {
+   "id": "pet.roary.tickles",
+   "speaker": "roary",
+   "text": "くすぐったい！"
+  },
+  {
+   "id": "pet.roary.love_you",
+   "speaker": "roary",
+   "text": "だいすき！"
+  },
+  {
+   "id": "pet.roary.lets_play",
+   "speaker": "roary",
+   "text": "あそぼう！"
+  },
+  {
+   "id": "pet.roary.happy_meet",
+   "speaker": "roary",
+   "text": "あえて うれしい！"
+  },
+  {
+   "id": "pet.roary.own1",
+   "speaker": "roary",
+   "text": "ガオー！ きみは チャンピオン！"
+  },
+  {
+   "id": "pet.roary.own2",
+   "speaker": "roary",
+   "text": "ゆうきを だして、ちいさな ともだち！"
+  },
+  {
+   "id": "pet.roary.own3",
+   "speaker": "roary",
+   "text": "まなびの おうさま！"
+  },
+  {
+   "id": "pet.roary.own4",
+   "speaker": "roary",
+   "text": "おおきな こえで ガオー！"
+  }
+ ]
+}

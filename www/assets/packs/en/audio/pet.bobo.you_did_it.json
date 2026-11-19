@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/pet.bobo.you_did_it.tmp.wav",
+    "duration": 1.14
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.13, "value": "X" },
+    { "start": 0.13, "end": 0.37, "value": "F" },
+    { "start": 0.37, "end": 1.14, "value": "B" }
+  ]
+}

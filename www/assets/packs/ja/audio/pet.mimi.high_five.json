@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.mimi.high_five.tmp.wav",
+    "duration": 1.14
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.07, "value": "C" },
+    { "start": 0.07, "end": 0.15, "value": "A" },
+    { "start": 0.15, "end": 0.42, "value": "F" },
+    { "start": 0.42, "end": 0.77, "value": "B" },
+    { "start": 0.77, "end": 1.14, "value": "X" }
+  ]
+}

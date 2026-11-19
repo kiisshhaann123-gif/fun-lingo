@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.stardust.you_did_it.tmp.wav",
+    "duration": 0.67
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.17, "value": "F" },
+    { "start": 0.17, "end": 0.25, "value": "A" },
+    { "start": 0.25, "end": 0.59, "value": "B" },
+    { "start": 0.59, "end": 0.66, "value": "C" },
+    { "start": 0.66, "end": 0.67, "value": "X" }
+  ]
+}

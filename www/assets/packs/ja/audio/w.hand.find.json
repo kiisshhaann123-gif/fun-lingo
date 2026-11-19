@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/w.hand.find.tmp.wav",
+    "duration": 2.50
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.20, "value": "B" },
+    { "start": 0.20, "end": 0.34, "value": "C" },
+    { "start": 0.34, "end": 0.45, "value": "A" },
+    { "start": 0.45, "end": 0.56, "value": "C" },
+    { "start": 0.56, "end": 0.80, "value": "X" },
+    { "start": 0.80, "end": 0.86, "value": "B" },
+    { "start": 0.86, "end": 0.91, "value": "E" },
+    { "start": 0.91, "end": 1.12, "value": "D" },
+    { "start": 1.12, "end": 1.47, "value": "C" },
+    { "start": 1.47, "end": 1.54, "value": "G" },
+    { "start": 1.54, "end": 1.61, "value": "B" },
+    { "start": 1.61, "end": 2.50, "value": "X" }
+  ]
+}

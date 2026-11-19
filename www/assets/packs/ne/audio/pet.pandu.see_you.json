@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/pet.pandu.see_you.tmp.wav",
+    "duration": 1.14
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.05, "value": "B" },
+    { "start": 0.05, "end": 0.16, "value": "A" },
+    { "start": 0.16, "end": 0.64, "value": "B" },
+    { "start": 0.64, "end": 0.78, "value": "E" },
+    { "start": 0.78, "end": 0.85, "value": "F" },
+    { "start": 0.85, "end": 0.92, "value": "H" },
+    { "start": 0.92, "end": 1.13, "value": "C" },
+    { "start": 1.13, "end": 1.14, "value": "X" }
+  ]
+}

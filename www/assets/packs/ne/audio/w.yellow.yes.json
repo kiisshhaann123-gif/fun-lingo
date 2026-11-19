@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/w.yellow.yes.tmp.wav",
+    "duration": 0.91
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.09, "value": "B" },
+    { "start": 0.09, "end": 0.23, "value": "C" },
+    { "start": 0.23, "end": 0.30, "value": "H" },
+    { "start": 0.30, "end": 0.40, "value": "A" },
+    { "start": 0.40, "end": 0.55, "value": "C" },
+    { "start": 0.55, "end": 0.62, "value": "B" },
+    { "start": 0.62, "end": 0.69, "value": "F" },
+    { "start": 0.69, "end": 0.90, "value": "B" },
+    { "start": 0.90, "end": 0.91, "value": "X" }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/unlock.did_it_20.leo.tmp.wav",
+    "duration": 1.88
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.15, "value": "B" },
+    { "start": 0.15, "end": 0.22, "value": "C" },
+    { "start": 0.22, "end": 0.57, "value": "F" },
+    { "start": 0.57, "end": 0.64, "value": "G" },
+    { "start": 0.64, "end": 1.20, "value": "B" },
+    { "start": 1.20, "end": 1.28, "value": "A" },
+    { "start": 1.28, "end": 1.35, "value": "E" },
+    { "start": 1.35, "end": 1.56, "value": "F" },
+    { "start": 1.56, "end": 1.63, "value": "B" },
+    { "start": 1.63, "end": 1.70, "value": "D" },
+    { "start": 1.70, "end": 1.78, "value": "A" },
+    { "start": 1.78, "end": 1.87, "value": "B" },
+    { "start": 1.87, "end": 1.88, "value": "X" }
+  ]
+}

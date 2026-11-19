@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.himu.you_can.tmp.wav",
+    "duration": 1.30
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.07, "value": "B" },
+    { "start": 0.07, "end": 0.53, "value": "F" },
+    { "start": 0.53, "end": 0.67, "value": "B" },
+    { "start": 0.67, "end": 0.88, "value": "F" },
+    { "start": 0.88, "end": 1.16, "value": "E" },
+    { "start": 1.16, "end": 1.30, "value": "X" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/pet.beep.you_can.tmp.wav",
+    "duration": 1.14
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.17, "value": "X" },
+    { "start": 0.17, "end": 0.33, "value": "F" },
+    { "start": 0.33, "end": 0.47, "value": "C" },
+    { "start": 0.47, "end": 0.82, "value": "F" },
+    { "start": 0.82, "end": 1.10, "value": "B" },
+    { "start": 1.10, "end": 1.14, "value": "X" }
+  ]
+}

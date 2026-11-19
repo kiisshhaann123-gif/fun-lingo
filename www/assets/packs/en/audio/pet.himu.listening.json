@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/pet.himu.listening.tmp.wav",
+    "duration": 1.07
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.11, "value": "X" },
+    { "start": 0.11, "end": 0.17, "value": "E" },
+    { "start": 0.17, "end": 0.22, "value": "B" },
+    { "start": 0.22, "end": 0.30, "value": "A" },
+    { "start": 0.30, "end": 0.83, "value": "B" },
+    { "start": 0.83, "end": 1.07, "value": "X" }
+  ]
+}

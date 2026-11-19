@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.mimi.happy_meet.tmp.wav",
+    "duration": 1.22
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.19, "value": "C" },
+    { "start": 0.19, "end": 0.47, "value": "B" },
+    { "start": 0.47, "end": 0.61, "value": "X" },
+    { "start": 0.61, "end": 0.67, "value": "B" },
+    { "start": 0.67, "end": 1.00, "value": "F" },
+    { "start": 1.00, "end": 1.21, "value": "B" },
+    { "start": 1.21, "end": 1.22, "value": "X" }
+  ]
+}

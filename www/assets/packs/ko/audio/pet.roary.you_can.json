@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.roary.you_can.tmp.wav",
+    "duration": 1.07
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.04, "value": "B" },
+    { "start": 0.04, "end": 0.22, "value": "C" },
+    { "start": 0.22, "end": 0.43, "value": "B" },
+    { "start": 0.43, "end": 0.57, "value": "F" },
+    { "start": 0.57, "end": 0.71, "value": "C" },
+    { "start": 0.71, "end": 0.85, "value": "E" },
+    { "start": 0.85, "end": 0.99, "value": "B" },
+    { "start": 0.99, "end": 1.07, "value": "X" }
+  ]
+}

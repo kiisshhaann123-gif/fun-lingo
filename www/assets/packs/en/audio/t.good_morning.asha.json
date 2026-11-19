@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/t.good_morning.asha.tmp.wav",
+    "duration": 1.30
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.15, "value": "B" },
+    { "start": 0.15, "end": 0.23, "value": "A" },
+    { "start": 0.23, "end": 0.31, "value": "E" },
+    { "start": 0.31, "end": 0.87, "value": "B" },
+    { "start": 0.87, "end": 1.30, "value": "X" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/w.red.find.tmp.wav",
+    "duration": 1.64
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.16, "value": "B" },
+    { "start": 0.16, "end": 0.23, "value": "C" },
+    { "start": 0.23, "end": 0.30, "value": "B" },
+    { "start": 0.30, "end": 0.44, "value": "E" },
+    { "start": 0.44, "end": 0.58, "value": "F" },
+    { "start": 0.58, "end": 0.72, "value": "C" },
+    { "start": 0.72, "end": 1.63, "value": "B" },
+    { "start": 1.63, "end": 1.64, "value": "X" }
+  ]
+}

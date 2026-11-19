@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.mimi.got_star.tmp.wav",
+    "duration": 0.99
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.10, "value": "B" },
+    { "start": 0.10, "end": 0.24, "value": "C" },
+    { "start": 0.24, "end": 0.32, "value": "A" },
+    { "start": 0.32, "end": 0.45, "value": "B" },
+    { "start": 0.45, "end": 0.54, "value": "A" },
+    { "start": 0.54, "end": 0.77, "value": "B" },
+    { "start": 0.77, "end": 0.84, "value": "G" },
+    { "start": 0.84, "end": 0.98, "value": "B" },
+    { "start": 0.98, "end": 0.99, "value": "X" }
+  ]
+}

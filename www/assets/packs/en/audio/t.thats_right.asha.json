@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/t.thats_right.asha.tmp.wav",
+    "duration": 1.22
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.16, "value": "X" },
+    { "start": 0.16, "end": 0.20, "value": "B" },
+    { "start": 0.20, "end": 0.24, "value": "C" },
+    { "start": 0.24, "end": 0.59, "value": "B" },
+    { "start": 0.59, "end": 0.73, "value": "D" },
+    { "start": 0.73, "end": 1.22, "value": "B" }
+  ]
+}

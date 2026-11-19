@@ -1,0 +1,5602 @@
+{
+  "w.bye.say": {
+    "file": "w.bye.say.mp3",
+    "lips": "w.bye.say.json",
+    "speaker": "asha",
+    "text": "टाटा!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "d4a34901654f",
+    "reviewed": false
+  },
+  "w.hello.say": {
+    "file": "w.hello.say.mp3",
+    "lips": "w.hello.say.json",
+    "speaker": "asha",
+    "text": "नमस्ते!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "063373070c3b",
+    "reviewed": false
+  },
+  "ph.01.asha": {
+    "file": "ph.01.asha.mp3",
+    "lips": "ph.01.asha.json",
+    "speaker": "asha",
+    "text": "नमस्ते!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "063373070c3b",
+    "reviewed": false
+  },
+  "w.mom.say": {
+    "file": "w.mom.say.mp3",
+    "lips": "w.mom.say.json",
+    "speaker": "leo",
+    "text": "आमा।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "702bef929cb0",
+    "reviewed": false
+  },
+  "ph.01.leo": {
+    "file": "ph.01.leo.mp3",
+    "lips": "ph.01.leo.json",
+    "speaker": "leo",
+    "text": "नमस्ते!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "cab568d883c1",
+    "reviewed": false
+  },
+  "w.mom.look": {
+    "file": "w.mom.look.mp3",
+    "lips": "w.mom.look.json",
+    "speaker": "leo",
+    "text": "हेरौं त! आमा!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "9538862769f3",
+    "reviewed": false
+  },
+  "w.mom.find": {
+    "file": "w.mom.find.mp3",
+    "lips": "w.mom.find.json",
+    "speaker": "leo",
+    "text": "आमा कहाँ छ?",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "4ed3b1ffa46c",
+    "reviewed": false
+  },
+  "w.dad.say": {
+    "file": "w.dad.say.mp3",
+    "lips": "w.dad.say.json",
+    "speaker": "leo",
+    "text": "बुबा।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "acc363b824ff",
+    "reviewed": false
+  },
+  "w.mom.yes": {
+    "file": "w.mom.yes.mp3",
+    "lips": "w.mom.yes.json",
+    "speaker": "leo",
+    "text": "हो! आमा!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "6fb31f7efcd7",
+    "reviewed": false
+  },
+  "w.dad.find": {
+    "file": "w.dad.find.mp3",
+    "lips": "w.dad.find.json",
+    "speaker": "leo",
+    "text": "बुबा कहाँ छ?",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "dd5987f08ff4",
+    "reviewed": false
+  },
+  "w.dad.look": {
+    "file": "w.dad.look.mp3",
+    "lips": "w.dad.look.json",
+    "speaker": "leo",
+    "text": "हेरौं त! बुबा!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "fc65fa2ea916",
+    "reviewed": false
+  },
+  "w.dad.yes": {
+    "file": "w.dad.yes.mp3",
+    "lips": "w.dad.yes.json",
+    "speaker": "leo",
+    "text": "हो! बुबा!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "36f68b10478d",
+    "reviewed": false
+  },
+  "ph.02.leo": {
+    "file": "ph.02.leo.mp3",
+    "lips": "ph.02.leo.json",
+    "speaker": "leo",
+    "text": "यो आमा हो।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "85fcea619c37",
+    "reviewed": false
+  },
+  "ph.02.asha": {
+    "file": "ph.02.asha.mp3",
+    "lips": "ph.02.asha.json",
+    "speaker": "asha",
+    "text": "यो आमा हो।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "3368cd9d2fbb",
+    "reviewed": false
+  },
+  "w.baby.say": {
+    "file": "w.baby.say.mp3",
+    "lips": "w.baby.say.json",
+    "speaker": "asha",
+    "text": "बच्चा।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "06812206fc65",
+    "reviewed": false
+  },
+  "w.baby.find": {
+    "file": "w.baby.find.mp3",
+    "lips": "w.baby.find.json",
+    "speaker": "asha",
+    "text": "बच्चा कहाँ छ?",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "dcb999e40e07",
+    "reviewed": false
+  },
+  "w.baby.look": {
+    "file": "w.baby.look.mp3",
+    "lips": "w.baby.look.json",
+    "speaker": "asha",
+    "text": "हेरौं त! बच्चा!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "8d7aa3e42f49",
+    "reviewed": false
+  },
+  "w.baby.yes": {
+    "file": "w.baby.yes.mp3",
+    "lips": "w.baby.yes.json",
+    "speaker": "asha",
+    "text": "हो! बच्चा!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "ef83d1d9ae7b",
+    "reviewed": false
+  },
+  "w.hand.say": {
+    "file": "w.hand.say.mp3",
+    "lips": "w.hand.say.json",
+    "speaker": "asha",
+    "text": "हात।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "8f54067a7d23",
+    "reviewed": false
+  },
+  "w.hand.look": {
+    "file": "w.hand.look.mp3",
+    "lips": "w.hand.look.json",
+    "speaker": "asha",
+    "text": "हेरौं त! हात!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "7ae70180ec35",
+    "reviewed": false
+  },
+  "w.hand.find": {
+    "file": "w.hand.find.mp3",
+    "lips": "w.hand.find.json",
+    "speaker": "asha",
+    "text": "हात कहाँ छ?",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "b65539d9034d",
+    "reviewed": false
+  },
+  "ph.03.leo": {
+    "file": "ph.03.leo.mp3",
+    "lips": "ph.03.leo.json",
+    "speaker": "leo",
+    "text": "हात हल्लाऊ!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "9351f6c71685",
+    "reviewed": false
+  },
+  "w.hand.yes": {
+    "file": "w.hand.yes.mp3",
+    "lips": "w.hand.yes.json",
+    "speaker": "asha",
+    "text": "हो! हात!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "ada4d0070ddb",
+    "reviewed": false
+  },
+  "ph.03.asha": {
+    "file": "ph.03.asha.mp3",
+    "lips": "ph.03.asha.json",
+    "speaker": "asha",
+    "text": "हात हल्लाऊ!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "7d1d99a5075e",
+    "reviewed": false
+  },
+  "w.eyes.say": {
+    "file": "w.eyes.say.mp3",
+    "lips": "w.eyes.say.json",
+    "speaker": "leo",
+    "text": "आँखा।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "6a2fe13e3a1e",
+    "reviewed": false
+  },
+  "w.eyes.find": {
+    "file": "w.eyes.find.mp3",
+    "lips": "w.eyes.find.json",
+    "speaker": "leo",
+    "text": "आँखा कहाँ छन्?",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "87c2341e1aa3",
+    "reviewed": false
+  },
+  "w.eyes.look": {
+    "file": "w.eyes.look.mp3",
+    "lips": "w.eyes.look.json",
+    "speaker": "leo",
+    "text": "हेरौं त! आँखा!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "26e51b184f24",
+    "reviewed": false
+  },
+  "w.eyes.yes": {
+    "file": "w.eyes.yes.mp3",
+    "lips": "w.eyes.yes.json",
+    "speaker": "leo",
+    "text": "हो! आँखा!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "9edd68c2307f",
+    "reviewed": false
+  },
+  "w.nose.say": {
+    "file": "w.nose.say.mp3",
+    "lips": "w.nose.say.json",
+    "speaker": "leo",
+    "text": "नाक।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "652586cde506",
+    "reviewed": false
+  },
+  "w.nose.look": {
+    "file": "w.nose.look.mp3",
+    "lips": "w.nose.look.json",
+    "speaker": "leo",
+    "text": "हेरौं त! नाक!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "2635c139958f",
+    "reviewed": false
+  },
+  "w.nose.find": {
+    "file": "w.nose.find.mp3",
+    "lips": "w.nose.find.json",
+    "speaker": "leo",
+    "text": "नाक कहाँ छ?",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "f4ab41ef574f",
+    "reviewed": false
+  },
+  "w.nose.yes": {
+    "file": "w.nose.yes.mp3",
+    "lips": "w.nose.yes.json",
+    "speaker": "leo",
+    "text": "हो! नाक!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "1b139b63e96f",
+    "reviewed": false
+  },
+  "ph.04.asha": {
+    "file": "ph.04.asha.mp3",
+    "lips": "ph.04.asha.json",
+    "speaker": "asha",
+    "text": "नाक छोऊ!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "c4c20f041d17",
+    "reviewed": false
+  },
+  "ph.04.leo": {
+    "file": "ph.04.leo.mp3",
+    "lips": "ph.04.leo.json",
+    "speaker": "leo",
+    "text": "नाक छोऊ!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "702de3a4fd36",
+    "reviewed": false
+  },
+  "w.dog.say": {
+    "file": "w.dog.say.mp3",
+    "lips": "w.dog.say.json",
+    "speaker": "leo",
+    "text": "कुकुर।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "e6d61f9d1399",
+    "reviewed": false
+  },
+  "w.dog.look": {
+    "file": "w.dog.look.mp3",
+    "lips": "w.dog.look.json",
+    "speaker": "leo",
+    "text": "हेरौं त! कुकुर!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "39c7cf267216",
+    "reviewed": false
+  },
+  "w.dog.find": {
+    "file": "w.dog.find.mp3",
+    "lips": "w.dog.find.json",
+    "speaker": "leo",
+    "text": "कुकुर कहाँ छ?",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "0470487cc4a4",
+    "reviewed": false
+  },
+  "w.dog.yes": {
+    "file": "w.dog.yes.mp3",
+    "lips": "w.dog.yes.json",
+    "speaker": "leo",
+    "text": "हो! कुकुर!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "46f6eebd3f34",
+    "reviewed": false
+  },
+  "w.cat.say": {
+    "file": "w.cat.say.mp3",
+    "lips": "w.cat.say.json",
+    "speaker": "leo",
+    "text": "बिरालो।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "ad42cabaae3a",
+    "reviewed": false
+  },
+  "w.cat.look": {
+    "file": "w.cat.look.mp3",
+    "lips": "w.cat.look.json",
+    "speaker": "leo",
+    "text": "हेरौं त! बिरालो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "36c9b92f4498",
+    "reviewed": false
+  },
+  "w.cat.find": {
+    "file": "w.cat.find.mp3",
+    "lips": "w.cat.find.json",
+    "speaker": "leo",
+    "text": "बिरालो कहाँ छ?",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "c4c13d3131b1",
+    "reviewed": false
+  },
+  "w.cat.yes": {
+    "file": "w.cat.yes.mp3",
+    "lips": "w.cat.yes.json",
+    "speaker": "leo",
+    "text": "हो! बिरालो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "265b8d3e11d8",
+    "reviewed": false
+  },
+  "w.cow.say": {
+    "file": "w.cow.say.mp3",
+    "lips": "w.cow.say.json",
+    "speaker": "asha",
+    "text": "गाई।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "9512dd4f3b16",
+    "reviewed": false
+  },
+  "ph.06.asha": {
+    "file": "ph.06.asha.mp3",
+    "lips": "ph.06.asha.json",
+    "speaker": "asha",
+    "text": "कुकुर भन्छ भुक भुक।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "4fbefb368ddc",
+    "reviewed": false
+  },
+  "ph.06.leo": {
+    "file": "ph.06.leo.mp3",
+    "lips": "ph.06.leo.json",
+    "speaker": "leo",
+    "text": "कुकुर भन्छ भुक भुक।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "ddde98242c43",
+    "reviewed": false
+  },
+  "w.cow.look": {
+    "file": "w.cow.look.mp3",
+    "lips": "w.cow.look.json",
+    "speaker": "asha",
+    "text": "हेरौं त! गाई!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "619022b259e2",
+    "reviewed": false
+  },
+  "w.cow.yes": {
+    "file": "w.cow.yes.mp3",
+    "lips": "w.cow.yes.json",
+    "speaker": "asha",
+    "text": "हो! गाई!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "3327e2b65213",
+    "reviewed": false
+  },
+  "w.cow.find": {
+    "file": "w.cow.find.mp3",
+    "lips": "w.cow.find.json",
+    "speaker": "asha",
+    "text": "गाई कहाँ छ?",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "57e606e96a49",
+    "reviewed": false
+  },
+  "w.bird.say": {
+    "file": "w.bird.say.mp3",
+    "lips": "w.bird.say.json",
+    "speaker": "asha",
+    "text": "चरा।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "102a4fc502a2",
+    "reviewed": false
+  },
+  "w.bird.find": {
+    "file": "w.bird.find.mp3",
+    "lips": "w.bird.find.json",
+    "speaker": "asha",
+    "text": "चरा कहाँ छ?",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "dc6b6080cd2d",
+    "reviewed": false
+  },
+  "w.bird.look": {
+    "file": "w.bird.look.mp3",
+    "lips": "w.bird.look.json",
+    "speaker": "asha",
+    "text": "हेरौं त! चरा!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "76dde6611b8a",
+    "reviewed": false
+  },
+  "ph.07.leo": {
+    "file": "ph.07.leo.mp3",
+    "lips": "ph.07.leo.json",
+    "speaker": "leo",
+    "text": "गाई भन्छ म्बाँ।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "114697ee7848",
+    "reviewed": false
+  },
+  "w.bird.yes": {
+    "file": "w.bird.yes.mp3",
+    "lips": "w.bird.yes.json",
+    "speaker": "asha",
+    "text": "हो! चरा!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "a5df5a5034f7",
+    "reviewed": false
+  },
+  "ph.07.asha": {
+    "file": "ph.07.asha.mp3",
+    "lips": "ph.07.asha.json",
+    "speaker": "asha",
+    "text": "गाई भन्छ म्बाँ।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "c7b4856d695e",
+    "reviewed": false
+  },
+  "w.fish.say": {
+    "file": "w.fish.say.mp3",
+    "lips": "w.fish.say.json",
+    "speaker": "leo",
+    "text": "माछा।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "b7bd3c039d77",
+    "reviewed": false
+  },
+  "w.fish.look": {
+    "file": "w.fish.look.mp3",
+    "lips": "w.fish.look.json",
+    "speaker": "leo",
+    "text": "हेरौं त! माछा!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "4256dd33a1ea",
+    "reviewed": false
+  },
+  "w.fish.find": {
+    "file": "w.fish.find.mp3",
+    "lips": "w.fish.find.json",
+    "speaker": "leo",
+    "text": "माछा कहाँ छ?",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "8ffb3413b1d9",
+    "reviewed": false
+  },
+  "w.butterfly.say": {
+    "file": "w.butterfly.say.mp3",
+    "lips": "w.butterfly.say.json",
+    "speaker": "leo",
+    "text": "पुतली।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "b238cd122629",
+    "reviewed": false
+  },
+  "w.fish.yes": {
+    "file": "w.fish.yes.mp3",
+    "lips": "w.fish.yes.json",
+    "speaker": "leo",
+    "text": "हो! माछा!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "83cddc1dbded",
+    "reviewed": false
+  },
+  "w.butterfly.look": {
+    "file": "w.butterfly.look.mp3",
+    "lips": "w.butterfly.look.json",
+    "speaker": "leo",
+    "text": "हेरौं त! पुतली!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "89299e955ab5",
+    "reviewed": false
+  },
+  "w.butterfly.find": {
+    "file": "w.butterfly.find.mp3",
+    "lips": "w.butterfly.find.json",
+    "speaker": "leo",
+    "text": "पुतली कहाँ छ?",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "8180c492d4d4",
+    "reviewed": false
+  },
+  "w.butterfly.yes": {
+    "file": "w.butterfly.yes.mp3",
+    "lips": "w.butterfly.yes.json",
+    "speaker": "leo",
+    "text": "हो! पुतली!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "06abcbd2914a",
+    "reviewed": false
+  },
+  "ph.08.asha": {
+    "file": "ph.08.asha.mp3",
+    "lips": "ph.08.asha.json",
+    "speaker": "asha",
+    "text": "माछा पौडिन्छ।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "157b9c69b330",
+    "reviewed": false
+  },
+  "ph.08.leo": {
+    "file": "ph.08.leo.mp3",
+    "lips": "ph.08.leo.json",
+    "speaker": "leo",
+    "text": "माछा पौडिन्छ।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "858eb90832df",
+    "reviewed": false
+  },
+  "w.elephant.say": {
+    "file": "w.elephant.say.mp3",
+    "lips": "w.elephant.say.json",
+    "speaker": "asha",
+    "text": "हात्ती।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "a2ba4c68d0a6",
+    "reviewed": false
+  },
+  "w.elephant.look": {
+    "file": "w.elephant.look.mp3",
+    "lips": "w.elephant.look.json",
+    "speaker": "asha",
+    "text": "हेरौं त! हात्ती!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "2c220044830b",
+    "reviewed": false
+  },
+  "w.monkey.say": {
+    "file": "w.monkey.say.mp3",
+    "lips": "w.monkey.say.json",
+    "speaker": "asha",
+    "text": "बाँदर।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "e7e8dc0e0571",
+    "reviewed": false
+  },
+  "w.elephant.yes": {
+    "file": "w.elephant.yes.mp3",
+    "lips": "w.elephant.yes.json",
+    "speaker": "asha",
+    "text": "हो! हात्ती!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "8c20cf82281e",
+    "reviewed": false
+  },
+  "w.elephant.find": {
+    "file": "w.elephant.find.mp3",
+    "lips": "w.elephant.find.json",
+    "speaker": "asha",
+    "text": "हात्ती कहाँ छ?",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "54c5941f856d",
+    "reviewed": false
+  },
+  "w.monkey.look": {
+    "file": "w.monkey.look.mp3",
+    "lips": "w.monkey.look.json",
+    "speaker": "asha",
+    "text": "हेरौं त! बाँदर!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "f03b8d7b51e9",
+    "reviewed": false
+  },
+  "w.monkey.find": {
+    "file": "w.monkey.find.mp3",
+    "lips": "w.monkey.find.json",
+    "speaker": "asha",
+    "text": "बाँदर कहाँ छ?",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "f2ca190df657",
+    "reviewed": false
+  },
+  "w.monkey.yes": {
+    "file": "w.monkey.yes.mp3",
+    "lips": "w.monkey.yes.json",
+    "speaker": "asha",
+    "text": "हो! बाँदर!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "bd1652a9c105",
+    "reviewed": false
+  },
+  "ph.09.leo": {
+    "file": "ph.09.leo.mp3",
+    "lips": "ph.09.leo.json",
+    "speaker": "leo",
+    "text": "बाँदर उफ्रिन्छ।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "cde03a3a8d92",
+    "reviewed": false
+  },
+  "ph.09.asha": {
+    "file": "ph.09.asha.mp3",
+    "lips": "ph.09.asha.json",
+    "speaker": "asha",
+    "text": "बाँदर उफ्रिन्छ।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "044dfb4e198b",
+    "reviewed": false
+  },
+  "w.red.say": {
+    "file": "w.red.say.mp3",
+    "lips": "w.red.say.json",
+    "speaker": "asha",
+    "text": "रातो।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "77d8fcc16cf1",
+    "reviewed": false
+  },
+  "w.red.yes": {
+    "file": "w.red.yes.mp3",
+    "lips": "w.red.yes.json",
+    "speaker": "asha",
+    "text": "हो! रातो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "f77f3cb80719",
+    "reviewed": false
+  },
+  "w.red.look": {
+    "file": "w.red.look.mp3",
+    "lips": "w.red.look.json",
+    "speaker": "asha",
+    "text": "हेरौं त! रातो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "4551b48a28e3",
+    "reviewed": false
+  },
+  "w.red.find": {
+    "file": "w.red.find.mp3",
+    "lips": "w.red.find.json",
+    "speaker": "asha",
+    "text": "रातो कहाँ छ?",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "bfccc1999ccc",
+    "reviewed": false
+  },
+  "w.blue.say": {
+    "file": "w.blue.say.mp3",
+    "lips": "w.blue.say.json",
+    "speaker": "asha",
+    "text": "निलो।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "d994ed50dadd",
+    "reviewed": false
+  },
+  "w.blue.find": {
+    "file": "w.blue.find.mp3",
+    "lips": "w.blue.find.json",
+    "speaker": "asha",
+    "text": "निलो कहाँ छ?",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "e8cae2dc9e9f",
+    "reviewed": false
+  },
+  "w.blue.look": {
+    "file": "w.blue.look.mp3",
+    "lips": "w.blue.look.json",
+    "speaker": "asha",
+    "text": "हेरौं त! निलो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "f87da54a84c2",
+    "reviewed": false
+  },
+  "w.blue.yes": {
+    "file": "w.blue.yes.mp3",
+    "lips": "w.blue.yes.json",
+    "speaker": "asha",
+    "text": "हो! निलो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "c91c6f12f827",
+    "reviewed": false
+  },
+  "ph.11.asha": {
+    "file": "ph.11.asha.mp3",
+    "lips": "ph.11.asha.json",
+    "speaker": "asha",
+    "text": "रातो हो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "f8486b351509",
+    "reviewed": false
+  },
+  "ph.11.leo": {
+    "file": "ph.11.leo.mp3",
+    "lips": "ph.11.leo.json",
+    "speaker": "leo",
+    "text": "रातो हो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "bf636d8a13e7",
+    "reviewed": false
+  },
+  "w.yellow.say": {
+    "file": "w.yellow.say.mp3",
+    "lips": "w.yellow.say.json",
+    "speaker": "leo",
+    "text": "पहेँलो।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "39239d1d4de9",
+    "reviewed": false
+  },
+  "w.yellow.find": {
+    "file": "w.yellow.find.mp3",
+    "lips": "w.yellow.find.json",
+    "speaker": "leo",
+    "text": "पहेँलो कहाँ छ?",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "e1ba10612a99",
+    "reviewed": false
+  },
+  "w.yellow.look": {
+    "file": "w.yellow.look.mp3",
+    "lips": "w.yellow.look.json",
+    "speaker": "leo",
+    "text": "हेरौं त! पहेँलो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "163f4cee1bf3",
+    "reviewed": false
+  },
+  "w.yellow.yes": {
+    "file": "w.yellow.yes.mp3",
+    "lips": "w.yellow.yes.json",
+    "speaker": "leo",
+    "text": "हो! पहेँलो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "7199e0a7e008",
+    "reviewed": false
+  },
+  "w.green.say": {
+    "file": "w.green.say.mp3",
+    "lips": "w.green.say.json",
+    "speaker": "leo",
+    "text": "हरियो।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "6bd2d7efc0e6",
+    "reviewed": false
+  },
+  "w.green.look": {
+    "file": "w.green.look.mp3",
+    "lips": "w.green.look.json",
+    "speaker": "leo",
+    "text": "हेरौं त! हरियो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "fd9cb5d6d0fe",
+    "reviewed": false
+  },
+  "w.green.yes": {
+    "file": "w.green.yes.mp3",
+    "lips": "w.green.yes.json",
+    "speaker": "leo",
+    "text": "हो! हरियो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "58a2bdff202e",
+    "reviewed": false
+  },
+  "w.green.find": {
+    "file": "w.green.find.mp3",
+    "lips": "w.green.find.json",
+    "speaker": "leo",
+    "text": "हरियो कहाँ छ?",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "df1f639a6452",
+    "reviewed": false
+  },
+  "ph.12.asha": {
+    "file": "ph.12.asha.mp3",
+    "lips": "ph.12.asha.json",
+    "speaker": "asha",
+    "text": "पहेँलो हो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "0c3feede63da",
+    "reviewed": false
+  },
+  "ph.12.leo": {
+    "file": "ph.12.leo.mp3",
+    "lips": "ph.12.leo.json",
+    "speaker": "leo",
+    "text": "पहेँलो हो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "0e015d60a0c7",
+    "reviewed": false
+  },
+  "w.white.say": {
+    "file": "w.white.say.mp3",
+    "lips": "w.white.say.json",
+    "speaker": "asha",
+    "text": "सेतो।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "4c0dee87bb4e",
+    "reviewed": false
+  },
+  "w.white.look": {
+    "file": "w.white.look.mp3",
+    "lips": "w.white.look.json",
+    "speaker": "asha",
+    "text": "हेरौं त! सेतो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "b062b295e5a4",
+    "reviewed": false
+  },
+  "w.white.yes": {
+    "file": "w.white.yes.mp3",
+    "lips": "w.white.yes.json",
+    "speaker": "asha",
+    "text": "हो! सेतो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "d00d124cce8c",
+    "reviewed": false
+  },
+  "w.white.find": {
+    "file": "w.white.find.mp3",
+    "lips": "w.white.find.json",
+    "speaker": "asha",
+    "text": "सेतो कहाँ छ?",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "f8289bd8e9c6",
+    "reviewed": false
+  },
+  "w.black.say": {
+    "file": "w.black.say.mp3",
+    "lips": "w.black.say.json",
+    "speaker": "asha",
+    "text": "कालो।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "005e908b1376",
+    "reviewed": false
+  },
+  "w.black.find": {
+    "file": "w.black.find.mp3",
+    "lips": "w.black.find.json",
+    "speaker": "asha",
+    "text": "कालो कहाँ छ?",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "c2af6950647a",
+    "reviewed": false
+  },
+  "w.black.look": {
+    "file": "w.black.look.mp3",
+    "lips": "w.black.look.json",
+    "speaker": "asha",
+    "text": "हेरौं त! कालो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "6cf995499b19",
+    "reviewed": false
+  },
+  "w.black.yes": {
+    "file": "w.black.yes.mp3",
+    "lips": "w.black.yes.json",
+    "speaker": "asha",
+    "text": "हो! कालो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "2f1f62f8f6b1",
+    "reviewed": false
+  },
+  "w.thankyou.say": {
+    "file": "w.thankyou.say.mp3",
+    "lips": "w.thankyou.say.json",
+    "speaker": "leo",
+    "text": "धन्यवाद!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "8b2374174298",
+    "reviewed": false
+  },
+  "ph.13.leo": {
+    "file": "ph.13.leo.mp3",
+    "lips": "ph.13.leo.json",
+    "speaker": "leo",
+    "text": "कालो बिरालो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "ea4c712580cb",
+    "reviewed": false
+  },
+  "ph.13.asha": {
+    "file": "ph.13.asha.mp3",
+    "lips": "ph.13.asha.json",
+    "speaker": "asha",
+    "text": "कालो बिरालो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "c81ce67f1460",
+    "reviewed": false
+  },
+  "w.yes.say": {
+    "file": "w.yes.say.mp3",
+    "lips": "w.yes.say.json",
+    "speaker": "leo",
+    "text": "हो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "f94389af5855",
+    "reviewed": false
+  },
+  "w.no.say": {
+    "file": "w.no.say.mp3",
+    "lips": "w.no.say.json",
+    "speaker": "leo",
+    "text": "होइन!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "c807ba895b06",
+    "reviewed": false
+  },
+  "ph.14.asha": {
+    "file": "ph.14.asha.mp3",
+    "lips": "ph.14.asha.json",
+    "speaker": "asha",
+    "text": "धन्यवाद!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "ffd6aaf4384a",
+    "reviewed": false
+  },
+  "ph.14.leo": {
+    "file": "ph.14.leo.mp3",
+    "lips": "ph.14.leo.json",
+    "speaker": "leo",
+    "text": "धन्यवाद!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "8b2374174298",
+    "reviewed": false
+  },
+  "w.apple.say": {
+    "file": "w.apple.say.mp3",
+    "lips": "w.apple.say.json",
+    "speaker": "leo",
+    "text": "स्याउ।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "98c974fd4937",
+    "reviewed": false
+  },
+  "w.apple.look": {
+    "file": "w.apple.look.mp3",
+    "lips": "w.apple.look.json",
+    "speaker": "leo",
+    "text": "हेरौं त! स्याउ!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "c763111f0652",
+    "reviewed": false
+  },
+  "w.apple.find": {
+    "file": "w.apple.find.mp3",
+    "lips": "w.apple.find.json",
+    "speaker": "leo",
+    "text": "स्याउ कहाँ छ?",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "4b60c8c56223",
+    "reviewed": false
+  },
+  "w.apple.yes": {
+    "file": "w.apple.yes.mp3",
+    "lips": "w.apple.yes.json",
+    "speaker": "leo",
+    "text": "हो! स्याउ!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "7262357e93fe",
+    "reviewed": false
+  },
+  "w.banana.say": {
+    "file": "w.banana.say.mp3",
+    "lips": "w.banana.say.json",
+    "speaker": "leo",
+    "text": "केरा।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "e70e2a978fe2",
+    "reviewed": false
+  },
+  "w.banana.look": {
+    "file": "w.banana.look.mp3",
+    "lips": "w.banana.look.json",
+    "speaker": "leo",
+    "text": "हेरौं त! केरा!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "39ef61a0f318",
+    "reviewed": false
+  },
+  "w.banana.find": {
+    "file": "w.banana.find.mp3",
+    "lips": "w.banana.find.json",
+    "speaker": "leo",
+    "text": "केरा कहाँ छ?",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "56fa094f99ed",
+    "reviewed": false
+  },
+  "w.banana.yes": {
+    "file": "w.banana.yes.mp3",
+    "lips": "w.banana.yes.json",
+    "speaker": "leo",
+    "text": "हो! केरा!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "3513c22413e9",
+    "reviewed": false
+  },
+  "ph.16.leo": {
+    "file": "ph.16.leo.mp3",
+    "lips": "ph.16.leo.json",
+    "speaker": "leo",
+    "text": "मीठो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "dfa1d9852f16",
+    "reviewed": false
+  },
+  "ph.16.asha": {
+    "file": "ph.16.asha.mp3",
+    "lips": "ph.16.asha.json",
+    "speaker": "asha",
+    "text": "मीठो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "fdcd951acd60",
+    "reviewed": false
+  },
+  "w.milk.say": {
+    "file": "w.milk.say.mp3",
+    "lips": "w.milk.say.json",
+    "speaker": "asha",
+    "text": "दूध।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "4b5804e19318",
+    "reviewed": false
+  },
+  "w.milk.find": {
+    "file": "w.milk.find.mp3",
+    "lips": "w.milk.find.json",
+    "speaker": "asha",
+    "text": "दूध कहाँ छ?",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "46f2c6d680a6",
+    "reviewed": false
+  },
+  "w.milk.look": {
+    "file": "w.milk.look.mp3",
+    "lips": "w.milk.look.json",
+    "speaker": "asha",
+    "text": "हेरौं त! दूध!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "dfb01eae5cb7",
+    "reviewed": false
+  },
+  "w.milk.yes": {
+    "file": "w.milk.yes.mp3",
+    "lips": "w.milk.yes.json",
+    "speaker": "asha",
+    "text": "हो! दूध!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "1c0cb1cd9a4a",
+    "reviewed": false
+  },
+  "w.water.say": {
+    "file": "w.water.say.mp3",
+    "lips": "w.water.say.json",
+    "speaker": "asha",
+    "text": "पानी।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "b05a45e80b67",
+    "reviewed": false
+  },
+  "w.water.look": {
+    "file": "w.water.look.mp3",
+    "lips": "w.water.look.json",
+    "speaker": "asha",
+    "text": "हेरौं त! पानी!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "2a49f4198b0d",
+    "reviewed": false
+  },
+  "w.water.find": {
+    "file": "w.water.find.mp3",
+    "lips": "w.water.find.json",
+    "speaker": "asha",
+    "text": "पानी कहाँ छ?",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "254d30c515ce",
+    "reviewed": false
+  },
+  "w.water.yes": {
+    "file": "w.water.yes.mp3",
+    "lips": "w.water.yes.json",
+    "speaker": "asha",
+    "text": "हो! पानी!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "ad2ba75c9417",
+    "reviewed": false
+  },
+  "ph.17.asha": {
+    "file": "ph.17.asha.mp3",
+    "lips": "ph.17.asha.json",
+    "speaker": "asha",
+    "text": "मलाई पानी चाहियो।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "d0656f0ec2c0",
+    "reviewed": false
+  },
+  "ph.17.leo": {
+    "file": "ph.17.leo.mp3",
+    "lips": "ph.17.leo.json",
+    "speaker": "leo",
+    "text": "मलाई पानी चाहियो।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "e3df280d9401",
+    "reviewed": false
+  },
+  "w.rice.say": {
+    "file": "w.rice.say.mp3",
+    "lips": "w.rice.say.json",
+    "speaker": "leo",
+    "text": "भात।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "8b207e78d6c8",
+    "reviewed": false
+  },
+  "w.rice.look": {
+    "file": "w.rice.look.mp3",
+    "lips": "w.rice.look.json",
+    "speaker": "leo",
+    "text": "हेरौं त! भात!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "e861d0bf64b7",
+    "reviewed": false
+  },
+  "w.rice.find": {
+    "file": "w.rice.find.mp3",
+    "lips": "w.rice.find.json",
+    "speaker": "leo",
+    "text": "भात कहाँ छ?",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "25f5fbd57b80",
+    "reviewed": false
+  },
+  "w.egg.say": {
+    "file": "w.egg.say.mp3",
+    "lips": "w.egg.say.json",
+    "speaker": "leo",
+    "text": "अण्डा।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "7a82fb3e518b",
+    "reviewed": false
+  },
+  "w.rice.yes": {
+    "file": "w.rice.yes.mp3",
+    "lips": "w.rice.yes.json",
+    "speaker": "leo",
+    "text": "हो! भात!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "f1e5f325ac9f",
+    "reviewed": false
+  },
+  "w.egg.look": {
+    "file": "w.egg.look.mp3",
+    "lips": "w.egg.look.json",
+    "speaker": "leo",
+    "text": "हेरौं त! अण्डा!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "9064bba019b4",
+    "reviewed": false
+  },
+  "w.egg.find": {
+    "file": "w.egg.find.mp3",
+    "lips": "w.egg.find.json",
+    "speaker": "leo",
+    "text": "अण्डा कहाँ छ?",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "32c16fc2e46e",
+    "reviewed": false
+  },
+  "w.egg.yes": {
+    "file": "w.egg.yes.mp3",
+    "lips": "w.egg.yes.json",
+    "speaker": "leo",
+    "text": "हो! अण्डा!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "ab99421dc214",
+    "reviewed": false
+  },
+  "ph.18.asha": {
+    "file": "ph.18.asha.mp3",
+    "lips": "ph.18.asha.json",
+    "speaker": "asha",
+    "text": "भात दिनुस् न।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "eb7aca6f4b13",
+    "reviewed": false
+  },
+  "ph.18.leo": {
+    "file": "ph.18.leo.mp3",
+    "lips": "ph.18.leo.json",
+    "speaker": "leo",
+    "text": "भात दिनुस् न।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "37e641f3b293",
+    "reviewed": false
+  },
+  "w.please.say": {
+    "file": "w.please.say.mp3",
+    "lips": "w.please.say.json",
+    "speaker": "asha",
+    "text": "दिनुस् न!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "1374845c2b3c",
+    "reviewed": false
+  },
+  "t.intro_self.asha": {
+    "file": "t.intro_self.asha.mp3",
+    "lips": "t.intro_self.asha.json",
+    "speaker": "asha",
+    "text": "म आशा दिदी!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "7558c320ed38",
+    "reviewed": false
+  },
+  "ph.19.leo": {
+    "file": "ph.19.leo.mp3",
+    "lips": "ph.19.leo.json",
+    "speaker": "leo",
+    "text": "मेरो नाम लियो हो।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "2989d0213280",
+    "reviewed": false
+  },
+  "ph.19.asha": {
+    "file": "ph.19.asha.mp3",
+    "lips": "ph.19.asha.json",
+    "speaker": "asha",
+    "text": "मेरो नाम आशा हो।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "f4b52339d606",
+    "reviewed": false
+  },
+  "t.good_morning.asha": {
+    "file": "t.good_morning.asha.mp3",
+    "lips": "t.good_morning.asha.json",
+    "speaker": "asha",
+    "text": "शुभ प्रभात!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "ce68513534dd",
+    "reviewed": false
+  },
+  "t.hello_friend.asha": {
+    "file": "t.hello_friend.asha.mp3",
+    "lips": "t.hello_friend.asha.json",
+    "speaker": "asha",
+    "text": "नमस्ते साथी!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "6a8b325884f6",
+    "reviewed": false
+  },
+  "t.ready.asha": {
+    "file": "t.ready.asha.mp3",
+    "lips": "t.ready.asha.json",
+    "speaker": "asha",
+    "text": "तयार? सिकौं!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "91f6d6a4f537",
+    "reviewed": false
+  },
+  "t.look.asha": {
+    "file": "t.look.asha.mp3",
+    "lips": "t.look.asha.json",
+    "speaker": "asha",
+    "text": "हेरौं त!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "2dc5fdf133be",
+    "reviewed": false
+  },
+  "t.game_first.asha": {
+    "file": "t.game_first.asha.mp3",
+    "lips": "t.game_first.asha.json",
+    "speaker": "asha",
+    "text": "पहिले खेल खेलौं!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "4e05864ad4e9",
+    "reviewed": false
+  },
+  "t.remember.asha": {
+    "file": "t.remember.asha.mp3",
+    "lips": "t.remember.asha.json",
+    "speaker": "asha",
+    "text": "यो याद छ?",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "6e91165954c9",
+    "reviewed": false
+  },
+  "t.again.asha": {
+    "file": "t.again.asha.mp3",
+    "lips": "t.again.asha.json",
+    "speaker": "asha",
+    "text": "फेरि!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "323bb5e73ee4",
+    "reviewed": false
+  },
+  "t.say_with_me.asha": {
+    "file": "t.say_with_me.asha.mp3",
+    "lips": "t.say_with_me.asha.json",
+    "speaker": "asha",
+    "text": "सँगै भनौं!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "c884fe48dfc0",
+    "reviewed": false
+  },
+  "t.listen.asha": {
+    "file": "t.listen.asha.mp3",
+    "lips": "t.listen.asha.json",
+    "speaker": "asha",
+    "text": "सुनौं है।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "cac9165009a8",
+    "reviewed": false
+  },
+  "t.your_turn.asha": {
+    "file": "t.your_turn.asha.mp3",
+    "lips": "t.your_turn.asha.json",
+    "speaker": "asha",
+    "text": "अब तिम्रो पालो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "e627561177ac",
+    "reviewed": false
+  },
+  "t.slowly.asha": {
+    "file": "t.slowly.asha.mp3",
+    "lips": "t.slowly.asha.json",
+    "speaker": "asha",
+    "text": "बिस्तारै।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "9487ca80ef49",
+    "reviewed": false
+  },
+  "t.louder.asha": {
+    "file": "t.louder.asha.mp3",
+    "lips": "t.louder.asha.json",
+    "speaker": "asha",
+    "text": "अझ ठूलो स्वरमा!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "4a8ce8e4fb61",
+    "reviewed": false
+  },
+  "t.whisper.asha": {
+    "file": "t.whisper.asha.mp3",
+    "lips": "t.whisper.asha.json",
+    "speaker": "asha",
+    "text": "सानो स्वरमा भनौं!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "735c38c8f19d",
+    "reviewed": false
+  },
+  "t.tap_it.asha": {
+    "file": "t.tap_it.asha.mp3",
+    "lips": "t.tap_it.asha.json",
+    "speaker": "asha",
+    "text": "थिचौं त!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "86f89dffc3ea",
+    "reviewed": false
+  },
+  "t.do_what_i_do.asha": {
+    "file": "t.do_what_i_do.asha.mp3",
+    "lips": "t.do_what_i_do.asha.json",
+    "speaker": "asha",
+    "text": "मसँगै गरौं!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "d56abfa4983f",
+    "reviewed": false
+  },
+  "t.which_one.asha": {
+    "file": "t.which_one.asha.mp3",
+    "lips": "t.which_one.asha.json",
+    "speaker": "asha",
+    "text": "कुन चाहिँ?",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "5f0cc2f1d7c3",
+    "reviewed": false
+  },
+  "t.count_with_me.asha": {
+    "file": "t.count_with_me.asha.mp3",
+    "lips": "t.count_with_me.asha.json",
+    "speaker": "asha",
+    "text": "सँगै गन!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "5623f51d44d1",
+    "reviewed": false
+  },
+  "t.find_it.asha": {
+    "file": "t.find_it.asha.mp3",
+    "lips": "t.find_it.asha.json",
+    "speaker": "asha",
+    "text": "खोजौं त!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "e328dd474363",
+    "reviewed": false
+  },
+  "t.story_time.asha": {
+    "file": "t.story_time.asha.mp3",
+    "lips": "t.story_time.asha.json",
+    "speaker": "asha",
+    "text": "कथा सुन्ने बेला!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "46f09d6bb220",
+    "reviewed": false
+  },
+  "t.yes.asha": {
+    "file": "t.yes.asha.mp3",
+    "lips": "t.yes.asha.json",
+    "speaker": "asha",
+    "text": "हो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "ecba60a8afc4",
+    "reviewed": false
+  },
+  "t.lets_sing.asha": {
+    "file": "t.lets_sing.asha.mp3",
+    "lips": "t.lets_sing.asha.json",
+    "speaker": "asha",
+    "text": "गीत गाऔं!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "e3fb69376ccb",
+    "reviewed": false
+  },
+  "t.wow.asha": {
+    "file": "t.wow.asha.mp3",
+    "lips": "t.wow.asha.json",
+    "speaker": "asha",
+    "text": "वाह!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "ad34bd36e8a7",
+    "reviewed": false
+  },
+  "t.thats_right.asha": {
+    "file": "t.thats_right.asha.mp3",
+    "lips": "t.thats_right.asha.json",
+    "speaker": "asha",
+    "text": "ठीक हो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "1adc6e841ea5",
+    "reviewed": false
+  },
+  "t.great_job.asha": {
+    "file": "t.great_job.asha.mp3",
+    "lips": "t.great_job.asha.json",
+    "speaker": "asha",
+    "text": "स्याबास!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "f2daa31d14ff",
+    "reviewed": false
+  },
+  "t.well_done.asha": {
+    "file": "t.well_done.asha.mp3",
+    "lips": "t.well_done.asha.json",
+    "speaker": "asha",
+    "text": "धेरै राम्रो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "0a40db41691a",
+    "reviewed": false
+  },
+  "t.so_clever.asha": {
+    "file": "t.so_clever.asha.mp3",
+    "lips": "t.so_clever.asha.json",
+    "speaker": "asha",
+    "text": "कति बाठो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "6598bc8fa4d8",
+    "reviewed": false
+  },
+  "t.super.asha": {
+    "file": "t.super.asha.mp3",
+    "lips": "t.super.asha.json",
+    "speaker": "asha",
+    "text": "एकदम राम्रो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "9a265dfc60d6",
+    "reviewed": false
+  },
+  "t.high_five.asha": {
+    "file": "t.high_five.asha.mp3",
+    "lips": "t.high_five.asha.json",
+    "speaker": "asha",
+    "text": "हाई फाइभ!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "9b3f9aa7715c",
+    "reviewed": false
+  },
+  "t.you_remembered.asha": {
+    "file": "t.you_remembered.asha.mp3",
+    "lips": "t.you_remembered.asha.json",
+    "speaker": "asha",
+    "text": "याद रह्यो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "018e25ba78fb",
+    "reviewed": false
+  },
+  "t.oops_look_again.asha": {
+    "file": "t.oops_look_again.asha.mp3",
+    "lips": "t.oops_look_again.asha.json",
+    "speaker": "asha",
+    "text": "ओहो! फेरि हेरौं।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "8b8d65935212",
+    "reviewed": false
+  },
+  "t.try_another.asha": {
+    "file": "t.try_another.asha.mp3",
+    "lips": "t.try_another.asha.json",
+    "speaker": "asha",
+    "text": "ह्म्म, अर्को थिचौं त!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "7d0ffec443f3",
+    "reviewed": false
+  },
+  "t.here_it_is.asha": {
+    "file": "t.here_it_is.asha.mp3",
+    "lips": "t.here_it_is.asha.json",
+    "speaker": "asha",
+    "text": "हेरौं, यहाँ छ!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "c2467e2dc5ff",
+    "reviewed": false
+  },
+  "t.almost.asha": {
+    "file": "t.almost.asha.mp3",
+    "lips": "t.almost.asha.json",
+    "speaker": "asha",
+    "text": "झन्डै!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "b5e553e9e7ec",
+    "reviewed": false
+  },
+  "t.next_one.asha": {
+    "file": "t.next_one.asha.mp3",
+    "lips": "t.next_one.asha.json",
+    "speaker": "asha",
+    "text": "अर्को!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "73357035f0b6",
+    "reviewed": false
+  },
+  "t.last_one.asha": {
+    "file": "t.last_one.asha.mp3",
+    "lips": "t.last_one.asha.json",
+    "speaker": "asha",
+    "text": "अन्तिम!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "32711588bbbb",
+    "reviewed": false
+  },
+  "t.got_star.asha": {
+    "file": "t.got_star.asha.mp3",
+    "lips": "t.got_star.asha.json",
+    "speaker": "asha",
+    "text": "तिमीले तारा पायौ!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "954c74d29e6a",
+    "reviewed": false
+  },
+  "t.pet_closer.asha": {
+    "file": "t.pet_closer.asha.mp3",
+    "lips": "t.pet_closer.asha.json",
+    "speaker": "asha",
+    "text": "नयाँ साथी नजिकै आउँदैछ!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "9fe5bda7fbe6",
+    "reviewed": false
+  },
+  "t.see_you_tomorrow.asha": {
+    "file": "t.see_you_tomorrow.asha.mp3",
+    "lips": "t.see_you_tomorrow.asha.json",
+    "speaker": "asha",
+    "text": "भोलि भेटौंला!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "b333fdf0c6f4",
+    "reviewed": false
+  },
+  "t.learned_so_much.asha": {
+    "file": "t.learned_so_much.asha.mp3",
+    "lips": "t.learned_so_much.asha.json",
+    "speaker": "asha",
+    "text": "आज धेरै सिक्यौ!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "23d3cce0ea44",
+    "reviewed": false
+  },
+  "t.bye.asha": {
+    "file": "t.bye.asha.mp3",
+    "lips": "t.bye.asha.json",
+    "speaker": "asha",
+    "text": "टाटा!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "d4a34901654f",
+    "reviewed": false
+  },
+  "t.intro_self.leo": {
+    "file": "t.intro_self.leo.mp3",
+    "lips": "t.intro_self.leo.json",
+    "speaker": "leo",
+    "text": "म लियो दाइ!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "4b123370dd75",
+    "reviewed": false
+  },
+  "t.hello_friend.leo": {
+    "file": "t.hello_friend.leo.mp3",
+    "lips": "t.hello_friend.leo.json",
+    "speaker": "leo",
+    "text": "नमस्ते साथी!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "9f9e252c4505",
+    "reviewed": false
+  },
+  "t.good_morning.leo": {
+    "file": "t.good_morning.leo.mp3",
+    "lips": "t.good_morning.leo.json",
+    "speaker": "leo",
+    "text": "शुभ प्रभात!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "70011f348da1",
+    "reviewed": false
+  },
+  "t.ready.leo": {
+    "file": "t.ready.leo.mp3",
+    "lips": "t.ready.leo.json",
+    "speaker": "leo",
+    "text": "तयार? सिकौं!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "657a9b1ae8bb",
+    "reviewed": false
+  },
+  "t.game_first.leo": {
+    "file": "t.game_first.leo.mp3",
+    "lips": "t.game_first.leo.json",
+    "speaker": "leo",
+    "text": "पहिले खेल खेलौं!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "e836badf4870",
+    "reviewed": false
+  },
+  "t.remember.leo": {
+    "file": "t.remember.leo.mp3",
+    "lips": "t.remember.leo.json",
+    "speaker": "leo",
+    "text": "यो याद छ?",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "50279f147152",
+    "reviewed": false
+  },
+  "t.listen.leo": {
+    "file": "t.listen.leo.mp3",
+    "lips": "t.listen.leo.json",
+    "speaker": "leo",
+    "text": "सुनौं है।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "8b4e6d0706e7",
+    "reviewed": false
+  },
+  "t.look.leo": {
+    "file": "t.look.leo.mp3",
+    "lips": "t.look.leo.json",
+    "speaker": "leo",
+    "text": "हेरौं त!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "773ea1ede793",
+    "reviewed": false
+  },
+  "t.again.leo": {
+    "file": "t.again.leo.mp3",
+    "lips": "t.again.leo.json",
+    "speaker": "leo",
+    "text": "फेरि!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "03ebdd93c3c9",
+    "reviewed": false
+  },
+  "t.say_with_me.leo": {
+    "file": "t.say_with_me.leo.mp3",
+    "lips": "t.say_with_me.leo.json",
+    "speaker": "leo",
+    "text": "सँगै भनौं!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "2735233bb17d",
+    "reviewed": false
+  },
+  "t.your_turn.leo": {
+    "file": "t.your_turn.leo.mp3",
+    "lips": "t.your_turn.leo.json",
+    "speaker": "leo",
+    "text": "अब तिम्रो पालो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "3d40cbae9dab",
+    "reviewed": false
+  },
+  "t.slowly.leo": {
+    "file": "t.slowly.leo.mp3",
+    "lips": "t.slowly.leo.json",
+    "speaker": "leo",
+    "text": "बिस्तारै।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "923ab91531ff",
+    "reviewed": false
+  },
+  "t.whisper.leo": {
+    "file": "t.whisper.leo.mp3",
+    "lips": "t.whisper.leo.json",
+    "speaker": "leo",
+    "text": "सानो स्वरमा भनौं!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "28ebbbd46908",
+    "reviewed": false
+  },
+  "t.louder.leo": {
+    "file": "t.louder.leo.mp3",
+    "lips": "t.louder.leo.json",
+    "speaker": "leo",
+    "text": "अझ ठूलो स्वरमा!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "1f82babc8905",
+    "reviewed": false
+  },
+  "t.do_what_i_do.leo": {
+    "file": "t.do_what_i_do.leo.mp3",
+    "lips": "t.do_what_i_do.leo.json",
+    "speaker": "leo",
+    "text": "मसँगै गरौं!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "19a46a176010",
+    "reviewed": false
+  },
+  "t.tap_it.leo": {
+    "file": "t.tap_it.leo.mp3",
+    "lips": "t.tap_it.leo.json",
+    "speaker": "leo",
+    "text": "थिचौं त!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "18b889e567b4",
+    "reviewed": false
+  },
+  "t.find_it.leo": {
+    "file": "t.find_it.leo.mp3",
+    "lips": "t.find_it.leo.json",
+    "speaker": "leo",
+    "text": "खोजौं त!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "d29ab353a465",
+    "reviewed": false
+  },
+  "t.which_one.leo": {
+    "file": "t.which_one.leo.mp3",
+    "lips": "t.which_one.leo.json",
+    "speaker": "leo",
+    "text": "कुन चाहिँ?",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "02fb5eb8f42e",
+    "reviewed": false
+  },
+  "t.lets_sing.leo": {
+    "file": "t.lets_sing.leo.mp3",
+    "lips": "t.lets_sing.leo.json",
+    "speaker": "leo",
+    "text": "गीत गाऔं!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "3555bd5f20d6",
+    "reviewed": false
+  },
+  "t.count_with_me.leo": {
+    "file": "t.count_with_me.leo.mp3",
+    "lips": "t.count_with_me.leo.json",
+    "speaker": "leo",
+    "text": "सँगै गन!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "a71723eb9b18",
+    "reviewed": false
+  },
+  "t.story_time.leo": {
+    "file": "t.story_time.leo.mp3",
+    "lips": "t.story_time.leo.json",
+    "speaker": "leo",
+    "text": "कथा सुन्ने बेला!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "e08dba646112",
+    "reviewed": false
+  },
+  "t.yes.leo": {
+    "file": "t.yes.leo.mp3",
+    "lips": "t.yes.leo.json",
+    "speaker": "leo",
+    "text": "हो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "f94389af5855",
+    "reviewed": false
+  },
+  "t.thats_right.leo": {
+    "file": "t.thats_right.leo.mp3",
+    "lips": "t.thats_right.leo.json",
+    "speaker": "leo",
+    "text": "ठीक हो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "17ee41aa0989",
+    "reviewed": false
+  },
+  "t.wow.leo": {
+    "file": "t.wow.leo.mp3",
+    "lips": "t.wow.leo.json",
+    "speaker": "leo",
+    "text": "वाह!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "362c6b1cd026",
+    "reviewed": false
+  },
+  "t.great_job.leo": {
+    "file": "t.great_job.leo.mp3",
+    "lips": "t.great_job.leo.json",
+    "speaker": "leo",
+    "text": "स्याबास!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "0c54f3f63bf1",
+    "reviewed": false
+  },
+  "t.super.leo": {
+    "file": "t.super.leo.mp3",
+    "lips": "t.super.leo.json",
+    "speaker": "leo",
+    "text": "एकदम राम्रो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "30fcbc9e08dc",
+    "reviewed": false
+  },
+  "t.well_done.leo": {
+    "file": "t.well_done.leo.mp3",
+    "lips": "t.well_done.leo.json",
+    "speaker": "leo",
+    "text": "धेरै राम्रो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "f9b9857458f3",
+    "reviewed": false
+  },
+  "t.so_clever.leo": {
+    "file": "t.so_clever.leo.mp3",
+    "lips": "t.so_clever.leo.json",
+    "speaker": "leo",
+    "text": "कति बाठो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "dbee238c5c5b",
+    "reviewed": false
+  },
+  "t.high_five.leo": {
+    "file": "t.high_five.leo.mp3",
+    "lips": "t.high_five.leo.json",
+    "speaker": "leo",
+    "text": "हाई फाइभ!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "9ae5a74cf4ef",
+    "reviewed": false
+  },
+  "t.you_remembered.leo": {
+    "file": "t.you_remembered.leo.mp3",
+    "lips": "t.you_remembered.leo.json",
+    "speaker": "leo",
+    "text": "याद रह्यो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "d3e33f2d63d2",
+    "reviewed": false
+  },
+  "t.oops_look_again.leo": {
+    "file": "t.oops_look_again.leo.mp3",
+    "lips": "t.oops_look_again.leo.json",
+    "speaker": "leo",
+    "text": "ओहो! फेरि हेरौं।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "56d6d00af8fe",
+    "reviewed": false
+  },
+  "t.here_it_is.leo": {
+    "file": "t.here_it_is.leo.mp3",
+    "lips": "t.here_it_is.leo.json",
+    "speaker": "leo",
+    "text": "हेरौं, यहाँ छ!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "f429b4a4a007",
+    "reviewed": false
+  },
+  "t.try_another.leo": {
+    "file": "t.try_another.leo.mp3",
+    "lips": "t.try_another.leo.json",
+    "speaker": "leo",
+    "text": "ह्म्म, अर्को थिचौं त!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "93212d9c45f2",
+    "reviewed": false
+  },
+  "t.almost.leo": {
+    "file": "t.almost.leo.mp3",
+    "lips": "t.almost.leo.json",
+    "speaker": "leo",
+    "text": "झन्डै!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "f2293eaaa974",
+    "reviewed": false
+  },
+  "t.next_one.leo": {
+    "file": "t.next_one.leo.mp3",
+    "lips": "t.next_one.leo.json",
+    "speaker": "leo",
+    "text": "अर्को!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "d9d4b31eca6b",
+    "reviewed": false
+  },
+  "t.last_one.leo": {
+    "file": "t.last_one.leo.mp3",
+    "lips": "t.last_one.leo.json",
+    "speaker": "leo",
+    "text": "अन्तिम!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "c3de77eda5fe",
+    "reviewed": false
+  },
+  "t.got_star.leo": {
+    "file": "t.got_star.leo.mp3",
+    "lips": "t.got_star.leo.json",
+    "speaker": "leo",
+    "text": "तिमीले तारा पायौ!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "332944851d19",
+    "reviewed": false
+  },
+  "t.see_you_tomorrow.leo": {
+    "file": "t.see_you_tomorrow.leo.mp3",
+    "lips": "t.see_you_tomorrow.leo.json",
+    "speaker": "leo",
+    "text": "भोलि भेटौंला!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "d60aa41ffcde",
+    "reviewed": false
+  },
+  "t.learned_so_much.leo": {
+    "file": "t.learned_so_much.leo.mp3",
+    "lips": "t.learned_so_much.leo.json",
+    "speaker": "leo",
+    "text": "आज धेरै सिक्यौ!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "5354aead91b7",
+    "reviewed": false
+  },
+  "t.pet_closer.leo": {
+    "file": "t.pet_closer.leo.mp3",
+    "lips": "t.pet_closer.leo.json",
+    "speaker": "leo",
+    "text": "नयाँ साथी नजिकै आउँदैछ!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "5ef2ee14275b",
+    "reviewed": false
+  },
+  "t.bye.leo": {
+    "file": "t.bye.leo.mp3",
+    "lips": "t.bye.leo.json",
+    "speaker": "leo",
+    "text": "टाटा!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "d5dcb5d89758",
+    "reviewed": false
+  },
+  "beep_intro.1": {
+    "file": "beep_intro.1.mp3",
+    "lips": "beep_intro.1.json",
+    "speaker": "asha",
+    "text": "नमस्ते! म आशा दिदी।",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "53ff8ec4d080",
+    "reviewed": false
+  },
+  "beep_intro.2": {
+    "file": "beep_intro.2.mp3",
+    "lips": "beep_intro.2.json",
+    "speaker": "leo",
+    "text": "अनि म लियो दाइ! नमस्ते!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "c6ffbd67d781",
+    "reviewed": false
+  },
+  "beep_intro.3": {
+    "file": "beep_intro.3.mp3",
+    "lips": "beep_intro.3.json",
+    "speaker": "asha",
+    "text": "ए! यो के हो?",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "cf446b2e4046",
+    "reviewed": false
+  },
+  "beep_intro.4": {
+    "file": "beep_intro.4.mp3",
+    "lips": "beep_intro.4.json",
+    "speaker": "beep",
+    "text": "बिप बुप! नमस्ते!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "87d67549970e",
+    "reviewed": false
+  },
+  "beep_intro.5": {
+    "file": "beep_intro.5.mp3",
+    "lips": "beep_intro.5.json",
+    "speaker": "leo",
+    "text": "यो बिप हो! बिप तिम्रो साथी।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "998f1a34084d",
+    "reviewed": false
+  },
+  "beep_intro.6": {
+    "file": "beep_intro.6.mp3",
+    "lips": "beep_intro.6.json",
+    "speaker": "beep",
+    "text": "ए साथी! सँगै सिकौं!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "d3f11389bdb8",
+    "reviewed": false
+  },
+  "beep_intro.7": {
+    "file": "beep_intro.7.mp3",
+    "lips": "beep_intro.7.json",
+    "speaker": "asha",
+    "text": "बिपलाई नमस्ते भनौं! नमस्ते!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "82b1fb6dcc49",
+    "reviewed": false
+  },
+  "beep_intro.8": {
+    "file": "beep_intro.8.mp3",
+    "lips": "beep_intro.8.json",
+    "speaker": "beep",
+    "text": "याहू! बिप बुप!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "c9b8b6819bfe",
+    "reviewed": false
+  },
+  "unlock.did_it_20.asha": {
+    "file": "unlock.did_it_20.asha.mp3",
+    "lips": "unlock.did_it_20.asha.json",
+    "speaker": "asha",
+    "text": "तिमीले गर्यौ! बीस पाठ!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "daae29bc8203",
+    "reviewed": false
+  },
+  "unlock.hooray.asha": {
+    "file": "unlock.hooray.asha.mp3",
+    "lips": "unlock.hooray.asha.json",
+    "speaker": "asha",
+    "text": "हुर्रे!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "4ba57087f1e4",
+    "reviewed": false
+  },
+  "unlock.who_new_friend.asha": {
+    "file": "unlock.who_new_friend.asha.mp3",
+    "lips": "unlock.who_new_friend.asha.json",
+    "speaker": "asha",
+    "text": "नयाँ साथी को होला?",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "8384cb2d8b5f",
+    "reviewed": false
+  },
+  "unlock.this_is_bobo.asha": {
+    "file": "unlock.this_is_bobo.asha.mp3",
+    "lips": "unlock.this_is_bobo.asha.json",
+    "speaker": "asha",
+    "text": "यो बोबो हो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "edabb2e8e98c",
+    "reviewed": false
+  },
+  "unlock.this_is_gaju.asha": {
+    "file": "unlock.this_is_gaju.asha.mp3",
+    "lips": "unlock.this_is_gaju.asha.json",
+    "speaker": "asha",
+    "text": "यो गजु हो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "9716195f3a0e",
+    "reviewed": false
+  },
+  "unlock.this_is_sparky.asha": {
+    "file": "unlock.this_is_sparky.asha.mp3",
+    "lips": "unlock.this_is_sparky.asha.json",
+    "speaker": "asha",
+    "text": "यो स्पार्की हो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "5031f8e03897",
+    "reviewed": false
+  },
+  "unlock.this_is_pandu.asha": {
+    "file": "unlock.this_is_pandu.asha.mp3",
+    "lips": "unlock.this_is_pandu.asha.json",
+    "speaker": "asha",
+    "text": "यो पण्डु हो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "8806e6083738",
+    "reviewed": false
+  },
+  "unlock.this_is_himu.asha": {
+    "file": "unlock.this_is_himu.asha.mp3",
+    "lips": "unlock.this_is_himu.asha.json",
+    "speaker": "asha",
+    "text": "यो हिमु हो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "7d959e9fc4f3",
+    "reviewed": false
+  },
+  "unlock.this_is_mimi.asha": {
+    "file": "unlock.this_is_mimi.asha.mp3",
+    "lips": "unlock.this_is_mimi.asha.json",
+    "speaker": "asha",
+    "text": "यो मिमी हो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "1db7657d1412",
+    "reviewed": false
+  },
+  "unlock.this_is_roary.asha": {
+    "file": "unlock.this_is_roary.asha.mp3",
+    "lips": "unlock.this_is_roary.asha.json",
+    "speaker": "asha",
+    "text": "यो रोरी हो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "16735109c5ab",
+    "reviewed": false
+  },
+  "unlock.this_is_stardust.asha": {
+    "file": "unlock.this_is_stardust.asha.mp3",
+    "lips": "unlock.this_is_stardust.asha.json",
+    "speaker": "asha",
+    "text": "यो स्टारडस्ट हो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "b7c3e5e02298",
+    "reviewed": false
+  },
+  "unlock.did_it_20.leo": {
+    "file": "unlock.did_it_20.leo.mp3",
+    "lips": "unlock.did_it_20.leo.json",
+    "speaker": "leo",
+    "text": "तिमीले गर्यौ! बीस पाठ!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "b9f9bef45005",
+    "reviewed": false
+  },
+  "unlock.hooray.leo": {
+    "file": "unlock.hooray.leo.mp3",
+    "lips": "unlock.hooray.leo.json",
+    "speaker": "leo",
+    "text": "हुर्रे!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "1c6c2a1387c4",
+    "reviewed": false
+  },
+  "unlock.this_is_gaju.leo": {
+    "file": "unlock.this_is_gaju.leo.mp3",
+    "lips": "unlock.this_is_gaju.leo.json",
+    "speaker": "leo",
+    "text": "यो गजु हो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "1118e27a31ad",
+    "reviewed": false
+  },
+  "unlock.who_new_friend.leo": {
+    "file": "unlock.who_new_friend.leo.mp3",
+    "lips": "unlock.who_new_friend.leo.json",
+    "speaker": "leo",
+    "text": "नयाँ साथी को होला?",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "13fb928f41cd",
+    "reviewed": false
+  },
+  "unlock.this_is_sparky.leo": {
+    "file": "unlock.this_is_sparky.leo.mp3",
+    "lips": "unlock.this_is_sparky.leo.json",
+    "speaker": "leo",
+    "text": "यो स्पार्की हो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "549c71d74733",
+    "reviewed": false
+  },
+  "unlock.this_is_bobo.leo": {
+    "file": "unlock.this_is_bobo.leo.mp3",
+    "lips": "unlock.this_is_bobo.leo.json",
+    "speaker": "leo",
+    "text": "यो बोबो हो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "495fc6194252",
+    "reviewed": false
+  },
+  "unlock.this_is_himu.leo": {
+    "file": "unlock.this_is_himu.leo.mp3",
+    "lips": "unlock.this_is_himu.leo.json",
+    "speaker": "leo",
+    "text": "यो हिमु हो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "e0ed56f9ca17",
+    "reviewed": false
+  },
+  "unlock.this_is_mimi.leo": {
+    "file": "unlock.this_is_mimi.leo.mp3",
+    "lips": "unlock.this_is_mimi.leo.json",
+    "speaker": "leo",
+    "text": "यो मिमी हो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "78132e0d2443",
+    "reviewed": false
+  },
+  "unlock.this_is_pandu.leo": {
+    "file": "unlock.this_is_pandu.leo.mp3",
+    "lips": "unlock.this_is_pandu.leo.json",
+    "speaker": "leo",
+    "text": "यो पण्डु हो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "e5ff40b78a9e",
+    "reviewed": false
+  },
+  "unlock.this_is_stardust.leo": {
+    "file": "unlock.this_is_stardust.leo.mp3",
+    "lips": "unlock.this_is_stardust.leo.json",
+    "speaker": "leo",
+    "text": "यो स्टारडस्ट हो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "bb1b744cb0f8",
+    "reviewed": false
+  },
+  "unlock.this_is_roary.leo": {
+    "file": "unlock.this_is_roary.leo.mp3",
+    "lips": "unlock.this_is_roary.leo.json",
+    "speaker": "leo",
+    "text": "यो रोरी हो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "fc70cd0bcc61",
+    "reviewed": false
+  },
+  "story.who_says_hello.1": {
+    "file": "story.who_says_hello.1.mp3",
+    "lips": "story.who_says_hello.1.json",
+    "speaker": "leo",
+    "text": "बिप घुम्न जान्छ।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "5a764a73e358",
+    "reviewed": false
+  },
+  "story.who_says_hello.2": {
+    "file": "story.who_says_hello.2.mp3",
+    "lips": "story.who_says_hello.2.json",
+    "speaker": "beep",
+    "text": "नमस्ते!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "6d2e4e0df551",
+    "reviewed": false
+  },
+  "story.who_says_hello.3": {
+    "file": "story.who_says_hello.3.mp3",
+    "lips": "story.who_says_hello.3.json",
+    "speaker": "leo",
+    "text": "कुकुर! कुकुर भन्छ भुक भुक।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "936aa9ea4a1a",
+    "reviewed": false
+  },
+  "story.who_says_hello.5": {
+    "file": "story.who_says_hello.5.mp3",
+    "lips": "story.who_says_hello.5.json",
+    "speaker": "leo",
+    "text": "गाई! गाई भन्छ म्बाँ।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "a2043f1fc294",
+    "reviewed": false
+  },
+  "story.who_says_hello.4": {
+    "file": "story.who_says_hello.4.mp3",
+    "lips": "story.who_says_hello.4.json",
+    "speaker": "leo",
+    "text": "बिरालो! बिरालो भन्छ म्याउ।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "0742fe5915db",
+    "reviewed": false
+  },
+  "story.who_says_hello.6": {
+    "file": "story.who_says_hello.6.mp3",
+    "lips": "story.who_says_hello.6.json",
+    "speaker": "leo",
+    "text": "चरा! चरा भन्छ चिरबिर।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "7414b672dd70",
+    "reviewed": false
+  },
+  "story.who_says_hello.7": {
+    "file": "story.who_says_hello.7.mp3",
+    "lips": "story.who_says_hello.7.json",
+    "speaker": "leo",
+    "text": "हात्ती र बाँदर!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "55e4ae14907b",
+    "reviewed": false
+  },
+  "story.who_says_hello.8": {
+    "file": "story.who_says_hello.8.mp3",
+    "lips": "story.who_says_hello.8.json",
+    "speaker": "leo",
+    "text": "सबैले भन्छन् नमस्ते!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "f32a6c050f56",
+    "reviewed": false
+  },
+  "story.beeps_big_day.1": {
+    "file": "story.beeps_big_day.1.mp3",
+    "lips": "story.beeps_big_day.1.json",
+    "speaker": "leo",
+    "text": "आज बिपको खास दिन!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "3e09dd2be5e2",
+    "reviewed": false
+  },
+  "story.who_says_hello.9": {
+    "file": "story.who_says_hello.9.mp3",
+    "lips": "story.who_says_hello.9.json",
+    "speaker": "beep",
+    "text": "नमस्ते साथीहरू! टाटा!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "259abb1f8ca1",
+    "reviewed": false
+  },
+  "story.beeps_big_day.2": {
+    "file": "story.beeps_big_day.2.mp3",
+    "lips": "story.beeps_big_day.2.json",
+    "speaker": "beep",
+    "text": "नमस्ते! मेरो नाम बिप हो!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "59554623cae3",
+    "reviewed": false
+  },
+  "story.beeps_big_day.4": {
+    "file": "story.beeps_big_day.4.mp3",
+    "lips": "story.beeps_big_day.4.json",
+    "speaker": "beep",
+    "text": "मीठो!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "34e62c22df4e",
+    "reviewed": false
+  },
+  "story.beeps_big_day.3": {
+    "file": "story.beeps_big_day.3.mp3",
+    "lips": "story.beeps_big_day.3.json",
+    "speaker": "leo",
+    "text": "बिपले रातो स्याउ र पहेँलो केरा देख्छ।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "3a547bb7c5b2",
+    "reviewed": false
+  },
+  "story.beeps_big_day.5": {
+    "file": "story.beeps_big_day.5.mp3",
+    "lips": "story.beeps_big_day.5.json",
+    "speaker": "leo",
+    "text": "आमाले बिपलाई भात र अण्डा दिनुहुन्छ।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "bdb6c98b8040",
+    "reviewed": false
+  },
+  "story.beeps_big_day.6": {
+    "file": "story.beeps_big_day.6.mp3",
+    "lips": "story.beeps_big_day.6.json",
+    "speaker": "beep",
+    "text": "धन्यवाद!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "63cafb86773f",
+    "reviewed": false
+  },
+  "story.beeps_big_day.7": {
+    "file": "story.beeps_big_day.7.mp3",
+    "lips": "story.beeps_big_day.7.json",
+    "speaker": "leo",
+    "text": "बुबाले दूध र पानी दिनुहुन्छ।",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "c06ba9d98163",
+    "reviewed": false
+  },
+  "story.beeps_big_day.9": {
+    "file": "story.beeps_big_day.9.mp3",
+    "lips": "story.beeps_big_day.9.json",
+    "speaker": "beep",
+    "text": "मलाई मेरो खास दिन मन पर्यो! टाटा!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "bde0f8e09f89",
+    "reviewed": false
+  },
+  "story.beeps_big_day.8": {
+    "file": "story.beeps_big_day.8.mp3",
+    "lips": "story.beeps_big_day.8.json",
+    "speaker": "leo",
+    "text": "निलो माछा, हरियो पुतली, कालो र सेतो गाई!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "e95247745c0d",
+    "reviewed": false
+  },
+  "pet.beep.hi_friend": {
+    "file": "pet.beep.hi_friend.mp3",
+    "lips": "pet.beep.hi_friend.json",
+    "speaker": "beep",
+    "text": "नमस्ते साथी!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "7255992812ca",
+    "reviewed": false
+  },
+  "pet.beep.yay": {
+    "file": "pet.beep.yay.mp3",
+    "lips": "pet.beep.yay.json",
+    "speaker": "beep",
+    "text": "याहू!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "9bcbada1c416",
+    "reviewed": false
+  },
+  "pet.beep.learn_together": {
+    "file": "pet.beep.learn_together.mp3",
+    "lips": "pet.beep.learn_together.json",
+    "speaker": "beep",
+    "text": "सँगै सिकौं!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "935a99105de5",
+    "reviewed": false
+  },
+  "pet.beep.yay_here": {
+    "file": "pet.beep.yay_here.mp3",
+    "lips": "pet.beep.yay_here.json",
+    "speaker": "beep",
+    "text": "याहू, तिमी आयौ!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "d383d7a2ae51",
+    "reviewed": false
+  },
+  "pet.beep.great_job": {
+    "file": "pet.beep.great_job.mp3",
+    "lips": "pet.beep.great_job.json",
+    "speaker": "beep",
+    "text": "स्याबास!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "a4b38e6e3f83",
+    "reviewed": false
+  },
+  "pet.beep.you_did_it": {
+    "file": "pet.beep.you_did_it.mp3",
+    "lips": "pet.beep.you_did_it.json",
+    "speaker": "beep",
+    "text": "तिमीले गर्यौ!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "5d76bb32062d",
+    "reviewed": false
+  },
+  "pet.beep.so_clever": {
+    "file": "pet.beep.so_clever.mp3",
+    "lips": "pet.beep.so_clever.json",
+    "speaker": "beep",
+    "text": "वाह, कति बाठो!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "41b35b6e3215",
+    "reviewed": false
+  },
+  "pet.beep.high_five": {
+    "file": "pet.beep.high_five.mp3",
+    "lips": "pet.beep.high_five.json",
+    "speaker": "beep",
+    "text": "हाई फाइभ!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "f2dd1eb7e478",
+    "reviewed": false
+  },
+  "pet.beep.oopsie": {
+    "file": "pet.beep.oopsie.mp3",
+    "lips": "pet.beep.oopsie.json",
+    "speaker": "beep",
+    "text": "ओहो! फेरि गरौं त!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "74f0ed2b9288",
+    "reviewed": false
+  },
+  "pet.beep.you_can": {
+    "file": "pet.beep.you_can.mp3",
+    "lips": "pet.beep.you_can.json",
+    "speaker": "beep",
+    "text": "तिमी सक्छौ!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "136eb22e1923",
+    "reviewed": false
+  },
+  "pet.beep.ill_help": {
+    "file": "pet.beep.ill_help.mp3",
+    "lips": "pet.beep.ill_help.json",
+    "speaker": "beep",
+    "text": "म मद्दत गर्छु!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "95734b7a385e",
+    "reviewed": false
+  },
+  "pet.beep.your_turn": {
+    "file": "pet.beep.your_turn.mp3",
+    "lips": "pet.beep.your_turn.json",
+    "speaker": "beep",
+    "text": "तिम्रो पालो!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "236252f96e54",
+    "reviewed": false
+  },
+  "pet.beep.say_it": {
+    "file": "pet.beep.say_it.mp3",
+    "lips": "pet.beep.say_it.json",
+    "speaker": "beep",
+    "text": "भनौं न, भनौं न!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "36e73e600d92",
+    "reviewed": false
+  },
+  "pet.beep.listening": {
+    "file": "pet.beep.listening.mp3",
+    "lips": "pet.beep.listening.json",
+    "speaker": "beep",
+    "text": "म सुन्दैछु!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "be788d0824a3",
+    "reviewed": false
+  },
+  "pet.beep.again_again": {
+    "file": "pet.beep.again_again.mp3",
+    "lips": "pet.beep.again_again.json",
+    "speaker": "beep",
+    "text": "फेरि, फेरि!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "695a4c437b38",
+    "reviewed": false
+  },
+  "pet.beep.like_word": {
+    "file": "pet.beep.like_word.mp3",
+    "lips": "pet.beep.like_word.json",
+    "speaker": "beep",
+    "text": "मलाई त्यो शब्द मन पर्यो!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "f6c703e0c452",
+    "reviewed": false
+  },
+  "pet.beep.got_star": {
+    "file": "pet.beep.got_star.mp3",
+    "lips": "pet.beep.got_star.json",
+    "speaker": "beep",
+    "text": "तारा पायौ!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "85678f90a830",
+    "reviewed": false
+  },
+  "pet.beep.proud": {
+    "file": "pet.beep.proud.mp3",
+    "lips": "pet.beep.proud.json",
+    "speaker": "beep",
+    "text": "मलाई तिमीमा गर्व छ!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "97d23d1d5c8f",
+    "reviewed": false
+  },
+  "pet.beep.hooray": {
+    "file": "pet.beep.hooray.mp3",
+    "lips": "pet.beep.hooray.json",
+    "speaker": "beep",
+    "text": "हुर्रे!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "1b8b07dba80f",
+    "reviewed": false
+  },
+  "pet.beep.see_you": {
+    "file": "pet.beep.see_you.mp3",
+    "lips": "pet.beep.see_you.json",
+    "speaker": "beep",
+    "text": "भोलि भेटौंला!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "473c4e9c76d8",
+    "reviewed": false
+  },
+  "pet.beep.bye": {
+    "file": "pet.beep.bye.mp3",
+    "lips": "pet.beep.bye.json",
+    "speaker": "beep",
+    "text": "टाटा!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "a8e2d5148480",
+    "reviewed": false
+  },
+  "pet.beep.tickles": {
+    "file": "pet.beep.tickles.mp3",
+    "lips": "pet.beep.tickles.json",
+    "speaker": "beep",
+    "text": "हिहि, काउकुती लाग्यो!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "c6f4b333cef1",
+    "reviewed": false
+  },
+  "pet.beep.lets_play": {
+    "file": "pet.beep.lets_play.mp3",
+    "lips": "pet.beep.lets_play.json",
+    "speaker": "beep",
+    "text": "खेलौं!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "ecdd65db3664",
+    "reviewed": false
+  },
+  "pet.beep.love_you": {
+    "file": "pet.beep.love_you.mp3",
+    "lips": "pet.beep.love_you.json",
+    "speaker": "beep",
+    "text": "म तिमीलाई माया गर्छु!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "c1f2c8b519f8",
+    "reviewed": false
+  },
+  "pet.beep.own2": {
+    "file": "pet.beep.own2.mp3",
+    "lips": "pet.beep.own2.json",
+    "speaker": "beep",
+    "text": "मेरो सर्किट खुसी भयो!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "d51622c60f8e",
+    "reviewed": false
+  },
+  "pet.beep.happy_meet": {
+    "file": "pet.beep.happy_meet.mp3",
+    "lips": "pet.beep.happy_meet.json",
+    "speaker": "beep",
+    "text": "भेटेर धेरै खुसी लाग्यो!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "f949aba78d89",
+    "reviewed": false
+  },
+  "pet.beep.own1": {
+    "file": "pet.beep.own1.mp3",
+    "lips": "pet.beep.own1.json",
+    "speaker": "beep",
+    "text": "बिप बुप! सिक्ने मोड अन!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "8db107861b54",
+    "reviewed": false
+  },
+  "pet.gaju.hi_friend": {
+    "file": "pet.gaju.hi_friend.mp3",
+    "lips": "pet.gaju.hi_friend.json",
+    "speaker": "gaju",
+    "text": "नमस्ते साथी!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "5f31220d070a",
+    "reviewed": false
+  },
+  "pet.beep.own3": {
+    "file": "pet.beep.own3.mp3",
+    "lips": "pet.beep.own3.json",
+    "speaker": "beep",
+    "text": "बिप! मैले ठीक भनेँ?",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "e6c588df1884",
+    "reviewed": false
+  },
+  "pet.beep.own4": {
+    "file": "pet.beep.own4.mp3",
+    "lips": "pet.beep.own4.json",
+    "speaker": "beep",
+    "text": "मायाले ब्याट्री फुल!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "eee1119c866a",
+    "reviewed": false
+  },
+  "pet.gaju.learn_together": {
+    "file": "pet.gaju.learn_together.mp3",
+    "lips": "pet.gaju.learn_together.json",
+    "speaker": "gaju",
+    "text": "सँगै सिकौं!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "a8a573bac5e0",
+    "reviewed": false
+  },
+  "pet.gaju.yay_here": {
+    "file": "pet.gaju.yay_here.mp3",
+    "lips": "pet.gaju.yay_here.json",
+    "speaker": "gaju",
+    "text": "याहू, तिमी आयौ!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "717b96ea7557",
+    "reviewed": false
+  },
+  "pet.gaju.yay": {
+    "file": "pet.gaju.yay.mp3",
+    "lips": "pet.gaju.yay.json",
+    "speaker": "gaju",
+    "text": "याहू!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "e887fd2d576d",
+    "reviewed": false
+  },
+  "pet.gaju.great_job": {
+    "file": "pet.gaju.great_job.mp3",
+    "lips": "pet.gaju.great_job.json",
+    "speaker": "gaju",
+    "text": "स्याबास!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "feab3e1aeb25",
+    "reviewed": false
+  },
+  "pet.gaju.you_did_it": {
+    "file": "pet.gaju.you_did_it.mp3",
+    "lips": "pet.gaju.you_did_it.json",
+    "speaker": "gaju",
+    "text": "तिमीले गर्यौ!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "c1530c2124aa",
+    "reviewed": false
+  },
+  "pet.gaju.so_clever": {
+    "file": "pet.gaju.so_clever.mp3",
+    "lips": "pet.gaju.so_clever.json",
+    "speaker": "gaju",
+    "text": "वाह, कति बाठो!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "6940ea1f18a9",
+    "reviewed": false
+  },
+  "pet.gaju.high_five": {
+    "file": "pet.gaju.high_five.mp3",
+    "lips": "pet.gaju.high_five.json",
+    "speaker": "gaju",
+    "text": "हाई फाइभ!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "bdf62dbe52cb",
+    "reviewed": false
+  },
+  "pet.gaju.you_can": {
+    "file": "pet.gaju.you_can.mp3",
+    "lips": "pet.gaju.you_can.json",
+    "speaker": "gaju",
+    "text": "तिमी सक्छौ!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "68f719575265",
+    "reviewed": false
+  },
+  "pet.gaju.oopsie": {
+    "file": "pet.gaju.oopsie.mp3",
+    "lips": "pet.gaju.oopsie.json",
+    "speaker": "gaju",
+    "text": "ओहो! फेरि गरौं त!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "6d2b78d664c0",
+    "reviewed": false
+  },
+  "pet.gaju.ill_help": {
+    "file": "pet.gaju.ill_help.mp3",
+    "lips": "pet.gaju.ill_help.json",
+    "speaker": "gaju",
+    "text": "म मद्दत गर्छु!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "2bb9b1ee06a3",
+    "reviewed": false
+  },
+  "pet.gaju.say_it": {
+    "file": "pet.gaju.say_it.mp3",
+    "lips": "pet.gaju.say_it.json",
+    "speaker": "gaju",
+    "text": "भनौं न, भनौं न!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "213e89219c79",
+    "reviewed": false
+  },
+  "pet.gaju.your_turn": {
+    "file": "pet.gaju.your_turn.mp3",
+    "lips": "pet.gaju.your_turn.json",
+    "speaker": "gaju",
+    "text": "तिम्रो पालो!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "da13a7622d47",
+    "reviewed": false
+  },
+  "pet.gaju.listening": {
+    "file": "pet.gaju.listening.mp3",
+    "lips": "pet.gaju.listening.json",
+    "speaker": "gaju",
+    "text": "म सुन्दैछु!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "154305939cda",
+    "reviewed": false
+  },
+  "pet.gaju.again_again": {
+    "file": "pet.gaju.again_again.mp3",
+    "lips": "pet.gaju.again_again.json",
+    "speaker": "gaju",
+    "text": "फेरि, फेरि!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "358583d3f28d",
+    "reviewed": false
+  },
+  "pet.gaju.like_word": {
+    "file": "pet.gaju.like_word.mp3",
+    "lips": "pet.gaju.like_word.json",
+    "speaker": "gaju",
+    "text": "मलाई त्यो शब्द मन पर्यो!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "c75790e4b18a",
+    "reviewed": false
+  },
+  "pet.gaju.got_star": {
+    "file": "pet.gaju.got_star.mp3",
+    "lips": "pet.gaju.got_star.json",
+    "speaker": "gaju",
+    "text": "तारा पायौ!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "b41096ee62e3",
+    "reviewed": false
+  },
+  "pet.gaju.proud": {
+    "file": "pet.gaju.proud.mp3",
+    "lips": "pet.gaju.proud.json",
+    "speaker": "gaju",
+    "text": "मलाई तिमीमा गर्व छ!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "bc6892da5543",
+    "reviewed": false
+  },
+  "pet.gaju.hooray": {
+    "file": "pet.gaju.hooray.mp3",
+    "lips": "pet.gaju.hooray.json",
+    "speaker": "gaju",
+    "text": "हुर्रे!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "d1a8b4e425ac",
+    "reviewed": false
+  },
+  "pet.gaju.see_you": {
+    "file": "pet.gaju.see_you.mp3",
+    "lips": "pet.gaju.see_you.json",
+    "speaker": "gaju",
+    "text": "भोलि भेटौंला!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "da436e849ce3",
+    "reviewed": false
+  },
+  "pet.gaju.bye": {
+    "file": "pet.gaju.bye.mp3",
+    "lips": "pet.gaju.bye.json",
+    "speaker": "gaju",
+    "text": "टाटा!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "b1db831ad9a6",
+    "reviewed": false
+  },
+  "pet.gaju.tickles": {
+    "file": "pet.gaju.tickles.mp3",
+    "lips": "pet.gaju.tickles.json",
+    "speaker": "gaju",
+    "text": "हिहि, काउकुती लाग्यो!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "846a67e35cb1",
+    "reviewed": false
+  },
+  "pet.gaju.love_you": {
+    "file": "pet.gaju.love_you.mp3",
+    "lips": "pet.gaju.love_you.json",
+    "speaker": "gaju",
+    "text": "म तिमीलाई माया गर्छु!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "88a8020ab4c4",
+    "reviewed": false
+  },
+  "pet.gaju.lets_play": {
+    "file": "pet.gaju.lets_play.mp3",
+    "lips": "pet.gaju.lets_play.json",
+    "speaker": "gaju",
+    "text": "खेलौं!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "d1fa4ffb44bd",
+    "reviewed": false
+  },
+  "pet.gaju.happy_meet": {
+    "file": "pet.gaju.happy_meet.mp3",
+    "lips": "pet.gaju.happy_meet.json",
+    "speaker": "gaju",
+    "text": "भेटेर धेरै खुसी लाग्यो!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "c853da9945d6",
+    "reviewed": false
+  },
+  "pet.gaju.own1": {
+    "file": "pet.gaju.own1.mp3",
+    "lips": "pet.gaju.own1.json",
+    "speaker": "gaju",
+    "text": "तिमीलाई हात्तीको ठूलो अँगालो!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "42a56adb72d4",
+    "reviewed": false
+  },
+  "pet.gaju.own2": {
+    "file": "pet.gaju.own2.mp3",
+    "lips": "pet.gaju.own2.json",
+    "speaker": "gaju",
+    "text": "म कुनै शब्द बिर्सिन्नँ!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "3f45acef6366",
+    "reviewed": false
+  },
+  "pet.gaju.own3": {
+    "file": "pet.gaju.own3.mp3",
+    "lips": "pet.gaju.own3.json",
+    "speaker": "gaju",
+    "text": "बिस्तारै बिस्तारै, हामी सक्छौं।",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "c2dea7c35449",
+    "reviewed": false
+  },
+  "pet.sparky.hi_friend": {
+    "file": "pet.sparky.hi_friend.mp3",
+    "lips": "pet.sparky.hi_friend.json",
+    "speaker": "sparky",
+    "text": "नमस्ते साथी!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "fdb1ba419202",
+    "reviewed": false
+  },
+  "pet.gaju.own4": {
+    "file": "pet.gaju.own4.mp3",
+    "lips": "pet.gaju.own4.json",
+    "speaker": "gaju",
+    "text": "तिमी हात्ती जस्तै बाठो!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "31be3541e613",
+    "reviewed": false
+  },
+  "pet.sparky.learn_together": {
+    "file": "pet.sparky.learn_together.mp3",
+    "lips": "pet.sparky.learn_together.json",
+    "speaker": "sparky",
+    "text": "सँगै सिकौं!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "94e7f879da6b",
+    "reviewed": false
+  },
+  "pet.sparky.yay_here": {
+    "file": "pet.sparky.yay_here.mp3",
+    "lips": "pet.sparky.yay_here.json",
+    "speaker": "sparky",
+    "text": "याहू, तिमी आयौ!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "c262bc68a61e",
+    "reviewed": false
+  },
+  "pet.sparky.yay": {
+    "file": "pet.sparky.yay.mp3",
+    "lips": "pet.sparky.yay.json",
+    "speaker": "sparky",
+    "text": "याहू!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "860b3adf9dd6",
+    "reviewed": false
+  },
+  "pet.sparky.you_did_it": {
+    "file": "pet.sparky.you_did_it.mp3",
+    "lips": "pet.sparky.you_did_it.json",
+    "speaker": "sparky",
+    "text": "तिमीले गर्यौ!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "ae8cebe32144",
+    "reviewed": false
+  },
+  "pet.sparky.great_job": {
+    "file": "pet.sparky.great_job.mp3",
+    "lips": "pet.sparky.great_job.json",
+    "speaker": "sparky",
+    "text": "स्याबास!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "e8c73ee1082f",
+    "reviewed": false
+  },
+  "pet.sparky.so_clever": {
+    "file": "pet.sparky.so_clever.mp3",
+    "lips": "pet.sparky.so_clever.json",
+    "speaker": "sparky",
+    "text": "वाह, कति बाठो!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "f44b430f43e8",
+    "reviewed": false
+  },
+  "pet.sparky.high_five": {
+    "file": "pet.sparky.high_five.mp3",
+    "lips": "pet.sparky.high_five.json",
+    "speaker": "sparky",
+    "text": "हाई फाइभ!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "3c0a62c386d2",
+    "reviewed": false
+  },
+  "pet.sparky.oopsie": {
+    "file": "pet.sparky.oopsie.mp3",
+    "lips": "pet.sparky.oopsie.json",
+    "speaker": "sparky",
+    "text": "ओहो! फेरि गरौं त!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "8898d8552b6c",
+    "reviewed": false
+  },
+  "pet.sparky.you_can": {
+    "file": "pet.sparky.you_can.mp3",
+    "lips": "pet.sparky.you_can.json",
+    "speaker": "sparky",
+    "text": "तिमी सक्छौ!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "fa69e618797d",
+    "reviewed": false
+  },
+  "pet.sparky.say_it": {
+    "file": "pet.sparky.say_it.mp3",
+    "lips": "pet.sparky.say_it.json",
+    "speaker": "sparky",
+    "text": "भनौं न, भनौं न!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "70208a1a9309",
+    "reviewed": false
+  },
+  "pet.sparky.your_turn": {
+    "file": "pet.sparky.your_turn.mp3",
+    "lips": "pet.sparky.your_turn.json",
+    "speaker": "sparky",
+    "text": "तिम्रो पालो!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "7776f6d154b3",
+    "reviewed": false
+  },
+  "pet.sparky.ill_help": {
+    "file": "pet.sparky.ill_help.mp3",
+    "lips": "pet.sparky.ill_help.json",
+    "speaker": "sparky",
+    "text": "म मद्दत गर्छु!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "80e7c65abcb0",
+    "reviewed": false
+  },
+  "pet.sparky.again_again": {
+    "file": "pet.sparky.again_again.mp3",
+    "lips": "pet.sparky.again_again.json",
+    "speaker": "sparky",
+    "text": "फेरि, फेरि!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "7de6f02e32ad",
+    "reviewed": false
+  },
+  "pet.sparky.listening": {
+    "file": "pet.sparky.listening.mp3",
+    "lips": "pet.sparky.listening.json",
+    "speaker": "sparky",
+    "text": "म सुन्दैछु!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "6b39c7d80014",
+    "reviewed": false
+  },
+  "pet.sparky.like_word": {
+    "file": "pet.sparky.like_word.mp3",
+    "lips": "pet.sparky.like_word.json",
+    "speaker": "sparky",
+    "text": "मलाई त्यो शब्द मन पर्यो!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "5dabc127889b",
+    "reviewed": false
+  },
+  "pet.sparky.got_star": {
+    "file": "pet.sparky.got_star.mp3",
+    "lips": "pet.sparky.got_star.json",
+    "speaker": "sparky",
+    "text": "तारा पायौ!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "a0461aab5b10",
+    "reviewed": false
+  },
+  "pet.sparky.hooray": {
+    "file": "pet.sparky.hooray.mp3",
+    "lips": "pet.sparky.hooray.json",
+    "speaker": "sparky",
+    "text": "हुर्रे!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "e9cdb3ed979f",
+    "reviewed": false
+  },
+  "pet.sparky.proud": {
+    "file": "pet.sparky.proud.mp3",
+    "lips": "pet.sparky.proud.json",
+    "speaker": "sparky",
+    "text": "मलाई तिमीमा गर्व छ!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "77ff58400ad2",
+    "reviewed": false
+  },
+  "pet.sparky.see_you": {
+    "file": "pet.sparky.see_you.mp3",
+    "lips": "pet.sparky.see_you.json",
+    "speaker": "sparky",
+    "text": "भोलि भेटौंला!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "5c560fab1836",
+    "reviewed": false
+  },
+  "pet.sparky.bye": {
+    "file": "pet.sparky.bye.mp3",
+    "lips": "pet.sparky.bye.json",
+    "speaker": "sparky",
+    "text": "टाटा!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "be6e64267c99",
+    "reviewed": false
+  },
+  "pet.sparky.tickles": {
+    "file": "pet.sparky.tickles.mp3",
+    "lips": "pet.sparky.tickles.json",
+    "speaker": "sparky",
+    "text": "हिहि, काउकुती लाग्यो!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "cd8ddf9368fd",
+    "reviewed": false
+  },
+  "pet.sparky.love_you": {
+    "file": "pet.sparky.love_you.mp3",
+    "lips": "pet.sparky.love_you.json",
+    "speaker": "sparky",
+    "text": "म तिमीलाई माया गर्छु!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "8b26f8dbb315",
+    "reviewed": false
+  },
+  "pet.sparky.lets_play": {
+    "file": "pet.sparky.lets_play.mp3",
+    "lips": "pet.sparky.lets_play.json",
+    "speaker": "sparky",
+    "text": "खेलौं!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "f273e460425c",
+    "reviewed": false
+  },
+  "pet.sparky.happy_meet": {
+    "file": "pet.sparky.happy_meet.mp3",
+    "lips": "pet.sparky.happy_meet.json",
+    "speaker": "sparky",
+    "text": "भेटेर धेरै खुसी लाग्यो!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "405e06889e00",
+    "reviewed": false
+  },
+  "pet.sparky.own1": {
+    "file": "pet.sparky.own1.mp3",
+    "lips": "pet.sparky.own1.json",
+    "speaker": "sparky",
+    "text": "फुस्स! गजब भयो!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "b6a3e350865f",
+    "reviewed": false
+  },
+  "pet.sparky.own2": {
+    "file": "pet.sparky.own2.mp3",
+    "lips": "pet.sparky.own2.json",
+    "speaker": "sparky",
+    "text": "साहसिक यात्राको बेला!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "760f98ab033a",
+    "reviewed": false
+  },
+  "pet.sparky.own3": {
+    "file": "pet.sparky.own3.mp3",
+    "lips": "pet.sparky.own3.json",
+    "speaker": "sparky",
+    "text": "म बहादुर सानो ड्र्यागन!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "9a161c900485",
+    "reviewed": false
+  },
+  "pet.sparky.own4": {
+    "file": "pet.sparky.own4.mp3",
+    "lips": "pet.sparky.own4.json",
+    "speaker": "sparky",
+    "text": "अर्कोमा उडौं!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "4b5a923eb104",
+    "reviewed": false
+  },
+  "pet.bobo.hi_friend": {
+    "file": "pet.bobo.hi_friend.mp3",
+    "lips": "pet.bobo.hi_friend.json",
+    "speaker": "bobo",
+    "text": "नमस्ते साथी!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "38e190596bc5",
+    "reviewed": false
+  },
+  "pet.bobo.yay": {
+    "file": "pet.bobo.yay.mp3",
+    "lips": "pet.bobo.yay.json",
+    "speaker": "bobo",
+    "text": "याहू!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "a8f442d01fac",
+    "reviewed": false
+  },
+  "pet.bobo.learn_together": {
+    "file": "pet.bobo.learn_together.mp3",
+    "lips": "pet.bobo.learn_together.json",
+    "speaker": "bobo",
+    "text": "सँगै सिकौं!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "d694d80f284d",
+    "reviewed": false
+  },
+  "pet.bobo.yay_here": {
+    "file": "pet.bobo.yay_here.mp3",
+    "lips": "pet.bobo.yay_here.json",
+    "speaker": "bobo",
+    "text": "याहू, तिमी आयौ!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "f3183f5a3c89",
+    "reviewed": false
+  },
+  "pet.bobo.you_did_it": {
+    "file": "pet.bobo.you_did_it.mp3",
+    "lips": "pet.bobo.you_did_it.json",
+    "speaker": "bobo",
+    "text": "तिमीले गर्यौ!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "e0f8d251d664",
+    "reviewed": false
+  },
+  "pet.bobo.great_job": {
+    "file": "pet.bobo.great_job.mp3",
+    "lips": "pet.bobo.great_job.json",
+    "speaker": "bobo",
+    "text": "स्याबास!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "5d2097becf83",
+    "reviewed": false
+  },
+  "pet.bobo.so_clever": {
+    "file": "pet.bobo.so_clever.mp3",
+    "lips": "pet.bobo.so_clever.json",
+    "speaker": "bobo",
+    "text": "वाह, कति बाठो!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "f233dc13d04b",
+    "reviewed": false
+  },
+  "pet.bobo.high_five": {
+    "file": "pet.bobo.high_five.mp3",
+    "lips": "pet.bobo.high_five.json",
+    "speaker": "bobo",
+    "text": "हाई फाइभ!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "a57a4c968fca",
+    "reviewed": false
+  },
+  "pet.bobo.you_can": {
+    "file": "pet.bobo.you_can.mp3",
+    "lips": "pet.bobo.you_can.json",
+    "speaker": "bobo",
+    "text": "तिमी सक्छौ!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "bac0f61e495d",
+    "reviewed": false
+  },
+  "pet.bobo.oopsie": {
+    "file": "pet.bobo.oopsie.mp3",
+    "lips": "pet.bobo.oopsie.json",
+    "speaker": "bobo",
+    "text": "ओहो! फेरि गरौं त!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "cc5e21659923",
+    "reviewed": false
+  },
+  "pet.bobo.ill_help": {
+    "file": "pet.bobo.ill_help.mp3",
+    "lips": "pet.bobo.ill_help.json",
+    "speaker": "bobo",
+    "text": "म मद्दत गर्छु!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "e4ff7dfc5f63",
+    "reviewed": false
+  },
+  "pet.bobo.your_turn": {
+    "file": "pet.bobo.your_turn.mp3",
+    "lips": "pet.bobo.your_turn.json",
+    "speaker": "bobo",
+    "text": "तिम्रो पालो!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "f798ea1c4939",
+    "reviewed": false
+  },
+  "pet.bobo.say_it": {
+    "file": "pet.bobo.say_it.mp3",
+    "lips": "pet.bobo.say_it.json",
+    "speaker": "bobo",
+    "text": "भनौं न, भनौं न!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "8798d7684c53",
+    "reviewed": false
+  },
+  "pet.bobo.listening": {
+    "file": "pet.bobo.listening.mp3",
+    "lips": "pet.bobo.listening.json",
+    "speaker": "bobo",
+    "text": "म सुन्दैछु!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "01bd2d772104",
+    "reviewed": false
+  },
+  "pet.bobo.again_again": {
+    "file": "pet.bobo.again_again.mp3",
+    "lips": "pet.bobo.again_again.json",
+    "speaker": "bobo",
+    "text": "फेरि, फेरि!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "d0c833d9884a",
+    "reviewed": false
+  },
+  "pet.bobo.like_word": {
+    "file": "pet.bobo.like_word.mp3",
+    "lips": "pet.bobo.like_word.json",
+    "speaker": "bobo",
+    "text": "मलाई त्यो शब्द मन पर्यो!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "e0788e2063f0",
+    "reviewed": false
+  },
+  "pet.bobo.got_star": {
+    "file": "pet.bobo.got_star.mp3",
+    "lips": "pet.bobo.got_star.json",
+    "speaker": "bobo",
+    "text": "तारा पायौ!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "afd908404e92",
+    "reviewed": false
+  },
+  "pet.bobo.hooray": {
+    "file": "pet.bobo.hooray.mp3",
+    "lips": "pet.bobo.hooray.json",
+    "speaker": "bobo",
+    "text": "हुर्रे!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "be98861a42d1",
+    "reviewed": false
+  },
+  "pet.bobo.proud": {
+    "file": "pet.bobo.proud.mp3",
+    "lips": "pet.bobo.proud.json",
+    "speaker": "bobo",
+    "text": "मलाई तिमीमा गर्व छ!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "2d79df6f759b",
+    "reviewed": false
+  },
+  "pet.bobo.see_you": {
+    "file": "pet.bobo.see_you.mp3",
+    "lips": "pet.bobo.see_you.json",
+    "speaker": "bobo",
+    "text": "भोलि भेटौंला!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "963489dca072",
+    "reviewed": false
+  },
+  "pet.bobo.bye": {
+    "file": "pet.bobo.bye.mp3",
+    "lips": "pet.bobo.bye.json",
+    "speaker": "bobo",
+    "text": "टाटा!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "d2bfe1db1e3c",
+    "reviewed": false
+  },
+  "pet.bobo.tickles": {
+    "file": "pet.bobo.tickles.mp3",
+    "lips": "pet.bobo.tickles.json",
+    "speaker": "bobo",
+    "text": "हिहि, काउकुती लाग्यो!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "02ce867a7d6e",
+    "reviewed": false
+  },
+  "pet.bobo.love_you": {
+    "file": "pet.bobo.love_you.mp3",
+    "lips": "pet.bobo.love_you.json",
+    "speaker": "bobo",
+    "text": "म तिमीलाई माया गर्छु!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "061815af5d2c",
+    "reviewed": false
+  },
+  "pet.bobo.lets_play": {
+    "file": "pet.bobo.lets_play.mp3",
+    "lips": "pet.bobo.lets_play.json",
+    "speaker": "bobo",
+    "text": "खेलौं!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "efe663c16281",
+    "reviewed": false
+  },
+  "pet.bobo.happy_meet": {
+    "file": "pet.bobo.happy_meet.mp3",
+    "lips": "pet.bobo.happy_meet.json",
+    "speaker": "bobo",
+    "text": "भेटेर धेरै खुसी लाग्यो!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "d7ef6a0eb5ff",
+    "reviewed": false
+  },
+  "pet.bobo.own1": {
+    "file": "pet.bobo.own1.mp3",
+    "lips": "pet.bobo.own1.json",
+    "speaker": "bobo",
+    "text": "उ उ! तिमीलाई केरा!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "4a08611c8a2d",
+    "reviewed": false
+  },
+  "pet.bobo.own2": {
+    "file": "pet.bobo.own2.mp3",
+    "lips": "pet.bobo.own2.json",
+    "speaker": "bobo",
+    "text": "अर्कोमा झुन्डिँदै जाऔं!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "a06c6b17295f",
+    "reviewed": false
+  },
+  "pet.bobo.own3": {
+    "file": "pet.bobo.own3.mp3",
+    "lips": "pet.bobo.own3.json",
+    "speaker": "bobo",
+    "text": "कति रमाइलो!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "d67085fac7a1",
+    "reviewed": false
+  },
+  "pet.bobo.own4": {
+    "file": "pet.bobo.own4.mp3",
+    "lips": "pet.bobo.own4.json",
+    "speaker": "bobo",
+    "text": "बाँदरले देख्यो, बाँदरले गर्यो!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "8a6c48f9dc0e",
+    "reviewed": false
+  },
+  "pet.himu.hi_friend": {
+    "file": "pet.himu.hi_friend.mp3",
+    "lips": "pet.himu.hi_friend.json",
+    "speaker": "himu",
+    "text": "नमस्ते साथी!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "3c5b7e63f680",
+    "reviewed": false
+  },
+  "pet.himu.yay_here": {
+    "file": "pet.himu.yay_here.mp3",
+    "lips": "pet.himu.yay_here.json",
+    "speaker": "himu",
+    "text": "याहू, तिमी आयौ!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "49e2c8a9a24d",
+    "reviewed": false
+  },
+  "pet.himu.yay": {
+    "file": "pet.himu.yay.mp3",
+    "lips": "pet.himu.yay.json",
+    "speaker": "himu",
+    "text": "याहू!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "0a63c973b6ed",
+    "reviewed": false
+  },
+  "pet.himu.learn_together": {
+    "file": "pet.himu.learn_together.mp3",
+    "lips": "pet.himu.learn_together.json",
+    "speaker": "himu",
+    "text": "सँगै सिकौं!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "3f4a5b63ab60",
+    "reviewed": false
+  },
+  "pet.himu.you_did_it": {
+    "file": "pet.himu.you_did_it.mp3",
+    "lips": "pet.himu.you_did_it.json",
+    "speaker": "himu",
+    "text": "तिमीले गर्यौ!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "cf806ab811f6",
+    "reviewed": false
+  },
+  "pet.himu.great_job": {
+    "file": "pet.himu.great_job.mp3",
+    "lips": "pet.himu.great_job.json",
+    "speaker": "himu",
+    "text": "स्याबास!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "bf0bf59f4767",
+    "reviewed": false
+  },
+  "pet.himu.so_clever": {
+    "file": "pet.himu.so_clever.mp3",
+    "lips": "pet.himu.so_clever.json",
+    "speaker": "himu",
+    "text": "वाह, कति बाठो!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "96810759679e",
+    "reviewed": false
+  },
+  "pet.himu.high_five": {
+    "file": "pet.himu.high_five.mp3",
+    "lips": "pet.himu.high_five.json",
+    "speaker": "himu",
+    "text": "हाई फाइभ!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "66d7315f7a91",
+    "reviewed": false
+  },
+  "pet.himu.you_can": {
+    "file": "pet.himu.you_can.mp3",
+    "lips": "pet.himu.you_can.json",
+    "speaker": "himu",
+    "text": "तिमी सक्छौ!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "0dcd0d2c022d",
+    "reviewed": false
+  },
+  "pet.himu.oopsie": {
+    "file": "pet.himu.oopsie.mp3",
+    "lips": "pet.himu.oopsie.json",
+    "speaker": "himu",
+    "text": "ओहो! फेरि गरौं त!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "5d6b8f8c8184",
+    "reviewed": false
+  },
+  "pet.himu.ill_help": {
+    "file": "pet.himu.ill_help.mp3",
+    "lips": "pet.himu.ill_help.json",
+    "speaker": "himu",
+    "text": "म मद्दत गर्छु!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "60878058a781",
+    "reviewed": false
+  },
+  "pet.himu.your_turn": {
+    "file": "pet.himu.your_turn.mp3",
+    "lips": "pet.himu.your_turn.json",
+    "speaker": "himu",
+    "text": "तिम्रो पालो!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "f8c61f0517b2",
+    "reviewed": false
+  },
+  "pet.himu.say_it": {
+    "file": "pet.himu.say_it.mp3",
+    "lips": "pet.himu.say_it.json",
+    "speaker": "himu",
+    "text": "भनौं न, भनौं न!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "c1ab22aeb384",
+    "reviewed": false
+  },
+  "pet.himu.listening": {
+    "file": "pet.himu.listening.mp3",
+    "lips": "pet.himu.listening.json",
+    "speaker": "himu",
+    "text": "म सुन्दैछु!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "e2001b736299",
+    "reviewed": false
+  },
+  "pet.himu.again_again": {
+    "file": "pet.himu.again_again.mp3",
+    "lips": "pet.himu.again_again.json",
+    "speaker": "himu",
+    "text": "फेरि, फेरि!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "edcafc81757f",
+    "reviewed": false
+  },
+  "pet.himu.got_star": {
+    "file": "pet.himu.got_star.mp3",
+    "lips": "pet.himu.got_star.json",
+    "speaker": "himu",
+    "text": "तारा पायौ!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "c2f365e2f5aa",
+    "reviewed": false
+  },
+  "pet.himu.like_word": {
+    "file": "pet.himu.like_word.mp3",
+    "lips": "pet.himu.like_word.json",
+    "speaker": "himu",
+    "text": "मलाई त्यो शब्द मन पर्यो!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "b47ac89ccefa",
+    "reviewed": false
+  },
+  "pet.himu.hooray": {
+    "file": "pet.himu.hooray.mp3",
+    "lips": "pet.himu.hooray.json",
+    "speaker": "himu",
+    "text": "हुर्रे!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "f61cc2aa53ce",
+    "reviewed": false
+  },
+  "pet.himu.see_you": {
+    "file": "pet.himu.see_you.mp3",
+    "lips": "pet.himu.see_you.json",
+    "speaker": "himu",
+    "text": "भोलि भेटौंला!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "a7b6ee8de9c2",
+    "reviewed": false
+  },
+  "pet.himu.proud": {
+    "file": "pet.himu.proud.mp3",
+    "lips": "pet.himu.proud.json",
+    "speaker": "himu",
+    "text": "मलाई तिमीमा गर्व छ!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "627ca31e31ff",
+    "reviewed": false
+  },
+  "pet.himu.bye": {
+    "file": "pet.himu.bye.mp3",
+    "lips": "pet.himu.bye.json",
+    "speaker": "himu",
+    "text": "टाटा!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "0a2701fc921b",
+    "reviewed": false
+  },
+  "pet.himu.tickles": {
+    "file": "pet.himu.tickles.mp3",
+    "lips": "pet.himu.tickles.json",
+    "speaker": "himu",
+    "text": "हिहि, काउकुती लाग्यो!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "f65a1c25f40d",
+    "reviewed": false
+  },
+  "pet.himu.love_you": {
+    "file": "pet.himu.love_you.mp3",
+    "lips": "pet.himu.love_you.json",
+    "speaker": "himu",
+    "text": "म तिमीलाई माया गर्छु!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "525e873a970b",
+    "reviewed": false
+  },
+  "pet.himu.lets_play": {
+    "file": "pet.himu.lets_play.mp3",
+    "lips": "pet.himu.lets_play.json",
+    "speaker": "himu",
+    "text": "खेलौं!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "2328cc9e3655",
+    "reviewed": false
+  },
+  "pet.himu.own2": {
+    "file": "pet.himu.own2.mp3",
+    "lips": "pet.himu.own2.json",
+    "speaker": "himu",
+    "text": "हिउँको बल हाई फाइभ!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "916b431b4f66",
+    "reviewed": false
+  },
+  "pet.himu.happy_meet": {
+    "file": "pet.himu.happy_meet.mp3",
+    "lips": "pet.himu.happy_meet.json",
+    "speaker": "himu",
+    "text": "भेटेर धेरै खुसी लाग्यो!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "59988251fb36",
+    "reviewed": false
+  },
+  "pet.himu.own1": {
+    "file": "pet.himu.own1.mp3",
+    "lips": "pet.himu.own1.json",
+    "speaker": "himu",
+    "text": "ठिहि, तर मेरो मन न्यानो छ!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "22255e71b7e9",
+    "reviewed": false
+  },
+  "pet.mimi.hi_friend": {
+    "file": "pet.mimi.hi_friend.mp3",
+    "lips": "pet.mimi.hi_friend.json",
+    "speaker": "mimi",
+    "text": "नमस्ते साथी!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "9e764194d0c6",
+    "reviewed": false
+  },
+  "pet.himu.own4": {
+    "file": "pet.himu.own4.mp3",
+    "lips": "pet.himu.own4.json",
+    "speaker": "himu",
+    "text": "न्यानो गरी सिकौं।",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "d00acc5829b6",
+    "reviewed": false
+  },
+  "pet.himu.own3": {
+    "file": "pet.himu.own3.mp3",
+    "lips": "pet.himu.own3.json",
+    "speaker": "himu",
+    "text": "म ठूलो छु तर अलि लजालु।",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "b937e464a418",
+    "reviewed": false
+  },
+  "pet.mimi.learn_together": {
+    "file": "pet.mimi.learn_together.mp3",
+    "lips": "pet.mimi.learn_together.json",
+    "speaker": "mimi",
+    "text": "सँगै सिकौं!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "576da9fe8f8b",
+    "reviewed": false
+  },
+  "pet.mimi.yay_here": {
+    "file": "pet.mimi.yay_here.mp3",
+    "lips": "pet.mimi.yay_here.json",
+    "speaker": "mimi",
+    "text": "याहू, तिमी आयौ!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "8004f205986d",
+    "reviewed": false
+  },
+  "pet.mimi.yay": {
+    "file": "pet.mimi.yay.mp3",
+    "lips": "pet.mimi.yay.json",
+    "speaker": "mimi",
+    "text": "याहू!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "6de7b7ce43fb",
+    "reviewed": false
+  },
+  "pet.mimi.great_job": {
+    "file": "pet.mimi.great_job.mp3",
+    "lips": "pet.mimi.great_job.json",
+    "speaker": "mimi",
+    "text": "स्याबास!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "114474baf53a",
+    "reviewed": false
+  },
+  "pet.mimi.you_did_it": {
+    "file": "pet.mimi.you_did_it.mp3",
+    "lips": "pet.mimi.you_did_it.json",
+    "speaker": "mimi",
+    "text": "तिमीले गर्यौ!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "94893e98fa6b",
+    "reviewed": false
+  },
+  "pet.mimi.so_clever": {
+    "file": "pet.mimi.so_clever.mp3",
+    "lips": "pet.mimi.so_clever.json",
+    "speaker": "mimi",
+    "text": "वाह, कति बाठो!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "e56d57726f46",
+    "reviewed": false
+  },
+  "pet.mimi.high_five": {
+    "file": "pet.mimi.high_five.mp3",
+    "lips": "pet.mimi.high_five.json",
+    "speaker": "mimi",
+    "text": "हाई फाइभ!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "7ab657f1fd1c",
+    "reviewed": false
+  },
+  "pet.mimi.oopsie": {
+    "file": "pet.mimi.oopsie.mp3",
+    "lips": "pet.mimi.oopsie.json",
+    "speaker": "mimi",
+    "text": "ओहो! फेरि गरौं त!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "f81b69e5cb8d",
+    "reviewed": false
+  },
+  "pet.mimi.you_can": {
+    "file": "pet.mimi.you_can.mp3",
+    "lips": "pet.mimi.you_can.json",
+    "speaker": "mimi",
+    "text": "तिमी सक्छौ!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "6985a46b94d7",
+    "reviewed": false
+  },
+  "pet.mimi.ill_help": {
+    "file": "pet.mimi.ill_help.mp3",
+    "lips": "pet.mimi.ill_help.json",
+    "speaker": "mimi",
+    "text": "म मद्दत गर्छु!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "6e359fb32956",
+    "reviewed": false
+  },
+  "pet.mimi.your_turn": {
+    "file": "pet.mimi.your_turn.mp3",
+    "lips": "pet.mimi.your_turn.json",
+    "speaker": "mimi",
+    "text": "तिम्रो पालो!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "816008cccb9c",
+    "reviewed": false
+  },
+  "pet.mimi.say_it": {
+    "file": "pet.mimi.say_it.mp3",
+    "lips": "pet.mimi.say_it.json",
+    "speaker": "mimi",
+    "text": "भनौं न, भनौं न!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "b6f294d30376",
+    "reviewed": false
+  },
+  "pet.mimi.listening": {
+    "file": "pet.mimi.listening.mp3",
+    "lips": "pet.mimi.listening.json",
+    "speaker": "mimi",
+    "text": "म सुन्दैछु!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "e29e18b01dd9",
+    "reviewed": false
+  },
+  "pet.mimi.again_again": {
+    "file": "pet.mimi.again_again.mp3",
+    "lips": "pet.mimi.again_again.json",
+    "speaker": "mimi",
+    "text": "फेरि, फेरि!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "46ebaadeda6f",
+    "reviewed": false
+  },
+  "pet.mimi.like_word": {
+    "file": "pet.mimi.like_word.mp3",
+    "lips": "pet.mimi.like_word.json",
+    "speaker": "mimi",
+    "text": "मलाई त्यो शब्द मन पर्यो!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "2870ccb4f7cc",
+    "reviewed": false
+  },
+  "pet.mimi.got_star": {
+    "file": "pet.mimi.got_star.mp3",
+    "lips": "pet.mimi.got_star.json",
+    "speaker": "mimi",
+    "text": "तारा पायौ!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "87d77efd98ac",
+    "reviewed": false
+  },
+  "pet.mimi.proud": {
+    "file": "pet.mimi.proud.mp3",
+    "lips": "pet.mimi.proud.json",
+    "speaker": "mimi",
+    "text": "मलाई तिमीमा गर्व छ!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "c0797039309c",
+    "reviewed": false
+  },
+  "pet.mimi.hooray": {
+    "file": "pet.mimi.hooray.mp3",
+    "lips": "pet.mimi.hooray.json",
+    "speaker": "mimi",
+    "text": "हुर्रे!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "9e42cc494868",
+    "reviewed": false
+  },
+  "pet.mimi.bye": {
+    "file": "pet.mimi.bye.mp3",
+    "lips": "pet.mimi.bye.json",
+    "speaker": "mimi",
+    "text": "टाटा!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "7a0746bce638",
+    "reviewed": false
+  },
+  "pet.mimi.see_you": {
+    "file": "pet.mimi.see_you.mp3",
+    "lips": "pet.mimi.see_you.json",
+    "speaker": "mimi",
+    "text": "भोलि भेटौंला!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "fdf75c219788",
+    "reviewed": false
+  },
+  "pet.mimi.tickles": {
+    "file": "pet.mimi.tickles.mp3",
+    "lips": "pet.mimi.tickles.json",
+    "speaker": "mimi",
+    "text": "हिहि, काउकुती लाग्यो!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "69f453622ad5",
+    "reviewed": false
+  },
+  "pet.mimi.lets_play": {
+    "file": "pet.mimi.lets_play.mp3",
+    "lips": "pet.mimi.lets_play.json",
+    "speaker": "mimi",
+    "text": "खेलौं!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "6ec755a6cbed",
+    "reviewed": false
+  },
+  "pet.mimi.love_you": {
+    "file": "pet.mimi.love_you.mp3",
+    "lips": "pet.mimi.love_you.json",
+    "speaker": "mimi",
+    "text": "म तिमीलाई माया गर्छु!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "f6d23e9818e7",
+    "reviewed": false
+  },
+  "pet.mimi.happy_meet": {
+    "file": "pet.mimi.happy_meet.mp3",
+    "lips": "pet.mimi.happy_meet.json",
+    "speaker": "mimi",
+    "text": "भेटेर धेरै खुसी लाग्यो!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "fcdeece96f2e",
+    "reviewed": false
+  },
+  "pet.mimi.own1": {
+    "file": "pet.mimi.own1.mp3",
+    "lips": "pet.mimi.own1.json",
+    "speaker": "mimi",
+    "text": "म्याउ! एकदम ठीक!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "7254c33d702f",
+    "reviewed": false
+  },
+  "pet.mimi.own2": {
+    "file": "pet.mimi.own2.mp3",
+    "lips": "pet.mimi.own2.json",
+    "speaker": "mimi",
+    "text": "झम्टिहाल!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "9923d65b5e58",
+    "reviewed": false
+  },
+  "pet.mimi.own3": {
+    "file": "pet.mimi.own3.mp3",
+    "lips": "pet.mimi.own3.json",
+    "speaker": "mimi",
+    "text": "बिरालाको अँगालो!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "a37d1391423e",
+    "reviewed": false
+  },
+  "pet.mimi.own4": {
+    "file": "pet.mimi.own4.mp3",
+    "lips": "pet.mimi.own4.json",
+    "speaker": "mimi",
+    "text": "मेरा जुँगा हल्लिँदैछन्!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "3c650290c039",
+    "reviewed": false
+  },
+  "pet.pandu.hi_friend": {
+    "file": "pet.pandu.hi_friend.mp3",
+    "lips": "pet.pandu.hi_friend.json",
+    "speaker": "pandu",
+    "text": "नमस्ते साथी!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "8f5370bf07c5",
+    "reviewed": false
+  },
+  "pet.pandu.learn_together": {
+    "file": "pet.pandu.learn_together.mp3",
+    "lips": "pet.pandu.learn_together.json",
+    "speaker": "pandu",
+    "text": "सँगै सिकौं!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "167cee7d4131",
+    "reviewed": false
+  },
+  "pet.pandu.yay_here": {
+    "file": "pet.pandu.yay_here.mp3",
+    "lips": "pet.pandu.yay_here.json",
+    "speaker": "pandu",
+    "text": "याहू, तिमी आयौ!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "d117c4c471a7",
+    "reviewed": false
+  },
+  "pet.pandu.yay": {
+    "file": "pet.pandu.yay.mp3",
+    "lips": "pet.pandu.yay.json",
+    "speaker": "pandu",
+    "text": "याहू!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "edf92f8cdbc8",
+    "reviewed": false
+  },
+  "pet.pandu.great_job": {
+    "file": "pet.pandu.great_job.mp3",
+    "lips": "pet.pandu.great_job.json",
+    "speaker": "pandu",
+    "text": "स्याबास!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "2bee0ebf102e",
+    "reviewed": false
+  },
+  "pet.pandu.you_did_it": {
+    "file": "pet.pandu.you_did_it.mp3",
+    "lips": "pet.pandu.you_did_it.json",
+    "speaker": "pandu",
+    "text": "तिमीले गर्यौ!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "f8c3e46b06fc",
+    "reviewed": false
+  },
+  "pet.pandu.so_clever": {
+    "file": "pet.pandu.so_clever.mp3",
+    "lips": "pet.pandu.so_clever.json",
+    "speaker": "pandu",
+    "text": "वाह, कति बाठो!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "d8b6a298da83",
+    "reviewed": false
+  },
+  "pet.pandu.high_five": {
+    "file": "pet.pandu.high_five.mp3",
+    "lips": "pet.pandu.high_five.json",
+    "speaker": "pandu",
+    "text": "हाई फाइभ!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "dc6ecd63387d",
+    "reviewed": false
+  },
+  "pet.pandu.oopsie": {
+    "file": "pet.pandu.oopsie.mp3",
+    "lips": "pet.pandu.oopsie.json",
+    "speaker": "pandu",
+    "text": "ओहो! फेरि गरौं त!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "e241c4a4815d",
+    "reviewed": false
+  },
+  "pet.pandu.you_can": {
+    "file": "pet.pandu.you_can.mp3",
+    "lips": "pet.pandu.you_can.json",
+    "speaker": "pandu",
+    "text": "तिमी सक्छौ!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "5503d4b8a23d",
+    "reviewed": false
+  },
+  "pet.pandu.ill_help": {
+    "file": "pet.pandu.ill_help.mp3",
+    "lips": "pet.pandu.ill_help.json",
+    "speaker": "pandu",
+    "text": "म मद्दत गर्छु!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "97bdb2eb1409",
+    "reviewed": false
+  },
+  "pet.pandu.your_turn": {
+    "file": "pet.pandu.your_turn.mp3",
+    "lips": "pet.pandu.your_turn.json",
+    "speaker": "pandu",
+    "text": "तिम्रो पालो!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "d43b268cac4e",
+    "reviewed": false
+  },
+  "pet.pandu.say_it": {
+    "file": "pet.pandu.say_it.mp3",
+    "lips": "pet.pandu.say_it.json",
+    "speaker": "pandu",
+    "text": "भनौं न, भनौं न!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "d98b094ad304",
+    "reviewed": false
+  },
+  "pet.pandu.again_again": {
+    "file": "pet.pandu.again_again.mp3",
+    "lips": "pet.pandu.again_again.json",
+    "speaker": "pandu",
+    "text": "फेरि, फेरि!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "5d4fb8d46503",
+    "reviewed": false
+  },
+  "pet.pandu.listening": {
+    "file": "pet.pandu.listening.mp3",
+    "lips": "pet.pandu.listening.json",
+    "speaker": "pandu",
+    "text": "म सुन्दैछु!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "eb59884cc108",
+    "reviewed": false
+  },
+  "pet.pandu.like_word": {
+    "file": "pet.pandu.like_word.mp3",
+    "lips": "pet.pandu.like_word.json",
+    "speaker": "pandu",
+    "text": "मलाई त्यो शब्द मन पर्यो!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "a34a27a7d38b",
+    "reviewed": false
+  },
+  "pet.pandu.got_star": {
+    "file": "pet.pandu.got_star.mp3",
+    "lips": "pet.pandu.got_star.json",
+    "speaker": "pandu",
+    "text": "तारा पायौ!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "6ccaeccd398b",
+    "reviewed": false
+  },
+  "pet.pandu.proud": {
+    "file": "pet.pandu.proud.mp3",
+    "lips": "pet.pandu.proud.json",
+    "speaker": "pandu",
+    "text": "मलाई तिमीमा गर्व छ!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "fa0ef8751806",
+    "reviewed": false
+  },
+  "pet.pandu.hooray": {
+    "file": "pet.pandu.hooray.mp3",
+    "lips": "pet.pandu.hooray.json",
+    "speaker": "pandu",
+    "text": "हुर्रे!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "b382803b4f52",
+    "reviewed": false
+  },
+  "pet.pandu.see_you": {
+    "file": "pet.pandu.see_you.mp3",
+    "lips": "pet.pandu.see_you.json",
+    "speaker": "pandu",
+    "text": "भोलि भेटौंला!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "2fa8d9dab937",
+    "reviewed": false
+  },
+  "pet.pandu.bye": {
+    "file": "pet.pandu.bye.mp3",
+    "lips": "pet.pandu.bye.json",
+    "speaker": "pandu",
+    "text": "टाटा!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "277125caa0ca",
+    "reviewed": false
+  },
+  "pet.pandu.lets_play": {
+    "file": "pet.pandu.lets_play.mp3",
+    "lips": "pet.pandu.lets_play.json",
+    "speaker": "pandu",
+    "text": "खेलौं!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "ccf0a68f6b05",
+    "reviewed": false
+  },
+  "pet.pandu.tickles": {
+    "file": "pet.pandu.tickles.mp3",
+    "lips": "pet.pandu.tickles.json",
+    "speaker": "pandu",
+    "text": "हिहि, काउकुती लाग्यो!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "0f5ffa8bf03f",
+    "reviewed": false
+  },
+  "pet.pandu.love_you": {
+    "file": "pet.pandu.love_you.mp3",
+    "lips": "pet.pandu.love_you.json",
+    "speaker": "pandu",
+    "text": "म तिमीलाई माया गर्छु!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "07004d458394",
+    "reviewed": false
+  },
+  "pet.pandu.own1": {
+    "file": "pet.pandu.own1.mp3",
+    "lips": "pet.pandu.own1.json",
+    "speaker": "pandu",
+    "text": "खाजा? ठट्टा गरेको!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "ec3eeed9e718",
+    "reviewed": false
+  },
+  "pet.pandu.happy_meet": {
+    "file": "pet.pandu.happy_meet.mp3",
+    "lips": "pet.pandu.happy_meet.json",
+    "speaker": "pandu",
+    "text": "भेटेर धेरै खुसी लाग्यो!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "0f18e6904a86",
+    "reviewed": false
+  },
+  "pet.pandu.own2": {
+    "file": "pet.pandu.own2.mp3",
+    "lips": "pet.pandu.own2.json",
+    "speaker": "pandu",
+    "text": "हाई… होइन, म ब्युँझेकै छु!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "2413ef0e70b7",
+    "reviewed": false
+  },
+  "pet.pandu.own3": {
+    "file": "pet.pandu.own3.mp3",
+    "lips": "pet.pandu.own3.json",
+    "speaker": "pandu",
+    "text": "अँगालो हाल्ने बेला!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "431fef8870bd",
+    "reviewed": false
+  },
+  "pet.stardust.hi_friend": {
+    "file": "pet.stardust.hi_friend.mp3",
+    "lips": "pet.stardust.hi_friend.json",
+    "speaker": "stardust",
+    "text": "नमस्ते साथी!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "09fea88d57fe",
+    "reviewed": false
+  },
+  "pet.pandu.own4": {
+    "file": "pet.pandu.own4.mp3",
+    "lips": "pet.pandu.own4.json",
+    "speaker": "pandu",
+    "text": "बिस्तारै बिस्तारै, जाऔं।",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "ea57258ad02c",
+    "reviewed": false
+  },
+  "pet.stardust.learn_together": {
+    "file": "pet.stardust.learn_together.mp3",
+    "lips": "pet.stardust.learn_together.json",
+    "speaker": "stardust",
+    "text": "सँगै सिकौं!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "a37a03a4645b",
+    "reviewed": false
+  },
+  "pet.stardust.yay_here": {
+    "file": "pet.stardust.yay_here.mp3",
+    "lips": "pet.stardust.yay_here.json",
+    "speaker": "stardust",
+    "text": "याहू, तिमी आयौ!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "bf7eee387385",
+    "reviewed": false
+  },
+  "pet.stardust.yay": {
+    "file": "pet.stardust.yay.mp3",
+    "lips": "pet.stardust.yay.json",
+    "speaker": "stardust",
+    "text": "याहू!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "0add5e24257b",
+    "reviewed": false
+  },
+  "pet.stardust.great_job": {
+    "file": "pet.stardust.great_job.mp3",
+    "lips": "pet.stardust.great_job.json",
+    "speaker": "stardust",
+    "text": "स्याबास!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "d1ec671f9e10",
+    "reviewed": false
+  },
+  "pet.stardust.you_did_it": {
+    "file": "pet.stardust.you_did_it.mp3",
+    "lips": "pet.stardust.you_did_it.json",
+    "speaker": "stardust",
+    "text": "तिमीले गर्यौ!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "3f21c3c52810",
+    "reviewed": false
+  },
+  "pet.stardust.high_five": {
+    "file": "pet.stardust.high_five.mp3",
+    "lips": "pet.stardust.high_five.json",
+    "speaker": "stardust",
+    "text": "हाई फाइभ!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "397e7855c26b",
+    "reviewed": false
+  },
+  "pet.stardust.so_clever": {
+    "file": "pet.stardust.so_clever.mp3",
+    "lips": "pet.stardust.so_clever.json",
+    "speaker": "stardust",
+    "text": "वाह, कति बाठो!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "af540eaf8a8b",
+    "reviewed": false
+  },
+  "pet.stardust.oopsie": {
+    "file": "pet.stardust.oopsie.mp3",
+    "lips": "pet.stardust.oopsie.json",
+    "speaker": "stardust",
+    "text": "ओहो! फेरि गरौं त!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "23f84fd0007e",
+    "reviewed": false
+  },
+  "pet.stardust.you_can": {
+    "file": "pet.stardust.you_can.mp3",
+    "lips": "pet.stardust.you_can.json",
+    "speaker": "stardust",
+    "text": "तिमी सक्छौ!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "d1fa1e53286e",
+    "reviewed": false
+  },
+  "pet.stardust.your_turn": {
+    "file": "pet.stardust.your_turn.mp3",
+    "lips": "pet.stardust.your_turn.json",
+    "speaker": "stardust",
+    "text": "तिम्रो पालो!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "c794fad949de",
+    "reviewed": false
+  },
+  "pet.stardust.ill_help": {
+    "file": "pet.stardust.ill_help.mp3",
+    "lips": "pet.stardust.ill_help.json",
+    "speaker": "stardust",
+    "text": "म मद्दत गर्छु!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "ffe115f33239",
+    "reviewed": false
+  },
+  "pet.stardust.listening": {
+    "file": "pet.stardust.listening.mp3",
+    "lips": "pet.stardust.listening.json",
+    "speaker": "stardust",
+    "text": "म सुन्दैछु!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "f74e49915436",
+    "reviewed": false
+  },
+  "pet.stardust.say_it": {
+    "file": "pet.stardust.say_it.mp3",
+    "lips": "pet.stardust.say_it.json",
+    "speaker": "stardust",
+    "text": "भनौं न, भनौं न!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "c24546355f3b",
+    "reviewed": false
+  },
+  "pet.stardust.again_again": {
+    "file": "pet.stardust.again_again.mp3",
+    "lips": "pet.stardust.again_again.json",
+    "speaker": "stardust",
+    "text": "फेरि, फेरि!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "bd73e83b1128",
+    "reviewed": false
+  },
+  "pet.stardust.got_star": {
+    "file": "pet.stardust.got_star.mp3",
+    "lips": "pet.stardust.got_star.json",
+    "speaker": "stardust",
+    "text": "तारा पायौ!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "5f0ec7ad5616",
+    "reviewed": false
+  },
+  "pet.stardust.like_word": {
+    "file": "pet.stardust.like_word.mp3",
+    "lips": "pet.stardust.like_word.json",
+    "speaker": "stardust",
+    "text": "मलाई त्यो शब्द मन पर्यो!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "bc0346406930",
+    "reviewed": false
+  },
+  "pet.stardust.proud": {
+    "file": "pet.stardust.proud.mp3",
+    "lips": "pet.stardust.proud.json",
+    "speaker": "stardust",
+    "text": "मलाई तिमीमा गर्व छ!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "bbbe92a6df77",
+    "reviewed": false
+  },
+  "pet.stardust.bye": {
+    "file": "pet.stardust.bye.mp3",
+    "lips": "pet.stardust.bye.json",
+    "speaker": "stardust",
+    "text": "टाटा!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "c54a130560a6",
+    "reviewed": false
+  },
+  "pet.stardust.hooray": {
+    "file": "pet.stardust.hooray.mp3",
+    "lips": "pet.stardust.hooray.json",
+    "speaker": "stardust",
+    "text": "हुर्रे!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "13aeed1e5716",
+    "reviewed": false
+  },
+  "pet.stardust.see_you": {
+    "file": "pet.stardust.see_you.mp3",
+    "lips": "pet.stardust.see_you.json",
+    "speaker": "stardust",
+    "text": "भोलि भेटौंला!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "eb4ac5b80b07",
+    "reviewed": false
+  },
+  "pet.stardust.lets_play": {
+    "file": "pet.stardust.lets_play.mp3",
+    "lips": "pet.stardust.lets_play.json",
+    "speaker": "stardust",
+    "text": "खेलौं!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "f81bfcea3acc",
+    "reviewed": false
+  },
+  "pet.stardust.tickles": {
+    "file": "pet.stardust.tickles.mp3",
+    "lips": "pet.stardust.tickles.json",
+    "speaker": "stardust",
+    "text": "हिहि, काउकुती लाग्यो!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "61a3410385ca",
+    "reviewed": false
+  },
+  "pet.stardust.love_you": {
+    "file": "pet.stardust.love_you.mp3",
+    "lips": "pet.stardust.love_you.json",
+    "speaker": "stardust",
+    "text": "म तिमीलाई माया गर्छु!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "22294b78f4a1",
+    "reviewed": false
+  },
+  "pet.stardust.own1": {
+    "file": "pet.stardust.own1.mp3",
+    "lips": "pet.stardust.own1.json",
+    "speaker": "stardust",
+    "text": "टिलिक टिलिक!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "dd2b52b631fd",
+    "reviewed": false
+  },
+  "pet.stardust.happy_meet": {
+    "file": "pet.stardust.happy_meet.mp3",
+    "lips": "pet.stardust.happy_meet.json",
+    "speaker": "stardust",
+    "text": "भेटेर धेरै खुसी लाग्यो!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "41a701621558",
+    "reviewed": false
+  },
+  "pet.stardust.own2": {
+    "file": "pet.stardust.own2.mp3",
+    "lips": "pet.stardust.own2.json",
+    "speaker": "stardust",
+    "text": "जादु जस्तै!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "41db9d98c49e",
+    "reviewed": false
+  },
+  "pet.stardust.own3": {
+    "file": "pet.stardust.own3.mp3",
+    "lips": "pet.stardust.own3.json",
+    "speaker": "stardust",
+    "text": "रङ थपौं!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "f698fce6c8ab",
+    "reviewed": false
+  },
+  "pet.stardust.own4": {
+    "file": "pet.stardust.own4.mp3",
+    "lips": "pet.stardust.own4.json",
+    "speaker": "stardust",
+    "text": "इच्छा माग!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "06ffcc18e9c8",
+    "reviewed": false
+  },
+  "pet.roary.hi_friend": {
+    "file": "pet.roary.hi_friend.mp3",
+    "lips": "pet.roary.hi_friend.json",
+    "speaker": "roary",
+    "text": "नमस्ते साथी!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "c42616c08044",
+    "reviewed": false
+  },
+  "pet.roary.learn_together": {
+    "file": "pet.roary.learn_together.mp3",
+    "lips": "pet.roary.learn_together.json",
+    "speaker": "roary",
+    "text": "सँगै सिकौं!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "b103286dd52b",
+    "reviewed": false
+  },
+  "pet.roary.yay_here": {
+    "file": "pet.roary.yay_here.mp3",
+    "lips": "pet.roary.yay_here.json",
+    "speaker": "roary",
+    "text": "याहू, तिमी आयौ!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "7f2974b2ee25",
+    "reviewed": false
+  },
+  "pet.roary.yay": {
+    "file": "pet.roary.yay.mp3",
+    "lips": "pet.roary.yay.json",
+    "speaker": "roary",
+    "text": "याहू!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "70ddc31dd8cd",
+    "reviewed": false
+  },
+  "pet.roary.you_did_it": {
+    "file": "pet.roary.you_did_it.mp3",
+    "lips": "pet.roary.you_did_it.json",
+    "speaker": "roary",
+    "text": "तिमीले गर्यौ!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "2f428d2f1b34",
+    "reviewed": false
+  },
+  "pet.roary.great_job": {
+    "file": "pet.roary.great_job.mp3",
+    "lips": "pet.roary.great_job.json",
+    "speaker": "roary",
+    "text": "स्याबास!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "d4694e40ba13",
+    "reviewed": false
+  },
+  "pet.roary.so_clever": {
+    "file": "pet.roary.so_clever.mp3",
+    "lips": "pet.roary.so_clever.json",
+    "speaker": "roary",
+    "text": "वाह, कति बाठो!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "be4928eb41f7",
+    "reviewed": false
+  },
+  "pet.roary.high_five": {
+    "file": "pet.roary.high_five.mp3",
+    "lips": "pet.roary.high_five.json",
+    "speaker": "roary",
+    "text": "हाई फाइभ!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "c7da9cf98568",
+    "reviewed": false
+  },
+  "pet.roary.oopsie": {
+    "file": "pet.roary.oopsie.mp3",
+    "lips": "pet.roary.oopsie.json",
+    "speaker": "roary",
+    "text": "ओहो! फेरि गरौं त!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "5d6b18a8c99a",
+    "reviewed": false
+  },
+  "pet.roary.you_can": {
+    "file": "pet.roary.you_can.mp3",
+    "lips": "pet.roary.you_can.json",
+    "speaker": "roary",
+    "text": "तिमी सक्छौ!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "ad1a9213683a",
+    "reviewed": false
+  },
+  "pet.roary.ill_help": {
+    "file": "pet.roary.ill_help.mp3",
+    "lips": "pet.roary.ill_help.json",
+    "speaker": "roary",
+    "text": "म मद्दत गर्छु!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "1d584e96e476",
+    "reviewed": false
+  },
+  "pet.roary.your_turn": {
+    "file": "pet.roary.your_turn.mp3",
+    "lips": "pet.roary.your_turn.json",
+    "speaker": "roary",
+    "text": "तिम्रो पालो!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "21dfdfb0059e",
+    "reviewed": false
+  },
+  "pet.roary.say_it": {
+    "file": "pet.roary.say_it.mp3",
+    "lips": "pet.roary.say_it.json",
+    "speaker": "roary",
+    "text": "भनौं न, भनौं न!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "af2b6fb2cae7",
+    "reviewed": false
+  },
+  "pet.roary.listening": {
+    "file": "pet.roary.listening.mp3",
+    "lips": "pet.roary.listening.json",
+    "speaker": "roary",
+    "text": "म सुन्दैछु!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "a411f3970154",
+    "reviewed": false
+  },
+  "pet.roary.again_again": {
+    "file": "pet.roary.again_again.mp3",
+    "lips": "pet.roary.again_again.json",
+    "speaker": "roary",
+    "text": "फेरि, फेरि!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "75d2d1ca0529",
+    "reviewed": false
+  },
+  "pet.roary.like_word": {
+    "file": "pet.roary.like_word.mp3",
+    "lips": "pet.roary.like_word.json",
+    "speaker": "roary",
+    "text": "मलाई त्यो शब्द मन पर्यो!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "3d0f784366cb",
+    "reviewed": false
+  },
+  "pet.roary.got_star": {
+    "file": "pet.roary.got_star.mp3",
+    "lips": "pet.roary.got_star.json",
+    "speaker": "roary",
+    "text": "तारा पायौ!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "5b63fec4bd44",
+    "reviewed": false
+  },
+  "pet.roary.hooray": {
+    "file": "pet.roary.hooray.mp3",
+    "lips": "pet.roary.hooray.json",
+    "speaker": "roary",
+    "text": "हुर्रे!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "73b6b4fb32d4",
+    "reviewed": false
+  },
+  "pet.roary.proud": {
+    "file": "pet.roary.proud.mp3",
+    "lips": "pet.roary.proud.json",
+    "speaker": "roary",
+    "text": "मलाई तिमीमा गर्व छ!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "07c0de8a4cfd",
+    "reviewed": false
+  },
+  "pet.roary.see_you": {
+    "file": "pet.roary.see_you.mp3",
+    "lips": "pet.roary.see_you.json",
+    "speaker": "roary",
+    "text": "भोलि भेटौंला!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "c7ae5f2c83ee",
+    "reviewed": false
+  },
+  "pet.roary.bye": {
+    "file": "pet.roary.bye.mp3",
+    "lips": "pet.roary.bye.json",
+    "speaker": "roary",
+    "text": "टाटा!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "ae593387cb7a",
+    "reviewed": false
+  },
+  "pet.roary.tickles": {
+    "file": "pet.roary.tickles.mp3",
+    "lips": "pet.roary.tickles.json",
+    "speaker": "roary",
+    "text": "हिहि, काउकुती लाग्यो!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "0f180939f048",
+    "reviewed": false
+  },
+  "pet.roary.lets_play": {
+    "file": "pet.roary.lets_play.mp3",
+    "lips": "pet.roary.lets_play.json",
+    "speaker": "roary",
+    "text": "खेलौं!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "0e6e81daa81a",
+    "reviewed": false
+  },
+  "pet.roary.love_you": {
+    "file": "pet.roary.love_you.mp3",
+    "lips": "pet.roary.love_you.json",
+    "speaker": "roary",
+    "text": "म तिमीलाई माया गर्छु!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "fce1fbd5a638",
+    "reviewed": false
+  },
+  "pet.roary.happy_meet": {
+    "file": "pet.roary.happy_meet.mp3",
+    "lips": "pet.roary.happy_meet.json",
+    "speaker": "roary",
+    "text": "भेटेर धेरै खुसी लाग्यो!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "0d3c2b019e16",
+    "reviewed": false
+  },
+  "pet.roary.own1": {
+    "file": "pet.roary.own1.mp3",
+    "lips": "pet.roary.own1.json",
+    "speaker": "roary",
+    "text": "ह्वाँ! तिमी च्याम्पियन!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "82ddac5171c6",
+    "reviewed": false
+  },
+  "pet.roary.own2": {
+    "file": "pet.roary.own2.mp3",
+    "lips": "pet.roary.own2.json",
+    "speaker": "roary",
+    "text": "साहसी बन, सानो साथी!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "97815d014f98",
+    "reviewed": false
+  },
+  "pet.roary.own3": {
+    "file": "pet.roary.own3.mp3",
+    "lips": "pet.roary.own3.json",
+    "speaker": "roary",
+    "text": "सिकाइको राजा!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "a6007f618592",
+    "reviewed": false
+  },
+  "pet.roary.own4": {
+    "file": "pet.roary.own4.mp3",
+    "lips": "pet.roary.own4.json",
+    "speaker": "roary",
+    "text": "ठूलो स्वरमा ह्वाँ गरौं!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "a13afa8a26e3",
+    "reviewed": false
+  },
+  "pet.beep.start_today": {
+    "file": "pet.beep.start_today.mp3",
+    "lips": "pet.beep.start_today.json",
+    "speaker": "beep",
+    "text": "आजको पाठ सुरु गरौं!",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "8feb0364e5ba",
+    "reviewed": false
+  },
+  "pet.gaju.start_today": {
+    "file": "pet.gaju.start_today.mp3",
+    "lips": "pet.gaju.start_today.json",
+    "speaker": "gaju",
+    "text": "आजको पाठ सुरु गरौं!",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "ab09fe87885c",
+    "reviewed": false
+  },
+  "pet.sparky.start_today": {
+    "file": "pet.sparky.start_today.mp3",
+    "lips": "pet.sparky.start_today.json",
+    "speaker": "sparky",
+    "text": "आजको पाठ सुरु गरौं!",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "1571f4e33452",
+    "reviewed": false
+  },
+  "pet.bobo.start_today": {
+    "file": "pet.bobo.start_today.mp3",
+    "lips": "pet.bobo.start_today.json",
+    "speaker": "bobo",
+    "text": "आजको पाठ सुरु गरौं!",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "e130f2d41666",
+    "reviewed": false
+  },
+  "pet.himu.start_today": {
+    "file": "pet.himu.start_today.mp3",
+    "lips": "pet.himu.start_today.json",
+    "speaker": "himu",
+    "text": "आजको पाठ सुरु गरौं!",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "063cf9d78306",
+    "reviewed": false
+  },
+  "pet.mimi.start_today": {
+    "file": "pet.mimi.start_today.mp3",
+    "lips": "pet.mimi.start_today.json",
+    "speaker": "mimi",
+    "text": "आजको पाठ सुरु गरौं!",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "5be58f5ed9b3",
+    "reviewed": false
+  },
+  "pet.stardust.start_today": {
+    "file": "pet.stardust.start_today.mp3",
+    "lips": "pet.stardust.start_today.json",
+    "speaker": "stardust",
+    "text": "आजको पाठ सुरु गरौं!",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "a4a1a057e8a2",
+    "reviewed": false
+  },
+  "pet.pandu.start_today": {
+    "file": "pet.pandu.start_today.mp3",
+    "lips": "pet.pandu.start_today.json",
+    "speaker": "pandu",
+    "text": "आजको पाठ सुरु गरौं!",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "f1cf5c8fb49e",
+    "reviewed": false
+  },
+  "pet.roary.start_today": {
+    "file": "pet.roary.start_today.mp3",
+    "lips": "pet.roary.start_today.json",
+    "speaker": "roary",
+    "text": "आजको पाठ सुरु गरौं!",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "d151614826bd",
+    "reviewed": false
+  },
+  "t.good_evening.asha": {
+    "file": "t.good_evening.asha.mp3",
+    "lips": "t.good_evening.asha.json",
+    "speaker": "asha",
+    "text": "शुभ साँझ!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "8d723fa2f335",
+    "reviewed": false
+  },
+  "t.welcome_back.asha": {
+    "file": "t.welcome_back.asha.mp3",
+    "lips": "t.welcome_back.asha.json",
+    "speaker": "asha",
+    "text": "फेरि स्वागत छ!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "263211147272",
+    "reviewed": false
+  },
+  "t.good_afternoon.asha": {
+    "file": "t.good_afternoon.asha.mp3",
+    "lips": "t.good_afternoon.asha.json",
+    "speaker": "asha",
+    "text": "शुभ दिउँसो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "ed609d857798",
+    "reviewed": false
+  },
+  "t.nice_to_see.asha": {
+    "file": "t.nice_to_see.asha.mp3",
+    "lips": "t.nice_to_see.asha.json",
+    "speaker": "asha",
+    "text": "भेटेर खुसी लाग्यो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "f31cc1f00d1e",
+    "reviewed": false
+  },
+  "t.hi_there.asha": {
+    "file": "t.hi_there.asha.mp3",
+    "lips": "t.hi_there.asha.json",
+    "speaker": "asha",
+    "text": "ए, नमस्ते!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "e1858fa363fc",
+    "reviewed": false
+  },
+  "t.fun_today.asha": {
+    "file": "t.fun_today.asha.mp3",
+    "lips": "t.fun_today.asha.json",
+    "speaker": "asha",
+    "text": "आज रमाइलो गरौं!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "c715ead02f0c",
+    "reviewed": false
+  },
+  "t.missed_you.asha": {
+    "file": "t.missed_you.asha.mp3",
+    "lips": "t.missed_you.asha.json",
+    "speaker": "asha",
+    "text": "तिम्रो याद आयो!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "4c9a64f63372",
+    "reviewed": false
+  },
+  "t.yay_youre_here.asha": {
+    "file": "t.yay_youre_here.asha.mp3",
+    "lips": "t.yay_youre_here.asha.json",
+    "speaker": "asha",
+    "text": "तिमी आयौ, याहू!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "632016cd179c",
+    "reviewed": false
+  },
+  "t.so_happy.asha": {
+    "file": "t.so_happy.asha.mp3",
+    "lips": "t.so_happy.asha.json",
+    "speaker": "asha",
+    "text": "तिमी आएकोमा धेरै खुसी छु!",
+    "voice_id": "ljCTqT1biPnI7ZjS5gyi",
+    "model": "eleven_v3",
+    "fp": "25de70284f63",
+    "reviewed": false
+  },
+  "t.good_evening.leo": {
+    "file": "t.good_evening.leo.mp3",
+    "lips": "t.good_evening.leo.json",
+    "speaker": "leo",
+    "text": "शुभ साँझ!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "368eb9403132",
+    "reviewed": false
+  },
+  "t.good_afternoon.leo": {
+    "file": "t.good_afternoon.leo.mp3",
+    "lips": "t.good_afternoon.leo.json",
+    "speaker": "leo",
+    "text": "शुभ दिउँसो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "0d09b93e7672",
+    "reviewed": false
+  },
+  "t.welcome_back.leo": {
+    "file": "t.welcome_back.leo.mp3",
+    "lips": "t.welcome_back.leo.json",
+    "speaker": "leo",
+    "text": "फेरि स्वागत छ!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "8de3de5af670",
+    "reviewed": false
+  },
+  "t.hi_there.leo": {
+    "file": "t.hi_there.leo.mp3",
+    "lips": "t.hi_there.leo.json",
+    "speaker": "leo",
+    "text": "ए, नमस्ते!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "08e9d767f5d6",
+    "reviewed": false
+  },
+  "t.nice_to_see.leo": {
+    "file": "t.nice_to_see.leo.mp3",
+    "lips": "t.nice_to_see.leo.json",
+    "speaker": "leo",
+    "text": "भेटेर खुसी लाग्यो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "6ee996811b8a",
+    "reviewed": false
+  },
+  "t.fun_today.leo": {
+    "file": "t.fun_today.leo.mp3",
+    "lips": "t.fun_today.leo.json",
+    "speaker": "leo",
+    "text": "आज रमाइलो गरौं!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "a1a8a9d4121f",
+    "reviewed": false
+  },
+  "t.missed_you.leo": {
+    "file": "t.missed_you.leo.mp3",
+    "lips": "t.missed_you.leo.json",
+    "speaker": "leo",
+    "text": "तिम्रो याद आयो!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "64fad5641469",
+    "reviewed": false
+  },
+  "t.yay_youre_here.leo": {
+    "file": "t.yay_youre_here.leo.mp3",
+    "lips": "t.yay_youre_here.leo.json",
+    "speaker": "leo",
+    "text": "तिमी आयौ, याहू!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "ba11672dd9c2",
+    "reviewed": false
+  },
+  "t.so_happy.leo": {
+    "file": "t.so_happy.leo.mp3",
+    "lips": "t.so_happy.leo.json",
+    "speaker": "leo",
+    "text": "तिमी आएकोमा धेरै खुसी छु!",
+    "voice_id": "dn3M2FqG5VIRePAJqGHz",
+    "model": "eleven_v3",
+    "fp": "dbd17a2e3a54",
+    "reviewed": false
+  }
+}

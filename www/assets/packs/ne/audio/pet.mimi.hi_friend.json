@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/pet.mimi.hi_friend.tmp.wav",
+    "duration": 1.22
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.08, "value": "B" },
+    { "start": 0.08, "end": 0.21, "value": "C" },
+    { "start": 0.21, "end": 0.35, "value": "F" },
+    { "start": 0.35, "end": 0.43, "value": "A" },
+    { "start": 0.43, "end": 0.68, "value": "B" },
+    { "start": 0.68, "end": 0.75, "value": "C" },
+    { "start": 0.75, "end": 0.83, "value": "A" },
+    { "start": 0.83, "end": 1.05, "value": "B" },
+    { "start": 1.05, "end": 1.21, "value": "A" },
+    { "start": 1.21, "end": 1.22, "value": "X" }
+  ]
+}

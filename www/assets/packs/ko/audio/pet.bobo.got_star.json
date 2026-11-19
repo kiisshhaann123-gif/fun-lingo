@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.bobo.got_star.tmp.wav",
+    "duration": 1.14
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.09, "value": "B" },
+    { "start": 0.09, "end": 0.17, "value": "A" },
+    { "start": 0.17, "end": 0.19, "value": "X" },
+    { "start": 0.19, "end": 0.23, "value": "B" },
+    { "start": 0.23, "end": 0.31, "value": "A" },
+    { "start": 0.31, "end": 0.52, "value": "F" },
+    { "start": 0.52, "end": 1.05, "value": "A" },
+    { "start": 1.05, "end": 1.13, "value": "B" },
+    { "start": 1.13, "end": 1.14, "value": "X" }
+  ]
+}

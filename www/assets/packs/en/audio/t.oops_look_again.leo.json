@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/t.oops_look_again.leo.tmp.wav",
+    "duration": 2.27
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.12, "value": "X" },
+    { "start": 0.12, "end": 0.20, "value": "F" },
+    { "start": 0.20, "end": 0.34, "value": "A" },
+    { "start": 0.34, "end": 0.60, "value": "B" },
+    { "start": 0.60, "end": 1.32, "value": "X" },
+    { "start": 1.32, "end": 1.55, "value": "B" },
+    { "start": 1.55, "end": 1.62, "value": "H" },
+    { "start": 1.62, "end": 2.11, "value": "C" },
+    { "start": 2.11, "end": 2.27, "value": "X" }
+  ]
+}

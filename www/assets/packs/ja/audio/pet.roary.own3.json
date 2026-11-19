@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.roary.own3.tmp.wav",
+    "duration": 2.03
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.05, "value": "B" },
+    { "start": 0.05, "end": 0.19, "value": "A" },
+    { "start": 0.19, "end": 0.21, "value": "C" },
+    { "start": 0.21, "end": 0.28, "value": "A" },
+    { "start": 0.28, "end": 0.34, "value": "F" },
+    { "start": 0.34, "end": 0.40, "value": "A" },
+    { "start": 0.40, "end": 0.53, "value": "B" },
+    { "start": 0.53, "end": 0.60, "value": "C" },
+    { "start": 0.60, "end": 0.67, "value": "F" },
+    { "start": 0.67, "end": 0.75, "value": "A" },
+    { "start": 0.75, "end": 0.95, "value": "E" },
+    { "start": 0.95, "end": 1.09, "value": "F" },
+    { "start": 1.09, "end": 1.16, "value": "B" },
+    { "start": 1.16, "end": 1.23, "value": "C" },
+    { "start": 1.23, "end": 1.31, "value": "A" },
+    { "start": 1.31, "end": 1.59, "value": "D" },
+    { "start": 1.59, "end": 1.66, "value": "B" },
+    { "start": 1.66, "end": 2.03, "value": "X" }
+  ]
+}

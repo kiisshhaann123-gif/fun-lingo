@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.stardust.again_again.tmp.wav",
+    "duration": 2.84
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.03, "value": "B" },
+    { "start": 0.03, "end": 0.12, "value": "A" },
+    { "start": 0.12, "end": 0.31, "value": "C" },
+    { "start": 0.31, "end": 0.45, "value": "E" },
+    { "start": 0.45, "end": 0.73, "value": "B" },
+    { "start": 0.73, "end": 0.98, "value": "C" },
+    { "start": 0.98, "end": 1.40, "value": "B" },
+    { "start": 1.40, "end": 1.47, "value": "F" },
+    { "start": 1.47, "end": 2.16, "value": "B" },
+    { "start": 2.16, "end": 2.41, "value": "F" },
+    { "start": 2.41, "end": 2.48, "value": "E" },
+    { "start": 2.48, "end": 2.83, "value": "B" },
+    { "start": 2.83, "end": 2.84, "value": "X" }
+  ]
+}

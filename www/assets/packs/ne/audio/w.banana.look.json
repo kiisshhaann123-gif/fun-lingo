@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/w.banana.look.tmp.wav",
+    "duration": 1.30
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.10, "value": "B" },
+    { "start": 0.10, "end": 0.21, "value": "C" },
+    { "start": 0.21, "end": 0.35, "value": "F" },
+    { "start": 0.35, "end": 0.49, "value": "C" },
+    { "start": 0.49, "end": 0.63, "value": "B" },
+    { "start": 0.63, "end": 0.83, "value": "X" },
+    { "start": 0.83, "end": 1.08, "value": "B" },
+    { "start": 1.08, "end": 1.22, "value": "C" },
+    { "start": 1.22, "end": 1.29, "value": "E" },
+    { "start": 1.29, "end": 1.30, "value": "X" }
+  ]
+}

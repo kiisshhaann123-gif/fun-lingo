@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.bobo.yay.tmp.wav",
+    "duration": 1.48
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.12, "value": "B" },
+    { "start": 0.12, "end": 0.19, "value": "C" },
+    { "start": 0.19, "end": 0.37, "value": "B" },
+    { "start": 0.37, "end": 0.41, "value": "C" },
+    { "start": 0.41, "end": 0.76, "value": "B" },
+    { "start": 0.76, "end": 0.90, "value": "E" },
+    { "start": 0.90, "end": 1.04, "value": "A" },
+    { "start": 1.04, "end": 1.12, "value": "B" },
+    { "start": 1.12, "end": 1.35, "value": "X" },
+    { "start": 1.35, "end": 1.47, "value": "B" },
+    { "start": 1.47, "end": 1.48, "value": "X" }
+  ]
+}

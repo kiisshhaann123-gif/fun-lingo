@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.sparky.like_word.tmp.wav",
+    "duration": 2.35
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.22, "value": "F" },
+    { "start": 0.22, "end": 0.29, "value": "C" },
+    { "start": 0.29, "end": 0.50, "value": "B" },
+    { "start": 0.50, "end": 0.64, "value": "E" },
+    { "start": 0.64, "end": 0.71, "value": "F" },
+    { "start": 0.71, "end": 0.78, "value": "C" },
+    { "start": 0.78, "end": 0.90, "value": "A" },
+    { "start": 0.90, "end": 2.35, "value": "X" }
+  ]
+}

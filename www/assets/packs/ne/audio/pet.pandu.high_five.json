@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/pet.pandu.high_five.tmp.wav",
+    "duration": 1.30
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.25, "value": "C" },
+    { "start": 0.25, "end": 0.39, "value": "B" },
+    { "start": 0.39, "end": 0.53, "value": "G" },
+    { "start": 0.53, "end": 0.67, "value": "D" },
+    { "start": 0.67, "end": 0.81, "value": "C" },
+    { "start": 0.81, "end": 1.02, "value": "B" },
+    { "start": 1.02, "end": 1.30, "value": "X" }
+  ]
+}

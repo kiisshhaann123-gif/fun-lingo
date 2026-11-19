@@ -1,0 +1,38 @@
+NAME                         VOICE ID                 DETAILS
+Adam - Dominant, Firm        pNInz6obpgDQGcFmaJgB     gender: male, use_case: social_media, language: en, accent: american, age: middle_aged
+Alice - Clear, Engaging Educ Xb7hH8MSUJpSbSDYk0k2     gender: female, use_case: informative_educational, language: en, accent: british, age: middle_aged, descriptive: professional
+Ashok Pokhrel - Educational  dn3M2FqG5VIRePAJqGHz     language: ne, descriptive: casual, accent: standard, age: young, gender: male, use_case: informative_educational
+Beep                         0a3IxNETlrhfyUeji5Bi     language: en
+Bella - Professional, Bright hpp4J3VqNfWAUOO0d1Us     gender: female, use_case: informative_educational, language: en, accent: american, age: middle_aged, descriptive: professional
+Bill - Wise, Mature, Balance pqHfZKP75CvOlQylNhV4     gender: male, use_case: advertisement, language: en, accent: american, age: old, descriptive: crisp
+Bobo                         bjxEywpm0XXDJKEXWRhM     language: en
+Brian - Deep, Resonant and C nPczCjzI2devNBz1zQrb     gender: male, use_case: social_media, language: en, accent: american, age: middle_aged, descriptive: classy
+Callum - Husky Trickster     N2lVS1w4EtoT3dr4eOWO     gender: male, use_case: characters_animation, language: en, accent: american, age: middle_aged
+Charlie - Deep, Confident, E IKne3meq5aSn9XLyUdCD     gender: male, use_case: conversational, language: en, accent: australian, age: young, descriptive: hyped
+Chris - Charming, Down-to-Ea iP95p4xoKVk53GoZ742B     gender: male, use_case: conversational, language: en, accent: american, age: middle_aged, descriptive: casual
+Daniel - Steady Broadcaster  onwK4e9ZLuTAKqWW03F9     gender: male, use_case: informative_educational, language: en, accent: british, age: middle_aged, descriptive: formal
+Eric - Smooth, Trustworthy   cjVigY5qzO86Huf0OWal     gender: male, use_case: conversational, language: en, accent: american, age: middle_aged, descriptive: classy
+Gaju                         1aXEj8fVDRJJrAUmFuMi     language: en
+George - Warm, Captivating S JBFqnCBsd6RMkjVDRZzb     gender: male, use_case: narrative_story, language: en, accent: british, age: middle_aged, descriptive: mature
+Harry - Fierce Warrior       SOYHLrjzK2X1ezoPC6cr     gender: male, use_case: characters_animation, language: en, accent: american, age: young, descriptive: rough
+Himu                         XH3VN5VEH4pbC5o747Sp     language: en
+Jandi - Korean Male          bs12fnQaJCO5NPRLmdaw     language: ko, descriptive: casual, accent: standard, age: young, gender: male, use_case: social_media
+Jessica - Playful, Bright, W cgSgspJ2msm6clMCkdW9     gender: female, use_case: conversational, language: en, accent: american, age: young, descriptive: cute
+Kai - Calm Japanese Male Nar DBdD5ZW8DJLXT7rWpigm     descriptive: calm, language: ja, accent: standard, age: young, gender: male, use_case: narrative_story
+Kaori - Cute & Calm Japanese 30Bl9aRayVzd7rYeBNHc     language: ja, descriptive: cute, accent: standard, age: young, gender: female, use_case: conversational
+Laura - Enthusiast, Quirky A FGY2WhTYpPnrIDTdsKH5     gender: female, use_case: social_media, language: en, accent: american, age: young, descriptive: sassy
+Liam - Energetic, Social Med TX3LPaxmHKxFdv7VOQHJ     gender: male, use_case: social_media, language: en, accent: american, age: young, descriptive: confident
+Lily - Velvety Actress       pFZP5JQG7iQjIQuC4Bku     gender: female, use_case: informative_educational, language: en, accent: british, age: middle_aged, descriptive: confident
+Matilda - Knowledgable, Prof XrExE9yKIg1WjnnlVkGX     gender: female, use_case: informative_educational, language: en, accent: american, age: middle_aged, descriptive: upbeat
+Mimi                         GKrmsUfKFtoNd7yaujNo     language: en
+Misa - Korean Female         2obFZ2qzlHVHizboKKN9     descriptive: confident, language: ko, accent: standard, age: young, gender: female, use_case: narrative_story
+Pandu                        Z7imKXqyYj1dGEyMOdEi     language: en
+River - Relaxed, Neutral, In SAz9YHcvj6GT2YYXdXww     gender: neutral, use_case: conversational, language: en, accent: american, age: middle_aged, descriptive: calm
+Roary                        e6N4JpjO04lcctWK4z7v     language: en
+Roger - Laid-Back, Casual, R CwhRBWXzGAHq8TQ4Fs17     gender: male, use_case: conversational, language: en, accent: american, age: middle_aged, descriptive: classy
+Sarah - Mature, Reassuring,  EXAVITQu4vr4xnSDxMaL     gender: female, use_case: entertainment_tv, language: en, accent: american, age: young, descriptive: professional
+Sarita - Nepali              ljCTqT1biPnI7ZjS5gyi     descriptive: calm, language: ne, accent: standard, age: young, gender: female, use_case: characters_animation
+Sparky                       wWN5mhEFMb1VZjzzM77T     language: en
+Stardust                     cmMw0HnqcNsZcY9sXIej     language: en
+Will - Relaxed Optimist      bIHbv24MWmeRgasZH58o     gender: male, use_case: conversational, language: en, accent: american, age: young, descriptive: chill
+little                       1B40jCsfthCcz1OZgW5p     language: ne

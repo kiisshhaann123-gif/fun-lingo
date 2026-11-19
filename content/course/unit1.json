@@ -1,0 +1,189 @@
+{
+ "unit": 1,
+ "title": "First Words",
+ "lessons": [
+  {
+   "n": 1,
+   "lead": "asha",
+   "type": "teach",
+   "words": [
+    "hello",
+    "bye"
+   ],
+   "phrase": "ph.01"
+  },
+  {
+   "n": 2,
+   "lead": "leo",
+   "type": "teach",
+   "words": [
+    "mom",
+    "dad"
+   ],
+   "phrase": "ph.02"
+  },
+  {
+   "n": 3,
+   "lead": "asha",
+   "type": "teach",
+   "words": [
+    "baby",
+    "hand"
+   ],
+   "phrase": "ph.03"
+  },
+  {
+   "n": 4,
+   "lead": "leo",
+   "type": "teach",
+   "words": [
+    "eyes",
+    "nose"
+   ],
+   "phrase": "ph.04"
+  },
+  {
+   "n": 5,
+   "lead": "asha",
+   "type": "review"
+  },
+  {
+   "n": 6,
+   "lead": "leo",
+   "type": "teach",
+   "words": [
+    "dog",
+    "cat"
+   ],
+   "phrase": "ph.06"
+  },
+  {
+   "n": 7,
+   "lead": "asha",
+   "type": "teach",
+   "words": [
+    "cow",
+    "bird"
+   ],
+   "phrase": "ph.07"
+  },
+  {
+   "n": 8,
+   "lead": "leo",
+   "type": "teach",
+   "words": [
+    "fish",
+    "butterfly"
+   ],
+   "phrase": "ph.08"
+  },
+  {
+   "n": 9,
+   "lead": "asha",
+   "type": "teach",
+   "words": [
+    "elephant",
+    "monkey"
+   ],
+   "phrase": "ph.09"
+  },
+  {
+   "n": 10,
+   "lead": "leo",
+   "type": "review",
+   "story": "who_says_hello"
+  },
+  {
+   "n": 11,
+   "lead": "asha",
+   "type": "teach",
+   "words": [
+    "red",
+    "blue"
+   ],
+   "phrase": "ph.11"
+  },
+  {
+   "n": 12,
+   "lead": "leo",
+   "type": "teach",
+   "words": [
+    "yellow",
+    "green"
+   ],
+   "phrase": "ph.12"
+  },
+  {
+   "n": 13,
+   "lead": "asha",
+   "type": "teach",
+   "words": [
+    "white",
+    "black"
+   ],
+   "phrase": "ph.13"
+  },
+  {
+   "n": 14,
+   "lead": "leo",
+   "type": "teach",
+   "words": [
+    "thankyou",
+    "yes",
+    "no"
+   ],
+   "phrase": "ph.14"
+  },
+  {
+   "n": 15,
+   "lead": "asha",
+   "type": "review"
+  },
+  {
+   "n": 16,
+   "lead": "leo",
+   "type": "teach",
+   "words": [
+    "apple",
+    "banana"
+   ],
+   "phrase": "ph.16"
+  },
+  {
+   "n": 17,
+   "lead": "asha",
+   "type": "teach",
+   "words": [
+    "milk",
+    "water"
+   ],
+   "phrase": "ph.17"
+  },
+  {
+   "n": 18,
+   "lead": "leo",
+   "type": "teach",
+   "words": [
+    "rice",
+    "egg"
+   ],
+   "phrase": "ph.18"
+  },
+  {
+   "n": 19,
+   "lead": "asha",
+   "type": "teach",
+   "words": [
+    "please"
+   ],
+   "phrase": "ph.19"
+  },
+  {
+   "n": 20,
+   "lead": "leo",
+   "type": "celebration",
+   "story": "beeps_big_day",
+   "unlock": true
+  }
+ ]
+}

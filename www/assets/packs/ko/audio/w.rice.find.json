@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/w.rice.find.tmp.wav",
+    "duration": 1.07
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.05, "value": "A" },
+    { "start": 0.05, "end": 0.09, "value": "C" },
+    { "start": 0.09, "end": 0.17, "value": "A" },
+    { "start": 0.17, "end": 0.29, "value": "E" },
+    { "start": 0.29, "end": 0.43, "value": "B" },
+    { "start": 0.43, "end": 0.71, "value": "F" },
+    { "start": 0.71, "end": 0.78, "value": "E" },
+    { "start": 0.78, "end": 0.85, "value": "F" },
+    { "start": 0.85, "end": 1.06, "value": "B" },
+    { "start": 1.06, "end": 1.07, "value": "X" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.stardust.yay.tmp.wav",
+    "duration": 1.41
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "B" },
+    { "start": 0.05, "end": 0.17, "value": "C" },
+    { "start": 0.17, "end": 0.57, "value": "B" },
+    { "start": 0.57, "end": 0.76, "value": "C" },
+    { "start": 0.76, "end": 0.81, "value": "E" },
+    { "start": 0.81, "end": 1.06, "value": "F" },
+    { "start": 1.06, "end": 1.13, "value": "B" },
+    { "start": 1.13, "end": 1.41, "value": "X" }
+  ]
+}

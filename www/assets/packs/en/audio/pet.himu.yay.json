@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/pet.himu.yay.tmp.wav",
+    "duration": 1.41
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.12, "value": "B" },
+    { "start": 0.12, "end": 0.25, "value": "E" },
+    { "start": 0.25, "end": 0.39, "value": "F" },
+    { "start": 0.39, "end": 1.16, "value": "C" },
+    { "start": 1.16, "end": 1.41, "value": "X" }
+  ]
+}

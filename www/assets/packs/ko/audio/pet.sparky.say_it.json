@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.sparky.say_it.tmp.wav",
+    "duration": 1.30
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.05, "value": "B" },
+    { "start": 0.05, "end": 0.06, "value": "X" },
+    { "start": 0.06, "end": 0.11, "value": "A" },
+    { "start": 0.11, "end": 0.16, "value": "C" },
+    { "start": 0.16, "end": 0.21, "value": "B" },
+    { "start": 0.21, "end": 0.29, "value": "A" },
+    { "start": 0.29, "end": 0.37, "value": "C" },
+    { "start": 0.37, "end": 0.51, "value": "B" },
+    { "start": 0.51, "end": 0.59, "value": "A" },
+    { "start": 0.59, "end": 0.67, "value": "F" },
+    { "start": 0.67, "end": 0.88, "value": "B" },
+    { "start": 0.88, "end": 1.02, "value": "C" },
+    { "start": 1.02, "end": 1.08, "value": "A" },
+    { "start": 1.08, "end": 1.16, "value": "B" },
+    { "start": 1.16, "end": 1.30, "value": "X" }
+  ]
+}

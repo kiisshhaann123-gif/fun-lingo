@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/pet.mimi.say_it.tmp.wav",
+    "duration": 1.30
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.12, "value": "X" },
+    { "start": 0.12, "end": 0.77, "value": "B" },
+    { "start": 0.77, "end": 0.98, "value": "E" },
+    { "start": 0.98, "end": 1.12, "value": "F" },
+    { "start": 1.12, "end": 1.26, "value": "B" },
+    { "start": 1.26, "end": 1.30, "value": "X" }
+  ]
+}

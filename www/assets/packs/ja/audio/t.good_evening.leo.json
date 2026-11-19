@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/t.good_evening.leo.tmp.wav",
+    "duration": 0.91
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.06, "value": "B" },
+    { "start": 0.06, "end": 0.12, "value": "H" },
+    { "start": 0.12, "end": 0.26, "value": "C" },
+    { "start": 0.26, "end": 0.40, "value": "H" },
+    { "start": 0.40, "end": 0.47, "value": "C" },
+    { "start": 0.47, "end": 0.54, "value": "B" },
+    { "start": 0.54, "end": 0.91, "value": "X" }
+  ]
+}

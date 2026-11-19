@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.himu.ill_help.tmp.wav",
+    "duration": 0.91
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.13, "value": "F" },
+    { "start": 0.13, "end": 0.41, "value": "B" },
+    { "start": 0.41, "end": 0.48, "value": "E" },
+    { "start": 0.48, "end": 0.90, "value": "F" },
+    { "start": 0.90, "end": 0.91, "value": "X" }
+  ]
+}

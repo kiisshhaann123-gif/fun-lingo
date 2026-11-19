@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.roary.learn_together.tmp.wav",
+    "duration": 1.64
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.13, "value": "B" },
+    { "start": 0.13, "end": 0.34, "value": "F" },
+    { "start": 0.34, "end": 0.62, "value": "B" },
+    { "start": 0.62, "end": 0.76, "value": "A" },
+    { "start": 0.76, "end": 0.82, "value": "B" },
+    { "start": 0.82, "end": 0.88, "value": "C" },
+    { "start": 0.88, "end": 0.96, "value": "A" },
+    { "start": 0.96, "end": 1.23, "value": "D" },
+    { "start": 1.23, "end": 1.44, "value": "H" },
+    { "start": 1.44, "end": 1.64, "value": "X" }
+  ]
+}

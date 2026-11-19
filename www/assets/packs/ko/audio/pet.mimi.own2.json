@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.mimi.own2.tmp.wav",
+    "duration": 1.80
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.69, "value": "B" },
+    { "start": 0.69, "end": 0.92, "value": "F" },
+    { "start": 0.92, "end": 1.62, "value": "B" },
+    { "start": 1.62, "end": 1.80, "value": "X" }
+  ]
+}

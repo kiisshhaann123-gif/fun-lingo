@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.roary.bye.tmp.wav",
+    "duration": 0.67
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.06, "value": "B" },
+    { "start": 0.06, "end": 0.10, "value": "C" },
+    { "start": 0.10, "end": 0.31, "value": "B" },
+    { "start": 0.31, "end": 0.59, "value": "D" },
+    { "start": 0.59, "end": 0.66, "value": "C" },
+    { "start": 0.66, "end": 0.67, "value": "X" }
+  ]
+}

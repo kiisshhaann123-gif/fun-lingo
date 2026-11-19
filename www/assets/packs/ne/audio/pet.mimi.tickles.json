@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/pet.mimi.tickles.tmp.wav",
+    "duration": 2.03
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.03, "value": "X" },
+    { "start": 0.03, "end": 0.37, "value": "B" },
+    { "start": 0.37, "end": 0.58, "value": "C" },
+    { "start": 0.58, "end": 0.79, "value": "B" },
+    { "start": 0.79, "end": 1.00, "value": "F" },
+    { "start": 1.00, "end": 1.08, "value": "A" },
+    { "start": 1.08, "end": 1.29, "value": "B" },
+    { "start": 1.29, "end": 1.36, "value": "C" },
+    { "start": 1.36, "end": 1.43, "value": "B" },
+    { "start": 1.43, "end": 1.71, "value": "C" },
+    { "start": 1.71, "end": 1.85, "value": "E" },
+    { "start": 1.85, "end": 2.03, "value": "X" }
+  ]
+}

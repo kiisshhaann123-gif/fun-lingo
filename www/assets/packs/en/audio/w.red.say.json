@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/w.red.say.tmp.wav",
+    "duration": 1.30
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.15, "value": "B" },
+    { "start": 0.15, "end": 0.22, "value": "C" },
+    { "start": 0.22, "end": 0.50, "value": "B" },
+    { "start": 0.50, "end": 1.30, "value": "X" }
+  ]
+}

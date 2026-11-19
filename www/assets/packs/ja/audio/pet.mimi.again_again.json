@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.mimi.again_again.tmp.wav",
+    "duration": 1.56
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.38, "value": "B" },
+    { "start": 0.38, "end": 0.51, "value": "C" },
+    { "start": 0.51, "end": 0.72, "value": "B" },
+    { "start": 0.72, "end": 0.82, "value": "A" },
+    { "start": 0.82, "end": 1.18, "value": "B" },
+    { "start": 1.18, "end": 1.32, "value": "C" },
+    { "start": 1.32, "end": 1.53, "value": "B" },
+    { "start": 1.53, "end": 1.56, "value": "X" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/t.say_with_me.asha.tmp.wav",
+    "duration": 1.56
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.04, "value": "X" },
+    { "start": 0.04, "end": 0.16, "value": "B" },
+    { "start": 0.16, "end": 0.23, "value": "C" },
+    { "start": 0.23, "end": 0.44, "value": "B" },
+    { "start": 0.44, "end": 0.51, "value": "F" },
+    { "start": 0.51, "end": 0.72, "value": "B" },
+    { "start": 0.72, "end": 0.80, "value": "A" },
+    { "start": 0.80, "end": 1.36, "value": "B" },
+    { "start": 1.36, "end": 1.56, "value": "X" }
+  ]
+}

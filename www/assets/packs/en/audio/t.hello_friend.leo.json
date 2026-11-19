@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/t.hello_friend.leo.tmp.wav",
+    "duration": 1.56
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.06, "value": "X" },
+    { "start": 0.06, "end": 0.20, "value": "C" },
+    { "start": 0.20, "end": 0.34, "value": "E" },
+    { "start": 0.34, "end": 0.41, "value": "F" },
+    { "start": 0.41, "end": 0.48, "value": "G" },
+    { "start": 0.48, "end": 0.62, "value": "B" },
+    { "start": 0.62, "end": 0.83, "value": "C" },
+    { "start": 0.83, "end": 0.97, "value": "B" },
+    { "start": 0.97, "end": 1.16, "value": "X" },
+    { "start": 1.16, "end": 1.31, "value": "B" },
+    { "start": 1.31, "end": 1.56, "value": "X" }
+  ]
+}

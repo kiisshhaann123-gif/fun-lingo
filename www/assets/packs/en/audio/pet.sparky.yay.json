@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/pet.sparky.yay.tmp.wav",
+    "duration": 1.07
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.44, "value": "C" },
+    { "start": 0.44, "end": 0.51, "value": "X" },
+    { "start": 0.51, "end": 0.87, "value": "B" },
+    { "start": 0.87, "end": 1.07, "value": "X" }
+  ]
+}

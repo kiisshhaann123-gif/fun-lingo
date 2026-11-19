@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/pet.stardust.great_job.tmp.wav",
+    "duration": 1.30
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.06, "value": "B" },
+    { "start": 0.06, "end": 0.11, "value": "C" },
+    { "start": 0.11, "end": 0.25, "value": "B" },
+    { "start": 0.25, "end": 0.39, "value": "C" },
+    { "start": 0.39, "end": 0.46, "value": "B" },
+    { "start": 0.46, "end": 0.74, "value": "C" },
+    { "start": 0.74, "end": 1.09, "value": "B" },
+    { "start": 1.09, "end": 1.30, "value": "X" }
+  ]
+}

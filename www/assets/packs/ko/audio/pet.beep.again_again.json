@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.beep.again_again.tmp.wav",
+    "duration": 0.91
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.08, "value": "B" },
+    { "start": 0.08, "end": 0.20, "value": "E" },
+    { "start": 0.20, "end": 0.27, "value": "F" },
+    { "start": 0.27, "end": 0.34, "value": "E" },
+    { "start": 0.34, "end": 0.41, "value": "B" },
+    { "start": 0.41, "end": 0.62, "value": "F" },
+    { "start": 0.62, "end": 0.76, "value": "E" },
+    { "start": 0.76, "end": 0.83, "value": "F" },
+    { "start": 0.83, "end": 0.90, "value": "B" },
+    { "start": 0.90, "end": 0.91, "value": "X" }
+  ]
+}

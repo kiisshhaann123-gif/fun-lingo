@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/pet.gaju.high_five.tmp.wav",
+    "duration": 1.14
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.04, "value": "X" },
+    { "start": 0.04, "end": 0.12, "value": "G" },
+    { "start": 0.12, "end": 0.26, "value": "C" },
+    { "start": 0.26, "end": 0.33, "value": "B" },
+    { "start": 0.33, "end": 0.47, "value": "G" },
+    { "start": 0.47, "end": 0.68, "value": "E" },
+    { "start": 0.68, "end": 1.03, "value": "F" },
+    { "start": 1.03, "end": 1.14, "value": "X" }
+  ]
+}

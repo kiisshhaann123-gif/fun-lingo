@@ -1,0 +1,5602 @@
+{
+  "ph.01.asha": {
+    "file": "ph.01.asha.mp3",
+    "lips": "ph.01.asha.json",
+    "speaker": "asha",
+    "text": "こんにちは！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "ec4a6ce7f622",
+    "reviewed": false
+  },
+  "w.hello.say": {
+    "file": "w.hello.say.mp3",
+    "lips": "w.hello.say.json",
+    "speaker": "asha",
+    "text": "こんにちは！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "ec4a6ce7f622",
+    "reviewed": false
+  },
+  "w.bye.say": {
+    "file": "w.bye.say.mp3",
+    "lips": "w.bye.say.json",
+    "speaker": "asha",
+    "text": "バイバイ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "d4df21016b44",
+    "reviewed": false
+  },
+  "ph.01.leo": {
+    "file": "ph.01.leo.mp3",
+    "lips": "ph.01.leo.json",
+    "speaker": "leo",
+    "text": "こんにちは！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "d5dc121f4030",
+    "reviewed": false
+  },
+  "w.mom.say": {
+    "file": "w.mom.say.mp3",
+    "lips": "w.mom.say.json",
+    "speaker": "leo",
+    "text": "ママ。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "155b402fa563",
+    "reviewed": false
+  },
+  "w.mom.look": {
+    "file": "w.mom.look.mp3",
+    "lips": "w.mom.look.json",
+    "speaker": "leo",
+    "text": "みて！ママ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "ecd260ed8ba7",
+    "reviewed": false
+  },
+  "w.mom.yes": {
+    "file": "w.mom.yes.mp3",
+    "lips": "w.mom.yes.json",
+    "speaker": "leo",
+    "text": "そう！ママ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "bab6ded6712e",
+    "reviewed": false
+  },
+  "w.mom.find": {
+    "file": "w.mom.find.mp3",
+    "lips": "w.mom.find.json",
+    "speaker": "leo",
+    "text": "ママは どこかな？",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "054799186ec9",
+    "reviewed": false
+  },
+  "w.dad.say": {
+    "file": "w.dad.say.mp3",
+    "lips": "w.dad.say.json",
+    "speaker": "leo",
+    "text": "パパ。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "8e88a94f53e0",
+    "reviewed": false
+  },
+  "w.dad.look": {
+    "file": "w.dad.look.mp3",
+    "lips": "w.dad.look.json",
+    "speaker": "leo",
+    "text": "みて！パパ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "a500c1fa140a",
+    "reviewed": false
+  },
+  "w.dad.yes": {
+    "file": "w.dad.yes.mp3",
+    "lips": "w.dad.yes.json",
+    "speaker": "leo",
+    "text": "そう！パパ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "7969e13cfd9d",
+    "reviewed": false
+  },
+  "w.dad.find": {
+    "file": "w.dad.find.mp3",
+    "lips": "w.dad.find.json",
+    "speaker": "leo",
+    "text": "パパは どこかな？",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "a13f34b989ef",
+    "reviewed": false
+  },
+  "ph.02.leo": {
+    "file": "ph.02.leo.mp3",
+    "lips": "ph.02.leo.json",
+    "speaker": "leo",
+    "text": "これは ママ。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "8c50626479f2",
+    "reviewed": false
+  },
+  "ph.02.asha": {
+    "file": "ph.02.asha.mp3",
+    "lips": "ph.02.asha.json",
+    "speaker": "asha",
+    "text": "これは ママ。",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "ef3f35c79273",
+    "reviewed": false
+  },
+  "w.baby.say": {
+    "file": "w.baby.say.mp3",
+    "lips": "w.baby.say.json",
+    "speaker": "asha",
+    "text": "あかちゃん。",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "9a3dd084f065",
+    "reviewed": false
+  },
+  "w.baby.yes": {
+    "file": "w.baby.yes.mp3",
+    "lips": "w.baby.yes.json",
+    "speaker": "asha",
+    "text": "そう！あかちゃん！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "819d7a26a370",
+    "reviewed": false
+  },
+  "w.baby.look": {
+    "file": "w.baby.look.mp3",
+    "lips": "w.baby.look.json",
+    "speaker": "asha",
+    "text": "みて！あかちゃん！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "c1b3d94bbb90",
+    "reviewed": false
+  },
+  "w.baby.find": {
+    "file": "w.baby.find.mp3",
+    "lips": "w.baby.find.json",
+    "speaker": "asha",
+    "text": "あかちゃんは どこかな？",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "c1844d88a7c3",
+    "reviewed": false
+  },
+  "w.hand.say": {
+    "file": "w.hand.say.mp3",
+    "lips": "w.hand.say.json",
+    "speaker": "asha",
+    "text": "て。",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "2e05f094a5a9",
+    "reviewed": false
+  },
+  "w.hand.look": {
+    "file": "w.hand.look.mp3",
+    "lips": "w.hand.look.json",
+    "speaker": "asha",
+    "text": "みて！て！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "fc4a396a1da6",
+    "reviewed": false
+  },
+  "w.hand.find": {
+    "file": "w.hand.find.mp3",
+    "lips": "w.hand.find.json",
+    "speaker": "asha",
+    "text": "ては どこかな？",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "74f37cb88809",
+    "reviewed": false
+  },
+  "w.hand.yes": {
+    "file": "w.hand.yes.mp3",
+    "lips": "w.hand.yes.json",
+    "speaker": "asha",
+    "text": "そう！て！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "f7f09d5918ef",
+    "reviewed": false
+  },
+  "ph.03.asha": {
+    "file": "ph.03.asha.mp3",
+    "lips": "ph.03.asha.json",
+    "speaker": "asha",
+    "text": "てを ふって！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "99685182c9ba",
+    "reviewed": false
+  },
+  "ph.03.leo": {
+    "file": "ph.03.leo.mp3",
+    "lips": "ph.03.leo.json",
+    "speaker": "leo",
+    "text": "てを ふって！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "b24c361b0c21",
+    "reviewed": false
+  },
+  "w.eyes.say": {
+    "file": "w.eyes.say.mp3",
+    "lips": "w.eyes.say.json",
+    "speaker": "leo",
+    "text": "め。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "b7b9514e4ccd",
+    "reviewed": false
+  },
+  "w.eyes.look": {
+    "file": "w.eyes.look.mp3",
+    "lips": "w.eyes.look.json",
+    "speaker": "leo",
+    "text": "みて！め！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "250121a51054",
+    "reviewed": false
+  },
+  "w.eyes.find": {
+    "file": "w.eyes.find.mp3",
+    "lips": "w.eyes.find.json",
+    "speaker": "leo",
+    "text": "めは どこかな？",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "765325843201",
+    "reviewed": false
+  },
+  "w.eyes.yes": {
+    "file": "w.eyes.yes.mp3",
+    "lips": "w.eyes.yes.json",
+    "speaker": "leo",
+    "text": "そう！め！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "0af0e95c16bb",
+    "reviewed": false
+  },
+  "w.nose.say": {
+    "file": "w.nose.say.mp3",
+    "lips": "w.nose.say.json",
+    "speaker": "leo",
+    "text": "はな。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "43b2ec0dbe37",
+    "reviewed": false
+  },
+  "w.nose.look": {
+    "file": "w.nose.look.mp3",
+    "lips": "w.nose.look.json",
+    "speaker": "leo",
+    "text": "みて！はな！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "51de2a076da5",
+    "reviewed": false
+  },
+  "w.nose.find": {
+    "file": "w.nose.find.mp3",
+    "lips": "w.nose.find.json",
+    "speaker": "leo",
+    "text": "はなは どこかな？",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "5274ce33d0a6",
+    "reviewed": false
+  },
+  "w.nose.yes": {
+    "file": "w.nose.yes.mp3",
+    "lips": "w.nose.yes.json",
+    "speaker": "leo",
+    "text": "そう！はな！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "5bfe76f0d716",
+    "reviewed": false
+  },
+  "ph.04.asha": {
+    "file": "ph.04.asha.mp3",
+    "lips": "ph.04.asha.json",
+    "speaker": "asha",
+    "text": "はなを さわって！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "0d637406e083",
+    "reviewed": false
+  },
+  "ph.04.leo": {
+    "file": "ph.04.leo.mp3",
+    "lips": "ph.04.leo.json",
+    "speaker": "leo",
+    "text": "はなを さわって！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "acb77e1e7500",
+    "reviewed": false
+  },
+  "w.dog.say": {
+    "file": "w.dog.say.mp3",
+    "lips": "w.dog.say.json",
+    "speaker": "leo",
+    "text": "いぬ。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "cb2e95d779d7",
+    "reviewed": false
+  },
+  "w.dog.look": {
+    "file": "w.dog.look.mp3",
+    "lips": "w.dog.look.json",
+    "speaker": "leo",
+    "text": "みて！いぬ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "afa0672e8c0f",
+    "reviewed": false
+  },
+  "w.dog.find": {
+    "file": "w.dog.find.mp3",
+    "lips": "w.dog.find.json",
+    "speaker": "leo",
+    "text": "いぬは どこかな？",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "063e4e3f8549",
+    "reviewed": false
+  },
+  "w.dog.yes": {
+    "file": "w.dog.yes.mp3",
+    "lips": "w.dog.yes.json",
+    "speaker": "leo",
+    "text": "そう！いぬ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "ab1f217e9b94",
+    "reviewed": false
+  },
+  "w.cat.say": {
+    "file": "w.cat.say.mp3",
+    "lips": "w.cat.say.json",
+    "speaker": "leo",
+    "text": "ねこ。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "285179bda2c2",
+    "reviewed": false
+  },
+  "w.cat.look": {
+    "file": "w.cat.look.mp3",
+    "lips": "w.cat.look.json",
+    "speaker": "leo",
+    "text": "みて！ねこ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "76a565f21010",
+    "reviewed": false
+  },
+  "w.cat.find": {
+    "file": "w.cat.find.mp3",
+    "lips": "w.cat.find.json",
+    "speaker": "leo",
+    "text": "ねこは どこかな？",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "61991b7cdb44",
+    "reviewed": false
+  },
+  "w.cat.yes": {
+    "file": "w.cat.yes.mp3",
+    "lips": "w.cat.yes.json",
+    "speaker": "leo",
+    "text": "そう！ねこ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "44730ad76910",
+    "reviewed": false
+  },
+  "ph.06.leo": {
+    "file": "ph.06.leo.mp3",
+    "lips": "ph.06.leo.json",
+    "speaker": "leo",
+    "text": "いぬは ワンワン。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "3c7ca01175bd",
+    "reviewed": false
+  },
+  "ph.06.asha": {
+    "file": "ph.06.asha.mp3",
+    "lips": "ph.06.asha.json",
+    "speaker": "asha",
+    "text": "いぬは ワンワン。",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "3b984a3838af",
+    "reviewed": false
+  },
+  "w.cow.say": {
+    "file": "w.cow.say.mp3",
+    "lips": "w.cow.say.json",
+    "speaker": "asha",
+    "text": "うし。",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "dd8266e73ee6",
+    "reviewed": false
+  },
+  "w.cow.look": {
+    "file": "w.cow.look.mp3",
+    "lips": "w.cow.look.json",
+    "speaker": "asha",
+    "text": "みて！うし！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "9373cfd54f0f",
+    "reviewed": false
+  },
+  "w.cow.find": {
+    "file": "w.cow.find.mp3",
+    "lips": "w.cow.find.json",
+    "speaker": "asha",
+    "text": "うしは どこかな？",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "f47f97f20d00",
+    "reviewed": false
+  },
+  "w.cow.yes": {
+    "file": "w.cow.yes.mp3",
+    "lips": "w.cow.yes.json",
+    "speaker": "asha",
+    "text": "そう！うし！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "339d41b09eab",
+    "reviewed": false
+  },
+  "w.bird.say": {
+    "file": "w.bird.say.mp3",
+    "lips": "w.bird.say.json",
+    "speaker": "asha",
+    "text": "とり。",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "18a5552e8890",
+    "reviewed": false
+  },
+  "w.bird.look": {
+    "file": "w.bird.look.mp3",
+    "lips": "w.bird.look.json",
+    "speaker": "asha",
+    "text": "みて！とり！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "73d684586b83",
+    "reviewed": false
+  },
+  "w.bird.find": {
+    "file": "w.bird.find.mp3",
+    "lips": "w.bird.find.json",
+    "speaker": "asha",
+    "text": "とりは どこかな？",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "bfde620c7ab4",
+    "reviewed": false
+  },
+  "w.bird.yes": {
+    "file": "w.bird.yes.mp3",
+    "lips": "w.bird.yes.json",
+    "speaker": "asha",
+    "text": "そう！とり！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "a28d01819d46",
+    "reviewed": false
+  },
+  "ph.07.asha": {
+    "file": "ph.07.asha.mp3",
+    "lips": "ph.07.asha.json",
+    "speaker": "asha",
+    "text": "うしは モーモー。",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "5546a6c1d7ea",
+    "reviewed": false
+  },
+  "ph.07.leo": {
+    "file": "ph.07.leo.mp3",
+    "lips": "ph.07.leo.json",
+    "speaker": "leo",
+    "text": "うしは モーモー。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "a972eea361e0",
+    "reviewed": false
+  },
+  "w.fish.say": {
+    "file": "w.fish.say.mp3",
+    "lips": "w.fish.say.json",
+    "speaker": "leo",
+    "text": "さかな。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "bf598dbbc47f",
+    "reviewed": false
+  },
+  "w.fish.look": {
+    "file": "w.fish.look.mp3",
+    "lips": "w.fish.look.json",
+    "speaker": "leo",
+    "text": "みて！さかな！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "2c7fea0984b6",
+    "reviewed": false
+  },
+  "w.fish.find": {
+    "file": "w.fish.find.mp3",
+    "lips": "w.fish.find.json",
+    "speaker": "leo",
+    "text": "さかなは どこかな？",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "babda06a6b3e",
+    "reviewed": false
+  },
+  "w.butterfly.say": {
+    "file": "w.butterfly.say.mp3",
+    "lips": "w.butterfly.say.json",
+    "speaker": "leo",
+    "text": "ちょうちょ。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "5d733d7f4b1e",
+    "reviewed": false
+  },
+  "w.fish.yes": {
+    "file": "w.fish.yes.mp3",
+    "lips": "w.fish.yes.json",
+    "speaker": "leo",
+    "text": "そう！さかな！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "86afd70a6fa8",
+    "reviewed": false
+  },
+  "w.butterfly.look": {
+    "file": "w.butterfly.look.mp3",
+    "lips": "w.butterfly.look.json",
+    "speaker": "leo",
+    "text": "みて！ちょうちょ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "6c173865a66b",
+    "reviewed": false
+  },
+  "w.butterfly.yes": {
+    "file": "w.butterfly.yes.mp3",
+    "lips": "w.butterfly.yes.json",
+    "speaker": "leo",
+    "text": "そう！ちょうちょ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "90b72b01640c",
+    "reviewed": false
+  },
+  "w.butterfly.find": {
+    "file": "w.butterfly.find.mp3",
+    "lips": "w.butterfly.find.json",
+    "speaker": "leo",
+    "text": "ちょうちょは どこかな？",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "d250e1c1a1f4",
+    "reviewed": false
+  },
+  "ph.08.asha": {
+    "file": "ph.08.asha.mp3",
+    "lips": "ph.08.asha.json",
+    "speaker": "asha",
+    "text": "さかなが およぐよ。",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "90c22373b119",
+    "reviewed": false
+  },
+  "ph.08.leo": {
+    "file": "ph.08.leo.mp3",
+    "lips": "ph.08.leo.json",
+    "speaker": "leo",
+    "text": "さかなが およぐよ。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "b44c573d68f1",
+    "reviewed": false
+  },
+  "w.elephant.say": {
+    "file": "w.elephant.say.mp3",
+    "lips": "w.elephant.say.json",
+    "speaker": "asha",
+    "text": "ぞう。",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "5a81473a1918",
+    "reviewed": false
+  },
+  "w.elephant.look": {
+    "file": "w.elephant.look.mp3",
+    "lips": "w.elephant.look.json",
+    "speaker": "asha",
+    "text": "みて！ぞう！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "b5e5eeab79e2",
+    "reviewed": false
+  },
+  "w.elephant.find": {
+    "file": "w.elephant.find.mp3",
+    "lips": "w.elephant.find.json",
+    "speaker": "asha",
+    "text": "ぞうは どこかな？",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "e73198aa6c06",
+    "reviewed": false
+  },
+  "w.elephant.yes": {
+    "file": "w.elephant.yes.mp3",
+    "lips": "w.elephant.yes.json",
+    "speaker": "asha",
+    "text": "そう！ぞう！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "f1d2486c6e6b",
+    "reviewed": false
+  },
+  "w.monkey.say": {
+    "file": "w.monkey.say.mp3",
+    "lips": "w.monkey.say.json",
+    "speaker": "asha",
+    "text": "さる。",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "6800720d1ddc",
+    "reviewed": false
+  },
+  "w.monkey.look": {
+    "file": "w.monkey.look.mp3",
+    "lips": "w.monkey.look.json",
+    "speaker": "asha",
+    "text": "みて！さる！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "70eb5b11e4ba",
+    "reviewed": false
+  },
+  "w.monkey.find": {
+    "file": "w.monkey.find.mp3",
+    "lips": "w.monkey.find.json",
+    "speaker": "asha",
+    "text": "さるは どこかな？",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "524e2e991bc6",
+    "reviewed": false
+  },
+  "w.monkey.yes": {
+    "file": "w.monkey.yes.mp3",
+    "lips": "w.monkey.yes.json",
+    "speaker": "asha",
+    "text": "そう！さる！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "f70b2547c6db",
+    "reviewed": false
+  },
+  "ph.09.asha": {
+    "file": "ph.09.asha.mp3",
+    "lips": "ph.09.asha.json",
+    "speaker": "asha",
+    "text": "さるが ジャンプ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "654e7d1ac75b",
+    "reviewed": false
+  },
+  "ph.09.leo": {
+    "file": "ph.09.leo.mp3",
+    "lips": "ph.09.leo.json",
+    "speaker": "leo",
+    "text": "さるが ジャンプ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "5b4ee4726f9f",
+    "reviewed": false
+  },
+  "w.red.say": {
+    "file": "w.red.say.mp3",
+    "lips": "w.red.say.json",
+    "speaker": "asha",
+    "text": "あか。",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "5c14444ffad3",
+    "reviewed": false
+  },
+  "w.red.look": {
+    "file": "w.red.look.mp3",
+    "lips": "w.red.look.json",
+    "speaker": "asha",
+    "text": "みて！あか！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "666aef69c761",
+    "reviewed": false
+  },
+  "w.red.find": {
+    "file": "w.red.find.mp3",
+    "lips": "w.red.find.json",
+    "speaker": "asha",
+    "text": "あかは どこかな？",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "d7a0b05486ad",
+    "reviewed": false
+  },
+  "w.blue.say": {
+    "file": "w.blue.say.mp3",
+    "lips": "w.blue.say.json",
+    "speaker": "asha",
+    "text": "あお。",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "63840a9501b3",
+    "reviewed": false
+  },
+  "w.red.yes": {
+    "file": "w.red.yes.mp3",
+    "lips": "w.red.yes.json",
+    "speaker": "asha",
+    "text": "そう！あか！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "5f4f85535c75",
+    "reviewed": false
+  },
+  "w.blue.look": {
+    "file": "w.blue.look.mp3",
+    "lips": "w.blue.look.json",
+    "speaker": "asha",
+    "text": "みて！あお！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "cb5edf22760b",
+    "reviewed": false
+  },
+  "ph.11.asha": {
+    "file": "ph.11.asha.mp3",
+    "lips": "ph.11.asha.json",
+    "speaker": "asha",
+    "text": "あかだ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "67c1c1743c55",
+    "reviewed": false
+  },
+  "w.blue.find": {
+    "file": "w.blue.find.mp3",
+    "lips": "w.blue.find.json",
+    "speaker": "asha",
+    "text": "あおは どこかな？",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "7edaa13cd538",
+    "reviewed": false
+  },
+  "w.blue.yes": {
+    "file": "w.blue.yes.mp3",
+    "lips": "w.blue.yes.json",
+    "speaker": "asha",
+    "text": "そう！あお！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "0dce932bcada",
+    "reviewed": false
+  },
+  "w.yellow.say": {
+    "file": "w.yellow.say.mp3",
+    "lips": "w.yellow.say.json",
+    "speaker": "leo",
+    "text": "きいろ。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "9b2d2c300364",
+    "reviewed": false
+  },
+  "ph.11.leo": {
+    "file": "ph.11.leo.mp3",
+    "lips": "ph.11.leo.json",
+    "speaker": "leo",
+    "text": "あかだ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "2ff01f7ca670",
+    "reviewed": false
+  },
+  "w.yellow.look": {
+    "file": "w.yellow.look.mp3",
+    "lips": "w.yellow.look.json",
+    "speaker": "leo",
+    "text": "みて！きいろ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "415d97ab9163",
+    "reviewed": false
+  },
+  "w.yellow.yes": {
+    "file": "w.yellow.yes.mp3",
+    "lips": "w.yellow.yes.json",
+    "speaker": "leo",
+    "text": "そう！きいろ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "6e1d4ca4de09",
+    "reviewed": false
+  },
+  "w.green.say": {
+    "file": "w.green.say.mp3",
+    "lips": "w.green.say.json",
+    "speaker": "leo",
+    "text": "みどり。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "6b7814517a17",
+    "reviewed": false
+  },
+  "w.yellow.find": {
+    "file": "w.yellow.find.mp3",
+    "lips": "w.yellow.find.json",
+    "speaker": "leo",
+    "text": "きいろは どこかな？",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "15faa4b1a852",
+    "reviewed": false
+  },
+  "w.green.yes": {
+    "file": "w.green.yes.mp3",
+    "lips": "w.green.yes.json",
+    "speaker": "leo",
+    "text": "そう！みどり！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "e6d03b9f7a1b",
+    "reviewed": false
+  },
+  "w.green.look": {
+    "file": "w.green.look.mp3",
+    "lips": "w.green.look.json",
+    "speaker": "leo",
+    "text": "みて！みどり！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "5f7a79b70b0f",
+    "reviewed": false
+  },
+  "w.green.find": {
+    "file": "w.green.find.mp3",
+    "lips": "w.green.find.json",
+    "speaker": "leo",
+    "text": "みどりは どこかな？",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "790afdc85d8f",
+    "reviewed": false
+  },
+  "ph.12.leo": {
+    "file": "ph.12.leo.mp3",
+    "lips": "ph.12.leo.json",
+    "speaker": "leo",
+    "text": "きいろだ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "6662692689c7",
+    "reviewed": false
+  },
+  "ph.12.asha": {
+    "file": "ph.12.asha.mp3",
+    "lips": "ph.12.asha.json",
+    "speaker": "asha",
+    "text": "きいろだ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "ccfb648e6f3a",
+    "reviewed": false
+  },
+  "w.white.say": {
+    "file": "w.white.say.mp3",
+    "lips": "w.white.say.json",
+    "speaker": "asha",
+    "text": "しろ。",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "975254ed1521",
+    "reviewed": false
+  },
+  "w.white.look": {
+    "file": "w.white.look.mp3",
+    "lips": "w.white.look.json",
+    "speaker": "asha",
+    "text": "みて！しろ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "cf80c25b3d04",
+    "reviewed": false
+  },
+  "w.white.find": {
+    "file": "w.white.find.mp3",
+    "lips": "w.white.find.json",
+    "speaker": "asha",
+    "text": "しろは どこかな？",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "549e21bc0069",
+    "reviewed": false
+  },
+  "w.white.yes": {
+    "file": "w.white.yes.mp3",
+    "lips": "w.white.yes.json",
+    "speaker": "asha",
+    "text": "そう！しろ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "1a6a8f961d2b",
+    "reviewed": false
+  },
+  "w.black.say": {
+    "file": "w.black.say.mp3",
+    "lips": "w.black.say.json",
+    "speaker": "asha",
+    "text": "くろ。",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "161fa1f37ec2",
+    "reviewed": false
+  },
+  "w.black.look": {
+    "file": "w.black.look.mp3",
+    "lips": "w.black.look.json",
+    "speaker": "asha",
+    "text": "みて！くろ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "741312100959",
+    "reviewed": false
+  },
+  "w.black.find": {
+    "file": "w.black.find.mp3",
+    "lips": "w.black.find.json",
+    "speaker": "asha",
+    "text": "くろは どこかな？",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "723ca84e59f3",
+    "reviewed": false
+  },
+  "w.black.yes": {
+    "file": "w.black.yes.mp3",
+    "lips": "w.black.yes.json",
+    "speaker": "asha",
+    "text": "そう！くろ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "510162e45ba6",
+    "reviewed": false
+  },
+  "ph.13.leo": {
+    "file": "ph.13.leo.mp3",
+    "lips": "ph.13.leo.json",
+    "speaker": "leo",
+    "text": "くろい ねこ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "3a5ea2662cea",
+    "reviewed": false
+  },
+  "ph.13.asha": {
+    "file": "ph.13.asha.mp3",
+    "lips": "ph.13.asha.json",
+    "speaker": "asha",
+    "text": "くろい ねこ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "36d7c5cea21e",
+    "reviewed": false
+  },
+  "w.thankyou.say": {
+    "file": "w.thankyou.say.mp3",
+    "lips": "w.thankyou.say.json",
+    "speaker": "leo",
+    "text": "ありがとう！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "9f1d2503255f",
+    "reviewed": false
+  },
+  "w.yes.say": {
+    "file": "w.yes.say.mp3",
+    "lips": "w.yes.say.json",
+    "speaker": "leo",
+    "text": "はい！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "dcadada5e64a",
+    "reviewed": false
+  },
+  "w.no.say": {
+    "file": "w.no.say.mp3",
+    "lips": "w.no.say.json",
+    "speaker": "leo",
+    "text": "いいえ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "c32e20752479",
+    "reviewed": false
+  },
+  "ph.14.asha": {
+    "file": "ph.14.asha.mp3",
+    "lips": "ph.14.asha.json",
+    "speaker": "asha",
+    "text": "ありがとう！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "5e2d221f6dca",
+    "reviewed": false
+  },
+  "ph.14.leo": {
+    "file": "ph.14.leo.mp3",
+    "lips": "ph.14.leo.json",
+    "speaker": "leo",
+    "text": "ありがとう！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "9f1d2503255f",
+    "reviewed": false
+  },
+  "w.apple.say": {
+    "file": "w.apple.say.mp3",
+    "lips": "w.apple.say.json",
+    "speaker": "leo",
+    "text": "りんご。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "781172d90e17",
+    "reviewed": false
+  },
+  "w.apple.look": {
+    "file": "w.apple.look.mp3",
+    "lips": "w.apple.look.json",
+    "speaker": "leo",
+    "text": "みて！りんご！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "95ff1831c5b1",
+    "reviewed": false
+  },
+  "w.apple.yes": {
+    "file": "w.apple.yes.mp3",
+    "lips": "w.apple.yes.json",
+    "speaker": "leo",
+    "text": "そう！りんご！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "159cc54de3c2",
+    "reviewed": false
+  },
+  "w.apple.find": {
+    "file": "w.apple.find.mp3",
+    "lips": "w.apple.find.json",
+    "speaker": "leo",
+    "text": "りんごは どこかな？",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "207b6a3d5945",
+    "reviewed": false
+  },
+  "w.banana.say": {
+    "file": "w.banana.say.mp3",
+    "lips": "w.banana.say.json",
+    "speaker": "leo",
+    "text": "バナナ。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "218965cc3921",
+    "reviewed": false
+  },
+  "w.banana.look": {
+    "file": "w.banana.look.mp3",
+    "lips": "w.banana.look.json",
+    "speaker": "leo",
+    "text": "みて！バナナ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "d4e8426505ba",
+    "reviewed": false
+  },
+  "w.banana.find": {
+    "file": "w.banana.find.mp3",
+    "lips": "w.banana.find.json",
+    "speaker": "leo",
+    "text": "バナナは どこかな？",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "480989b47d73",
+    "reviewed": false
+  },
+  "w.banana.yes": {
+    "file": "w.banana.yes.mp3",
+    "lips": "w.banana.yes.json",
+    "speaker": "leo",
+    "text": "そう！バナナ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "170b778518b7",
+    "reviewed": false
+  },
+  "ph.16.asha": {
+    "file": "ph.16.asha.mp3",
+    "lips": "ph.16.asha.json",
+    "speaker": "asha",
+    "text": "おいしい！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "449941473698",
+    "reviewed": false
+  },
+  "ph.16.leo": {
+    "file": "ph.16.leo.mp3",
+    "lips": "ph.16.leo.json",
+    "speaker": "leo",
+    "text": "おいしい！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "af25212df38b",
+    "reviewed": false
+  },
+  "w.milk.say": {
+    "file": "w.milk.say.mp3",
+    "lips": "w.milk.say.json",
+    "speaker": "asha",
+    "text": "ぎゅうにゅう。",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "59dc76647020",
+    "reviewed": false
+  },
+  "w.milk.look": {
+    "file": "w.milk.look.mp3",
+    "lips": "w.milk.look.json",
+    "speaker": "asha",
+    "text": "みて！ぎゅうにゅう！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "92e4b41ae547",
+    "reviewed": false
+  },
+  "w.milk.find": {
+    "file": "w.milk.find.mp3",
+    "lips": "w.milk.find.json",
+    "speaker": "asha",
+    "text": "ぎゅうにゅうは どこかな？",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "432f6035dfc7",
+    "reviewed": false
+  },
+  "w.milk.yes": {
+    "file": "w.milk.yes.mp3",
+    "lips": "w.milk.yes.json",
+    "speaker": "asha",
+    "text": "そう！ぎゅうにゅう！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "35240ccb2982",
+    "reviewed": false
+  },
+  "w.water.say": {
+    "file": "w.water.say.mp3",
+    "lips": "w.water.say.json",
+    "speaker": "asha",
+    "text": "みず。",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "45979ac0bc76",
+    "reviewed": false
+  },
+  "w.water.look": {
+    "file": "w.water.look.mp3",
+    "lips": "w.water.look.json",
+    "speaker": "asha",
+    "text": "みて！みず！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "1e17201e2e30",
+    "reviewed": false
+  },
+  "w.water.find": {
+    "file": "w.water.find.mp3",
+    "lips": "w.water.find.json",
+    "speaker": "asha",
+    "text": "みずは どこかな？",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "8872e6579ee0",
+    "reviewed": false
+  },
+  "w.water.yes": {
+    "file": "w.water.yes.mp3",
+    "lips": "w.water.yes.json",
+    "speaker": "asha",
+    "text": "そう！みず！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "8b6604a5e86f",
+    "reviewed": false
+  },
+  "ph.17.asha": {
+    "file": "ph.17.asha.mp3",
+    "lips": "ph.17.asha.json",
+    "speaker": "asha",
+    "text": "みずが ほしい。",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "cd2a9c17ba9e",
+    "reviewed": false
+  },
+  "w.rice.say": {
+    "file": "w.rice.say.mp3",
+    "lips": "w.rice.say.json",
+    "speaker": "leo",
+    "text": "ごはん。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "b4bdc5b5e9b2",
+    "reviewed": false
+  },
+  "ph.17.leo": {
+    "file": "ph.17.leo.mp3",
+    "lips": "ph.17.leo.json",
+    "speaker": "leo",
+    "text": "みずが ほしい。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "2d2c8cd0dc15",
+    "reviewed": false
+  },
+  "w.rice.look": {
+    "file": "w.rice.look.mp3",
+    "lips": "w.rice.look.json",
+    "speaker": "leo",
+    "text": "みて！ごはん！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "e36d5891ad44",
+    "reviewed": false
+  },
+  "w.rice.yes": {
+    "file": "w.rice.yes.mp3",
+    "lips": "w.rice.yes.json",
+    "speaker": "leo",
+    "text": "そう！ごはん！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "d79ef418c12a",
+    "reviewed": false
+  },
+  "w.rice.find": {
+    "file": "w.rice.find.mp3",
+    "lips": "w.rice.find.json",
+    "speaker": "leo",
+    "text": "ごはんは どこかな？",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "46ac595f1146",
+    "reviewed": false
+  },
+  "w.egg.say": {
+    "file": "w.egg.say.mp3",
+    "lips": "w.egg.say.json",
+    "speaker": "leo",
+    "text": "たまご。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "f3e70d6596cb",
+    "reviewed": false
+  },
+  "w.egg.look": {
+    "file": "w.egg.look.mp3",
+    "lips": "w.egg.look.json",
+    "speaker": "leo",
+    "text": "みて！たまご！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "9798321b8a23",
+    "reviewed": false
+  },
+  "w.egg.find": {
+    "file": "w.egg.find.mp3",
+    "lips": "w.egg.find.json",
+    "speaker": "leo",
+    "text": "たまごは どこかな？",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "f5f244fb8608",
+    "reviewed": false
+  },
+  "w.egg.yes": {
+    "file": "w.egg.yes.mp3",
+    "lips": "w.egg.yes.json",
+    "speaker": "leo",
+    "text": "そう！たまご！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "a40b1961ec82",
+    "reviewed": false
+  },
+  "ph.18.asha": {
+    "file": "ph.18.asha.mp3",
+    "lips": "ph.18.asha.json",
+    "speaker": "asha",
+    "text": "ごはん ください。",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "a581cbab1895",
+    "reviewed": false
+  },
+  "ph.18.leo": {
+    "file": "ph.18.leo.mp3",
+    "lips": "ph.18.leo.json",
+    "speaker": "leo",
+    "text": "ごはん ください。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "304ed2ad8fb9",
+    "reviewed": false
+  },
+  "w.please.say": {
+    "file": "w.please.say.mp3",
+    "lips": "w.please.say.json",
+    "speaker": "asha",
+    "text": "おねがい！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "6018d746b425",
+    "reviewed": false
+  },
+  "ph.19.asha": {
+    "file": "ph.19.asha.mp3",
+    "lips": "ph.19.asha.json",
+    "speaker": "asha",
+    "text": "わたしの なまえは アシャ です。",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "c4c99eaf2034",
+    "reviewed": false
+  },
+  "t.intro_self.asha": {
+    "file": "t.intro_self.asha.mp3",
+    "lips": "t.intro_self.asha.json",
+    "speaker": "asha",
+    "text": "わたしは アシャ ねえさん！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "1374df520b7f",
+    "reviewed": false
+  },
+  "ph.19.leo": {
+    "file": "ph.19.leo.mp3",
+    "lips": "ph.19.leo.json",
+    "speaker": "leo",
+    "text": "ぼくの なまえは レオ です。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "fbff0a12b33a",
+    "reviewed": false
+  },
+  "t.hello_friend.asha": {
+    "file": "t.hello_friend.asha.mp3",
+    "lips": "t.hello_friend.asha.json",
+    "speaker": "asha",
+    "text": "こんにちは、おともだち！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "186a933efe33",
+    "reviewed": false
+  },
+  "t.good_morning.asha": {
+    "file": "t.good_morning.asha.mp3",
+    "lips": "t.good_morning.asha.json",
+    "speaker": "asha",
+    "text": "おはよう！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "4ebb3c200ffb",
+    "reviewed": false
+  },
+  "t.ready.asha": {
+    "file": "t.ready.asha.mp3",
+    "lips": "t.ready.asha.json",
+    "speaker": "asha",
+    "text": "じゅんびは いい？ まなぼう！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "d845215c3cd3",
+    "reviewed": false
+  },
+  "t.game_first.asha": {
+    "file": "t.game_first.asha.mp3",
+    "lips": "t.game_first.asha.json",
+    "speaker": "asha",
+    "text": "まずは ゲームを しよう！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "e4c4af374119",
+    "reviewed": false
+  },
+  "t.remember.asha": {
+    "file": "t.remember.asha.mp3",
+    "lips": "t.remember.asha.json",
+    "speaker": "asha",
+    "text": "これ、おぼえてる？",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "6e5718dae220",
+    "reviewed": false
+  },
+  "t.look.asha": {
+    "file": "t.look.asha.mp3",
+    "lips": "t.look.asha.json",
+    "speaker": "asha",
+    "text": "みて！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "15c895eb1116",
+    "reviewed": false
+  },
+  "t.listen.asha": {
+    "file": "t.listen.asha.mp3",
+    "lips": "t.listen.asha.json",
+    "speaker": "asha",
+    "text": "きいてね。",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "c3f3430e7f34",
+    "reviewed": false
+  },
+  "t.again.asha": {
+    "file": "t.again.asha.mp3",
+    "lips": "t.again.asha.json",
+    "speaker": "asha",
+    "text": "もういちど！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "6b3a8ecd3971",
+    "reviewed": false
+  },
+  "t.say_with_me.asha": {
+    "file": "t.say_with_me.asha.mp3",
+    "lips": "t.say_with_me.asha.json",
+    "speaker": "asha",
+    "text": "いっしょに いってみよう！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "33c5defc208e",
+    "reviewed": false
+  },
+  "t.slowly.asha": {
+    "file": "t.slowly.asha.mp3",
+    "lips": "t.slowly.asha.json",
+    "speaker": "asha",
+    "text": "ゆっくりね。",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "052ec2d6efd0",
+    "reviewed": false
+  },
+  "t.your_turn.asha": {
+    "file": "t.your_turn.asha.mp3",
+    "lips": "t.your_turn.asha.json",
+    "speaker": "asha",
+    "text": "つぎは きみの ばん！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "ab46a63a399b",
+    "reviewed": false
+  },
+  "t.louder.asha": {
+    "file": "t.louder.asha.mp3",
+    "lips": "t.louder.asha.json",
+    "speaker": "asha",
+    "text": "もっと おおきな こえで！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "f8bd578738d0",
+    "reviewed": false
+  },
+  "t.do_what_i_do.asha": {
+    "file": "t.do_what_i_do.asha.mp3",
+    "lips": "t.do_what_i_do.asha.json",
+    "speaker": "asha",
+    "text": "まねしてね！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "17af1fb27ff2",
+    "reviewed": false
+  },
+  "t.whisper.asha": {
+    "file": "t.whisper.asha.mp3",
+    "lips": "t.whisper.asha.json",
+    "speaker": "asha",
+    "text": "こっそり いってみて！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "8053cca03efe",
+    "reviewed": false
+  },
+  "t.tap_it.asha": {
+    "file": "t.tap_it.asha.mp3",
+    "lips": "t.tap_it.asha.json",
+    "speaker": "asha",
+    "text": "タッチしてね！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "f0d2ead08c47",
+    "reviewed": false
+  },
+  "t.find_it.asha": {
+    "file": "t.find_it.asha.mp3",
+    "lips": "t.find_it.asha.json",
+    "speaker": "asha",
+    "text": "さがしてみて！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "38bad09d60b5",
+    "reviewed": false
+  },
+  "t.which_one.asha": {
+    "file": "t.which_one.asha.mp3",
+    "lips": "t.which_one.asha.json",
+    "speaker": "asha",
+    "text": "どれかな？",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "b6abb42e180e",
+    "reviewed": false
+  },
+  "t.count_with_me.asha": {
+    "file": "t.count_with_me.asha.mp3",
+    "lips": "t.count_with_me.asha.json",
+    "speaker": "asha",
+    "text": "いっしょに かぞえよう！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "47127c328cf0",
+    "reviewed": false
+  },
+  "t.lets_sing.asha": {
+    "file": "t.lets_sing.asha.mp3",
+    "lips": "t.lets_sing.asha.json",
+    "speaker": "asha",
+    "text": "うたおう！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "70df315b0ae2",
+    "reviewed": false
+  },
+  "t.yes.asha": {
+    "file": "t.yes.asha.mp3",
+    "lips": "t.yes.asha.json",
+    "speaker": "asha",
+    "text": "そう！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "7e110cb37743",
+    "reviewed": false
+  },
+  "t.story_time.asha": {
+    "file": "t.story_time.asha.mp3",
+    "lips": "t.story_time.asha.json",
+    "speaker": "asha",
+    "text": "おはなしの じかん！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "9d024dd9d3ab",
+    "reviewed": false
+  },
+  "t.thats_right.asha": {
+    "file": "t.thats_right.asha.mp3",
+    "lips": "t.thats_right.asha.json",
+    "speaker": "asha",
+    "text": "せいかい！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "721e3e4bcb5c",
+    "reviewed": false
+  },
+  "t.great_job.asha": {
+    "file": "t.great_job.asha.mp3",
+    "lips": "t.great_job.asha.json",
+    "speaker": "asha",
+    "text": "よくできました！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "d87226ef94d1",
+    "reviewed": false
+  },
+  "t.wow.asha": {
+    "file": "t.wow.asha.mp3",
+    "lips": "t.wow.asha.json",
+    "speaker": "asha",
+    "text": "わあ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "574f91b58f8b",
+    "reviewed": false
+  },
+  "t.super.asha": {
+    "file": "t.super.asha.mp3",
+    "lips": "t.super.asha.json",
+    "speaker": "asha",
+    "text": "すごい！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "25a834e818f1",
+    "reviewed": false
+  },
+  "t.so_clever.asha": {
+    "file": "t.so_clever.asha.mp3",
+    "lips": "t.so_clever.asha.json",
+    "speaker": "asha",
+    "text": "かしこいね！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "89999c108675",
+    "reviewed": false
+  },
+  "t.well_done.asha": {
+    "file": "t.well_done.asha.mp3",
+    "lips": "t.well_done.asha.json",
+    "speaker": "asha",
+    "text": "じょうず！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "aa923ace01a6",
+    "reviewed": false
+  },
+  "t.you_remembered.asha": {
+    "file": "t.you_remembered.asha.mp3",
+    "lips": "t.you_remembered.asha.json",
+    "speaker": "asha",
+    "text": "おぼえてたね！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "65d71eaae652",
+    "reviewed": false
+  },
+  "t.high_five.asha": {
+    "file": "t.high_five.asha.mp3",
+    "lips": "t.high_five.asha.json",
+    "speaker": "asha",
+    "text": "ハイタッチ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "79183c218a63",
+    "reviewed": false
+  },
+  "t.oops_look_again.asha": {
+    "file": "t.oops_look_again.asha.mp3",
+    "lips": "t.oops_look_again.asha.json",
+    "speaker": "asha",
+    "text": "あれれ？ もういちど みてみよう。",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "8e1c566dbd68",
+    "reviewed": false
+  },
+  "t.here_it_is.asha": {
+    "file": "t.here_it_is.asha.mp3",
+    "lips": "t.here_it_is.asha.json",
+    "speaker": "asha",
+    "text": "ほら、ここだよ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "f9dd5c0cd824",
+    "reviewed": false
+  },
+  "t.try_another.asha": {
+    "file": "t.try_another.asha.mp3",
+    "lips": "t.try_another.asha.json",
+    "speaker": "asha",
+    "text": "うーん、ほかのも ためしてみて！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "3f72074947de",
+    "reviewed": false
+  },
+  "t.almost.asha": {
+    "file": "t.almost.asha.mp3",
+    "lips": "t.almost.asha.json",
+    "speaker": "asha",
+    "text": "おしい！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "e1daefb653ec",
+    "reviewed": false
+  },
+  "t.next_one.asha": {
+    "file": "t.next_one.asha.mp3",
+    "lips": "t.next_one.asha.json",
+    "speaker": "asha",
+    "text": "つぎ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "caa7ee907c69",
+    "reviewed": false
+  },
+  "t.last_one.asha": {
+    "file": "t.last_one.asha.mp3",
+    "lips": "t.last_one.asha.json",
+    "speaker": "asha",
+    "text": "さいごだよ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "588be2605cda",
+    "reviewed": false
+  },
+  "t.got_star.asha": {
+    "file": "t.got_star.asha.mp3",
+    "lips": "t.got_star.asha.json",
+    "speaker": "asha",
+    "text": "ほしを もらったよ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "5aac00fed7ef",
+    "reviewed": false
+  },
+  "t.pet_closer.asha": {
+    "file": "t.pet_closer.asha.mp3",
+    "lips": "t.pet_closer.asha.json",
+    "speaker": "asha",
+    "text": "あたらしい ともだちに もうすぐ あえるよ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "0b7aecb81227",
+    "reviewed": false
+  },
+  "t.learned_so_much.asha": {
+    "file": "t.learned_so_much.asha.mp3",
+    "lips": "t.learned_so_much.asha.json",
+    "speaker": "asha",
+    "text": "きょうは いっぱい まなんだね！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "d52fab244734",
+    "reviewed": false
+  },
+  "t.see_you_tomorrow.asha": {
+    "file": "t.see_you_tomorrow.asha.mp3",
+    "lips": "t.see_you_tomorrow.asha.json",
+    "speaker": "asha",
+    "text": "また あしたね！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "9b62321f8867",
+    "reviewed": false
+  },
+  "t.bye.asha": {
+    "file": "t.bye.asha.mp3",
+    "lips": "t.bye.asha.json",
+    "speaker": "asha",
+    "text": "バイバイ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "d4df21016b44",
+    "reviewed": false
+  },
+  "t.intro_self.leo": {
+    "file": "t.intro_self.leo.mp3",
+    "lips": "t.intro_self.leo.json",
+    "speaker": "leo",
+    "text": "ぼくは レオ にいさん！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "18bbd69068fa",
+    "reviewed": false
+  },
+  "t.good_morning.leo": {
+    "file": "t.good_morning.leo.mp3",
+    "lips": "t.good_morning.leo.json",
+    "speaker": "leo",
+    "text": "おはよう！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "9d8bf6262376",
+    "reviewed": false
+  },
+  "t.hello_friend.leo": {
+    "file": "t.hello_friend.leo.mp3",
+    "lips": "t.hello_friend.leo.json",
+    "speaker": "leo",
+    "text": "こんにちは、おともだち！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "7f8b5139fe24",
+    "reviewed": false
+  },
+  "t.ready.leo": {
+    "file": "t.ready.leo.mp3",
+    "lips": "t.ready.leo.json",
+    "speaker": "leo",
+    "text": "じゅんびは いい？ まなぼう！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "8053c63e6b11",
+    "reviewed": false
+  },
+  "t.remember.leo": {
+    "file": "t.remember.leo.mp3",
+    "lips": "t.remember.leo.json",
+    "speaker": "leo",
+    "text": "これ、おぼえてる？",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "1e404940dc86",
+    "reviewed": false
+  },
+  "t.game_first.leo": {
+    "file": "t.game_first.leo.mp3",
+    "lips": "t.game_first.leo.json",
+    "speaker": "leo",
+    "text": "まずは ゲームを しよう！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "74bc3beb4f72",
+    "reviewed": false
+  },
+  "t.look.leo": {
+    "file": "t.look.leo.mp3",
+    "lips": "t.look.leo.json",
+    "speaker": "leo",
+    "text": "みて！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "fdf4e07e20fa",
+    "reviewed": false
+  },
+  "t.listen.leo": {
+    "file": "t.listen.leo.mp3",
+    "lips": "t.listen.leo.json",
+    "speaker": "leo",
+    "text": "きいてね。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "482ce86a8d4d",
+    "reviewed": false
+  },
+  "t.again.leo": {
+    "file": "t.again.leo.mp3",
+    "lips": "t.again.leo.json",
+    "speaker": "leo",
+    "text": "もういちど！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "0e0730d07494",
+    "reviewed": false
+  },
+  "t.say_with_me.leo": {
+    "file": "t.say_with_me.leo.mp3",
+    "lips": "t.say_with_me.leo.json",
+    "speaker": "leo",
+    "text": "いっしょに いってみよう！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "7d963dd3e7a4",
+    "reviewed": false
+  },
+  "t.your_turn.leo": {
+    "file": "t.your_turn.leo.mp3",
+    "lips": "t.your_turn.leo.json",
+    "speaker": "leo",
+    "text": "つぎは きみの ばん！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "43e20ce29016",
+    "reviewed": false
+  },
+  "t.slowly.leo": {
+    "file": "t.slowly.leo.mp3",
+    "lips": "t.slowly.leo.json",
+    "speaker": "leo",
+    "text": "ゆっくりね。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "9cd09ef631c5",
+    "reviewed": false
+  },
+  "t.louder.leo": {
+    "file": "t.louder.leo.mp3",
+    "lips": "t.louder.leo.json",
+    "speaker": "leo",
+    "text": "もっと おおきな こえで！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "f8cb76763ae0",
+    "reviewed": false
+  },
+  "t.whisper.leo": {
+    "file": "t.whisper.leo.mp3",
+    "lips": "t.whisper.leo.json",
+    "speaker": "leo",
+    "text": "こっそり いってみて！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "1faf4c66aa1f",
+    "reviewed": false
+  },
+  "t.do_what_i_do.leo": {
+    "file": "t.do_what_i_do.leo.mp3",
+    "lips": "t.do_what_i_do.leo.json",
+    "speaker": "leo",
+    "text": "まねしてね！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "4f5de899609b",
+    "reviewed": false
+  },
+  "t.tap_it.leo": {
+    "file": "t.tap_it.leo.mp3",
+    "lips": "t.tap_it.leo.json",
+    "speaker": "leo",
+    "text": "タッチしてね！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "623e56f41a95",
+    "reviewed": false
+  },
+  "t.find_it.leo": {
+    "file": "t.find_it.leo.mp3",
+    "lips": "t.find_it.leo.json",
+    "speaker": "leo",
+    "text": "さがしてみて！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "cfd5d9b2700a",
+    "reviewed": false
+  },
+  "t.which_one.leo": {
+    "file": "t.which_one.leo.mp3",
+    "lips": "t.which_one.leo.json",
+    "speaker": "leo",
+    "text": "どれかな？",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "c936e54ef6cf",
+    "reviewed": false
+  },
+  "t.lets_sing.leo": {
+    "file": "t.lets_sing.leo.mp3",
+    "lips": "t.lets_sing.leo.json",
+    "speaker": "leo",
+    "text": "うたおう！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "f53db27613c7",
+    "reviewed": false
+  },
+  "t.count_with_me.leo": {
+    "file": "t.count_with_me.leo.mp3",
+    "lips": "t.count_with_me.leo.json",
+    "speaker": "leo",
+    "text": "いっしょに かぞえよう！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "bde4eeaaa9dc",
+    "reviewed": false
+  },
+  "t.story_time.leo": {
+    "file": "t.story_time.leo.mp3",
+    "lips": "t.story_time.leo.json",
+    "speaker": "leo",
+    "text": "おはなしの じかん！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "7d6b14345fce",
+    "reviewed": false
+  },
+  "t.yes.leo": {
+    "file": "t.yes.leo.mp3",
+    "lips": "t.yes.leo.json",
+    "speaker": "leo",
+    "text": "そう！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "04b33dfc476b",
+    "reviewed": false
+  },
+  "t.thats_right.leo": {
+    "file": "t.thats_right.leo.mp3",
+    "lips": "t.thats_right.leo.json",
+    "speaker": "leo",
+    "text": "せいかい！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "d3ceecba7e90",
+    "reviewed": false
+  },
+  "t.great_job.leo": {
+    "file": "t.great_job.leo.mp3",
+    "lips": "t.great_job.leo.json",
+    "speaker": "leo",
+    "text": "よくできました！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "992a972dcc39",
+    "reviewed": false
+  },
+  "t.wow.leo": {
+    "file": "t.wow.leo.mp3",
+    "lips": "t.wow.leo.json",
+    "speaker": "leo",
+    "text": "わあ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "87db071c6539",
+    "reviewed": false
+  },
+  "t.super.leo": {
+    "file": "t.super.leo.mp3",
+    "lips": "t.super.leo.json",
+    "speaker": "leo",
+    "text": "すごい！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "bbbd16ec3b74",
+    "reviewed": false
+  },
+  "t.so_clever.leo": {
+    "file": "t.so_clever.leo.mp3",
+    "lips": "t.so_clever.leo.json",
+    "speaker": "leo",
+    "text": "かしこいね！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "82788aa96065",
+    "reviewed": false
+  },
+  "t.well_done.leo": {
+    "file": "t.well_done.leo.mp3",
+    "lips": "t.well_done.leo.json",
+    "speaker": "leo",
+    "text": "じょうず！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "13ec6e43740a",
+    "reviewed": false
+  },
+  "t.you_remembered.leo": {
+    "file": "t.you_remembered.leo.mp3",
+    "lips": "t.you_remembered.leo.json",
+    "speaker": "leo",
+    "text": "おぼえてたね！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "8c32220881c5",
+    "reviewed": false
+  },
+  "t.high_five.leo": {
+    "file": "t.high_five.leo.mp3",
+    "lips": "t.high_five.leo.json",
+    "speaker": "leo",
+    "text": "ハイタッチ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "fc5c5b9e6195",
+    "reviewed": false
+  },
+  "t.oops_look_again.leo": {
+    "file": "t.oops_look_again.leo.mp3",
+    "lips": "t.oops_look_again.leo.json",
+    "speaker": "leo",
+    "text": "あれれ？ もういちど みてみよう。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "45a57f173788",
+    "reviewed": false
+  },
+  "t.here_it_is.leo": {
+    "file": "t.here_it_is.leo.mp3",
+    "lips": "t.here_it_is.leo.json",
+    "speaker": "leo",
+    "text": "ほら、ここだよ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "d708d4e5a878",
+    "reviewed": false
+  },
+  "t.try_another.leo": {
+    "file": "t.try_another.leo.mp3",
+    "lips": "t.try_another.leo.json",
+    "speaker": "leo",
+    "text": "うーん、ほかのも ためしてみて！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "2eaae46642b9",
+    "reviewed": false
+  },
+  "t.almost.leo": {
+    "file": "t.almost.leo.mp3",
+    "lips": "t.almost.leo.json",
+    "speaker": "leo",
+    "text": "おしい！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "4b41ed3bf479",
+    "reviewed": false
+  },
+  "t.next_one.leo": {
+    "file": "t.next_one.leo.mp3",
+    "lips": "t.next_one.leo.json",
+    "speaker": "leo",
+    "text": "つぎ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "7ad9fb75d446",
+    "reviewed": false
+  },
+  "t.last_one.leo": {
+    "file": "t.last_one.leo.mp3",
+    "lips": "t.last_one.leo.json",
+    "speaker": "leo",
+    "text": "さいごだよ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "3a40665c44f8",
+    "reviewed": false
+  },
+  "t.got_star.leo": {
+    "file": "t.got_star.leo.mp3",
+    "lips": "t.got_star.leo.json",
+    "speaker": "leo",
+    "text": "ほしを もらったよ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "c56bb244f0fc",
+    "reviewed": false
+  },
+  "t.learned_so_much.leo": {
+    "file": "t.learned_so_much.leo.mp3",
+    "lips": "t.learned_so_much.leo.json",
+    "speaker": "leo",
+    "text": "きょうは いっぱい まなんだね！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "aa362f64e16d",
+    "reviewed": false
+  },
+  "t.pet_closer.leo": {
+    "file": "t.pet_closer.leo.mp3",
+    "lips": "t.pet_closer.leo.json",
+    "speaker": "leo",
+    "text": "あたらしい ともだちに もうすぐ あえるよ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "02dc907d909a",
+    "reviewed": false
+  },
+  "t.see_you_tomorrow.leo": {
+    "file": "t.see_you_tomorrow.leo.mp3",
+    "lips": "t.see_you_tomorrow.leo.json",
+    "speaker": "leo",
+    "text": "また あしたね！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "fcb769e7b5a3",
+    "reviewed": false
+  },
+  "t.bye.leo": {
+    "file": "t.bye.leo.mp3",
+    "lips": "t.bye.leo.json",
+    "speaker": "leo",
+    "text": "バイバイ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "82d98937c799",
+    "reviewed": false
+  },
+  "beep_intro.2": {
+    "file": "beep_intro.2.mp3",
+    "lips": "beep_intro.2.json",
+    "speaker": "leo",
+    "text": "ぼくは レオ にいさん！ こんにちは！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "4e169ad7a6c8",
+    "reviewed": false
+  },
+  "beep_intro.1": {
+    "file": "beep_intro.1.mp3",
+    "lips": "beep_intro.1.json",
+    "speaker": "asha",
+    "text": "こんにちは！ わたしは アシャ ねえさん。",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "0195efd56306",
+    "reviewed": false
+  },
+  "beep_intro.3": {
+    "file": "beep_intro.3.mp3",
+    "lips": "beep_intro.3.json",
+    "speaker": "asha",
+    "text": "あれ？ これ なあに？",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "a916f7123cd2",
+    "reviewed": false
+  },
+  "beep_intro.4": {
+    "file": "beep_intro.4.mp3",
+    "lips": "beep_intro.4.json",
+    "speaker": "beep",
+    "text": "ピポパ！ こんにちは！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "1bb78faf32be",
+    "reviewed": false
+  },
+  "beep_intro.5": {
+    "file": "beep_intro.5.mp3",
+    "lips": "beep_intro.5.json",
+    "speaker": "leo",
+    "text": "ビープだよ！ ビープは きみの ともだち。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "8231fb6f7903",
+    "reviewed": false
+  },
+  "beep_intro.6": {
+    "file": "beep_intro.6.mp3",
+    "lips": "beep_intro.6.json",
+    "speaker": "beep",
+    "text": "やあ、ともだち！ いっしょに まなぼう！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "d88a027a8e39",
+    "reviewed": false
+  },
+  "beep_intro.8": {
+    "file": "beep_intro.8.mp3",
+    "lips": "beep_intro.8.json",
+    "speaker": "beep",
+    "text": "やったー！ ピポパ！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "ada6f9fcccb7",
+    "reviewed": false
+  },
+  "beep_intro.7": {
+    "file": "beep_intro.7.mp3",
+    "lips": "beep_intro.7.json",
+    "speaker": "asha",
+    "text": "ビープに こんにちは って いってみて！ こんにちは！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "37720d4e0d56",
+    "reviewed": false
+  },
+  "unlock.did_it_20.asha": {
+    "file": "unlock.did_it_20.asha.mp3",
+    "lips": "unlock.did_it_20.asha.json",
+    "speaker": "asha",
+    "text": "やったね！ 20かい できた！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "48f99944155e",
+    "reviewed": false
+  },
+  "unlock.who_new_friend.asha": {
+    "file": "unlock.who_new_friend.asha.mp3",
+    "lips": "unlock.who_new_friend.asha.json",
+    "speaker": "asha",
+    "text": "あたらしい ともだちは だれかな？",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "85d397d23bc3",
+    "reviewed": false
+  },
+  "unlock.hooray.asha": {
+    "file": "unlock.hooray.asha.mp3",
+    "lips": "unlock.hooray.asha.json",
+    "speaker": "asha",
+    "text": "ばんざい！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "fb9ac8a65417",
+    "reviewed": false
+  },
+  "unlock.this_is_gaju.asha": {
+    "file": "unlock.this_is_gaju.asha.mp3",
+    "lips": "unlock.this_is_gaju.asha.json",
+    "speaker": "asha",
+    "text": "ガジュ だよ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "f0b70b9eddc5",
+    "reviewed": false
+  },
+  "unlock.this_is_sparky.asha": {
+    "file": "unlock.this_is_sparky.asha.mp3",
+    "lips": "unlock.this_is_sparky.asha.json",
+    "speaker": "asha",
+    "text": "スパーキー だよ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "30380baffc52",
+    "reviewed": false
+  },
+  "unlock.this_is_bobo.asha": {
+    "file": "unlock.this_is_bobo.asha.mp3",
+    "lips": "unlock.this_is_bobo.asha.json",
+    "speaker": "asha",
+    "text": "ボボ だよ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "12df0cf7a0fe",
+    "reviewed": false
+  },
+  "unlock.this_is_himu.asha": {
+    "file": "unlock.this_is_himu.asha.mp3",
+    "lips": "unlock.this_is_himu.asha.json",
+    "speaker": "asha",
+    "text": "ヒム だよ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "f245f4340b7f",
+    "reviewed": false
+  },
+  "unlock.this_is_mimi.asha": {
+    "file": "unlock.this_is_mimi.asha.mp3",
+    "lips": "unlock.this_is_mimi.asha.json",
+    "speaker": "asha",
+    "text": "ミミ だよ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "1f802e0b8a18",
+    "reviewed": false
+  },
+  "unlock.this_is_pandu.asha": {
+    "file": "unlock.this_is_pandu.asha.mp3",
+    "lips": "unlock.this_is_pandu.asha.json",
+    "speaker": "asha",
+    "text": "パンドゥ だよ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "74ab6ada4fc0",
+    "reviewed": false
+  },
+  "unlock.this_is_stardust.asha": {
+    "file": "unlock.this_is_stardust.asha.mp3",
+    "lips": "unlock.this_is_stardust.asha.json",
+    "speaker": "asha",
+    "text": "スターダスト だよ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "0af9ce386121",
+    "reviewed": false
+  },
+  "unlock.this_is_roary.asha": {
+    "file": "unlock.this_is_roary.asha.mp3",
+    "lips": "unlock.this_is_roary.asha.json",
+    "speaker": "asha",
+    "text": "ローリー だよ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "499b16287ec2",
+    "reviewed": false
+  },
+  "unlock.did_it_20.leo": {
+    "file": "unlock.did_it_20.leo.mp3",
+    "lips": "unlock.did_it_20.leo.json",
+    "speaker": "leo",
+    "text": "やったね！ 20かい できた！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "da6904ba33cd",
+    "reviewed": false
+  },
+  "unlock.who_new_friend.leo": {
+    "file": "unlock.who_new_friend.leo.mp3",
+    "lips": "unlock.who_new_friend.leo.json",
+    "speaker": "leo",
+    "text": "あたらしい ともだちは だれかな？",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "588d589f9604",
+    "reviewed": false
+  },
+  "unlock.hooray.leo": {
+    "file": "unlock.hooray.leo.mp3",
+    "lips": "unlock.hooray.leo.json",
+    "speaker": "leo",
+    "text": "ばんざい！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "8c4de0afb0fb",
+    "reviewed": false
+  },
+  "unlock.this_is_gaju.leo": {
+    "file": "unlock.this_is_gaju.leo.mp3",
+    "lips": "unlock.this_is_gaju.leo.json",
+    "speaker": "leo",
+    "text": "ガジュ だよ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "0a14b3a8d47f",
+    "reviewed": false
+  },
+  "unlock.this_is_sparky.leo": {
+    "file": "unlock.this_is_sparky.leo.mp3",
+    "lips": "unlock.this_is_sparky.leo.json",
+    "speaker": "leo",
+    "text": "スパーキー だよ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "79677f559c07",
+    "reviewed": false
+  },
+  "unlock.this_is_bobo.leo": {
+    "file": "unlock.this_is_bobo.leo.mp3",
+    "lips": "unlock.this_is_bobo.leo.json",
+    "speaker": "leo",
+    "text": "ボボ だよ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "39b5f7ab8055",
+    "reviewed": false
+  },
+  "unlock.this_is_himu.leo": {
+    "file": "unlock.this_is_himu.leo.mp3",
+    "lips": "unlock.this_is_himu.leo.json",
+    "speaker": "leo",
+    "text": "ヒム だよ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "2512a8781492",
+    "reviewed": false
+  },
+  "unlock.this_is_mimi.leo": {
+    "file": "unlock.this_is_mimi.leo.mp3",
+    "lips": "unlock.this_is_mimi.leo.json",
+    "speaker": "leo",
+    "text": "ミミ だよ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "e29146476c95",
+    "reviewed": false
+  },
+  "unlock.this_is_pandu.leo": {
+    "file": "unlock.this_is_pandu.leo.mp3",
+    "lips": "unlock.this_is_pandu.leo.json",
+    "speaker": "leo",
+    "text": "パンドゥ だよ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "f92ae8aadc80",
+    "reviewed": false
+  },
+  "unlock.this_is_roary.leo": {
+    "file": "unlock.this_is_roary.leo.mp3",
+    "lips": "unlock.this_is_roary.leo.json",
+    "speaker": "leo",
+    "text": "ローリー だよ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "dac7583aefaa",
+    "reviewed": false
+  },
+  "unlock.this_is_stardust.leo": {
+    "file": "unlock.this_is_stardust.leo.mp3",
+    "lips": "unlock.this_is_stardust.leo.json",
+    "speaker": "leo",
+    "text": "スターダスト だよ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "ba432093809c",
+    "reviewed": false
+  },
+  "story.who_says_hello.1": {
+    "file": "story.who_says_hello.1.mp3",
+    "lips": "story.who_says_hello.1.json",
+    "speaker": "leo",
+    "text": "ビープが おさんぽ。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "da02ac1db0ba",
+    "reviewed": false
+  },
+  "story.who_says_hello.2": {
+    "file": "story.who_says_hello.2.mp3",
+    "lips": "story.who_says_hello.2.json",
+    "speaker": "beep",
+    "text": "こんにちは！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "a0f756b77426",
+    "reviewed": false
+  },
+  "story.who_says_hello.3": {
+    "file": "story.who_says_hello.3.mp3",
+    "lips": "story.who_says_hello.3.json",
+    "speaker": "leo",
+    "text": "いぬだ！ いぬは ワンワン。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "8c7ff402c8d7",
+    "reviewed": false
+  },
+  "story.who_says_hello.4": {
+    "file": "story.who_says_hello.4.mp3",
+    "lips": "story.who_says_hello.4.json",
+    "speaker": "leo",
+    "text": "ねこだ！ ねこは ニャー。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "c0c5f1bf09ce",
+    "reviewed": false
+  },
+  "story.who_says_hello.5": {
+    "file": "story.who_says_hello.5.mp3",
+    "lips": "story.who_says_hello.5.json",
+    "speaker": "leo",
+    "text": "うしだ！ うしは モーモー。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "84f69dd22c2a",
+    "reviewed": false
+  },
+  "story.who_says_hello.6": {
+    "file": "story.who_says_hello.6.mp3",
+    "lips": "story.who_says_hello.6.json",
+    "speaker": "leo",
+    "text": "とりだ！ とりは ピヨピヨ。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "bf4f33a43606",
+    "reviewed": false
+  },
+  "story.who_says_hello.7": {
+    "file": "story.who_says_hello.7.mp3",
+    "lips": "story.who_says_hello.7.json",
+    "speaker": "leo",
+    "text": "ぞうと さる！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "b417cf06cacd",
+    "reviewed": false
+  },
+  "story.who_says_hello.8": {
+    "file": "story.who_says_hello.8.mp3",
+    "lips": "story.who_says_hello.8.json",
+    "speaker": "leo",
+    "text": "みんなで こんにちは！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "1714cf189469",
+    "reviewed": false
+  },
+  "story.who_says_hello.9": {
+    "file": "story.who_says_hello.9.mp3",
+    "lips": "story.who_says_hello.9.json",
+    "speaker": "beep",
+    "text": "こんにちは、みんな！ バイバイ！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "df14d9e88f9a",
+    "reviewed": false
+  },
+  "story.beeps_big_day.1": {
+    "file": "story.beeps_big_day.1.mp3",
+    "lips": "story.beeps_big_day.1.json",
+    "speaker": "leo",
+    "text": "きょうは ビープの とくべつな ひ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "bdd6ae1de595",
+    "reviewed": false
+  },
+  "story.beeps_big_day.2": {
+    "file": "story.beeps_big_day.2.mp3",
+    "lips": "story.beeps_big_day.2.json",
+    "speaker": "beep",
+    "text": "こんにちは！ ぼくの なまえは ビープ！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "7ffb173b8569",
+    "reviewed": false
+  },
+  "story.beeps_big_day.4": {
+    "file": "story.beeps_big_day.4.mp3",
+    "lips": "story.beeps_big_day.4.json",
+    "speaker": "beep",
+    "text": "おいしそう！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "d3518509eee8",
+    "reviewed": false
+  },
+  "story.beeps_big_day.3": {
+    "file": "story.beeps_big_day.3.mp3",
+    "lips": "story.beeps_big_day.3.json",
+    "speaker": "leo",
+    "text": "ビープは あかい りんごと きいろい バナナを みつけた。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "26c1ebe03ab7",
+    "reviewed": false
+  },
+  "story.beeps_big_day.6": {
+    "file": "story.beeps_big_day.6.mp3",
+    "lips": "story.beeps_big_day.6.json",
+    "speaker": "beep",
+    "text": "ありがとう！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "2d24566e30cd",
+    "reviewed": false
+  },
+  "story.beeps_big_day.5": {
+    "file": "story.beeps_big_day.5.mp3",
+    "lips": "story.beeps_big_day.5.json",
+    "speaker": "leo",
+    "text": "ママが ビープに ごはんと たまごを くれた。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "4ef3931505d4",
+    "reviewed": false
+  },
+  "story.beeps_big_day.7": {
+    "file": "story.beeps_big_day.7.mp3",
+    "lips": "story.beeps_big_day.7.json",
+    "speaker": "leo",
+    "text": "パパが ぎゅうにゅうと みずを くれた。",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "765e4dfc1d8c",
+    "reviewed": false
+  },
+  "story.beeps_big_day.8": {
+    "file": "story.beeps_big_day.8.mp3",
+    "lips": "story.beeps_big_day.8.json",
+    "speaker": "leo",
+    "text": "あおい さかな、みどりの ちょうちょ、しろくろの うし！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "6201ef333aed",
+    "reviewed": false
+  },
+  "story.beeps_big_day.9": {
+    "file": "story.beeps_big_day.9.mp3",
+    "lips": "story.beeps_big_day.9.json",
+    "speaker": "beep",
+    "text": "とくべつな ひ、だいすき！ バイバイ！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "98c25a6ccdc1",
+    "reviewed": false
+  },
+  "pet.beep.hi_friend": {
+    "file": "pet.beep.hi_friend.mp3",
+    "lips": "pet.beep.hi_friend.json",
+    "speaker": "beep",
+    "text": "やあ、ともだち！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "64c015aec6a8",
+    "reviewed": false
+  },
+  "pet.beep.yay_here": {
+    "file": "pet.beep.yay_here.mp3",
+    "lips": "pet.beep.yay_here.json",
+    "speaker": "beep",
+    "text": "わーい、きてくれた！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "f39ab3e9066f",
+    "reviewed": false
+  },
+  "pet.beep.yay": {
+    "file": "pet.beep.yay.mp3",
+    "lips": "pet.beep.yay.json",
+    "speaker": "beep",
+    "text": "やったー！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "60e4348df813",
+    "reviewed": false
+  },
+  "pet.beep.learn_together": {
+    "file": "pet.beep.learn_together.mp3",
+    "lips": "pet.beep.learn_together.json",
+    "speaker": "beep",
+    "text": "いっしょに まなぼう！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "7615db9a99e0",
+    "reviewed": false
+  },
+  "pet.beep.you_did_it": {
+    "file": "pet.beep.you_did_it.mp3",
+    "lips": "pet.beep.you_did_it.json",
+    "speaker": "beep",
+    "text": "できたね！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "f56b39a6a3f4",
+    "reviewed": false
+  },
+  "pet.beep.great_job": {
+    "file": "pet.beep.great_job.mp3",
+    "lips": "pet.beep.great_job.json",
+    "speaker": "beep",
+    "text": "すごいね！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "91c908dfc8f6",
+    "reviewed": false
+  },
+  "pet.beep.so_clever": {
+    "file": "pet.beep.so_clever.mp3",
+    "lips": "pet.beep.so_clever.json",
+    "speaker": "beep",
+    "text": "わあ、かしこい！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "da6eb2f252fd",
+    "reviewed": false
+  },
+  "pet.beep.high_five": {
+    "file": "pet.beep.high_five.mp3",
+    "lips": "pet.beep.high_five.json",
+    "speaker": "beep",
+    "text": "ハイタッチ！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "5089ba509771",
+    "reviewed": false
+  },
+  "pet.beep.oopsie": {
+    "file": "pet.beep.oopsie.mp3",
+    "lips": "pet.beep.oopsie.json",
+    "speaker": "beep",
+    "text": "あれれ？ もういっかい！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "1b60d230891a",
+    "reviewed": false
+  },
+  "pet.beep.you_can": {
+    "file": "pet.beep.you_can.mp3",
+    "lips": "pet.beep.you_can.json",
+    "speaker": "beep",
+    "text": "きみなら できるよ！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "00084f5e025c",
+    "reviewed": false
+  },
+  "pet.beep.ill_help": {
+    "file": "pet.beep.ill_help.mp3",
+    "lips": "pet.beep.ill_help.json",
+    "speaker": "beep",
+    "text": "てつだうよ！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "dbd7fa10d770",
+    "reviewed": false
+  },
+  "pet.beep.your_turn": {
+    "file": "pet.beep.your_turn.mp3",
+    "lips": "pet.beep.your_turn.json",
+    "speaker": "beep",
+    "text": "きみの ばんだよ！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "a66f72451d71",
+    "reviewed": false
+  },
+  "pet.beep.listening": {
+    "file": "pet.beep.listening.mp3",
+    "lips": "pet.beep.listening.json",
+    "speaker": "beep",
+    "text": "きいてるよ！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "f1270abfde36",
+    "reviewed": false
+  },
+  "pet.beep.say_it": {
+    "file": "pet.beep.say_it.mp3",
+    "lips": "pet.beep.say_it.json",
+    "speaker": "beep",
+    "text": "いってみて、いってみて！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "26d914bb843a",
+    "reviewed": false
+  },
+  "pet.beep.again_again": {
+    "file": "pet.beep.again_again.mp3",
+    "lips": "pet.beep.again_again.json",
+    "speaker": "beep",
+    "text": "もういっかい、もういっかい！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "68884b891088",
+    "reviewed": false
+  },
+  "pet.beep.like_word": {
+    "file": "pet.beep.like_word.mp3",
+    "lips": "pet.beep.like_word.json",
+    "speaker": "beep",
+    "text": "その ことば だいすき！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "984d6586b4d7",
+    "reviewed": false
+  },
+  "pet.beep.got_star": {
+    "file": "pet.beep.got_star.mp3",
+    "lips": "pet.beep.got_star.json",
+    "speaker": "beep",
+    "text": "ほしを ゲット！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "8eeda82105ab",
+    "reviewed": false
+  },
+  "pet.beep.hooray": {
+    "file": "pet.beep.hooray.mp3",
+    "lips": "pet.beep.hooray.json",
+    "speaker": "beep",
+    "text": "ばんざい！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "aac9b945dda5",
+    "reviewed": false
+  },
+  "pet.beep.see_you": {
+    "file": "pet.beep.see_you.mp3",
+    "lips": "pet.beep.see_you.json",
+    "speaker": "beep",
+    "text": "また あしたね！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "c5a84f322c95",
+    "reviewed": false
+  },
+  "pet.beep.proud": {
+    "file": "pet.beep.proud.mp3",
+    "lips": "pet.beep.proud.json",
+    "speaker": "beep",
+    "text": "きみの こと ほこらしいよ！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "fc13adae5ab7",
+    "reviewed": false
+  },
+  "pet.beep.bye": {
+    "file": "pet.beep.bye.mp3",
+    "lips": "pet.beep.bye.json",
+    "speaker": "beep",
+    "text": "バイバイ！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "f313fe679c90",
+    "reviewed": false
+  },
+  "pet.beep.tickles": {
+    "file": "pet.beep.tickles.mp3",
+    "lips": "pet.beep.tickles.json",
+    "speaker": "beep",
+    "text": "くすぐったい！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "9ca5ed8aa633",
+    "reviewed": false
+  },
+  "pet.beep.love_you": {
+    "file": "pet.beep.love_you.mp3",
+    "lips": "pet.beep.love_you.json",
+    "speaker": "beep",
+    "text": "だいすき！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "47c831bbe270",
+    "reviewed": false
+  },
+  "pet.beep.lets_play": {
+    "file": "pet.beep.lets_play.mp3",
+    "lips": "pet.beep.lets_play.json",
+    "speaker": "beep",
+    "text": "あそぼう！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "f1ee26695e87",
+    "reviewed": false
+  },
+  "pet.beep.happy_meet": {
+    "file": "pet.beep.happy_meet.mp3",
+    "lips": "pet.beep.happy_meet.json",
+    "speaker": "beep",
+    "text": "あえて うれしい！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "b7c71d1cd0d8",
+    "reviewed": false
+  },
+  "pet.beep.own1": {
+    "file": "pet.beep.own1.mp3",
+    "lips": "pet.beep.own1.json",
+    "speaker": "beep",
+    "text": "ピポパ！ がくしゅうモード オン！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "77d230844dfe",
+    "reviewed": false
+  },
+  "pet.beep.own3": {
+    "file": "pet.beep.own3.mp3",
+    "lips": "pet.beep.own3.json",
+    "speaker": "beep",
+    "text": "ピッ！ あってた？",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "6fbd523cfc83",
+    "reviewed": false
+  },
+  "pet.beep.own2": {
+    "file": "pet.beep.own2.mp3",
+    "lips": "pet.beep.own2.json",
+    "speaker": "beep",
+    "text": "ぼくの かいろが よろこんでる！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "fbdec7e0a7cc",
+    "reviewed": false
+  },
+  "pet.beep.own4": {
+    "file": "pet.beep.own4.mp3",
+    "lips": "pet.beep.own4.json",
+    "speaker": "beep",
+    "text": "あいで バッテリー まんたん！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "870255b9b34d",
+    "reviewed": false
+  },
+  "pet.gaju.hi_friend": {
+    "file": "pet.gaju.hi_friend.mp3",
+    "lips": "pet.gaju.hi_friend.json",
+    "speaker": "gaju",
+    "text": "やあ、ともだち！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "997c62a49892",
+    "reviewed": false
+  },
+  "pet.gaju.yay_here": {
+    "file": "pet.gaju.yay_here.mp3",
+    "lips": "pet.gaju.yay_here.json",
+    "speaker": "gaju",
+    "text": "わーい、きてくれた！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "61cf766bdec9",
+    "reviewed": false
+  },
+  "pet.gaju.learn_together": {
+    "file": "pet.gaju.learn_together.mp3",
+    "lips": "pet.gaju.learn_together.json",
+    "speaker": "gaju",
+    "text": "いっしょに まなぼう！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "747345fe431f",
+    "reviewed": false
+  },
+  "pet.gaju.yay": {
+    "file": "pet.gaju.yay.mp3",
+    "lips": "pet.gaju.yay.json",
+    "speaker": "gaju",
+    "text": "やったー！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "78a116bf7341",
+    "reviewed": false
+  },
+  "pet.gaju.great_job": {
+    "file": "pet.gaju.great_job.mp3",
+    "lips": "pet.gaju.great_job.json",
+    "speaker": "gaju",
+    "text": "すごいね！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "e5c14d3cf071",
+    "reviewed": false
+  },
+  "pet.gaju.you_did_it": {
+    "file": "pet.gaju.you_did_it.mp3",
+    "lips": "pet.gaju.you_did_it.json",
+    "speaker": "gaju",
+    "text": "できたね！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "9ab789c7387a",
+    "reviewed": false
+  },
+  "pet.gaju.high_five": {
+    "file": "pet.gaju.high_five.mp3",
+    "lips": "pet.gaju.high_five.json",
+    "speaker": "gaju",
+    "text": "ハイタッチ！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "e8cb69ce3a3c",
+    "reviewed": false
+  },
+  "pet.gaju.so_clever": {
+    "file": "pet.gaju.so_clever.mp3",
+    "lips": "pet.gaju.so_clever.json",
+    "speaker": "gaju",
+    "text": "わあ、かしこい！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "a006322aaa9f",
+    "reviewed": false
+  },
+  "pet.gaju.oopsie": {
+    "file": "pet.gaju.oopsie.mp3",
+    "lips": "pet.gaju.oopsie.json",
+    "speaker": "gaju",
+    "text": "あれれ？ もういっかい！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "329b29c55758",
+    "reviewed": false
+  },
+  "pet.gaju.ill_help": {
+    "file": "pet.gaju.ill_help.mp3",
+    "lips": "pet.gaju.ill_help.json",
+    "speaker": "gaju",
+    "text": "てつだうよ！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "1921c5a5970a",
+    "reviewed": false
+  },
+  "pet.gaju.you_can": {
+    "file": "pet.gaju.you_can.mp3",
+    "lips": "pet.gaju.you_can.json",
+    "speaker": "gaju",
+    "text": "きみなら できるよ！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "66f7fba86e86",
+    "reviewed": false
+  },
+  "pet.gaju.your_turn": {
+    "file": "pet.gaju.your_turn.mp3",
+    "lips": "pet.gaju.your_turn.json",
+    "speaker": "gaju",
+    "text": "きみの ばんだよ！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "333613b22b0e",
+    "reviewed": false
+  },
+  "pet.gaju.listening": {
+    "file": "pet.gaju.listening.mp3",
+    "lips": "pet.gaju.listening.json",
+    "speaker": "gaju",
+    "text": "きいてるよ！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "10d7b4170cfa",
+    "reviewed": false
+  },
+  "pet.gaju.say_it": {
+    "file": "pet.gaju.say_it.mp3",
+    "lips": "pet.gaju.say_it.json",
+    "speaker": "gaju",
+    "text": "いってみて、いってみて！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "79b7d5215484",
+    "reviewed": false
+  },
+  "pet.gaju.again_again": {
+    "file": "pet.gaju.again_again.mp3",
+    "lips": "pet.gaju.again_again.json",
+    "speaker": "gaju",
+    "text": "もういっかい、もういっかい！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "57cd63aa9f32",
+    "reviewed": false
+  },
+  "pet.gaju.like_word": {
+    "file": "pet.gaju.like_word.mp3",
+    "lips": "pet.gaju.like_word.json",
+    "speaker": "gaju",
+    "text": "その ことば だいすき！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "311a93627c54",
+    "reviewed": false
+  },
+  "pet.gaju.got_star": {
+    "file": "pet.gaju.got_star.mp3",
+    "lips": "pet.gaju.got_star.json",
+    "speaker": "gaju",
+    "text": "ほしを ゲット！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "924d3b09f8d7",
+    "reviewed": false
+  },
+  "pet.gaju.proud": {
+    "file": "pet.gaju.proud.mp3",
+    "lips": "pet.gaju.proud.json",
+    "speaker": "gaju",
+    "text": "きみの こと ほこらしいよ！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "5ea5e1bc2fae",
+    "reviewed": false
+  },
+  "pet.gaju.hooray": {
+    "file": "pet.gaju.hooray.mp3",
+    "lips": "pet.gaju.hooray.json",
+    "speaker": "gaju",
+    "text": "ばんざい！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "835fddcd1fb5",
+    "reviewed": false
+  },
+  "pet.gaju.see_you": {
+    "file": "pet.gaju.see_you.mp3",
+    "lips": "pet.gaju.see_you.json",
+    "speaker": "gaju",
+    "text": "また あしたね！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "19d82ab1a6aa",
+    "reviewed": false
+  },
+  "pet.gaju.bye": {
+    "file": "pet.gaju.bye.mp3",
+    "lips": "pet.gaju.bye.json",
+    "speaker": "gaju",
+    "text": "バイバイ！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "952e0458ebb1",
+    "reviewed": false
+  },
+  "pet.gaju.tickles": {
+    "file": "pet.gaju.tickles.mp3",
+    "lips": "pet.gaju.tickles.json",
+    "speaker": "gaju",
+    "text": "くすぐったい！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "f86926ebfb95",
+    "reviewed": false
+  },
+  "pet.gaju.love_you": {
+    "file": "pet.gaju.love_you.mp3",
+    "lips": "pet.gaju.love_you.json",
+    "speaker": "gaju",
+    "text": "だいすき！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "e5e729e62112",
+    "reviewed": false
+  },
+  "pet.gaju.lets_play": {
+    "file": "pet.gaju.lets_play.mp3",
+    "lips": "pet.gaju.lets_play.json",
+    "speaker": "gaju",
+    "text": "あそぼう！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "955ad8bc0a43",
+    "reviewed": false
+  },
+  "pet.gaju.happy_meet": {
+    "file": "pet.gaju.happy_meet.mp3",
+    "lips": "pet.gaju.happy_meet.json",
+    "speaker": "gaju",
+    "text": "あえて うれしい！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "e904e26380f5",
+    "reviewed": false
+  },
+  "pet.gaju.own1": {
+    "file": "pet.gaju.own1.mp3",
+    "lips": "pet.gaju.own1.json",
+    "speaker": "gaju",
+    "text": "ぞうさんの おおきな ハグ！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "202d3ff5df8e",
+    "reviewed": false
+  },
+  "pet.gaju.own2": {
+    "file": "pet.gaju.own2.mp3",
+    "lips": "pet.gaju.own2.json",
+    "speaker": "gaju",
+    "text": "ことばは ぜったい わすれないよ！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "5a67a40817bc",
+    "reviewed": false
+  },
+  "pet.gaju.own3": {
+    "file": "pet.gaju.own3.mp3",
+    "lips": "pet.gaju.own3.json",
+    "speaker": "gaju",
+    "text": "ゆっくり ゆっくり、だいじょうぶ。",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "534c0a350293",
+    "reviewed": false
+  },
+  "pet.gaju.own4": {
+    "file": "pet.gaju.own4.mp3",
+    "lips": "pet.gaju.own4.json",
+    "speaker": "gaju",
+    "text": "ぞうさんみたいに かしこいね！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "8c0f009f3502",
+    "reviewed": false
+  },
+  "pet.sparky.hi_friend": {
+    "file": "pet.sparky.hi_friend.mp3",
+    "lips": "pet.sparky.hi_friend.json",
+    "speaker": "sparky",
+    "text": "やあ、ともだち！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "be399ab1673c",
+    "reviewed": false
+  },
+  "pet.sparky.yay_here": {
+    "file": "pet.sparky.yay_here.mp3",
+    "lips": "pet.sparky.yay_here.json",
+    "speaker": "sparky",
+    "text": "わーい、きてくれた！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "4da49ea6ee20",
+    "reviewed": false
+  },
+  "pet.sparky.learn_together": {
+    "file": "pet.sparky.learn_together.mp3",
+    "lips": "pet.sparky.learn_together.json",
+    "speaker": "sparky",
+    "text": "いっしょに まなぼう！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "f074a8ff6bb9",
+    "reviewed": false
+  },
+  "pet.sparky.yay": {
+    "file": "pet.sparky.yay.mp3",
+    "lips": "pet.sparky.yay.json",
+    "speaker": "sparky",
+    "text": "やったー！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "0a23852e8a9a",
+    "reviewed": false
+  },
+  "pet.sparky.you_did_it": {
+    "file": "pet.sparky.you_did_it.mp3",
+    "lips": "pet.sparky.you_did_it.json",
+    "speaker": "sparky",
+    "text": "できたね！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "15d2c11341d1",
+    "reviewed": false
+  },
+  "pet.sparky.great_job": {
+    "file": "pet.sparky.great_job.mp3",
+    "lips": "pet.sparky.great_job.json",
+    "speaker": "sparky",
+    "text": "すごいね！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "64829cb45e42",
+    "reviewed": false
+  },
+  "pet.sparky.so_clever": {
+    "file": "pet.sparky.so_clever.mp3",
+    "lips": "pet.sparky.so_clever.json",
+    "speaker": "sparky",
+    "text": "わあ、かしこい！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "dd1e7a87cfa4",
+    "reviewed": false
+  },
+  "pet.sparky.high_five": {
+    "file": "pet.sparky.high_five.mp3",
+    "lips": "pet.sparky.high_five.json",
+    "speaker": "sparky",
+    "text": "ハイタッチ！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "49e5f0294782",
+    "reviewed": false
+  },
+  "pet.sparky.you_can": {
+    "file": "pet.sparky.you_can.mp3",
+    "lips": "pet.sparky.you_can.json",
+    "speaker": "sparky",
+    "text": "きみなら できるよ！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "9f2b588157dd",
+    "reviewed": false
+  },
+  "pet.sparky.oopsie": {
+    "file": "pet.sparky.oopsie.mp3",
+    "lips": "pet.sparky.oopsie.json",
+    "speaker": "sparky",
+    "text": "あれれ？ もういっかい！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "a2e460c35d5c",
+    "reviewed": false
+  },
+  "pet.sparky.ill_help": {
+    "file": "pet.sparky.ill_help.mp3",
+    "lips": "pet.sparky.ill_help.json",
+    "speaker": "sparky",
+    "text": "てつだうよ！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "644d4fb7adc0",
+    "reviewed": false
+  },
+  "pet.sparky.your_turn": {
+    "file": "pet.sparky.your_turn.mp3",
+    "lips": "pet.sparky.your_turn.json",
+    "speaker": "sparky",
+    "text": "きみの ばんだよ！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "bbe71daaceca",
+    "reviewed": false
+  },
+  "pet.sparky.say_it": {
+    "file": "pet.sparky.say_it.mp3",
+    "lips": "pet.sparky.say_it.json",
+    "speaker": "sparky",
+    "text": "いってみて、いってみて！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "ecd0de4282ef",
+    "reviewed": false
+  },
+  "pet.sparky.listening": {
+    "file": "pet.sparky.listening.mp3",
+    "lips": "pet.sparky.listening.json",
+    "speaker": "sparky",
+    "text": "きいてるよ！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "35bd7f89e879",
+    "reviewed": false
+  },
+  "pet.sparky.again_again": {
+    "file": "pet.sparky.again_again.mp3",
+    "lips": "pet.sparky.again_again.json",
+    "speaker": "sparky",
+    "text": "もういっかい、もういっかい！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "99a59af07eab",
+    "reviewed": false
+  },
+  "pet.sparky.like_word": {
+    "file": "pet.sparky.like_word.mp3",
+    "lips": "pet.sparky.like_word.json",
+    "speaker": "sparky",
+    "text": "その ことば だいすき！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "f7a825f2f6ae",
+    "reviewed": false
+  },
+  "pet.sparky.got_star": {
+    "file": "pet.sparky.got_star.mp3",
+    "lips": "pet.sparky.got_star.json",
+    "speaker": "sparky",
+    "text": "ほしを ゲット！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "123228979bfa",
+    "reviewed": false
+  },
+  "pet.sparky.proud": {
+    "file": "pet.sparky.proud.mp3",
+    "lips": "pet.sparky.proud.json",
+    "speaker": "sparky",
+    "text": "きみの こと ほこらしいよ！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "f0b49b3a7fb6",
+    "reviewed": false
+  },
+  "pet.sparky.hooray": {
+    "file": "pet.sparky.hooray.mp3",
+    "lips": "pet.sparky.hooray.json",
+    "speaker": "sparky",
+    "text": "ばんざい！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "94d8baa97ce2",
+    "reviewed": false
+  },
+  "pet.sparky.see_you": {
+    "file": "pet.sparky.see_you.mp3",
+    "lips": "pet.sparky.see_you.json",
+    "speaker": "sparky",
+    "text": "また あしたね！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "7b2e8b7b5647",
+    "reviewed": false
+  },
+  "pet.sparky.bye": {
+    "file": "pet.sparky.bye.mp3",
+    "lips": "pet.sparky.bye.json",
+    "speaker": "sparky",
+    "text": "バイバイ！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "6b623b2948ca",
+    "reviewed": false
+  },
+  "pet.sparky.tickles": {
+    "file": "pet.sparky.tickles.mp3",
+    "lips": "pet.sparky.tickles.json",
+    "speaker": "sparky",
+    "text": "くすぐったい！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "790036969fc1",
+    "reviewed": false
+  },
+  "pet.sparky.love_you": {
+    "file": "pet.sparky.love_you.mp3",
+    "lips": "pet.sparky.love_you.json",
+    "speaker": "sparky",
+    "text": "だいすき！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "d6a9b6be1b5f",
+    "reviewed": false
+  },
+  "pet.sparky.lets_play": {
+    "file": "pet.sparky.lets_play.mp3",
+    "lips": "pet.sparky.lets_play.json",
+    "speaker": "sparky",
+    "text": "あそぼう！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "ce9ccd586bc4",
+    "reviewed": false
+  },
+  "pet.sparky.happy_meet": {
+    "file": "pet.sparky.happy_meet.mp3",
+    "lips": "pet.sparky.happy_meet.json",
+    "speaker": "sparky",
+    "text": "あえて うれしい！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "970bd48946b1",
+    "reviewed": false
+  },
+  "pet.sparky.own1": {
+    "file": "pet.sparky.own1.mp3",
+    "lips": "pet.sparky.own1.json",
+    "speaker": "sparky",
+    "text": "ボワッ！ さいこう！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "63aef2fa0fe3",
+    "reviewed": false
+  },
+  "pet.sparky.own2": {
+    "file": "pet.sparky.own2.mp3",
+    "lips": "pet.sparky.own2.json",
+    "speaker": "sparky",
+    "text": "ぼうけんの じかんだ！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "38df86971520",
+    "reviewed": false
+  },
+  "pet.sparky.own3": {
+    "file": "pet.sparky.own3.mp3",
+    "lips": "pet.sparky.own3.json",
+    "speaker": "sparky",
+    "text": "ぼくは ゆうかんな ちいさな ドラゴン！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "31d6685f6fb6",
+    "reviewed": false
+  },
+  "pet.sparky.own4": {
+    "file": "pet.sparky.own4.mp3",
+    "lips": "pet.sparky.own4.json",
+    "speaker": "sparky",
+    "text": "つぎへ とんでいこう！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "384298edd5e3",
+    "reviewed": false
+  },
+  "pet.bobo.hi_friend": {
+    "file": "pet.bobo.hi_friend.mp3",
+    "lips": "pet.bobo.hi_friend.json",
+    "speaker": "bobo",
+    "text": "やあ、ともだち！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "b66bd117407a",
+    "reviewed": false
+  },
+  "pet.bobo.yay_here": {
+    "file": "pet.bobo.yay_here.mp3",
+    "lips": "pet.bobo.yay_here.json",
+    "speaker": "bobo",
+    "text": "わーい、きてくれた！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "f275b0f1f212",
+    "reviewed": false
+  },
+  "pet.bobo.yay": {
+    "file": "pet.bobo.yay.mp3",
+    "lips": "pet.bobo.yay.json",
+    "speaker": "bobo",
+    "text": "やったー！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "6ed9c97dfd87",
+    "reviewed": false
+  },
+  "pet.bobo.learn_together": {
+    "file": "pet.bobo.learn_together.mp3",
+    "lips": "pet.bobo.learn_together.json",
+    "speaker": "bobo",
+    "text": "いっしょに まなぼう！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "44e4c2b6321e",
+    "reviewed": false
+  },
+  "pet.bobo.you_did_it": {
+    "file": "pet.bobo.you_did_it.mp3",
+    "lips": "pet.bobo.you_did_it.json",
+    "speaker": "bobo",
+    "text": "できたね！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "ff5aad76bfe1",
+    "reviewed": false
+  },
+  "pet.bobo.great_job": {
+    "file": "pet.bobo.great_job.mp3",
+    "lips": "pet.bobo.great_job.json",
+    "speaker": "bobo",
+    "text": "すごいね！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "a8820b77892d",
+    "reviewed": false
+  },
+  "pet.bobo.so_clever": {
+    "file": "pet.bobo.so_clever.mp3",
+    "lips": "pet.bobo.so_clever.json",
+    "speaker": "bobo",
+    "text": "わあ、かしこい！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "24970bc1ab12",
+    "reviewed": false
+  },
+  "pet.bobo.high_five": {
+    "file": "pet.bobo.high_five.mp3",
+    "lips": "pet.bobo.high_five.json",
+    "speaker": "bobo",
+    "text": "ハイタッチ！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "49287e268776",
+    "reviewed": false
+  },
+  "pet.bobo.oopsie": {
+    "file": "pet.bobo.oopsie.mp3",
+    "lips": "pet.bobo.oopsie.json",
+    "speaker": "bobo",
+    "text": "あれれ？ もういっかい！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "0645346ac34e",
+    "reviewed": false
+  },
+  "pet.bobo.you_can": {
+    "file": "pet.bobo.you_can.mp3",
+    "lips": "pet.bobo.you_can.json",
+    "speaker": "bobo",
+    "text": "きみなら できるよ！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "2bb168d87d18",
+    "reviewed": false
+  },
+  "pet.bobo.ill_help": {
+    "file": "pet.bobo.ill_help.mp3",
+    "lips": "pet.bobo.ill_help.json",
+    "speaker": "bobo",
+    "text": "てつだうよ！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "11372ae9802c",
+    "reviewed": false
+  },
+  "pet.bobo.your_turn": {
+    "file": "pet.bobo.your_turn.mp3",
+    "lips": "pet.bobo.your_turn.json",
+    "speaker": "bobo",
+    "text": "きみの ばんだよ！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "55afaecf9d15",
+    "reviewed": false
+  },
+  "pet.bobo.say_it": {
+    "file": "pet.bobo.say_it.mp3",
+    "lips": "pet.bobo.say_it.json",
+    "speaker": "bobo",
+    "text": "いってみて、いってみて！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "615562529866",
+    "reviewed": false
+  },
+  "pet.bobo.listening": {
+    "file": "pet.bobo.listening.mp3",
+    "lips": "pet.bobo.listening.json",
+    "speaker": "bobo",
+    "text": "きいてるよ！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "1da0a4e01189",
+    "reviewed": false
+  },
+  "pet.bobo.got_star": {
+    "file": "pet.bobo.got_star.mp3",
+    "lips": "pet.bobo.got_star.json",
+    "speaker": "bobo",
+    "text": "ほしを ゲット！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "badad9da5f83",
+    "reviewed": false
+  },
+  "pet.bobo.like_word": {
+    "file": "pet.bobo.like_word.mp3",
+    "lips": "pet.bobo.like_word.json",
+    "speaker": "bobo",
+    "text": "その ことば だいすき！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "514da6c21252",
+    "reviewed": false
+  },
+  "pet.bobo.again_again": {
+    "file": "pet.bobo.again_again.mp3",
+    "lips": "pet.bobo.again_again.json",
+    "speaker": "bobo",
+    "text": "もういっかい、もういっかい！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "5839d7ee74ec",
+    "reviewed": false
+  },
+  "pet.bobo.see_you": {
+    "file": "pet.bobo.see_you.mp3",
+    "lips": "pet.bobo.see_you.json",
+    "speaker": "bobo",
+    "text": "また あしたね！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "0cf2d595e7e4",
+    "reviewed": false
+  },
+  "pet.bobo.hooray": {
+    "file": "pet.bobo.hooray.mp3",
+    "lips": "pet.bobo.hooray.json",
+    "speaker": "bobo",
+    "text": "ばんざい！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "63b9f205965d",
+    "reviewed": false
+  },
+  "pet.bobo.proud": {
+    "file": "pet.bobo.proud.mp3",
+    "lips": "pet.bobo.proud.json",
+    "speaker": "bobo",
+    "text": "きみの こと ほこらしいよ！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "f3629ac9b3c4",
+    "reviewed": false
+  },
+  "pet.bobo.bye": {
+    "file": "pet.bobo.bye.mp3",
+    "lips": "pet.bobo.bye.json",
+    "speaker": "bobo",
+    "text": "バイバイ！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "339f4ba9ebb0",
+    "reviewed": false
+  },
+  "pet.bobo.tickles": {
+    "file": "pet.bobo.tickles.mp3",
+    "lips": "pet.bobo.tickles.json",
+    "speaker": "bobo",
+    "text": "くすぐったい！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "fc2ab745dcbb",
+    "reviewed": false
+  },
+  "pet.bobo.love_you": {
+    "file": "pet.bobo.love_you.mp3",
+    "lips": "pet.bobo.love_you.json",
+    "speaker": "bobo",
+    "text": "だいすき！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "2159c4da3c6b",
+    "reviewed": false
+  },
+  "pet.bobo.lets_play": {
+    "file": "pet.bobo.lets_play.mp3",
+    "lips": "pet.bobo.lets_play.json",
+    "speaker": "bobo",
+    "text": "あそぼう！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "e8280632e88f",
+    "reviewed": false
+  },
+  "pet.bobo.own1": {
+    "file": "pet.bobo.own1.mp3",
+    "lips": "pet.bobo.own1.json",
+    "speaker": "bobo",
+    "text": "ウキキ！ バナナ あげる！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "cd1bef85969a",
+    "reviewed": false
+  },
+  "pet.bobo.happy_meet": {
+    "file": "pet.bobo.happy_meet.mp3",
+    "lips": "pet.bobo.happy_meet.json",
+    "speaker": "bobo",
+    "text": "あえて うれしい！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "125072170cad",
+    "reviewed": false
+  },
+  "pet.bobo.own3": {
+    "file": "pet.bobo.own3.mp3",
+    "lips": "pet.bobo.own3.json",
+    "speaker": "bobo",
+    "text": "おもしろかった！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "9bdb0d34083f",
+    "reviewed": false
+  },
+  "pet.bobo.own2": {
+    "file": "pet.bobo.own2.mp3",
+    "lips": "pet.bobo.own2.json",
+    "speaker": "bobo",
+    "text": "つぎへ ブランコみたいに いこう！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "e1ba17f27c23",
+    "reviewed": false
+  },
+  "pet.bobo.own4": {
+    "file": "pet.bobo.own4.mp3",
+    "lips": "pet.bobo.own4.json",
+    "speaker": "bobo",
+    "text": "まねっこ まねっこ！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "1a6dddf9b5bb",
+    "reviewed": false
+  },
+  "pet.himu.hi_friend": {
+    "file": "pet.himu.hi_friend.mp3",
+    "lips": "pet.himu.hi_friend.json",
+    "speaker": "himu",
+    "text": "やあ、ともだち！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "ae6ca242166f",
+    "reviewed": false
+  },
+  "pet.himu.yay_here": {
+    "file": "pet.himu.yay_here.mp3",
+    "lips": "pet.himu.yay_here.json",
+    "speaker": "himu",
+    "text": "わーい、きてくれた！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "02add0a91f72",
+    "reviewed": false
+  },
+  "pet.himu.learn_together": {
+    "file": "pet.himu.learn_together.mp3",
+    "lips": "pet.himu.learn_together.json",
+    "speaker": "himu",
+    "text": "いっしょに まなぼう！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "352e740d14d4",
+    "reviewed": false
+  },
+  "pet.himu.yay": {
+    "file": "pet.himu.yay.mp3",
+    "lips": "pet.himu.yay.json",
+    "speaker": "himu",
+    "text": "やったー！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "4e34f6b0c7f1",
+    "reviewed": false
+  },
+  "pet.himu.you_did_it": {
+    "file": "pet.himu.you_did_it.mp3",
+    "lips": "pet.himu.you_did_it.json",
+    "speaker": "himu",
+    "text": "できたね！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "77ca191ef24c",
+    "reviewed": false
+  },
+  "pet.himu.great_job": {
+    "file": "pet.himu.great_job.mp3",
+    "lips": "pet.himu.great_job.json",
+    "speaker": "himu",
+    "text": "すごいね！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "f0c218637b54",
+    "reviewed": false
+  },
+  "pet.himu.so_clever": {
+    "file": "pet.himu.so_clever.mp3",
+    "lips": "pet.himu.so_clever.json",
+    "speaker": "himu",
+    "text": "わあ、かしこい！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "5a10a846db7d",
+    "reviewed": false
+  },
+  "pet.himu.high_five": {
+    "file": "pet.himu.high_five.mp3",
+    "lips": "pet.himu.high_five.json",
+    "speaker": "himu",
+    "text": "ハイタッチ！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "012a4778905d",
+    "reviewed": false
+  },
+  "pet.himu.oopsie": {
+    "file": "pet.himu.oopsie.mp3",
+    "lips": "pet.himu.oopsie.json",
+    "speaker": "himu",
+    "text": "あれれ？ もういっかい！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "a3d43054dc30",
+    "reviewed": false
+  },
+  "pet.himu.ill_help": {
+    "file": "pet.himu.ill_help.mp3",
+    "lips": "pet.himu.ill_help.json",
+    "speaker": "himu",
+    "text": "てつだうよ！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "c64c9b4ec0e6",
+    "reviewed": false
+  },
+  "pet.himu.you_can": {
+    "file": "pet.himu.you_can.mp3",
+    "lips": "pet.himu.you_can.json",
+    "speaker": "himu",
+    "text": "きみなら できるよ！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "a9b1a14c31b9",
+    "reviewed": false
+  },
+  "pet.himu.your_turn": {
+    "file": "pet.himu.your_turn.mp3",
+    "lips": "pet.himu.your_turn.json",
+    "speaker": "himu",
+    "text": "きみの ばんだよ！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "3da6d04bb3c9",
+    "reviewed": false
+  },
+  "pet.himu.listening": {
+    "file": "pet.himu.listening.mp3",
+    "lips": "pet.himu.listening.json",
+    "speaker": "himu",
+    "text": "きいてるよ！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "e62e52373bf0",
+    "reviewed": false
+  },
+  "pet.himu.say_it": {
+    "file": "pet.himu.say_it.mp3",
+    "lips": "pet.himu.say_it.json",
+    "speaker": "himu",
+    "text": "いってみて、いってみて！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "8a74485f51a5",
+    "reviewed": false
+  },
+  "pet.himu.again_again": {
+    "file": "pet.himu.again_again.mp3",
+    "lips": "pet.himu.again_again.json",
+    "speaker": "himu",
+    "text": "もういっかい、もういっかい！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "6fa3164891a2",
+    "reviewed": false
+  },
+  "pet.himu.like_word": {
+    "file": "pet.himu.like_word.mp3",
+    "lips": "pet.himu.like_word.json",
+    "speaker": "himu",
+    "text": "その ことば だいすき！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "8c46eb745ac9",
+    "reviewed": false
+  },
+  "pet.himu.got_star": {
+    "file": "pet.himu.got_star.mp3",
+    "lips": "pet.himu.got_star.json",
+    "speaker": "himu",
+    "text": "ほしを ゲット！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "fc1921fd5d57",
+    "reviewed": false
+  },
+  "pet.himu.hooray": {
+    "file": "pet.himu.hooray.mp3",
+    "lips": "pet.himu.hooray.json",
+    "speaker": "himu",
+    "text": "ばんざい！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "c66571ba87ff",
+    "reviewed": false
+  },
+  "pet.himu.proud": {
+    "file": "pet.himu.proud.mp3",
+    "lips": "pet.himu.proud.json",
+    "speaker": "himu",
+    "text": "きみの こと ほこらしいよ！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "f671cb12b6b9",
+    "reviewed": false
+  },
+  "pet.himu.see_you": {
+    "file": "pet.himu.see_you.mp3",
+    "lips": "pet.himu.see_you.json",
+    "speaker": "himu",
+    "text": "また あしたね！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "cc7218f030d0",
+    "reviewed": false
+  },
+  "pet.himu.bye": {
+    "file": "pet.himu.bye.mp3",
+    "lips": "pet.himu.bye.json",
+    "speaker": "himu",
+    "text": "バイバイ！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "cb597bbcb26e",
+    "reviewed": false
+  },
+  "pet.himu.love_you": {
+    "file": "pet.himu.love_you.mp3",
+    "lips": "pet.himu.love_you.json",
+    "speaker": "himu",
+    "text": "だいすき！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "9c1a78027558",
+    "reviewed": false
+  },
+  "pet.himu.tickles": {
+    "file": "pet.himu.tickles.mp3",
+    "lips": "pet.himu.tickles.json",
+    "speaker": "himu",
+    "text": "くすぐったい！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "0d23a70b0aa1",
+    "reviewed": false
+  },
+  "pet.himu.lets_play": {
+    "file": "pet.himu.lets_play.mp3",
+    "lips": "pet.himu.lets_play.json",
+    "speaker": "himu",
+    "text": "あそぼう！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "7f6677a6f9e7",
+    "reviewed": false
+  },
+  "pet.himu.happy_meet": {
+    "file": "pet.himu.happy_meet.mp3",
+    "lips": "pet.himu.happy_meet.json",
+    "speaker": "himu",
+    "text": "あえて うれしい！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "73a1fca75986",
+    "reviewed": false
+  },
+  "pet.himu.own1": {
+    "file": "pet.himu.own1.mp3",
+    "lips": "pet.himu.own1.json",
+    "speaker": "himu",
+    "text": "ブルブル、でも こころは ぽかぽか！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "d678b8781985",
+    "reviewed": false
+  },
+  "pet.himu.own2": {
+    "file": "pet.himu.own2.mp3",
+    "lips": "pet.himu.own2.json",
+    "speaker": "himu",
+    "text": "ゆきだま ハイタッチ！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "fed79fe33509",
+    "reviewed": false
+  },
+  "pet.himu.own3": {
+    "file": "pet.himu.own3.mp3",
+    "lips": "pet.himu.own3.json",
+    "speaker": "himu",
+    "text": "おおきいけど ちょっと はずかしがりや。",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "b96772122d34",
+    "reviewed": false
+  },
+  "pet.mimi.hi_friend": {
+    "file": "pet.mimi.hi_friend.mp3",
+    "lips": "pet.mimi.hi_friend.json",
+    "speaker": "mimi",
+    "text": "やあ、ともだち！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "420d620ead7e",
+    "reviewed": false
+  },
+  "pet.himu.own4": {
+    "file": "pet.himu.own4.mp3",
+    "lips": "pet.himu.own4.json",
+    "speaker": "himu",
+    "text": "ぬくぬく まなぼう。",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "131a188c3c3d",
+    "reviewed": false
+  },
+  "pet.mimi.yay_here": {
+    "file": "pet.mimi.yay_here.mp3",
+    "lips": "pet.mimi.yay_here.json",
+    "speaker": "mimi",
+    "text": "わーい、きてくれた！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "ae32a07b0522",
+    "reviewed": false
+  },
+  "pet.mimi.learn_together": {
+    "file": "pet.mimi.learn_together.mp3",
+    "lips": "pet.mimi.learn_together.json",
+    "speaker": "mimi",
+    "text": "いっしょに まなぼう！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "6b4e65c4a396",
+    "reviewed": false
+  },
+  "pet.mimi.yay": {
+    "file": "pet.mimi.yay.mp3",
+    "lips": "pet.mimi.yay.json",
+    "speaker": "mimi",
+    "text": "やったー！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "ff664c9735b6",
+    "reviewed": false
+  },
+  "pet.mimi.you_did_it": {
+    "file": "pet.mimi.you_did_it.mp3",
+    "lips": "pet.mimi.you_did_it.json",
+    "speaker": "mimi",
+    "text": "できたね！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "52a89e155bd1",
+    "reviewed": false
+  },
+  "pet.mimi.great_job": {
+    "file": "pet.mimi.great_job.mp3",
+    "lips": "pet.mimi.great_job.json",
+    "speaker": "mimi",
+    "text": "すごいね！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "3d7e5d4825a1",
+    "reviewed": false
+  },
+  "pet.mimi.so_clever": {
+    "file": "pet.mimi.so_clever.mp3",
+    "lips": "pet.mimi.so_clever.json",
+    "speaker": "mimi",
+    "text": "わあ、かしこい！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "b750660468a7",
+    "reviewed": false
+  },
+  "pet.mimi.high_five": {
+    "file": "pet.mimi.high_five.mp3",
+    "lips": "pet.mimi.high_five.json",
+    "speaker": "mimi",
+    "text": "ハイタッチ！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "d09833d26664",
+    "reviewed": false
+  },
+  "pet.mimi.oopsie": {
+    "file": "pet.mimi.oopsie.mp3",
+    "lips": "pet.mimi.oopsie.json",
+    "speaker": "mimi",
+    "text": "あれれ？ もういっかい！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "a535d9c49472",
+    "reviewed": false
+  },
+  "pet.mimi.you_can": {
+    "file": "pet.mimi.you_can.mp3",
+    "lips": "pet.mimi.you_can.json",
+    "speaker": "mimi",
+    "text": "きみなら できるよ！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "74a5b1827176",
+    "reviewed": false
+  },
+  "pet.mimi.ill_help": {
+    "file": "pet.mimi.ill_help.mp3",
+    "lips": "pet.mimi.ill_help.json",
+    "speaker": "mimi",
+    "text": "てつだうよ！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "6e96f6ffcc66",
+    "reviewed": false
+  },
+  "pet.mimi.say_it": {
+    "file": "pet.mimi.say_it.mp3",
+    "lips": "pet.mimi.say_it.json",
+    "speaker": "mimi",
+    "text": "いってみて、いってみて！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "8bc4a6f2d0b1",
+    "reviewed": false
+  },
+  "pet.mimi.your_turn": {
+    "file": "pet.mimi.your_turn.mp3",
+    "lips": "pet.mimi.your_turn.json",
+    "speaker": "mimi",
+    "text": "きみの ばんだよ！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "27bb9b527ab3",
+    "reviewed": false
+  },
+  "pet.mimi.listening": {
+    "file": "pet.mimi.listening.mp3",
+    "lips": "pet.mimi.listening.json",
+    "speaker": "mimi",
+    "text": "きいてるよ！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "5566242eb235",
+    "reviewed": false
+  },
+  "pet.mimi.again_again": {
+    "file": "pet.mimi.again_again.mp3",
+    "lips": "pet.mimi.again_again.json",
+    "speaker": "mimi",
+    "text": "もういっかい、もういっかい！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "150045765ced",
+    "reviewed": false
+  },
+  "pet.mimi.like_word": {
+    "file": "pet.mimi.like_word.mp3",
+    "lips": "pet.mimi.like_word.json",
+    "speaker": "mimi",
+    "text": "その ことば だいすき！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "04466af9f22f",
+    "reviewed": false
+  },
+  "pet.mimi.got_star": {
+    "file": "pet.mimi.got_star.mp3",
+    "lips": "pet.mimi.got_star.json",
+    "speaker": "mimi",
+    "text": "ほしを ゲット！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "ccbbb988bbb2",
+    "reviewed": false
+  },
+  "pet.mimi.hooray": {
+    "file": "pet.mimi.hooray.mp3",
+    "lips": "pet.mimi.hooray.json",
+    "speaker": "mimi",
+    "text": "ばんざい！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "7b3ee6666d05",
+    "reviewed": false
+  },
+  "pet.mimi.proud": {
+    "file": "pet.mimi.proud.mp3",
+    "lips": "pet.mimi.proud.json",
+    "speaker": "mimi",
+    "text": "きみの こと ほこらしいよ！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "fddaca60433f",
+    "reviewed": false
+  },
+  "pet.mimi.see_you": {
+    "file": "pet.mimi.see_you.mp3",
+    "lips": "pet.mimi.see_you.json",
+    "speaker": "mimi",
+    "text": "また あしたね！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "cf7b031da6ad",
+    "reviewed": false
+  },
+  "pet.mimi.bye": {
+    "file": "pet.mimi.bye.mp3",
+    "lips": "pet.mimi.bye.json",
+    "speaker": "mimi",
+    "text": "バイバイ！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "30fd0275ef31",
+    "reviewed": false
+  },
+  "pet.mimi.tickles": {
+    "file": "pet.mimi.tickles.mp3",
+    "lips": "pet.mimi.tickles.json",
+    "speaker": "mimi",
+    "text": "くすぐったい！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "6611a9e72dd0",
+    "reviewed": false
+  },
+  "pet.mimi.love_you": {
+    "file": "pet.mimi.love_you.mp3",
+    "lips": "pet.mimi.love_you.json",
+    "speaker": "mimi",
+    "text": "だいすき！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "120869f5799e",
+    "reviewed": false
+  },
+  "pet.mimi.lets_play": {
+    "file": "pet.mimi.lets_play.mp3",
+    "lips": "pet.mimi.lets_play.json",
+    "speaker": "mimi",
+    "text": "あそぼう！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "e4318b228516",
+    "reviewed": false
+  },
+  "pet.mimi.happy_meet": {
+    "file": "pet.mimi.happy_meet.mp3",
+    "lips": "pet.mimi.happy_meet.json",
+    "speaker": "mimi",
+    "text": "あえて うれしい！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "afb1419b7595",
+    "reviewed": false
+  },
+  "pet.mimi.own1": {
+    "file": "pet.mimi.own1.mp3",
+    "lips": "pet.mimi.own1.json",
+    "speaker": "mimi",
+    "text": "ニャー！ かんぺき！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "46c0c674f39f",
+    "reviewed": false
+  },
+  "pet.mimi.own2": {
+    "file": "pet.mimi.own2.mp3",
+    "lips": "pet.mimi.own2.json",
+    "speaker": "mimi",
+    "text": "えいっ、とびつこう！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "b7013ed496b4",
+    "reviewed": false
+  },
+  "pet.mimi.own3": {
+    "file": "pet.mimi.own3.mp3",
+    "lips": "pet.mimi.own3.json",
+    "speaker": "mimi",
+    "text": "こねこの ぎゅー！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "f9c8602766d1",
+    "reviewed": false
+  },
+  "pet.mimi.own4": {
+    "file": "pet.mimi.own4.mp3",
+    "lips": "pet.mimi.own4.json",
+    "speaker": "mimi",
+    "text": "ひげが ぴくぴく！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "e3dee4dbc9a2",
+    "reviewed": false
+  },
+  "pet.pandu.hi_friend": {
+    "file": "pet.pandu.hi_friend.mp3",
+    "lips": "pet.pandu.hi_friend.json",
+    "speaker": "pandu",
+    "text": "やあ、ともだち！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "3c798ece1a99",
+    "reviewed": false
+  },
+  "pet.pandu.yay_here": {
+    "file": "pet.pandu.yay_here.mp3",
+    "lips": "pet.pandu.yay_here.json",
+    "speaker": "pandu",
+    "text": "わーい、きてくれた！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "85002608c05b",
+    "reviewed": false
+  },
+  "pet.pandu.learn_together": {
+    "file": "pet.pandu.learn_together.mp3",
+    "lips": "pet.pandu.learn_together.json",
+    "speaker": "pandu",
+    "text": "いっしょに まなぼう！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "91db38ab4c4a",
+    "reviewed": false
+  },
+  "pet.pandu.yay": {
+    "file": "pet.pandu.yay.mp3",
+    "lips": "pet.pandu.yay.json",
+    "speaker": "pandu",
+    "text": "やったー！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "494075306615",
+    "reviewed": false
+  },
+  "pet.pandu.you_did_it": {
+    "file": "pet.pandu.you_did_it.mp3",
+    "lips": "pet.pandu.you_did_it.json",
+    "speaker": "pandu",
+    "text": "できたね！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "d6968412bed4",
+    "reviewed": false
+  },
+  "pet.pandu.great_job": {
+    "file": "pet.pandu.great_job.mp3",
+    "lips": "pet.pandu.great_job.json",
+    "speaker": "pandu",
+    "text": "すごいね！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "3177361a5792",
+    "reviewed": false
+  },
+  "pet.pandu.high_five": {
+    "file": "pet.pandu.high_five.mp3",
+    "lips": "pet.pandu.high_five.json",
+    "speaker": "pandu",
+    "text": "ハイタッチ！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "7efa1bc3a230",
+    "reviewed": false
+  },
+  "pet.pandu.so_clever": {
+    "file": "pet.pandu.so_clever.mp3",
+    "lips": "pet.pandu.so_clever.json",
+    "speaker": "pandu",
+    "text": "わあ、かしこい！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "b26fe1eebffd",
+    "reviewed": false
+  },
+  "pet.pandu.oopsie": {
+    "file": "pet.pandu.oopsie.mp3",
+    "lips": "pet.pandu.oopsie.json",
+    "speaker": "pandu",
+    "text": "あれれ？ もういっかい！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "be06264d27e9",
+    "reviewed": false
+  },
+  "pet.pandu.ill_help": {
+    "file": "pet.pandu.ill_help.mp3",
+    "lips": "pet.pandu.ill_help.json",
+    "speaker": "pandu",
+    "text": "てつだうよ！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "bec287187bcb",
+    "reviewed": false
+  },
+  "pet.pandu.you_can": {
+    "file": "pet.pandu.you_can.mp3",
+    "lips": "pet.pandu.you_can.json",
+    "speaker": "pandu",
+    "text": "きみなら できるよ！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "0132849759ee",
+    "reviewed": false
+  },
+  "pet.pandu.your_turn": {
+    "file": "pet.pandu.your_turn.mp3",
+    "lips": "pet.pandu.your_turn.json",
+    "speaker": "pandu",
+    "text": "きみの ばんだよ！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "467323a38357",
+    "reviewed": false
+  },
+  "pet.pandu.listening": {
+    "file": "pet.pandu.listening.mp3",
+    "lips": "pet.pandu.listening.json",
+    "speaker": "pandu",
+    "text": "きいてるよ！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "21195d596df3",
+    "reviewed": false
+  },
+  "pet.pandu.say_it": {
+    "file": "pet.pandu.say_it.mp3",
+    "lips": "pet.pandu.say_it.json",
+    "speaker": "pandu",
+    "text": "いってみて、いってみて！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "2994352cf889",
+    "reviewed": false
+  },
+  "pet.pandu.again_again": {
+    "file": "pet.pandu.again_again.mp3",
+    "lips": "pet.pandu.again_again.json",
+    "speaker": "pandu",
+    "text": "もういっかい、もういっかい！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "cb14faf50cf2",
+    "reviewed": false
+  },
+  "pet.pandu.like_word": {
+    "file": "pet.pandu.like_word.mp3",
+    "lips": "pet.pandu.like_word.json",
+    "speaker": "pandu",
+    "text": "その ことば だいすき！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "c9d8ff3d552a",
+    "reviewed": false
+  },
+  "pet.pandu.got_star": {
+    "file": "pet.pandu.got_star.mp3",
+    "lips": "pet.pandu.got_star.json",
+    "speaker": "pandu",
+    "text": "ほしを ゲット！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "8d9bb36711c2",
+    "reviewed": false
+  },
+  "pet.pandu.proud": {
+    "file": "pet.pandu.proud.mp3",
+    "lips": "pet.pandu.proud.json",
+    "speaker": "pandu",
+    "text": "きみの こと ほこらしいよ！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "9124dd2d5ad4",
+    "reviewed": false
+  },
+  "pet.pandu.hooray": {
+    "file": "pet.pandu.hooray.mp3",
+    "lips": "pet.pandu.hooray.json",
+    "speaker": "pandu",
+    "text": "ばんざい！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "24e160f95a53",
+    "reviewed": false
+  },
+  "pet.pandu.bye": {
+    "file": "pet.pandu.bye.mp3",
+    "lips": "pet.pandu.bye.json",
+    "speaker": "pandu",
+    "text": "バイバイ！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "4c29af698888",
+    "reviewed": false
+  },
+  "pet.pandu.see_you": {
+    "file": "pet.pandu.see_you.mp3",
+    "lips": "pet.pandu.see_you.json",
+    "speaker": "pandu",
+    "text": "また あしたね！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "87b47de978f6",
+    "reviewed": false
+  },
+  "pet.pandu.tickles": {
+    "file": "pet.pandu.tickles.mp3",
+    "lips": "pet.pandu.tickles.json",
+    "speaker": "pandu",
+    "text": "くすぐったい！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "16ab4a3ee915",
+    "reviewed": false
+  },
+  "pet.pandu.love_you": {
+    "file": "pet.pandu.love_you.mp3",
+    "lips": "pet.pandu.love_you.json",
+    "speaker": "pandu",
+    "text": "だいすき！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "c887c42826e3",
+    "reviewed": false
+  },
+  "pet.pandu.lets_play": {
+    "file": "pet.pandu.lets_play.mp3",
+    "lips": "pet.pandu.lets_play.json",
+    "speaker": "pandu",
+    "text": "あそぼう！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "88023d477513",
+    "reviewed": false
+  },
+  "pet.pandu.happy_meet": {
+    "file": "pet.pandu.happy_meet.mp3",
+    "lips": "pet.pandu.happy_meet.json",
+    "speaker": "pandu",
+    "text": "あえて うれしい！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "5e1797c70365",
+    "reviewed": false
+  },
+  "pet.pandu.own1": {
+    "file": "pet.pandu.own1.mp3",
+    "lips": "pet.pandu.own1.json",
+    "speaker": "pandu",
+    "text": "おやつ？ うそだよ！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "32b78613ddb6",
+    "reviewed": false
+  },
+  "pet.pandu.own2": {
+    "file": "pet.pandu.own2.mp3",
+    "lips": "pet.pandu.own2.json",
+    "speaker": "pandu",
+    "text": "ふあ～… ううん、おきてるよ！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "1da2943ef7d1",
+    "reviewed": false
+  },
+  "pet.pandu.own3": {
+    "file": "pet.pandu.own3.mp3",
+    "lips": "pet.pandu.own3.json",
+    "speaker": "pandu",
+    "text": "ぎゅーの じかん！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "973c19695b07",
+    "reviewed": false
+  },
+  "pet.stardust.hi_friend": {
+    "file": "pet.stardust.hi_friend.mp3",
+    "lips": "pet.stardust.hi_friend.json",
+    "speaker": "stardust",
+    "text": "やあ、ともだち！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "807d3f52eb02",
+    "reviewed": false
+  },
+  "pet.pandu.own4": {
+    "file": "pet.pandu.own4.mp3",
+    "lips": "pet.pandu.own4.json",
+    "speaker": "pandu",
+    "text": "ゆっくり ふんわり、いくよ。",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "c0cb2e8fab25",
+    "reviewed": false
+  },
+  "pet.stardust.yay_here": {
+    "file": "pet.stardust.yay_here.mp3",
+    "lips": "pet.stardust.yay_here.json",
+    "speaker": "stardust",
+    "text": "わーい、きてくれた！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "97303cb1d11a",
+    "reviewed": false
+  },
+  "pet.stardust.yay": {
+    "file": "pet.stardust.yay.mp3",
+    "lips": "pet.stardust.yay.json",
+    "speaker": "stardust",
+    "text": "やったー！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "5842062d47d3",
+    "reviewed": false
+  },
+  "pet.stardust.learn_together": {
+    "file": "pet.stardust.learn_together.mp3",
+    "lips": "pet.stardust.learn_together.json",
+    "speaker": "stardust",
+    "text": "いっしょに まなぼう！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "c22c7ccbd256",
+    "reviewed": false
+  },
+  "pet.stardust.you_did_it": {
+    "file": "pet.stardust.you_did_it.mp3",
+    "lips": "pet.stardust.you_did_it.json",
+    "speaker": "stardust",
+    "text": "できたね！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "bfb5c009e751",
+    "reviewed": false
+  },
+  "pet.stardust.great_job": {
+    "file": "pet.stardust.great_job.mp3",
+    "lips": "pet.stardust.great_job.json",
+    "speaker": "stardust",
+    "text": "すごいね！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "84da5df62f4d",
+    "reviewed": false
+  },
+  "pet.stardust.so_clever": {
+    "file": "pet.stardust.so_clever.mp3",
+    "lips": "pet.stardust.so_clever.json",
+    "speaker": "stardust",
+    "text": "わあ、かしこい！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "13588ef40e4d",
+    "reviewed": false
+  },
+  "pet.stardust.high_five": {
+    "file": "pet.stardust.high_five.mp3",
+    "lips": "pet.stardust.high_five.json",
+    "speaker": "stardust",
+    "text": "ハイタッチ！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "c5b991f2233f",
+    "reviewed": false
+  },
+  "pet.stardust.you_can": {
+    "file": "pet.stardust.you_can.mp3",
+    "lips": "pet.stardust.you_can.json",
+    "speaker": "stardust",
+    "text": "きみなら できるよ！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "9acaac6573be",
+    "reviewed": false
+  },
+  "pet.stardust.oopsie": {
+    "file": "pet.stardust.oopsie.mp3",
+    "lips": "pet.stardust.oopsie.json",
+    "speaker": "stardust",
+    "text": "あれれ？ もういっかい！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "2d1749a64f35",
+    "reviewed": false
+  },
+  "pet.stardust.ill_help": {
+    "file": "pet.stardust.ill_help.mp3",
+    "lips": "pet.stardust.ill_help.json",
+    "speaker": "stardust",
+    "text": "てつだうよ！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "7fb4e2d85983",
+    "reviewed": false
+  },
+  "pet.stardust.listening": {
+    "file": "pet.stardust.listening.mp3",
+    "lips": "pet.stardust.listening.json",
+    "speaker": "stardust",
+    "text": "きいてるよ！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "05b1e63bd275",
+    "reviewed": false
+  },
+  "pet.stardust.say_it": {
+    "file": "pet.stardust.say_it.mp3",
+    "lips": "pet.stardust.say_it.json",
+    "speaker": "stardust",
+    "text": "いってみて、いってみて！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "81bf8fc31eca",
+    "reviewed": false
+  },
+  "pet.stardust.your_turn": {
+    "file": "pet.stardust.your_turn.mp3",
+    "lips": "pet.stardust.your_turn.json",
+    "speaker": "stardust",
+    "text": "きみの ばんだよ！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "b8ab0930abf2",
+    "reviewed": false
+  },
+  "pet.stardust.like_word": {
+    "file": "pet.stardust.like_word.mp3",
+    "lips": "pet.stardust.like_word.json",
+    "speaker": "stardust",
+    "text": "その ことば だいすき！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "164f0b20d4f1",
+    "reviewed": false
+  },
+  "pet.stardust.again_again": {
+    "file": "pet.stardust.again_again.mp3",
+    "lips": "pet.stardust.again_again.json",
+    "speaker": "stardust",
+    "text": "もういっかい、もういっかい！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "a5744163f5db",
+    "reviewed": false
+  },
+  "pet.stardust.got_star": {
+    "file": "pet.stardust.got_star.mp3",
+    "lips": "pet.stardust.got_star.json",
+    "speaker": "stardust",
+    "text": "ほしを ゲット！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "e9faae66736e",
+    "reviewed": false
+  },
+  "pet.stardust.hooray": {
+    "file": "pet.stardust.hooray.mp3",
+    "lips": "pet.stardust.hooray.json",
+    "speaker": "stardust",
+    "text": "ばんざい！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "53e1e8602e9c",
+    "reviewed": false
+  },
+  "pet.stardust.proud": {
+    "file": "pet.stardust.proud.mp3",
+    "lips": "pet.stardust.proud.json",
+    "speaker": "stardust",
+    "text": "きみの こと ほこらしいよ！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "5fadd8030301",
+    "reviewed": false
+  },
+  "pet.stardust.see_you": {
+    "file": "pet.stardust.see_you.mp3",
+    "lips": "pet.stardust.see_you.json",
+    "speaker": "stardust",
+    "text": "また あしたね！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "97e84ff54a48",
+    "reviewed": false
+  },
+  "pet.stardust.bye": {
+    "file": "pet.stardust.bye.mp3",
+    "lips": "pet.stardust.bye.json",
+    "speaker": "stardust",
+    "text": "バイバイ！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "4b1fa236df62",
+    "reviewed": false
+  },
+  "pet.stardust.tickles": {
+    "file": "pet.stardust.tickles.mp3",
+    "lips": "pet.stardust.tickles.json",
+    "speaker": "stardust",
+    "text": "くすぐったい！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "5751f967c4cd",
+    "reviewed": false
+  },
+  "pet.stardust.love_you": {
+    "file": "pet.stardust.love_you.mp3",
+    "lips": "pet.stardust.love_you.json",
+    "speaker": "stardust",
+    "text": "だいすき！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "42a8f315374c",
+    "reviewed": false
+  },
+  "pet.stardust.lets_play": {
+    "file": "pet.stardust.lets_play.mp3",
+    "lips": "pet.stardust.lets_play.json",
+    "speaker": "stardust",
+    "text": "あそぼう！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "2465e422da77",
+    "reviewed": false
+  },
+  "pet.stardust.happy_meet": {
+    "file": "pet.stardust.happy_meet.mp3",
+    "lips": "pet.stardust.happy_meet.json",
+    "speaker": "stardust",
+    "text": "あえて うれしい！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "dcf1c41dd3d7",
+    "reviewed": false
+  },
+  "pet.stardust.own1": {
+    "file": "pet.stardust.own1.mp3",
+    "lips": "pet.stardust.own1.json",
+    "speaker": "stardust",
+    "text": "キラキラ！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "aa1d91284e88",
+    "reviewed": false
+  },
+  "pet.stardust.own2": {
+    "file": "pet.stardust.own2.mp3",
+    "lips": "pet.stardust.own2.json",
+    "speaker": "stardust",
+    "text": "まほうみたい！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "4f18d073072d",
+    "reviewed": false
+  },
+  "pet.stardust.own3": {
+    "file": "pet.stardust.own3.mp3",
+    "lips": "pet.stardust.own3.json",
+    "speaker": "stardust",
+    "text": "いろを つけよう！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "a1b760afc06b",
+    "reviewed": false
+  },
+  "pet.stardust.own4": {
+    "file": "pet.stardust.own4.mp3",
+    "lips": "pet.stardust.own4.json",
+    "speaker": "stardust",
+    "text": "おねがいごと しよう！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "20eb7ed78a43",
+    "reviewed": false
+  },
+  "pet.roary.hi_friend": {
+    "file": "pet.roary.hi_friend.mp3",
+    "lips": "pet.roary.hi_friend.json",
+    "speaker": "roary",
+    "text": "やあ、ともだち！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "1524ff2a739f",
+    "reviewed": false
+  },
+  "pet.roary.yay_here": {
+    "file": "pet.roary.yay_here.mp3",
+    "lips": "pet.roary.yay_here.json",
+    "speaker": "roary",
+    "text": "わーい、きてくれた！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "453c30f43d0c",
+    "reviewed": false
+  },
+  "pet.roary.learn_together": {
+    "file": "pet.roary.learn_together.mp3",
+    "lips": "pet.roary.learn_together.json",
+    "speaker": "roary",
+    "text": "いっしょに まなぼう！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "c9f1fdff9fb0",
+    "reviewed": false
+  },
+  "pet.roary.you_did_it": {
+    "file": "pet.roary.you_did_it.mp3",
+    "lips": "pet.roary.you_did_it.json",
+    "speaker": "roary",
+    "text": "できたね！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "26577e344089",
+    "reviewed": false
+  },
+  "pet.roary.yay": {
+    "file": "pet.roary.yay.mp3",
+    "lips": "pet.roary.yay.json",
+    "speaker": "roary",
+    "text": "やったー！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "accb9be768d5",
+    "reviewed": false
+  },
+  "pet.roary.great_job": {
+    "file": "pet.roary.great_job.mp3",
+    "lips": "pet.roary.great_job.json",
+    "speaker": "roary",
+    "text": "すごいね！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "2b2b4e671e3c",
+    "reviewed": false
+  },
+  "pet.roary.high_five": {
+    "file": "pet.roary.high_five.mp3",
+    "lips": "pet.roary.high_five.json",
+    "speaker": "roary",
+    "text": "ハイタッチ！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "3c431b4c533f",
+    "reviewed": false
+  },
+  "pet.roary.so_clever": {
+    "file": "pet.roary.so_clever.mp3",
+    "lips": "pet.roary.so_clever.json",
+    "speaker": "roary",
+    "text": "わあ、かしこい！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "d3bd6cd266bf",
+    "reviewed": false
+  },
+  "pet.roary.oopsie": {
+    "file": "pet.roary.oopsie.mp3",
+    "lips": "pet.roary.oopsie.json",
+    "speaker": "roary",
+    "text": "あれれ？ もういっかい！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "d3d59484b8df",
+    "reviewed": false
+  },
+  "pet.roary.you_can": {
+    "file": "pet.roary.you_can.mp3",
+    "lips": "pet.roary.you_can.json",
+    "speaker": "roary",
+    "text": "きみなら できるよ！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "2aa7a693a051",
+    "reviewed": false
+  },
+  "pet.roary.your_turn": {
+    "file": "pet.roary.your_turn.mp3",
+    "lips": "pet.roary.your_turn.json",
+    "speaker": "roary",
+    "text": "きみの ばんだよ！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "8c6456c76132",
+    "reviewed": false
+  },
+  "pet.roary.ill_help": {
+    "file": "pet.roary.ill_help.mp3",
+    "lips": "pet.roary.ill_help.json",
+    "speaker": "roary",
+    "text": "てつだうよ！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "c164f0fa2347",
+    "reviewed": false
+  },
+  "pet.roary.listening": {
+    "file": "pet.roary.listening.mp3",
+    "lips": "pet.roary.listening.json",
+    "speaker": "roary",
+    "text": "きいてるよ！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "d897c809cb0e",
+    "reviewed": false
+  },
+  "pet.roary.say_it": {
+    "file": "pet.roary.say_it.mp3",
+    "lips": "pet.roary.say_it.json",
+    "speaker": "roary",
+    "text": "いってみて、いってみて！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "637688da0a39",
+    "reviewed": false
+  },
+  "pet.roary.again_again": {
+    "file": "pet.roary.again_again.mp3",
+    "lips": "pet.roary.again_again.json",
+    "speaker": "roary",
+    "text": "もういっかい、もういっかい！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "d078daa99087",
+    "reviewed": false
+  },
+  "pet.roary.got_star": {
+    "file": "pet.roary.got_star.mp3",
+    "lips": "pet.roary.got_star.json",
+    "speaker": "roary",
+    "text": "ほしを ゲット！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "a316488a7ad1",
+    "reviewed": false
+  },
+  "pet.roary.like_word": {
+    "file": "pet.roary.like_word.mp3",
+    "lips": "pet.roary.like_word.json",
+    "speaker": "roary",
+    "text": "その ことば だいすき！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "731ea572d994",
+    "reviewed": false
+  },
+  "pet.roary.proud": {
+    "file": "pet.roary.proud.mp3",
+    "lips": "pet.roary.proud.json",
+    "speaker": "roary",
+    "text": "きみの こと ほこらしいよ！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "97ddededc776",
+    "reviewed": false
+  },
+  "pet.roary.hooray": {
+    "file": "pet.roary.hooray.mp3",
+    "lips": "pet.roary.hooray.json",
+    "speaker": "roary",
+    "text": "ばんざい！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "571b0dac578b",
+    "reviewed": false
+  },
+  "pet.roary.bye": {
+    "file": "pet.roary.bye.mp3",
+    "lips": "pet.roary.bye.json",
+    "speaker": "roary",
+    "text": "バイバイ！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "b6b3503727fc",
+    "reviewed": false
+  },
+  "pet.roary.see_you": {
+    "file": "pet.roary.see_you.mp3",
+    "lips": "pet.roary.see_you.json",
+    "speaker": "roary",
+    "text": "また あしたね！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "bf1f68bf6d67",
+    "reviewed": false
+  },
+  "pet.roary.love_you": {
+    "file": "pet.roary.love_you.mp3",
+    "lips": "pet.roary.love_you.json",
+    "speaker": "roary",
+    "text": "だいすき！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "ba87b8d90912",
+    "reviewed": false
+  },
+  "pet.roary.lets_play": {
+    "file": "pet.roary.lets_play.mp3",
+    "lips": "pet.roary.lets_play.json",
+    "speaker": "roary",
+    "text": "あそぼう！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "75cccaa75c66",
+    "reviewed": false
+  },
+  "pet.roary.tickles": {
+    "file": "pet.roary.tickles.mp3",
+    "lips": "pet.roary.tickles.json",
+    "speaker": "roary",
+    "text": "くすぐったい！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "9501665b733d",
+    "reviewed": false
+  },
+  "pet.roary.happy_meet": {
+    "file": "pet.roary.happy_meet.mp3",
+    "lips": "pet.roary.happy_meet.json",
+    "speaker": "roary",
+    "text": "あえて うれしい！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "96cdea44effb",
+    "reviewed": false
+  },
+  "pet.roary.own1": {
+    "file": "pet.roary.own1.mp3",
+    "lips": "pet.roary.own1.json",
+    "speaker": "roary",
+    "text": "ガオー！ きみは チャンピオン！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "386c8fb937c9",
+    "reviewed": false
+  },
+  "pet.roary.own2": {
+    "file": "pet.roary.own2.mp3",
+    "lips": "pet.roary.own2.json",
+    "speaker": "roary",
+    "text": "ゆうきを だして、ちいさな ともだち！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "b9dd3fc2b3d6",
+    "reviewed": false
+  },
+  "pet.roary.own3": {
+    "file": "pet.roary.own3.mp3",
+    "lips": "pet.roary.own3.json",
+    "speaker": "roary",
+    "text": "まなびの おうさま！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "2a7567783c75",
+    "reviewed": false
+  },
+  "pet.roary.own4": {
+    "file": "pet.roary.own4.mp3",
+    "lips": "pet.roary.own4.json",
+    "speaker": "roary",
+    "text": "おおきな こえで ガオー！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "b2dbdbece9a8",
+    "reviewed": false
+  },
+  "pet.sparky.start_today": {
+    "file": "pet.sparky.start_today.mp3",
+    "lips": "pet.sparky.start_today.json",
+    "speaker": "sparky",
+    "text": "きょうの レッスンを はじめよう！",
+    "voice_id": "wWN5mhEFMb1VZjzzM77T",
+    "model": "eleven_v3",
+    "fp": "9bf9ad9d9365",
+    "reviewed": false
+  },
+  "pet.beep.start_today": {
+    "file": "pet.beep.start_today.mp3",
+    "lips": "pet.beep.start_today.json",
+    "speaker": "beep",
+    "text": "きょうの レッスンを はじめよう！",
+    "voice_id": "0a3IxNETlrhfyUeji5Bi",
+    "model": "eleven_v3",
+    "fp": "ef55a16d5e00",
+    "reviewed": false
+  },
+  "pet.gaju.start_today": {
+    "file": "pet.gaju.start_today.mp3",
+    "lips": "pet.gaju.start_today.json",
+    "speaker": "gaju",
+    "text": "きょうの レッスンを はじめよう！",
+    "voice_id": "1aXEj8fVDRJJrAUmFuMi",
+    "model": "eleven_v3",
+    "fp": "62185269a0fe",
+    "reviewed": false
+  },
+  "pet.bobo.start_today": {
+    "file": "pet.bobo.start_today.mp3",
+    "lips": "pet.bobo.start_today.json",
+    "speaker": "bobo",
+    "text": "きょうの レッスンを はじめよう！",
+    "voice_id": "bjxEywpm0XXDJKEXWRhM",
+    "model": "eleven_v3",
+    "fp": "e888c2f73866",
+    "reviewed": false
+  },
+  "pet.himu.start_today": {
+    "file": "pet.himu.start_today.mp3",
+    "lips": "pet.himu.start_today.json",
+    "speaker": "himu",
+    "text": "きょうの レッスンを はじめよう！",
+    "voice_id": "XH3VN5VEH4pbC5o747Sp",
+    "model": "eleven_v3",
+    "fp": "23243af12243",
+    "reviewed": false
+  },
+  "pet.mimi.start_today": {
+    "file": "pet.mimi.start_today.mp3",
+    "lips": "pet.mimi.start_today.json",
+    "speaker": "mimi",
+    "text": "きょうの レッスンを はじめよう！",
+    "voice_id": "GKrmsUfKFtoNd7yaujNo",
+    "model": "eleven_v3",
+    "fp": "6ecf6b651c6c",
+    "reviewed": false
+  },
+  "pet.pandu.start_today": {
+    "file": "pet.pandu.start_today.mp3",
+    "lips": "pet.pandu.start_today.json",
+    "speaker": "pandu",
+    "text": "きょうの レッスンを はじめよう！",
+    "voice_id": "Z7imKXqyYj1dGEyMOdEi",
+    "model": "eleven_v3",
+    "fp": "ca0c8664cfea",
+    "reviewed": false
+  },
+  "pet.stardust.start_today": {
+    "file": "pet.stardust.start_today.mp3",
+    "lips": "pet.stardust.start_today.json",
+    "speaker": "stardust",
+    "text": "きょうの レッスンを はじめよう！",
+    "voice_id": "cmMw0HnqcNsZcY9sXIej",
+    "model": "eleven_v3",
+    "fp": "103e5620aa89",
+    "reviewed": false
+  },
+  "pet.roary.start_today": {
+    "file": "pet.roary.start_today.mp3",
+    "lips": "pet.roary.start_today.json",
+    "speaker": "roary",
+    "text": "きょうの レッスンを はじめよう！",
+    "voice_id": "e6N4JpjO04lcctWK4z7v",
+    "model": "eleven_v3",
+    "fp": "8b6b2064abcc",
+    "reviewed": false
+  },
+  "t.good_afternoon.asha": {
+    "file": "t.good_afternoon.asha.mp3",
+    "lips": "t.good_afternoon.asha.json",
+    "speaker": "asha",
+    "text": "こんにちは！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "ec4a6ce7f622",
+    "reviewed": false
+  },
+  "t.good_evening.asha": {
+    "file": "t.good_evening.asha.mp3",
+    "lips": "t.good_evening.asha.json",
+    "speaker": "asha",
+    "text": "こんばんは！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "2782c55e55b4",
+    "reviewed": false
+  },
+  "t.welcome_back.asha": {
+    "file": "t.welcome_back.asha.mp3",
+    "lips": "t.welcome_back.asha.json",
+    "speaker": "asha",
+    "text": "おかえり！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "8ec2e2d08fc0",
+    "reviewed": false
+  },
+  "t.hi_there.asha": {
+    "file": "t.hi_there.asha.mp3",
+    "lips": "t.hi_there.asha.json",
+    "speaker": "asha",
+    "text": "やあ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "4217c386104f",
+    "reviewed": false
+  },
+  "t.nice_to_see.asha": {
+    "file": "t.nice_to_see.asha.mp3",
+    "lips": "t.nice_to_see.asha.json",
+    "speaker": "asha",
+    "text": "あえて うれしいな！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "892dfbe9380c",
+    "reviewed": false
+  },
+  "t.fun_today.asha": {
+    "file": "t.fun_today.asha.mp3",
+    "lips": "t.fun_today.asha.json",
+    "speaker": "asha",
+    "text": "きょうも たのしもうね！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "5f9ec02b08e7",
+    "reviewed": false
+  },
+  "t.missed_you.asha": {
+    "file": "t.missed_you.asha.mp3",
+    "lips": "t.missed_you.asha.json",
+    "speaker": "asha",
+    "text": "あいたかったよ！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "07b6c7b85635",
+    "reviewed": false
+  },
+  "t.yay_youre_here.asha": {
+    "file": "t.yay_youre_here.asha.mp3",
+    "lips": "t.yay_youre_here.asha.json",
+    "speaker": "asha",
+    "text": "きてくれたね、やったー！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "16f1dd5deef2",
+    "reviewed": false
+  },
+  "t.so_happy.asha": {
+    "file": "t.so_happy.asha.mp3",
+    "lips": "t.so_happy.asha.json",
+    "speaker": "asha",
+    "text": "きてくれて うれしい！",
+    "voice_id": "30Bl9aRayVzd7rYeBNHc",
+    "model": "eleven_v3",
+    "fp": "bb37f1ca4111",
+    "reviewed": false
+  },
+  "t.good_afternoon.leo": {
+    "file": "t.good_afternoon.leo.mp3",
+    "lips": "t.good_afternoon.leo.json",
+    "speaker": "leo",
+    "text": "こんにちは！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "d5dc121f4030",
+    "reviewed": false
+  },
+  "t.good_evening.leo": {
+    "file": "t.good_evening.leo.mp3",
+    "lips": "t.good_evening.leo.json",
+    "speaker": "leo",
+    "text": "こんばんは！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "5766343bf918",
+    "reviewed": false
+  },
+  "t.welcome_back.leo": {
+    "file": "t.welcome_back.leo.mp3",
+    "lips": "t.welcome_back.leo.json",
+    "speaker": "leo",
+    "text": "おかえり！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "9494219ee60d",
+    "reviewed": false
+  },
+  "t.hi_there.leo": {
+    "file": "t.hi_there.leo.mp3",
+    "lips": "t.hi_there.leo.json",
+    "speaker": "leo",
+    "text": "やあ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "78551fbd6f2e",
+    "reviewed": false
+  },
+  "t.nice_to_see.leo": {
+    "file": "t.nice_to_see.leo.mp3",
+    "lips": "t.nice_to_see.leo.json",
+    "speaker": "leo",
+    "text": "あえて うれしいな！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "603dac4c2050",
+    "reviewed": false
+  },
+  "t.fun_today.leo": {
+    "file": "t.fun_today.leo.mp3",
+    "lips": "t.fun_today.leo.json",
+    "speaker": "leo",
+    "text": "きょうも たのしもうね！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "a58bdbda2bed",
+    "reviewed": false
+  },
+  "t.missed_you.leo": {
+    "file": "t.missed_you.leo.mp3",
+    "lips": "t.missed_you.leo.json",
+    "speaker": "leo",
+    "text": "あいたかったよ！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "5363fcf15610",
+    "reviewed": false
+  },
+  "t.yay_youre_here.leo": {
+    "file": "t.yay_youre_here.leo.mp3",
+    "lips": "t.yay_youre_here.leo.json",
+    "speaker": "leo",
+    "text": "きてくれたね、やったー！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "3c3ccb626e7c",
+    "reviewed": false
+  },
+  "t.so_happy.leo": {
+    "file": "t.so_happy.leo.mp3",
+    "lips": "t.so_happy.leo.json",
+    "speaker": "leo",
+    "text": "きてくれて うれしい！",
+    "voice_id": "DBdD5ZW8DJLXT7rWpigm",
+    "model": "eleven_v3",
+    "fp": "c1787bad2dc2",
+    "reviewed": false
+  }
+}

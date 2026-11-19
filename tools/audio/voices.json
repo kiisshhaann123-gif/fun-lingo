@@ -1,0 +1,97 @@
+{
+  "_note": "Teacher voices are per language. Pet voices are one designed voice per pet, used for every language. Get IDs with: python3 generate_audio.py voices",
+  "model": "eleven_v3",
+  "output_format": "mp3_44100_128",
+  "seed": 1234,
+  "voice_settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75
+  },
+  "languages": {
+    "en": {
+      "asha": {
+        "name": "Jessica - playful, bright, young",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+      },
+      "leo": {
+        "name": "Will - relaxed optimist, young",
+        "voice_id": "bIHbv24MWmeRgasZH58o"
+      }
+    },
+    "ja": {
+      "asha": {
+        "name": "Kaori - cute & calm",
+        "voice_id": "30Bl9aRayVzd7rYeBNHc"
+      },
+      "leo": {
+        "name": "Kai - calm, young",
+        "voice_id": "DBdD5ZW8DJLXT7rWpigm"
+      }
+    },
+    "ko": {
+      "asha": {
+        "name": "Misa - young",
+        "voice_id": "2obFZ2qzlHVHizboKKN9"
+      },
+      "leo": {
+        "name": "Jandi - young, casual",
+        "voice_id": "bs12fnQaJCO5NPRLmdaw"
+      }
+    },
+    "ne": {
+      "asha": {
+        "name": "Sarita - calm, young",
+        "voice_id": "ljCTqT1biPnI7ZjS5gyi"
+      },
+      "leo": {
+        "name": "Ashok Pokhrel - educational, young",
+        "voice_id": "dn3M2FqG5VIRePAJqGHz"
+      }
+    }
+  },
+  "preview_lines": {
+    "en": "Hello! Let's learn together. Dog! Cat!",
+    "ja": "こんにちは！いっしょにまなぼう。いぬ！ねこ！",
+    "ko": "안녕하세요! 같이 배워요. 강아지! 고양이!",
+    "ne": "नमस्ते! सँगै सिकौं। कुकुर! बिरालो!"
+  },
+  "pets": {
+    "beep": {
+      "name": "Beep - robot",
+      "voice_id": "0a3IxNETlrhfyUeji5Bi"
+    },
+    "gaju": {
+      "name": "Gaju - elephant",
+      "voice_id": "1aXEj8fVDRJJrAUmFuMi"
+    },
+    "sparky": {
+      "name": "Sparky - dragon",
+      "voice_id": "wWN5mhEFMb1VZjzzM77T"
+    },
+    "bobo": {
+      "name": "Bobo - monkey",
+      "voice_id": "bjxEywpm0XXDJKEXWRhM"
+    },
+    "himu": {
+      "name": "Himu - yeti",
+      "voice_id": "XH3VN5VEH4pbC5o747Sp"
+    },
+    "mimi": {
+      "name": "Mimi - kitten",
+      "voice_id": "GKrmsUfKFtoNd7yaujNo"
+    },
+    "pandu": {
+      "name": "Pandu - red panda",
+      "voice_id": "Z7imKXqyYj1dGEyMOdEi"
+    },
+    "stardust": {
+      "name": "Stardust - unicorn",
+      "voice_id": "cmMw0HnqcNsZcY9sXIej"
+    },
+    "roary": {
+      "name": "Roary - lion cub",
+      "voice_id": "e6N4JpjO04lcctWK4z7v"
+    }
+  },
+  "parallel": 3
+}

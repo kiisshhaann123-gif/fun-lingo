@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.pandu.tickles.tmp.wav",
+    "duration": 2.35
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.12, "value": "B" },
+    { "start": 0.12, "end": 0.26, "value": "G" },
+    { "start": 0.26, "end": 0.47, "value": "C" },
+    { "start": 0.47, "end": 0.64, "value": "B" },
+    { "start": 0.64, "end": 0.78, "value": "C" },
+    { "start": 0.78, "end": 1.06, "value": "B" },
+    { "start": 1.06, "end": 2.35, "value": "X" }
+  ]
+}

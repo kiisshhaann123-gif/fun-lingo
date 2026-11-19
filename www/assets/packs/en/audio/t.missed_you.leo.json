@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/t.missed_you.leo.tmp.wav",
+    "duration": 1.30
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.06, "value": "X" },
+    { "start": 0.06, "end": 0.19, "value": "D" },
+    { "start": 0.19, "end": 0.26, "value": "B" },
+    { "start": 0.26, "end": 0.39, "value": "A" },
+    { "start": 0.39, "end": 0.75, "value": "B" },
+    { "start": 0.75, "end": 1.17, "value": "F" },
+    { "start": 1.17, "end": 1.30, "value": "X" }
+  ]
+}

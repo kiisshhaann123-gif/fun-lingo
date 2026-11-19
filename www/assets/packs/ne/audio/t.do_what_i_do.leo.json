@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/t.do_what_i_do.leo.tmp.wav",
+    "duration": 0.67
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.06, "value": "B" },
+    { "start": 0.06, "end": 0.07, "value": "X" },
+    { "start": 0.07, "end": 0.13, "value": "A" },
+    { "start": 0.13, "end": 0.31, "value": "B" },
+    { "start": 0.31, "end": 0.45, "value": "C" },
+    { "start": 0.45, "end": 0.66, "value": "B" },
+    { "start": 0.66, "end": 0.67, "value": "X" }
+  ]
+}

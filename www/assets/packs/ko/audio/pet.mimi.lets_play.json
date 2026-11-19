@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.mimi.lets_play.tmp.wav",
+    "duration": 1.14
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.22, "value": "C" },
+    { "start": 0.22, "end": 0.66, "value": "B" },
+    { "start": 0.66, "end": 0.71, "value": "A" },
+    { "start": 0.71, "end": 0.79, "value": "B" },
+    { "start": 0.79, "end": 1.14, "value": "X" }
+  ]
+}

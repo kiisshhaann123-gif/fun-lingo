@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/t.yay_youre_here.leo.tmp.wav",
+    "duration": 1.95
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.03, "value": "X" },
+    { "start": 0.03, "end": 0.16, "value": "F" },
+    { "start": 0.16, "end": 0.90, "value": "B" },
+    { "start": 0.90, "end": 1.31, "value": "C" },
+    { "start": 1.31, "end": 1.52, "value": "B" },
+    { "start": 1.52, "end": 1.66, "value": "C" },
+    { "start": 1.66, "end": 1.73, "value": "B" },
+    { "start": 1.73, "end": 1.95, "value": "X" }
+  ]
+}

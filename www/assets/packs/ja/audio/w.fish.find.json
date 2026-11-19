@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/w.fish.find.tmp.wav",
+    "duration": 1.48
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.06, "value": "B" },
+    { "start": 0.06, "end": 0.39, "value": "C" },
+    { "start": 0.39, "end": 0.50, "value": "A" },
+    { "start": 0.50, "end": 0.63, "value": "B" },
+    { "start": 0.63, "end": 0.70, "value": "C" },
+    { "start": 0.70, "end": 0.84, "value": "B" },
+    { "start": 0.84, "end": 0.92, "value": "F" },
+    { "start": 0.92, "end": 1.00, "value": "A" },
+    { "start": 1.00, "end": 1.33, "value": "F" },
+    { "start": 1.33, "end": 1.47, "value": "B" },
+    { "start": 1.47, "end": 1.48, "value": "X" }
+  ]
+}

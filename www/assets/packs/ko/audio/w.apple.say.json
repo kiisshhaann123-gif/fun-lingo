@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/w.apple.say.tmp.wav",
+    "duration": 0.67
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.13, "value": "B" },
+    { "start": 0.13, "end": 0.20, "value": "G" },
+    { "start": 0.20, "end": 0.28, "value": "A" },
+    { "start": 0.28, "end": 0.52, "value": "F" },
+    { "start": 0.52, "end": 0.66, "value": "B" },
+    { "start": 0.66, "end": 0.67, "value": "X" }
+  ]
+}

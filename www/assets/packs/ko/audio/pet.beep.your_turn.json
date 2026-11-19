@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.beep.your_turn.tmp.wav",
+    "duration": 0.99
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.17, "value": "B" },
+    { "start": 0.17, "end": 0.24, "value": "C" },
+    { "start": 0.24, "end": 0.38, "value": "A" },
+    { "start": 0.38, "end": 0.44, "value": "B" },
+    { "start": 0.44, "end": 0.77, "value": "C" },
+    { "start": 0.77, "end": 0.91, "value": "E" },
+    { "start": 0.91, "end": 0.98, "value": "B" },
+    { "start": 0.98, "end": 0.99, "value": "X" }
+  ]
+}

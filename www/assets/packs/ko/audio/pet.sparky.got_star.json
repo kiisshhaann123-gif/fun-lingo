@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.sparky.got_star.tmp.wav",
+    "duration": 1.22
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "B" },
+    { "start": 0.05, "end": 0.17, "value": "F" },
+    { "start": 0.17, "end": 0.24, "value": "B" },
+    { "start": 0.24, "end": 0.33, "value": "A" },
+    { "start": 0.33, "end": 0.40, "value": "B" },
+    { "start": 0.40, "end": 0.53, "value": "C" },
+    { "start": 0.53, "end": 0.67, "value": "B" },
+    { "start": 0.67, "end": 1.02, "value": "C" },
+    { "start": 1.02, "end": 1.13, "value": "A" },
+    { "start": 1.13, "end": 1.21, "value": "F" },
+    { "start": 1.21, "end": 1.22, "value": "X" }
+  ]
+}

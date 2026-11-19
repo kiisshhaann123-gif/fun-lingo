@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/w.baby.look.tmp.wav",
+    "duration": 2.11
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.41, "value": "F" },
+    { "start": 0.41, "end": 0.69, "value": "B" },
+    { "start": 0.69, "end": 1.26, "value": "X" },
+    { "start": 1.26, "end": 1.67, "value": "B" },
+    { "start": 1.67, "end": 1.74, "value": "C" },
+    { "start": 1.74, "end": 2.02, "value": "B" },
+    { "start": 2.02, "end": 2.10, "value": "A" },
+    { "start": 2.10, "end": 2.11, "value": "X" }
+  ]
+}

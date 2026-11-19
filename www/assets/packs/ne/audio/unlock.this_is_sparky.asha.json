@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/unlock.this_is_sparky.asha.tmp.wav",
+    "duration": 1.72
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.10, "value": "B" },
+    { "start": 0.10, "end": 0.31, "value": "F" },
+    { "start": 0.31, "end": 0.45, "value": "E" },
+    { "start": 0.45, "end": 0.80, "value": "B" },
+    { "start": 0.80, "end": 1.01, "value": "C" },
+    { "start": 1.01, "end": 1.08, "value": "B" },
+    { "start": 1.08, "end": 1.36, "value": "F" },
+    { "start": 1.36, "end": 1.50, "value": "E" },
+    { "start": 1.50, "end": 1.57, "value": "F" },
+    { "start": 1.57, "end": 1.71, "value": "B" },
+    { "start": 1.71, "end": 1.72, "value": "X" }
+  ]
+}

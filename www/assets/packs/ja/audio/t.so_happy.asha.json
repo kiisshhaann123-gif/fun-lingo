@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/t.so_happy.asha.tmp.wav",
+    "duration": 1.64
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.04, "value": "B" },
+    { "start": 0.04, "end": 0.12, "value": "A" },
+    { "start": 0.12, "end": 0.24, "value": "C" },
+    { "start": 0.24, "end": 0.38, "value": "B" },
+    { "start": 0.38, "end": 0.46, "value": "A" },
+    { "start": 0.46, "end": 0.73, "value": "C" },
+    { "start": 0.73, "end": 0.80, "value": "B" },
+    { "start": 0.80, "end": 0.93, "value": "X" },
+    { "start": 0.93, "end": 1.05, "value": "B" },
+    { "start": 1.05, "end": 1.12, "value": "C" },
+    { "start": 1.12, "end": 1.19, "value": "H" },
+    { "start": 1.19, "end": 1.33, "value": "G" },
+    { "start": 1.33, "end": 1.47, "value": "B" },
+    { "start": 1.47, "end": 1.55, "value": "A" },
+    { "start": 1.55, "end": 1.63, "value": "B" },
+    { "start": 1.63, "end": 1.64, "value": "X" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/w.milk.find.tmp.wav",
+    "duration": 2.03
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.04, "value": "X" },
+    { "start": 0.04, "end": 0.09, "value": "B" },
+    { "start": 0.09, "end": 0.39, "value": "C" },
+    { "start": 0.39, "end": 0.44, "value": "E" },
+    { "start": 0.44, "end": 0.62, "value": "F" },
+    { "start": 0.62, "end": 0.70, "value": "A" },
+    { "start": 0.70, "end": 0.93, "value": "C" },
+    { "start": 0.93, "end": 1.17, "value": "X" },
+    { "start": 1.17, "end": 1.22, "value": "B" },
+    { "start": 1.22, "end": 1.26, "value": "C" },
+    { "start": 1.26, "end": 1.40, "value": "F" },
+    { "start": 1.40, "end": 1.68, "value": "C" },
+    { "start": 1.68, "end": 1.82, "value": "B" },
+    { "start": 1.82, "end": 2.03, "value": "X" }
+  ]
+}

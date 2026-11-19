@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.beep.lets_play.tmp.wav",
+    "duration": 0.91
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.04, "value": "B" },
+    { "start": 0.04, "end": 0.15, "value": "E" },
+    { "start": 0.15, "end": 0.29, "value": "B" },
+    { "start": 0.29, "end": 0.57, "value": "C" },
+    { "start": 0.57, "end": 0.78, "value": "E" },
+    { "start": 0.78, "end": 0.85, "value": "B" },
+    { "start": 0.85, "end": 0.91, "value": "X" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/w.elephant.look.tmp.wav",
+    "duration": 1.48
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.18, "value": "F" },
+    { "start": 0.18, "end": 0.46, "value": "C" },
+    { "start": 0.46, "end": 0.61, "value": "B" },
+    { "start": 0.61, "end": 0.93, "value": "C" },
+    { "start": 0.93, "end": 1.00, "value": "G" },
+    { "start": 1.00, "end": 1.14, "value": "C" },
+    { "start": 1.14, "end": 1.28, "value": "B" },
+    { "start": 1.28, "end": 1.48, "value": "X" }
+  ]
+}

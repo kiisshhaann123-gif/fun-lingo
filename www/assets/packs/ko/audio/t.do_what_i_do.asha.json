@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/t.do_what_i_do.asha.tmp.wav",
+    "duration": 0.75
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.28, "value": "B" },
+    { "start": 0.28, "end": 0.37, "value": "A" },
+    { "start": 0.37, "end": 0.46, "value": "C" },
+    { "start": 0.46, "end": 0.74, "value": "B" },
+    { "start": 0.74, "end": 0.75, "value": "X" }
+  ]
+}

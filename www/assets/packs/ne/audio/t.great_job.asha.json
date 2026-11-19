@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/t.great_job.asha.tmp.wav",
+    "duration": 1.30
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.25, "value": "B" },
+    { "start": 0.25, "end": 0.32, "value": "C" },
+    { "start": 0.32, "end": 0.40, "value": "A" },
+    { "start": 0.40, "end": 0.63, "value": "D" },
+    { "start": 0.63, "end": 0.69, "value": "C" },
+    { "start": 0.69, "end": 1.29, "value": "B" },
+    { "start": 1.29, "end": 1.30, "value": "X" }
+  ]
+}

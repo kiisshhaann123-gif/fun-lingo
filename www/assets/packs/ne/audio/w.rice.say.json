@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/w.rice.say.tmp.wav",
+    "duration": 0.91
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.03, "value": "B" },
+    { "start": 0.03, "end": 0.13, "value": "A" },
+    { "start": 0.13, "end": 0.28, "value": "D" },
+    { "start": 0.28, "end": 0.32, "value": "C" },
+    { "start": 0.32, "end": 0.58, "value": "B" },
+    { "start": 0.58, "end": 0.91, "value": "X" }
+  ]
+}

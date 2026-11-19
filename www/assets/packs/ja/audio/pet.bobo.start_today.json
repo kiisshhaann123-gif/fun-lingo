@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.bobo.start_today.tmp.wav",
+    "duration": 2.27
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.06, "value": "B" },
+    { "start": 0.06, "end": 0.10, "value": "C" },
+    { "start": 0.10, "end": 0.24, "value": "E" },
+    { "start": 0.24, "end": 0.31, "value": "C" },
+    { "start": 0.31, "end": 0.39, "value": "A" },
+    { "start": 0.39, "end": 0.45, "value": "F" },
+    { "start": 0.45, "end": 0.50, "value": "B" },
+    { "start": 0.50, "end": 0.57, "value": "C" },
+    { "start": 0.57, "end": 0.92, "value": "F" },
+    { "start": 0.92, "end": 0.99, "value": "D" },
+    { "start": 0.99, "end": 1.13, "value": "A" },
+    { "start": 1.13, "end": 1.28, "value": "B" },
+    { "start": 1.28, "end": 1.41, "value": "C" },
+    { "start": 1.41, "end": 1.62, "value": "B" },
+    { "start": 1.62, "end": 1.70, "value": "A" },
+    { "start": 1.70, "end": 2.09, "value": "B" },
+    { "start": 2.09, "end": 2.17, "value": "A" },
+    { "start": 2.17, "end": 2.26, "value": "B" },
+    { "start": 2.26, "end": 2.27, "value": "X" }
+  ]
+}

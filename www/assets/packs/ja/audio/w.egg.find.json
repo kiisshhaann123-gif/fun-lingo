@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/w.egg.find.tmp.wav",
+    "duration": 2.69
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.15, "value": "C" },
+    { "start": 0.15, "end": 0.17, "value": "A" },
+    { "start": 0.17, "end": 0.25, "value": "C" },
+    { "start": 0.25, "end": 0.32, "value": "A" },
+    { "start": 0.32, "end": 0.57, "value": "F" },
+    { "start": 0.57, "end": 0.93, "value": "B" },
+    { "start": 0.93, "end": 0.99, "value": "E" },
+    { "start": 0.99, "end": 1.06, "value": "F" },
+    { "start": 1.06, "end": 1.27, "value": "C" },
+    { "start": 1.27, "end": 1.48, "value": "B" },
+    { "start": 1.48, "end": 1.55, "value": "C" },
+    { "start": 1.55, "end": 2.69, "value": "X" }
+  ]
+}

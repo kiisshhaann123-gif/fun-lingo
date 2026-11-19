@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/t.here_it_is.asha.tmp.wav",
+    "duration": 1.64
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "B" },
+    { "start": 0.05, "end": 0.23, "value": "C" },
+    { "start": 0.23, "end": 0.30, "value": "B" },
+    { "start": 0.30, "end": 0.37, "value": "C" },
+    { "start": 0.37, "end": 0.44, "value": "F" },
+    { "start": 0.44, "end": 0.58, "value": "B" },
+    { "start": 0.58, "end": 1.21, "value": "C" },
+    { "start": 1.21, "end": 1.63, "value": "B" },
+    { "start": 1.63, "end": 1.64, "value": "X" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/pet.himu.lets_play.tmp.wav",
+    "duration": 1.30
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.28, "value": "H" },
+    { "start": 0.28, "end": 0.35, "value": "B" },
+    { "start": 0.35, "end": 0.43, "value": "A" },
+    { "start": 0.43, "end": 0.73, "value": "E" },
+    { "start": 0.73, "end": 0.80, "value": "F" },
+    { "start": 0.80, "end": 0.87, "value": "C" },
+    { "start": 0.87, "end": 1.15, "value": "B" },
+    { "start": 1.15, "end": 1.30, "value": "X" }
+  ]
+}

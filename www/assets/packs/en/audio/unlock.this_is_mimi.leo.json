@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/unlock.this_is_mimi.leo.tmp.wav",
+    "duration": 1.72
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.06, "value": "X" },
+    { "start": 0.06, "end": 0.68, "value": "B" },
+    { "start": 0.68, "end": 0.80, "value": "A" },
+    { "start": 0.80, "end": 0.93, "value": "B" },
+    { "start": 0.93, "end": 1.01, "value": "A" },
+    { "start": 1.01, "end": 1.45, "value": "B" },
+    { "start": 1.45, "end": 1.72, "value": "X" }
+  ]
+}

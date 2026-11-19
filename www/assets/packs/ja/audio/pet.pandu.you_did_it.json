@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.pandu.you_did_it.tmp.wav",
+    "duration": 1.14
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.04, "value": "B" },
+    { "start": 0.04, "end": 0.08, "value": "C" },
+    { "start": 0.08, "end": 0.22, "value": "B" },
+    { "start": 0.22, "end": 0.71, "value": "C" },
+    { "start": 0.71, "end": 0.85, "value": "B" },
+    { "start": 0.85, "end": 1.13, "value": "C" },
+    { "start": 1.13, "end": 1.14, "value": "X" }
+  ]
+}

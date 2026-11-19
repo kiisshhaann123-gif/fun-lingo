@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.pandu.lets_play.tmp.wav",
+    "duration": 1.22
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.04, "value": "B" },
+    { "start": 0.04, "end": 0.15, "value": "C" },
+    { "start": 0.15, "end": 0.22, "value": "B" },
+    { "start": 0.22, "end": 0.29, "value": "C" },
+    { "start": 0.29, "end": 0.43, "value": "A" },
+    { "start": 0.43, "end": 0.91, "value": "B" },
+    { "start": 0.91, "end": 1.22, "value": "X" }
+  ]
+}

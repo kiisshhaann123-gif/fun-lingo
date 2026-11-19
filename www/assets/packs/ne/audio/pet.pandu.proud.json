@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/pet.pandu.proud.tmp.wav",
+    "duration": 2.11
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.03, "value": "B" },
+    { "start": 0.03, "end": 0.13, "value": "A" },
+    { "start": 0.13, "end": 0.19, "value": "D" },
+    { "start": 0.19, "end": 0.25, "value": "H" },
+    { "start": 0.25, "end": 0.32, "value": "C" },
+    { "start": 0.32, "end": 0.39, "value": "B" },
+    { "start": 0.39, "end": 0.47, "value": "A" },
+    { "start": 0.47, "end": 0.83, "value": "B" },
+    { "start": 0.83, "end": 0.93, "value": "A" },
+    { "start": 0.93, "end": 1.12, "value": "E" },
+    { "start": 1.12, "end": 1.19, "value": "C" },
+    { "start": 1.19, "end": 1.26, "value": "B" },
+    { "start": 1.26, "end": 1.47, "value": "C" },
+    { "start": 1.47, "end": 1.61, "value": "B" },
+    { "start": 1.61, "end": 1.68, "value": "G" },
+    { "start": 1.68, "end": 2.10, "value": "C" },
+    { "start": 2.10, "end": 2.11, "value": "X" }
+  ]
+}

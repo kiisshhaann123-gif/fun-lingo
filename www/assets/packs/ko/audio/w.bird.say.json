@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/w.bird.say.tmp.wav",
+    "duration": 0.60
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.06, "value": "B" },
+    { "start": 0.06, "end": 0.33, "value": "C" },
+    { "start": 0.33, "end": 0.40, "value": "B" },
+    { "start": 0.40, "end": 0.60, "value": "X" }
+  ]
+}

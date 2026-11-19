@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.stardust.ill_help.tmp.wav",
+    "duration": 0.99
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.07, "value": "B" },
+    { "start": 0.07, "end": 0.12, "value": "C" },
+    { "start": 0.12, "end": 0.61, "value": "F" },
+    { "start": 0.61, "end": 0.69, "value": "A" },
+    { "start": 0.69, "end": 0.91, "value": "C" },
+    { "start": 0.91, "end": 0.98, "value": "B" },
+    { "start": 0.98, "end": 0.99, "value": "X" }
+  ]
+}

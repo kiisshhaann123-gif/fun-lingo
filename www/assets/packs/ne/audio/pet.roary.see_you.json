@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/pet.roary.see_you.tmp.wav",
+    "duration": 1.30
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.04, "value": "B" },
+    { "start": 0.04, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.08, "value": "A" },
+    { "start": 0.08, "end": 0.30, "value": "F" },
+    { "start": 0.30, "end": 0.37, "value": "B" },
+    { "start": 0.37, "end": 0.50, "value": "A" },
+    { "start": 0.50, "end": 0.62, "value": "B" },
+    { "start": 0.62, "end": 0.69, "value": "E" },
+    { "start": 0.69, "end": 0.76, "value": "F" },
+    { "start": 0.76, "end": 0.84, "value": "A" },
+    { "start": 0.84, "end": 1.15, "value": "B" },
+    { "start": 1.15, "end": 1.30, "value": "X" }
+  ]
+}

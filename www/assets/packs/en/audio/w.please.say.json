@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/w.please.say.tmp.wav",
+    "duration": 0.67
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.03, "value": "A" },
+    { "start": 0.03, "end": 0.58, "value": "B" },
+    { "start": 0.58, "end": 0.67, "value": "X" }
+  ]
+}

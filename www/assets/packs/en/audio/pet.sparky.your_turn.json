@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/pet.sparky.your_turn.tmp.wav",
+    "duration": 1.07
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.27, "value": "F" },
+    { "start": 0.27, "end": 0.34, "value": "B" },
+    { "start": 0.34, "end": 0.69, "value": "E" },
+    { "start": 0.69, "end": 0.90, "value": "C" },
+    { "start": 0.90, "end": 1.07, "value": "X" }
+  ]
+}

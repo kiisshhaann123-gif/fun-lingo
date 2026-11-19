@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.himu.great_job.tmp.wav",
+    "duration": 1.30
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.28, "value": "B" },
+    { "start": 0.28, "end": 0.37, "value": "A" },
+    { "start": 0.37, "end": 0.80, "value": "F" },
+    { "start": 0.80, "end": 1.29, "value": "B" },
+    { "start": 1.29, "end": 1.30, "value": "X" }
+  ]
+}

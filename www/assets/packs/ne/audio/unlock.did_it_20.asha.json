@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/unlock.did_it_20.asha.tmp.wav",
+    "duration": 2.03
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.19, "value": "B" },
+    { "start": 0.19, "end": 0.27, "value": "A" },
+    { "start": 0.27, "end": 0.33, "value": "B" },
+    { "start": 0.33, "end": 0.56, "value": "C" },
+    { "start": 0.56, "end": 0.62, "value": "E" },
+    { "start": 0.62, "end": 0.87, "value": "F" },
+    { "start": 0.87, "end": 1.50, "value": "B" },
+    { "start": 1.50, "end": 1.59, "value": "A" },
+    { "start": 1.59, "end": 1.81, "value": "C" },
+    { "start": 1.81, "end": 2.02, "value": "B" },
+    { "start": 2.02, "end": 2.03, "value": "X" }
+  ]
+}

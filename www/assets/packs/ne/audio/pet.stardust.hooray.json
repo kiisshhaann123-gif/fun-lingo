@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/pet.stardust.hooray.tmp.wav",
+    "duration": 1.41
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.42, "value": "B" },
+    { "start": 0.42, "end": 0.70, "value": "C" },
+    { "start": 0.70, "end": 1.12, "value": "B" },
+    { "start": 1.12, "end": 1.41, "value": "X" }
+  ]
+}

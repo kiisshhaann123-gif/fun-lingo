@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.himu.own3.tmp.wav",
+    "duration": 3.47
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.07, "value": "B" },
+    { "start": 0.07, "end": 0.18, "value": "E" },
+    { "start": 0.18, "end": 0.25, "value": "C" },
+    { "start": 0.25, "end": 0.53, "value": "B" },
+    { "start": 0.53, "end": 1.09, "value": "F" },
+    { "start": 1.09, "end": 1.30, "value": "B" },
+    { "start": 1.30, "end": 1.58, "value": "X" },
+    { "start": 1.58, "end": 1.64, "value": "B" },
+    { "start": 1.64, "end": 1.76, "value": "F" },
+    { "start": 1.76, "end": 1.94, "value": "B" },
+    { "start": 1.94, "end": 2.24, "value": "F" },
+    { "start": 2.24, "end": 2.36, "value": "X" },
+    { "start": 2.36, "end": 2.42, "value": "B" },
+    { "start": 2.42, "end": 2.69, "value": "F" },
+    { "start": 2.69, "end": 2.97, "value": "B" },
+    { "start": 2.97, "end": 3.39, "value": "F" },
+    { "start": 3.39, "end": 3.46, "value": "C" },
+    { "start": 3.46, "end": 3.47, "value": "X" }
+  ]
+}

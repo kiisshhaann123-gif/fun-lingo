@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.himu.again_again.tmp.wav",
+    "duration": 0.99
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.03, "value": "X" },
+    { "start": 0.03, "end": 0.10, "value": "B" },
+    { "start": 0.10, "end": 0.48, "value": "F" },
+    { "start": 0.48, "end": 0.86, "value": "B" },
+    { "start": 0.86, "end": 0.99, "value": "X" }
+  ]
+}

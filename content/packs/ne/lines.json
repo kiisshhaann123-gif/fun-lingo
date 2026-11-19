@@ -1,0 +1,2807 @@
+{
+ "language": "ne",
+ "unit": 1,
+ "_note": "Unit 1 script. A native speaker checks every line before audio is made.",
+ "lines": [
+  {
+   "id": "w.hello.say",
+   "speaker": "asha",
+   "text": "नमस्ते!"
+  },
+  {
+   "id": "w.bye.say",
+   "speaker": "asha",
+   "text": "टाटा!"
+  },
+  {
+   "id": "ph.01.asha",
+   "speaker": "asha",
+   "text": "नमस्ते!"
+  },
+  {
+   "id": "ph.01.leo",
+   "speaker": "leo",
+   "text": "नमस्ते!"
+  },
+  {
+   "id": "w.mom.say",
+   "speaker": "leo",
+   "text": "आमा।"
+  },
+  {
+   "id": "w.mom.look",
+   "speaker": "leo",
+   "text": "हेरौं त! आमा!"
+  },
+  {
+   "id": "w.mom.find",
+   "speaker": "leo",
+   "text": "आमा कहाँ छ?"
+  },
+  {
+   "id": "w.mom.yes",
+   "speaker": "leo",
+   "text": "हो! आमा!"
+  },
+  {
+   "id": "w.dad.say",
+   "speaker": "leo",
+   "text": "बुबा।"
+  },
+  {
+   "id": "w.dad.look",
+   "speaker": "leo",
+   "text": "हेरौं त! बुबा!"
+  },
+  {
+   "id": "w.dad.find",
+   "speaker": "leo",
+   "text": "बुबा कहाँ छ?"
+  },
+  {
+   "id": "w.dad.yes",
+   "speaker": "leo",
+   "text": "हो! बुबा!"
+  },
+  {
+   "id": "ph.02.asha",
+   "speaker": "asha",
+   "text": "यो आमा हो।"
+  },
+  {
+   "id": "ph.02.leo",
+   "speaker": "leo",
+   "text": "यो आमा हो।"
+  },
+  {
+   "id": "w.baby.say",
+   "speaker": "asha",
+   "text": "बच्चा।"
+  },
+  {
+   "id": "w.baby.look",
+   "speaker": "asha",
+   "text": "हेरौं त! बच्चा!"
+  },
+  {
+   "id": "w.baby.find",
+   "speaker": "asha",
+   "text": "बच्चा कहाँ छ?"
+  },
+  {
+   "id": "w.baby.yes",
+   "speaker": "asha",
+   "text": "हो! बच्चा!"
+  },
+  {
+   "id": "w.hand.say",
+   "speaker": "asha",
+   "text": "हात।"
+  },
+  {
+   "id": "w.hand.look",
+   "speaker": "asha",
+   "text": "हेरौं त! हात!"
+  },
+  {
+   "id": "w.hand.find",
+   "speaker": "asha",
+   "text": "हात कहाँ छ?"
+  },
+  {
+   "id": "w.hand.yes",
+   "speaker": "asha",
+   "text": "हो! हात!"
+  },
+  {
+   "id": "ph.03.asha",
+   "speaker": "asha",
+   "text": "हात हल्लाऊ!"
+  },
+  {
+   "id": "ph.03.leo",
+   "speaker": "leo",
+   "text": "हात हल्लाऊ!"
+  },
+  {
+   "id": "w.eyes.say",
+   "speaker": "leo",
+   "text": "आँखा।"
+  },
+  {
+   "id": "w.eyes.look",
+   "speaker": "leo",
+   "text": "हेरौं त! आँखा!"
+  },
+  {
+   "id": "w.eyes.find",
+   "speaker": "leo",
+   "text": "आँखा कहाँ छन्?"
+  },
+  {
+   "id": "w.eyes.yes",
+   "speaker": "leo",
+   "text": "हो! आँखा!"
+  },
+  {
+   "id": "w.nose.say",
+   "speaker": "leo",
+   "text": "नाक।"
+  },
+  {
+   "id": "w.nose.look",
+   "speaker": "leo",
+   "text": "हेरौं त! नाक!"
+  },
+  {
+   "id": "w.nose.find",
+   "speaker": "leo",
+   "text": "नाक कहाँ छ?"
+  },
+  {
+   "id": "w.nose.yes",
+   "speaker": "leo",
+   "text": "हो! नाक!"
+  },
+  {
+   "id": "ph.04.asha",
+   "speaker": "asha",
+   "text": "नाक छोऊ!"
+  },
+  {
+   "id": "ph.04.leo",
+   "speaker": "leo",
+   "text": "नाक छोऊ!"
+  },
+  {
+   "id": "w.dog.say",
+   "speaker": "leo",
+   "text": "कुकुर।"
+  },
+  {
+   "id": "w.dog.look",
+   "speaker": "leo",
+   "text": "हेरौं त! कुकुर!"
+  },
+  {
+   "id": "w.dog.find",
+   "speaker": "leo",
+   "text": "कुकुर कहाँ छ?"
+  },
+  {
+   "id": "w.dog.yes",
+   "speaker": "leo",
+   "text": "हो! कुकुर!"
+  },
+  {
+   "id": "w.cat.say",
+   "speaker": "leo",
+   "text": "बिरालो।"
+  },
+  {
+   "id": "w.cat.look",
+   "speaker": "leo",
+   "text": "हेरौं त! बिरालो!"
+  },
+  {
+   "id": "w.cat.find",
+   "speaker": "leo",
+   "text": "बिरालो कहाँ छ?"
+  },
+  {
+   "id": "w.cat.yes",
+   "speaker": "leo",
+   "text": "हो! बिरालो!"
+  },
+  {
+   "id": "ph.06.asha",
+   "speaker": "asha",
+   "text": "कुकुर भन्छ भुक भुक।"
+  },
+  {
+   "id": "ph.06.leo",
+   "speaker": "leo",
+   "text": "कुकुर भन्छ भुक भुक।"
+  },
+  {
+   "id": "w.cow.say",
+   "speaker": "asha",
+   "text": "गाई।"
+  },
+  {
+   "id": "w.cow.look",
+   "speaker": "asha",
+   "text": "हेरौं त! गाई!"
+  },
+  {
+   "id": "w.cow.find",
+   "speaker": "asha",
+   "text": "गाई कहाँ छ?"
+  },
+  {
+   "id": "w.cow.yes",
+   "speaker": "asha",
+   "text": "हो! गाई!"
+  },
+  {
+   "id": "w.bird.say",
+   "speaker": "asha",
+   "text": "चरा।"
+  },
+  {
+   "id": "w.bird.look",
+   "speaker": "asha",
+   "text": "हेरौं त! चरा!"
+  },
+  {
+   "id": "w.bird.find",
+   "speaker": "asha",
+   "text": "चरा कहाँ छ?"
+  },
+  {
+   "id": "w.bird.yes",
+   "speaker": "asha",
+   "text": "हो! चरा!"
+  },
+  {
+   "id": "ph.07.asha",
+   "speaker": "asha",
+   "text": "गाई भन्छ म्बाँ।"
+  },
+  {
+   "id": "ph.07.leo",
+   "speaker": "leo",
+   "text": "गाई भन्छ म्बाँ।"
+  },
+  {
+   "id": "w.fish.say",
+   "speaker": "leo",
+   "text": "माछा।"
+  },
+  {
+   "id": "w.fish.look",
+   "speaker": "leo",
+   "text": "हेरौं त! माछा!"
+  },
+  {
+   "id": "w.fish.find",
+   "speaker": "leo",
+   "text": "माछा कहाँ छ?"
+  },
+  {
+   "id": "w.fish.yes",
+   "speaker": "leo",
+   "text": "हो! माछा!"
+  },
+  {
+   "id": "w.butterfly.say",
+   "speaker": "leo",
+   "text": "पुतली।"
+  },
+  {
+   "id": "w.butterfly.look",
+   "speaker": "leo",
+   "text": "हेरौं त! पुतली!"
+  },
+  {
+   "id": "w.butterfly.find",
+   "speaker": "leo",
+   "text": "पुतली कहाँ छ?"
+  },
+  {
+   "id": "w.butterfly.yes",
+   "speaker": "leo",
+   "text": "हो! पुतली!"
+  },
+  {
+   "id": "ph.08.asha",
+   "speaker": "asha",
+   "text": "माछा पौडिन्छ।"
+  },
+  {
+   "id": "ph.08.leo",
+   "speaker": "leo",
+   "text": "माछा पौडिन्छ।"
+  },
+  {
+   "id": "w.elephant.say",
+   "speaker": "asha",
+   "text": "हात्ती।"
+  },
+  {
+   "id": "w.elephant.look",
+   "speaker": "asha",
+   "text": "हेरौं त! हात्ती!"
+  },
+  {
+   "id": "w.elephant.find",
+   "speaker": "asha",
+   "text": "हात्ती कहाँ छ?"
+  },
+  {
+   "id": "w.elephant.yes",
+   "speaker": "asha",
+   "text": "हो! हात्ती!"
+  },
+  {
+   "id": "w.monkey.say",
+   "speaker": "asha",
+   "text": "बाँदर।"
+  },
+  {
+   "id": "w.monkey.look",
+   "speaker": "asha",
+   "text": "हेरौं त! बाँदर!"
+  },
+  {
+   "id": "w.monkey.find",
+   "speaker": "asha",
+   "text": "बाँदर कहाँ छ?"
+  },
+  {
+   "id": "w.monkey.yes",
+   "speaker": "asha",
+   "text": "हो! बाँदर!"
+  },
+  {
+   "id": "ph.09.asha",
+   "speaker": "asha",
+   "text": "बाँदर उफ्रिन्छ।"
+  },
+  {
+   "id": "ph.09.leo",
+   "speaker": "leo",
+   "text": "बाँदर उफ्रिन्छ।"
+  },
+  {
+   "id": "w.red.say",
+   "speaker": "asha",
+   "text": "रातो।"
+  },
+  {
+   "id": "w.red.look",
+   "speaker": "asha",
+   "text": "हेरौं त! रातो!"
+  },
+  {
+   "id": "w.red.find",
+   "speaker": "asha",
+   "text": "रातो कहाँ छ?"
+  },
+  {
+   "id": "w.red.yes",
+   "speaker": "asha",
+   "text": "हो! रातो!"
+  },
+  {
+   "id": "w.blue.say",
+   "speaker": "asha",
+   "text": "निलो।"
+  },
+  {
+   "id": "w.blue.look",
+   "speaker": "asha",
+   "text": "हेरौं त! निलो!"
+  },
+  {
+   "id": "w.blue.find",
+   "speaker": "asha",
+   "text": "निलो कहाँ छ?"
+  },
+  {
+   "id": "w.blue.yes",
+   "speaker": "asha",
+   "text": "हो! निलो!"
+  },
+  {
+   "id": "ph.11.asha",
+   "speaker": "asha",
+   "text": "रातो हो!"
+  },
+  {
+   "id": "ph.11.leo",
+   "speaker": "leo",
+   "text": "रातो हो!"
+  },
+  {
+   "id": "w.yellow.say",
+   "speaker": "leo",
+   "text": "पहेँलो।"
+  },
+  {
+   "id": "w.yellow.look",
+   "speaker": "leo",
+   "text": "हेरौं त! पहेँलो!"
+  },
+  {
+   "id": "w.yellow.find",
+   "speaker": "leo",
+   "text": "पहेँलो कहाँ छ?"
+  },
+  {
+   "id": "w.yellow.yes",
+   "speaker": "leo",
+   "text": "हो! पहेँलो!"
+  },
+  {
+   "id": "w.green.say",
+   "speaker": "leo",
+   "text": "हरियो।"
+  },
+  {
+   "id": "w.green.look",
+   "speaker": "leo",
+   "text": "हेरौं त! हरियो!"
+  },
+  {
+   "id": "w.green.find",
+   "speaker": "leo",
+   "text": "हरियो कहाँ छ?"
+  },
+  {
+   "id": "w.green.yes",
+   "speaker": "leo",
+   "text": "हो! हरियो!"
+  },
+  {
+   "id": "ph.12.asha",
+   "speaker": "asha",
+   "text": "पहेँलो हो!"
+  },
+  {
+   "id": "ph.12.leo",
+   "speaker": "leo",
+   "text": "पहेँलो हो!"
+  },
+  {
+   "id": "w.white.say",
+   "speaker": "asha",
+   "text": "सेतो।"
+  },
+  {
+   "id": "w.white.look",
+   "speaker": "asha",
+   "text": "हेरौं त! सेतो!"
+  },
+  {
+   "id": "w.white.find",
+   "speaker": "asha",
+   "text": "सेतो कहाँ छ?"
+  },
+  {
+   "id": "w.white.yes",
+   "speaker": "asha",
+   "text": "हो! सेतो!"
+  },
+  {
+   "id": "w.black.say",
+   "speaker": "asha",
+   "text": "कालो।"
+  },
+  {
+   "id": "w.black.look",
+   "speaker": "asha",
+   "text": "हेरौं त! कालो!"
+  },
+  {
+   "id": "w.black.find",
+   "speaker": "asha",
+   "text": "कालो कहाँ छ?"
+  },
+  {
+   "id": "w.black.yes",
+   "speaker": "asha",
+   "text": "हो! कालो!"
+  },
+  {
+   "id": "ph.13.asha",
+   "speaker": "asha",
+   "text": "कालो बिरालो!"
+  },
+  {
+   "id": "ph.13.leo",
+   "speaker": "leo",
+   "text": "कालो बिरालो!"
+  },
+  {
+   "id": "w.thankyou.say",
+   "speaker": "leo",
+   "text": "धन्यवाद!"
+  },
+  {
+   "id": "w.yes.say",
+   "speaker": "leo",
+   "text": "हो!"
+  },
+  {
+   "id": "w.no.say",
+   "speaker": "leo",
+   "text": "होइन!"
+  },
+  {
+   "id": "ph.14.asha",
+   "speaker": "asha",
+   "text": "धन्यवाद!"
+  },
+  {
+   "id": "ph.14.leo",
+   "speaker": "leo",
+   "text": "धन्यवाद!"
+  },
+  {
+   "id": "w.apple.say",
+   "speaker": "leo",
+   "text": "स्याउ।"
+  },
+  {
+   "id": "w.apple.look",
+   "speaker": "leo",
+   "text": "हेरौं त! स्याउ!"
+  },
+  {
+   "id": "w.apple.find",
+   "speaker": "leo",
+   "text": "स्याउ कहाँ छ?"
+  },
+  {
+   "id": "w.apple.yes",
+   "speaker": "leo",
+   "text": "हो! स्याउ!"
+  },
+  {
+   "id": "w.banana.say",
+   "speaker": "leo",
+   "text": "केरा।"
+  },
+  {
+   "id": "w.banana.look",
+   "speaker": "leo",
+   "text": "हेरौं त! केरा!"
+  },
+  {
+   "id": "w.banana.find",
+   "speaker": "leo",
+   "text": "केरा कहाँ छ?"
+  },
+  {
+   "id": "w.banana.yes",
+   "speaker": "leo",
+   "text": "हो! केरा!"
+  },
+  {
+   "id": "ph.16.asha",
+   "speaker": "asha",
+   "text": "मीठो!"
+  },
+  {
+   "id": "ph.16.leo",
+   "speaker": "leo",
+   "text": "मीठो!"
+  },
+  {
+   "id": "w.milk.say",
+   "speaker": "asha",
+   "text": "दूध।"
+  },
+  {
+   "id": "w.milk.look",
+   "speaker": "asha",
+   "text": "हेरौं त! दूध!"
+  },
+  {
+   "id": "w.milk.find",
+   "speaker": "asha",
+   "text": "दूध कहाँ छ?"
+  },
+  {
+   "id": "w.milk.yes",
+   "speaker": "asha",
+   "text": "हो! दूध!"
+  },
+  {
+   "id": "w.water.say",
+   "speaker": "asha",
+   "text": "पानी।"
+  },
+  {
+   "id": "w.water.look",
+   "speaker": "asha",
+   "text": "हेरौं त! पानी!"
+  },
+  {
+   "id": "w.water.find",
+   "speaker": "asha",
+   "text": "पानी कहाँ छ?"
+  },
+  {
+   "id": "w.water.yes",
+   "speaker": "asha",
+   "text": "हो! पानी!"
+  },
+  {
+   "id": "ph.17.asha",
+   "speaker": "asha",
+   "text": "मलाई पानी चाहियो।"
+  },
+  {
+   "id": "ph.17.leo",
+   "speaker": "leo",
+   "text": "मलाई पानी चाहियो।"
+  },
+  {
+   "id": "w.rice.say",
+   "speaker": "leo",
+   "text": "भात।"
+  },
+  {
+   "id": "w.rice.look",
+   "speaker": "leo",
+   "text": "हेरौं त! भात!"
+  },
+  {
+   "id": "w.rice.find",
+   "speaker": "leo",
+   "text": "भात कहाँ छ?"
+  },
+  {
+   "id": "w.rice.yes",
+   "speaker": "leo",
+   "text": "हो! भात!"
+  },
+  {
+   "id": "w.egg.say",
+   "speaker": "leo",
+   "text": "अण्डा।"
+  },
+  {
+   "id": "w.egg.look",
+   "speaker": "leo",
+   "text": "हेरौं त! अण्डा!"
+  },
+  {
+   "id": "w.egg.find",
+   "speaker": "leo",
+   "text": "अण्डा कहाँ छ?"
+  },
+  {
+   "id": "w.egg.yes",
+   "speaker": "leo",
+   "text": "हो! अण्डा!"
+  },
+  {
+   "id": "ph.18.asha",
+   "speaker": "asha",
+   "text": "भात दिनुस् न।"
+  },
+  {
+   "id": "ph.18.leo",
+   "speaker": "leo",
+   "text": "भात दिनुस् न।"
+  },
+  {
+   "id": "w.please.say",
+   "speaker": "asha",
+   "text": "दिनुस् न!"
+  },
+  {
+   "id": "ph.19.asha",
+   "speaker": "asha",
+   "text": "मेरो नाम आशा हो।"
+  },
+  {
+   "id": "ph.19.leo",
+   "speaker": "leo",
+   "text": "मेरो नाम लियो हो।"
+  },
+  {
+   "id": "t.intro_self.asha",
+   "speaker": "asha",
+   "text": "म आशा दिदी!"
+  },
+  {
+   "id": "t.hello_friend.asha",
+   "speaker": "asha",
+   "text": "नमस्ते साथी!"
+  },
+  {
+   "id": "t.good_morning.asha",
+   "speaker": "asha",
+   "text": "शुभ प्रभात!"
+  },
+  {
+   "id": "t.good_afternoon.asha",
+   "speaker": "asha",
+   "text": "शुभ दिउँसो!"
+  },
+  {
+   "id": "t.good_evening.asha",
+   "speaker": "asha",
+   "text": "शुभ साँझ!"
+  },
+  {
+   "id": "t.welcome_back.asha",
+   "speaker": "asha",
+   "text": "फेरि स्वागत छ!"
+  },
+  {
+   "id": "t.nice_to_see.asha",
+   "speaker": "asha",
+   "text": "भेटेर खुसी लाग्यो!"
+  },
+  {
+   "id": "t.hi_there.asha",
+   "speaker": "asha",
+   "text": "ए, नमस्ते!"
+  },
+  {
+   "id": "t.fun_today.asha",
+   "speaker": "asha",
+   "text": "आज रमाइलो गरौं!"
+  },
+  {
+   "id": "t.yay_youre_here.asha",
+   "speaker": "asha",
+   "text": "तिमी आयौ, याहू!"
+  },
+  {
+   "id": "t.missed_you.asha",
+   "speaker": "asha",
+   "text": "तिम्रो याद आयो!"
+  },
+  {
+   "id": "t.so_happy.asha",
+   "speaker": "asha",
+   "text": "तिमी आएकोमा धेरै खुसी छु!"
+  },
+  {
+   "id": "t.ready.asha",
+   "speaker": "asha",
+   "text": "तयार? सिकौं!"
+  },
+  {
+   "id": "t.game_first.asha",
+   "speaker": "asha",
+   "text": "पहिले खेल खेलौं!"
+  },
+  {
+   "id": "t.remember.asha",
+   "speaker": "asha",
+   "text": "यो याद छ?"
+  },
+  {
+   "id": "t.look.asha",
+   "speaker": "asha",
+   "text": "हेरौं त!"
+  },
+  {
+   "id": "t.listen.asha",
+   "speaker": "asha",
+   "text": "सुनौं है।"
+  },
+  {
+   "id": "t.again.asha",
+   "speaker": "asha",
+   "text": "फेरि!"
+  },
+  {
+   "id": "t.say_with_me.asha",
+   "speaker": "asha",
+   "text": "सँगै भनौं!"
+  },
+  {
+   "id": "t.your_turn.asha",
+   "speaker": "asha",
+   "text": "अब तिम्रो पालो!"
+  },
+  {
+   "id": "t.slowly.asha",
+   "speaker": "asha",
+   "text": "बिस्तारै।"
+  },
+  {
+   "id": "t.louder.asha",
+   "speaker": "asha",
+   "text": "अझ ठूलो स्वरमा!"
+  },
+  {
+   "id": "t.whisper.asha",
+   "speaker": "asha",
+   "text": "सानो स्वरमा भनौं!"
+  },
+  {
+   "id": "t.do_what_i_do.asha",
+   "speaker": "asha",
+   "text": "मसँगै गरौं!"
+  },
+  {
+   "id": "t.tap_it.asha",
+   "speaker": "asha",
+   "text": "थिचौं त!"
+  },
+  {
+   "id": "t.find_it.asha",
+   "speaker": "asha",
+   "text": "खोजौं त!"
+  },
+  {
+   "id": "t.which_one.asha",
+   "speaker": "asha",
+   "text": "कुन चाहिँ?"
+  },
+  {
+   "id": "t.count_with_me.asha",
+   "speaker": "asha",
+   "text": "सँगै गन!"
+  },
+  {
+   "id": "t.lets_sing.asha",
+   "speaker": "asha",
+   "text": "गीत गाऔं!"
+  },
+  {
+   "id": "t.story_time.asha",
+   "speaker": "asha",
+   "text": "कथा सुन्ने बेला!"
+  },
+  {
+   "id": "t.yes.asha",
+   "speaker": "asha",
+   "text": "हो!"
+  },
+  {
+   "id": "t.thats_right.asha",
+   "speaker": "asha",
+   "text": "ठीक हो!"
+  },
+  {
+   "id": "t.great_job.asha",
+   "speaker": "asha",
+   "text": "स्याबास!"
+  },
+  {
+   "id": "t.wow.asha",
+   "speaker": "asha",
+   "text": "वाह!"
+  },
+  {
+   "id": "t.super.asha",
+   "speaker": "asha",
+   "text": "एकदम राम्रो!"
+  },
+  {
+   "id": "t.so_clever.asha",
+   "speaker": "asha",
+   "text": "कति बाठो!"
+  },
+  {
+   "id": "t.well_done.asha",
+   "speaker": "asha",
+   "text": "धेरै राम्रो!"
+  },
+  {
+   "id": "t.high_five.asha",
+   "speaker": "asha",
+   "text": "हाई फाइभ!"
+  },
+  {
+   "id": "t.you_remembered.asha",
+   "speaker": "asha",
+   "text": "याद रह्यो!"
+  },
+  {
+   "id": "t.oops_look_again.asha",
+   "speaker": "asha",
+   "text": "ओहो! फेरि हेरौं।"
+  },
+  {
+   "id": "t.try_another.asha",
+   "speaker": "asha",
+   "text": "ह्म्म, अर्को थिचौं त!"
+  },
+  {
+   "id": "t.here_it_is.asha",
+   "speaker": "asha",
+   "text": "हेरौं, यहाँ छ!"
+  },
+  {
+   "id": "t.almost.asha",
+   "speaker": "asha",
+   "text": "झन्डै!"
+  },
+  {
+   "id": "t.next_one.asha",
+   "speaker": "asha",
+   "text": "अर्को!"
+  },
+  {
+   "id": "t.last_one.asha",
+   "speaker": "asha",
+   "text": "अन्तिम!"
+  },
+  {
+   "id": "t.got_star.asha",
+   "speaker": "asha",
+   "text": "तिमीले तारा पायौ!"
+  },
+  {
+   "id": "t.pet_closer.asha",
+   "speaker": "asha",
+   "text": "नयाँ साथी नजिकै आउँदैछ!"
+  },
+  {
+   "id": "t.learned_so_much.asha",
+   "speaker": "asha",
+   "text": "आज धेरै सिक्यौ!"
+  },
+  {
+   "id": "t.see_you_tomorrow.asha",
+   "speaker": "asha",
+   "text": "भोलि भेटौंला!"
+  },
+  {
+   "id": "t.bye.asha",
+   "speaker": "asha",
+   "text": "टाटा!"
+  },
+  {
+   "id": "t.intro_self.leo",
+   "speaker": "leo",
+   "text": "म लियो दाइ!"
+  },
+  {
+   "id": "t.hello_friend.leo",
+   "speaker": "leo",
+   "text": "नमस्ते साथी!"
+  },
+  {
+   "id": "t.good_morning.leo",
+   "speaker": "leo",
+   "text": "शुभ प्रभात!"
+  },
+  {
+   "id": "t.good_afternoon.leo",
+   "speaker": "leo",
+   "text": "शुभ दिउँसो!"
+  },
+  {
+   "id": "t.good_evening.leo",
+   "speaker": "leo",
+   "text": "शुभ साँझ!"
+  },
+  {
+   "id": "t.welcome_back.leo",
+   "speaker": "leo",
+   "text": "फेरि स्वागत छ!"
+  },
+  {
+   "id": "t.nice_to_see.leo",
+   "speaker": "leo",
+   "text": "भेटेर खुसी लाग्यो!"
+  },
+  {
+   "id": "t.hi_there.leo",
+   "speaker": "leo",
+   "text": "ए, नमस्ते!"
+  },
+  {
+   "id": "t.fun_today.leo",
+   "speaker": "leo",
+   "text": "आज रमाइलो गरौं!"
+  },
+  {
+   "id": "t.yay_youre_here.leo",
+   "speaker": "leo",
+   "text": "तिमी आयौ, याहू!"
+  },
+  {
+   "id": "t.missed_you.leo",
+   "speaker": "leo",
+   "text": "तिम्रो याद आयो!"
+  },
+  {
+   "id": "t.so_happy.leo",
+   "speaker": "leo",
+   "text": "तिमी आएकोमा धेरै खुसी छु!"
+  },
+  {
+   "id": "t.ready.leo",
+   "speaker": "leo",
+   "text": "तयार? सिकौं!"
+  },
+  {
+   "id": "t.game_first.leo",
+   "speaker": "leo",
+   "text": "पहिले खेल खेलौं!"
+  },
+  {
+   "id": "t.remember.leo",
+   "speaker": "leo",
+   "text": "यो याद छ?"
+  },
+  {
+   "id": "t.look.leo",
+   "speaker": "leo",
+   "text": "हेरौं त!"
+  },
+  {
+   "id": "t.listen.leo",
+   "speaker": "leo",
+   "text": "सुनौं है।"
+  },
+  {
+   "id": "t.again.leo",
+   "speaker": "leo",
+   "text": "फेरि!"
+  },
+  {
+   "id": "t.say_with_me.leo",
+   "speaker": "leo",
+   "text": "सँगै भनौं!"
+  },
+  {
+   "id": "t.your_turn.leo",
+   "speaker": "leo",
+   "text": "अब तिम्रो पालो!"
+  },
+  {
+   "id": "t.slowly.leo",
+   "speaker": "leo",
+   "text": "बिस्तारै।"
+  },
+  {
+   "id": "t.louder.leo",
+   "speaker": "leo",
+   "text": "अझ ठूलो स्वरमा!"
+  },
+  {
+   "id": "t.whisper.leo",
+   "speaker": "leo",
+   "text": "सानो स्वरमा भनौं!"
+  },
+  {
+   "id": "t.do_what_i_do.leo",
+   "speaker": "leo",
+   "text": "मसँगै गरौं!"
+  },
+  {
+   "id": "t.tap_it.leo",
+   "speaker": "leo",
+   "text": "थिचौं त!"
+  },
+  {
+   "id": "t.find_it.leo",
+   "speaker": "leo",
+   "text": "खोजौं त!"
+  },
+  {
+   "id": "t.which_one.leo",
+   "speaker": "leo",
+   "text": "कुन चाहिँ?"
+  },
+  {
+   "id": "t.count_with_me.leo",
+   "speaker": "leo",
+   "text": "सँगै गन!"
+  },
+  {
+   "id": "t.lets_sing.leo",
+   "speaker": "leo",
+   "text": "गीत गाऔं!"
+  },
+  {
+   "id": "t.story_time.leo",
+   "speaker": "leo",
+   "text": "कथा सुन्ने बेला!"
+  },
+  {
+   "id": "t.yes.leo",
+   "speaker": "leo",
+   "text": "हो!"
+  },
+  {
+   "id": "t.thats_right.leo",
+   "speaker": "leo",
+   "text": "ठीक हो!"
+  },
+  {
+   "id": "t.great_job.leo",
+   "speaker": "leo",
+   "text": "स्याबास!"
+  },
+  {
+   "id": "t.wow.leo",
+   "speaker": "leo",
+   "text": "वाह!"
+  },
+  {
+   "id": "t.super.leo",
+   "speaker": "leo",
+   "text": "एकदम राम्रो!"
+  },
+  {
+   "id": "t.so_clever.leo",
+   "speaker": "leo",
+   "text": "कति बाठो!"
+  },
+  {
+   "id": "t.well_done.leo",
+   "speaker": "leo",
+   "text": "धेरै राम्रो!"
+  },
+  {
+   "id": "t.high_five.leo",
+   "speaker": "leo",
+   "text": "हाई फाइभ!"
+  },
+  {
+   "id": "t.you_remembered.leo",
+   "speaker": "leo",
+   "text": "याद रह्यो!"
+  },
+  {
+   "id": "t.oops_look_again.leo",
+   "speaker": "leo",
+   "text": "ओहो! फेरि हेरौं।"
+  },
+  {
+   "id": "t.try_another.leo",
+   "speaker": "leo",
+   "text": "ह्म्म, अर्को थिचौं त!"
+  },
+  {
+   "id": "t.here_it_is.leo",
+   "speaker": "leo",
+   "text": "हेरौं, यहाँ छ!"
+  },
+  {
+   "id": "t.almost.leo",
+   "speaker": "leo",
+   "text": "झन्डै!"
+  },
+  {
+   "id": "t.next_one.leo",
+   "speaker": "leo",
+   "text": "अर्को!"
+  },
+  {
+   "id": "t.last_one.leo",
+   "speaker": "leo",
+   "text": "अन्तिम!"
+  },
+  {
+   "id": "t.got_star.leo",
+   "speaker": "leo",
+   "text": "तिमीले तारा पायौ!"
+  },
+  {
+   "id": "t.pet_closer.leo",
+   "speaker": "leo",
+   "text": "नयाँ साथी नजिकै आउँदैछ!"
+  },
+  {
+   "id": "t.learned_so_much.leo",
+   "speaker": "leo",
+   "text": "आज धेरै सिक्यौ!"
+  },
+  {
+   "id": "t.see_you_tomorrow.leo",
+   "speaker": "leo",
+   "text": "भोलि भेटौंला!"
+  },
+  {
+   "id": "t.bye.leo",
+   "speaker": "leo",
+   "text": "टाटा!"
+  },
+  {
+   "id": "beep_intro.1",
+   "speaker": "asha",
+   "text": "नमस्ते! म आशा दिदी।"
+  },
+  {
+   "id": "beep_intro.2",
+   "speaker": "leo",
+   "text": "अनि म लियो दाइ! नमस्ते!"
+  },
+  {
+   "id": "beep_intro.3",
+   "speaker": "asha",
+   "text": "ए! यो के हो?"
+  },
+  {
+   "id": "beep_intro.4",
+   "speaker": "beep",
+   "text": "बिप बुप! नमस्ते!"
+  },
+  {
+   "id": "beep_intro.5",
+   "speaker": "leo",
+   "text": "यो बिप हो! बिप तिम्रो साथी।"
+  },
+  {
+   "id": "beep_intro.6",
+   "speaker": "beep",
+   "text": "ए साथी! सँगै सिकौं!"
+  },
+  {
+   "id": "beep_intro.7",
+   "speaker": "asha",
+   "text": "बिपलाई नमस्ते भनौं! नमस्ते!"
+  },
+  {
+   "id": "beep_intro.8",
+   "speaker": "beep",
+   "text": "याहू! बिप बुप!"
+  },
+  {
+   "id": "unlock.did_it_20.asha",
+   "speaker": "asha",
+   "text": "तिमीले गर्यौ! बीस पाठ!"
+  },
+  {
+   "id": "unlock.who_new_friend.asha",
+   "speaker": "asha",
+   "text": "नयाँ साथी को होला?"
+  },
+  {
+   "id": "unlock.hooray.asha",
+   "speaker": "asha",
+   "text": "हुर्रे!"
+  },
+  {
+   "id": "unlock.this_is_gaju.asha",
+   "speaker": "asha",
+   "text": "यो गजु हो!"
+  },
+  {
+   "id": "unlock.this_is_sparky.asha",
+   "speaker": "asha",
+   "text": "यो स्पार्की हो!"
+  },
+  {
+   "id": "unlock.this_is_bobo.asha",
+   "speaker": "asha",
+   "text": "यो बोबो हो!"
+  },
+  {
+   "id": "unlock.this_is_himu.asha",
+   "speaker": "asha",
+   "text": "यो हिमु हो!"
+  },
+  {
+   "id": "unlock.this_is_mimi.asha",
+   "speaker": "asha",
+   "text": "यो मिमी हो!"
+  },
+  {
+   "id": "unlock.this_is_pandu.asha",
+   "speaker": "asha",
+   "text": "यो पण्डु हो!"
+  },
+  {
+   "id": "unlock.this_is_stardust.asha",
+   "speaker": "asha",
+   "text": "यो स्टारडस्ट हो!"
+  },
+  {
+   "id": "unlock.this_is_roary.asha",
+   "speaker": "asha",
+   "text": "यो रोरी हो!"
+  },
+  {
+   "id": "unlock.did_it_20.leo",
+   "speaker": "leo",
+   "text": "तिमीले गर्यौ! बीस पाठ!"
+  },
+  {
+   "id": "unlock.who_new_friend.leo",
+   "speaker": "leo",
+   "text": "नयाँ साथी को होला?"
+  },
+  {
+   "id": "unlock.hooray.leo",
+   "speaker": "leo",
+   "text": "हुर्रे!"
+  },
+  {
+   "id": "unlock.this_is_gaju.leo",
+   "speaker": "leo",
+   "text": "यो गजु हो!"
+  },
+  {
+   "id": "unlock.this_is_sparky.leo",
+   "speaker": "leo",
+   "text": "यो स्पार्की हो!"
+  },
+  {
+   "id": "unlock.this_is_bobo.leo",
+   "speaker": "leo",
+   "text": "यो बोबो हो!"
+  },
+  {
+   "id": "unlock.this_is_himu.leo",
+   "speaker": "leo",
+   "text": "यो हिमु हो!"
+  },
+  {
+   "id": "unlock.this_is_mimi.leo",
+   "speaker": "leo",
+   "text": "यो मिमी हो!"
+  },
+  {
+   "id": "unlock.this_is_pandu.leo",
+   "speaker": "leo",
+   "text": "यो पण्डु हो!"
+  },
+  {
+   "id": "unlock.this_is_stardust.leo",
+   "speaker": "leo",
+   "text": "यो स्टारडस्ट हो!"
+  },
+  {
+   "id": "unlock.this_is_roary.leo",
+   "speaker": "leo",
+   "text": "यो रोरी हो!"
+  },
+  {
+   "id": "story.who_says_hello.1",
+   "speaker": "leo",
+   "text": "बिप घुम्न जान्छ।"
+  },
+  {
+   "id": "story.who_says_hello.2",
+   "speaker": "beep",
+   "text": "नमस्ते!"
+  },
+  {
+   "id": "story.who_says_hello.3",
+   "speaker": "leo",
+   "text": "कुकुर! कुकुर भन्छ भुक भुक।"
+  },
+  {
+   "id": "story.who_says_hello.4",
+   "speaker": "leo",
+   "text": "बिरालो! बिरालो भन्छ म्याउ।"
+  },
+  {
+   "id": "story.who_says_hello.5",
+   "speaker": "leo",
+   "text": "गाई! गाई भन्छ म्बाँ।"
+  },
+  {
+   "id": "story.who_says_hello.6",
+   "speaker": "leo",
+   "text": "चरा! चरा भन्छ चिरबिर।"
+  },
+  {
+   "id": "story.who_says_hello.7",
+   "speaker": "leo",
+   "text": "हात्ती र बाँदर!"
+  },
+  {
+   "id": "story.who_says_hello.8",
+   "speaker": "leo",
+   "text": "सबैले भन्छन् नमस्ते!"
+  },
+  {
+   "id": "story.who_says_hello.9",
+   "speaker": "beep",
+   "text": "नमस्ते साथीहरू! टाटा!"
+  },
+  {
+   "id": "story.beeps_big_day.1",
+   "speaker": "leo",
+   "text": "आज बिपको खास दिन!"
+  },
+  {
+   "id": "story.beeps_big_day.2",
+   "speaker": "beep",
+   "text": "नमस्ते! मेरो नाम बिप हो!"
+  },
+  {
+   "id": "story.beeps_big_day.3",
+   "speaker": "leo",
+   "text": "बिपले रातो स्याउ र पहेँलो केरा देख्छ।"
+  },
+  {
+   "id": "story.beeps_big_day.4",
+   "speaker": "beep",
+   "text": "मीठो!"
+  },
+  {
+   "id": "story.beeps_big_day.5",
+   "speaker": "leo",
+   "text": "आमाले बिपलाई भात र अण्डा दिनुहुन्छ।"
+  },
+  {
+   "id": "story.beeps_big_day.6",
+   "speaker": "beep",
+   "text": "धन्यवाद!"
+  },
+  {
+   "id": "story.beeps_big_day.7",
+   "speaker": "leo",
+   "text": "बुबाले दूध र पानी दिनुहुन्छ।"
+  },
+  {
+   "id": "story.beeps_big_day.8",
+   "speaker": "leo",
+   "text": "निलो माछा, हरियो पुतली, कालो र सेतो गाई!"
+  },
+  {
+   "id": "story.beeps_big_day.9",
+   "speaker": "beep",
+   "text": "मलाई मेरो खास दिन मन पर्यो! टाटा!"
+  },
+  {
+   "id": "pet.beep.hi_friend",
+   "speaker": "beep",
+   "text": "नमस्ते साथी!"
+  },
+  {
+   "id": "pet.beep.yay_here",
+   "speaker": "beep",
+   "text": "याहू, तिमी आयौ!"
+  },
+  {
+   "id": "pet.beep.learn_together",
+   "speaker": "beep",
+   "text": "सँगै सिकौं!"
+  },
+  {
+   "id": "pet.beep.start_today",
+   "speaker": "beep",
+   "text": "आजको पाठ सुरु गरौं!"
+  },
+  {
+   "id": "pet.beep.yay",
+   "speaker": "beep",
+   "text": "याहू!"
+  },
+  {
+   "id": "pet.beep.you_did_it",
+   "speaker": "beep",
+   "text": "तिमीले गर्यौ!"
+  },
+  {
+   "id": "pet.beep.great_job",
+   "speaker": "beep",
+   "text": "स्याबास!"
+  },
+  {
+   "id": "pet.beep.so_clever",
+   "speaker": "beep",
+   "text": "वाह, कति बाठो!"
+  },
+  {
+   "id": "pet.beep.high_five",
+   "speaker": "beep",
+   "text": "हाई फाइभ!"
+  },
+  {
+   "id": "pet.beep.oopsie",
+   "speaker": "beep",
+   "text": "ओहो! फेरि गरौं त!"
+  },
+  {
+   "id": "pet.beep.you_can",
+   "speaker": "beep",
+   "text": "तिमी सक्छौ!"
+  },
+  {
+   "id": "pet.beep.ill_help",
+   "speaker": "beep",
+   "text": "म मद्दत गर्छु!"
+  },
+  {
+   "id": "pet.beep.your_turn",
+   "speaker": "beep",
+   "text": "तिम्रो पालो!"
+  },
+  {
+   "id": "pet.beep.say_it",
+   "speaker": "beep",
+   "text": "भनौं न, भनौं न!"
+  },
+  {
+   "id": "pet.beep.listening",
+   "speaker": "beep",
+   "text": "म सुन्दैछु!"
+  },
+  {
+   "id": "pet.beep.again_again",
+   "speaker": "beep",
+   "text": "फेरि, फेरि!"
+  },
+  {
+   "id": "pet.beep.like_word",
+   "speaker": "beep",
+   "text": "मलाई त्यो शब्द मन पर्यो!"
+  },
+  {
+   "id": "pet.beep.got_star",
+   "speaker": "beep",
+   "text": "तारा पायौ!"
+  },
+  {
+   "id": "pet.beep.proud",
+   "speaker": "beep",
+   "text": "मलाई तिमीमा गर्व छ!"
+  },
+  {
+   "id": "pet.beep.hooray",
+   "speaker": "beep",
+   "text": "हुर्रे!"
+  },
+  {
+   "id": "pet.beep.see_you",
+   "speaker": "beep",
+   "text": "भोलि भेटौंला!"
+  },
+  {
+   "id": "pet.beep.bye",
+   "speaker": "beep",
+   "text": "टाटा!"
+  },
+  {
+   "id": "pet.beep.tickles",
+   "speaker": "beep",
+   "text": "हिहि, काउकुती लाग्यो!"
+  },
+  {
+   "id": "pet.beep.love_you",
+   "speaker": "beep",
+   "text": "म तिमीलाई माया गर्छु!"
+  },
+  {
+   "id": "pet.beep.lets_play",
+   "speaker": "beep",
+   "text": "खेलौं!"
+  },
+  {
+   "id": "pet.beep.happy_meet",
+   "speaker": "beep",
+   "text": "भेटेर धेरै खुसी लाग्यो!"
+  },
+  {
+   "id": "pet.beep.own1",
+   "speaker": "beep",
+   "text": "बिप बुप! सिक्ने मोड अन!"
+  },
+  {
+   "id": "pet.beep.own2",
+   "speaker": "beep",
+   "text": "मेरो सर्किट खुसी भयो!"
+  },
+  {
+   "id": "pet.beep.own3",
+   "speaker": "beep",
+   "text": "बिप! मैले ठीक भनेँ?"
+  },
+  {
+   "id": "pet.beep.own4",
+   "speaker": "beep",
+   "text": "मायाले ब्याट्री फुल!"
+  },
+  {
+   "id": "pet.gaju.hi_friend",
+   "speaker": "gaju",
+   "text": "नमस्ते साथी!"
+  },
+  {
+   "id": "pet.gaju.yay_here",
+   "speaker": "gaju",
+   "text": "याहू, तिमी आयौ!"
+  },
+  {
+   "id": "pet.gaju.learn_together",
+   "speaker": "gaju",
+   "text": "सँगै सिकौं!"
+  },
+  {
+   "id": "pet.gaju.start_today",
+   "speaker": "gaju",
+   "text": "आजको पाठ सुरु गरौं!"
+  },
+  {
+   "id": "pet.gaju.yay",
+   "speaker": "gaju",
+   "text": "याहू!"
+  },
+  {
+   "id": "pet.gaju.you_did_it",
+   "speaker": "gaju",
+   "text": "तिमीले गर्यौ!"
+  },
+  {
+   "id": "pet.gaju.great_job",
+   "speaker": "gaju",
+   "text": "स्याबास!"
+  },
+  {
+   "id": "pet.gaju.so_clever",
+   "speaker": "gaju",
+   "text": "वाह, कति बाठो!"
+  },
+  {
+   "id": "pet.gaju.high_five",
+   "speaker": "gaju",
+   "text": "हाई फाइभ!"
+  },
+  {
+   "id": "pet.gaju.oopsie",
+   "speaker": "gaju",
+   "text": "ओहो! फेरि गरौं त!"
+  },
+  {
+   "id": "pet.gaju.you_can",
+   "speaker": "gaju",
+   "text": "तिमी सक्छौ!"
+  },
+  {
+   "id": "pet.gaju.ill_help",
+   "speaker": "gaju",
+   "text": "म मद्दत गर्छु!"
+  },
+  {
+   "id": "pet.gaju.your_turn",
+   "speaker": "gaju",
+   "text": "तिम्रो पालो!"
+  },
+  {
+   "id": "pet.gaju.say_it",
+   "speaker": "gaju",
+   "text": "भनौं न, भनौं न!"
+  },
+  {
+   "id": "pet.gaju.listening",
+   "speaker": "gaju",
+   "text": "म सुन्दैछु!"
+  },
+  {
+   "id": "pet.gaju.again_again",
+   "speaker": "gaju",
+   "text": "फेरि, फेरि!"
+  },
+  {
+   "id": "pet.gaju.like_word",
+   "speaker": "gaju",
+   "text": "मलाई त्यो शब्द मन पर्यो!"
+  },
+  {
+   "id": "pet.gaju.got_star",
+   "speaker": "gaju",
+   "text": "तारा पायौ!"
+  },
+  {
+   "id": "pet.gaju.proud",
+   "speaker": "gaju",
+   "text": "मलाई तिमीमा गर्व छ!"
+  },
+  {
+   "id": "pet.gaju.hooray",
+   "speaker": "gaju",
+   "text": "हुर्रे!"
+  },
+  {
+   "id": "pet.gaju.see_you",
+   "speaker": "gaju",
+   "text": "भोलि भेटौंला!"
+  },
+  {
+   "id": "pet.gaju.bye",
+   "speaker": "gaju",
+   "text": "टाटा!"
+  },
+  {
+   "id": "pet.gaju.tickles",
+   "speaker": "gaju",
+   "text": "हिहि, काउकुती लाग्यो!"
+  },
+  {
+   "id": "pet.gaju.love_you",
+   "speaker": "gaju",
+   "text": "म तिमीलाई माया गर्छु!"
+  },
+  {
+   "id": "pet.gaju.lets_play",
+   "speaker": "gaju",
+   "text": "खेलौं!"
+  },
+  {
+   "id": "pet.gaju.happy_meet",
+   "speaker": "gaju",
+   "text": "भेटेर धेरै खुसी लाग्यो!"
+  },
+  {
+   "id": "pet.gaju.own1",
+   "speaker": "gaju",
+   "text": "तिमीलाई हात्तीको ठूलो अँगालो!"
+  },
+  {
+   "id": "pet.gaju.own2",
+   "speaker": "gaju",
+   "text": "म कुनै शब्द बिर्सिन्नँ!"
+  },
+  {
+   "id": "pet.gaju.own3",
+   "speaker": "gaju",
+   "text": "बिस्तारै बिस्तारै, हामी सक्छौं।"
+  },
+  {
+   "id": "pet.gaju.own4",
+   "speaker": "gaju",
+   "text": "तिमी हात्ती जस्तै बाठो!"
+  },
+  {
+   "id": "pet.sparky.hi_friend",
+   "speaker": "sparky",
+   "text": "नमस्ते साथी!"
+  },
+  {
+   "id": "pet.sparky.yay_here",
+   "speaker": "sparky",
+   "text": "याहू, तिमी आयौ!"
+  },
+  {
+   "id": "pet.sparky.learn_together",
+   "speaker": "sparky",
+   "text": "सँगै सिकौं!"
+  },
+  {
+   "id": "pet.sparky.start_today",
+   "speaker": "sparky",
+   "text": "आजको पाठ सुरु गरौं!"
+  },
+  {
+   "id": "pet.sparky.yay",
+   "speaker": "sparky",
+   "text": "याहू!"
+  },
+  {
+   "id": "pet.sparky.you_did_it",
+   "speaker": "sparky",
+   "text": "तिमीले गर्यौ!"
+  },
+  {
+   "id": "pet.sparky.great_job",
+   "speaker": "sparky",
+   "text": "स्याबास!"
+  },
+  {
+   "id": "pet.sparky.so_clever",
+   "speaker": "sparky",
+   "text": "वाह, कति बाठो!"
+  },
+  {
+   "id": "pet.sparky.high_five",
+   "speaker": "sparky",
+   "text": "हाई फाइभ!"
+  },
+  {
+   "id": "pet.sparky.oopsie",
+   "speaker": "sparky",
+   "text": "ओहो! फेरि गरौं त!"
+  },
+  {
+   "id": "pet.sparky.you_can",
+   "speaker": "sparky",
+   "text": "तिमी सक्छौ!"
+  },
+  {
+   "id": "pet.sparky.ill_help",
+   "speaker": "sparky",
+   "text": "म मद्दत गर्छु!"
+  },
+  {
+   "id": "pet.sparky.your_turn",
+   "speaker": "sparky",
+   "text": "तिम्रो पालो!"
+  },
+  {
+   "id": "pet.sparky.say_it",
+   "speaker": "sparky",
+   "text": "भनौं न, भनौं न!"
+  },
+  {
+   "id": "pet.sparky.listening",
+   "speaker": "sparky",
+   "text": "म सुन्दैछु!"
+  },
+  {
+   "id": "pet.sparky.again_again",
+   "speaker": "sparky",
+   "text": "फेरि, फेरि!"
+  },
+  {
+   "id": "pet.sparky.like_word",
+   "speaker": "sparky",
+   "text": "मलाई त्यो शब्द मन पर्यो!"
+  },
+  {
+   "id": "pet.sparky.got_star",
+   "speaker": "sparky",
+   "text": "तारा पायौ!"
+  },
+  {
+   "id": "pet.sparky.proud",
+   "speaker": "sparky",
+   "text": "मलाई तिमीमा गर्व छ!"
+  },
+  {
+   "id": "pet.sparky.hooray",
+   "speaker": "sparky",
+   "text": "हुर्रे!"
+  },
+  {
+   "id": "pet.sparky.see_you",
+   "speaker": "sparky",
+   "text": "भोलि भेटौंला!"
+  },
+  {
+   "id": "pet.sparky.bye",
+   "speaker": "sparky",
+   "text": "टाटा!"
+  },
+  {
+   "id": "pet.sparky.tickles",
+   "speaker": "sparky",
+   "text": "हिहि, काउकुती लाग्यो!"
+  },
+  {
+   "id": "pet.sparky.love_you",
+   "speaker": "sparky",
+   "text": "म तिमीलाई माया गर्छु!"
+  },
+  {
+   "id": "pet.sparky.lets_play",
+   "speaker": "sparky",
+   "text": "खेलौं!"
+  },
+  {
+   "id": "pet.sparky.happy_meet",
+   "speaker": "sparky",
+   "text": "भेटेर धेरै खुसी लाग्यो!"
+  },
+  {
+   "id": "pet.sparky.own1",
+   "speaker": "sparky",
+   "text": "फुस्स! गजब भयो!"
+  },
+  {
+   "id": "pet.sparky.own2",
+   "speaker": "sparky",
+   "text": "साहसिक यात्राको बेला!"
+  },
+  {
+   "id": "pet.sparky.own3",
+   "speaker": "sparky",
+   "text": "म बहादुर सानो ड्र्यागन!"
+  },
+  {
+   "id": "pet.sparky.own4",
+   "speaker": "sparky",
+   "text": "अर्कोमा उडौं!"
+  },
+  {
+   "id": "pet.bobo.hi_friend",
+   "speaker": "bobo",
+   "text": "नमस्ते साथी!"
+  },
+  {
+   "id": "pet.bobo.yay_here",
+   "speaker": "bobo",
+   "text": "याहू, तिमी आयौ!"
+  },
+  {
+   "id": "pet.bobo.learn_together",
+   "speaker": "bobo",
+   "text": "सँगै सिकौं!"
+  },
+  {
+   "id": "pet.bobo.start_today",
+   "speaker": "bobo",
+   "text": "आजको पाठ सुरु गरौं!"
+  },
+  {
+   "id": "pet.bobo.yay",
+   "speaker": "bobo",
+   "text": "याहू!"
+  },
+  {
+   "id": "pet.bobo.you_did_it",
+   "speaker": "bobo",
+   "text": "तिमीले गर्यौ!"
+  },
+  {
+   "id": "pet.bobo.great_job",
+   "speaker": "bobo",
+   "text": "स्याबास!"
+  },
+  {
+   "id": "pet.bobo.so_clever",
+   "speaker": "bobo",
+   "text": "वाह, कति बाठो!"
+  },
+  {
+   "id": "pet.bobo.high_five",
+   "speaker": "bobo",
+   "text": "हाई फाइभ!"
+  },
+  {
+   "id": "pet.bobo.oopsie",
+   "speaker": "bobo",
+   "text": "ओहो! फेरि गरौं त!"
+  },
+  {
+   "id": "pet.bobo.you_can",
+   "speaker": "bobo",
+   "text": "तिमी सक्छौ!"
+  },
+  {
+   "id": "pet.bobo.ill_help",
+   "speaker": "bobo",
+   "text": "म मद्दत गर्छु!"
+  },
+  {
+   "id": "pet.bobo.your_turn",
+   "speaker": "bobo",
+   "text": "तिम्रो पालो!"
+  },
+  {
+   "id": "pet.bobo.say_it",
+   "speaker": "bobo",
+   "text": "भनौं न, भनौं न!"
+  },
+  {
+   "id": "pet.bobo.listening",
+   "speaker": "bobo",
+   "text": "म सुन्दैछु!"
+  },
+  {
+   "id": "pet.bobo.again_again",
+   "speaker": "bobo",
+   "text": "फेरि, फेरि!"
+  },
+  {
+   "id": "pet.bobo.like_word",
+   "speaker": "bobo",
+   "text": "मलाई त्यो शब्द मन पर्यो!"
+  },
+  {
+   "id": "pet.bobo.got_star",
+   "speaker": "bobo",
+   "text": "तारा पायौ!"
+  },
+  {
+   "id": "pet.bobo.proud",
+   "speaker": "bobo",
+   "text": "मलाई तिमीमा गर्व छ!"
+  },
+  {
+   "id": "pet.bobo.hooray",
+   "speaker": "bobo",
+   "text": "हुर्रे!"
+  },
+  {
+   "id": "pet.bobo.see_you",
+   "speaker": "bobo",
+   "text": "भोलि भेटौंला!"
+  },
+  {
+   "id": "pet.bobo.bye",
+   "speaker": "bobo",
+   "text": "टाटा!"
+  },
+  {
+   "id": "pet.bobo.tickles",
+   "speaker": "bobo",
+   "text": "हिहि, काउकुती लाग्यो!"
+  },
+  {
+   "id": "pet.bobo.love_you",
+   "speaker": "bobo",
+   "text": "म तिमीलाई माया गर्छु!"
+  },
+  {
+   "id": "pet.bobo.lets_play",
+   "speaker": "bobo",
+   "text": "खेलौं!"
+  },
+  {
+   "id": "pet.bobo.happy_meet",
+   "speaker": "bobo",
+   "text": "भेटेर धेरै खुसी लाग्यो!"
+  },
+  {
+   "id": "pet.bobo.own1",
+   "speaker": "bobo",
+   "text": "उ उ! तिमीलाई केरा!"
+  },
+  {
+   "id": "pet.bobo.own2",
+   "speaker": "bobo",
+   "text": "अर्कोमा झुन्डिँदै जाऔं!"
+  },
+  {
+   "id": "pet.bobo.own3",
+   "speaker": "bobo",
+   "text": "कति रमाइलो!"
+  },
+  {
+   "id": "pet.bobo.own4",
+   "speaker": "bobo",
+   "text": "बाँदरले देख्यो, बाँदरले गर्यो!"
+  },
+  {
+   "id": "pet.himu.hi_friend",
+   "speaker": "himu",
+   "text": "नमस्ते साथी!"
+  },
+  {
+   "id": "pet.himu.yay_here",
+   "speaker": "himu",
+   "text": "याहू, तिमी आयौ!"
+  },
+  {
+   "id": "pet.himu.learn_together",
+   "speaker": "himu",
+   "text": "सँगै सिकौं!"
+  },
+  {
+   "id": "pet.himu.start_today",
+   "speaker": "himu",
+   "text": "आजको पाठ सुरु गरौं!"
+  },
+  {
+   "id": "pet.himu.yay",
+   "speaker": "himu",
+   "text": "याहू!"
+  },
+  {
+   "id": "pet.himu.you_did_it",
+   "speaker": "himu",
+   "text": "तिमीले गर्यौ!"
+  },
+  {
+   "id": "pet.himu.great_job",
+   "speaker": "himu",
+   "text": "स्याबास!"
+  },
+  {
+   "id": "pet.himu.so_clever",
+   "speaker": "himu",
+   "text": "वाह, कति बाठो!"
+  },
+  {
+   "id": "pet.himu.high_five",
+   "speaker": "himu",
+   "text": "हाई फाइभ!"
+  },
+  {
+   "id": "pet.himu.oopsie",
+   "speaker": "himu",
+   "text": "ओहो! फेरि गरौं त!"
+  },
+  {
+   "id": "pet.himu.you_can",
+   "speaker": "himu",
+   "text": "तिमी सक्छौ!"
+  },
+  {
+   "id": "pet.himu.ill_help",
+   "speaker": "himu",
+   "text": "म मद्दत गर्छु!"
+  },
+  {
+   "id": "pet.himu.your_turn",
+   "speaker": "himu",
+   "text": "तिम्रो पालो!"
+  },
+  {
+   "id": "pet.himu.say_it",
+   "speaker": "himu",
+   "text": "भनौं न, भनौं न!"
+  },
+  {
+   "id": "pet.himu.listening",
+   "speaker": "himu",
+   "text": "म सुन्दैछु!"
+  },
+  {
+   "id": "pet.himu.again_again",
+   "speaker": "himu",
+   "text": "फेरि, फेरि!"
+  },
+  {
+   "id": "pet.himu.like_word",
+   "speaker": "himu",
+   "text": "मलाई त्यो शब्द मन पर्यो!"
+  },
+  {
+   "id": "pet.himu.got_star",
+   "speaker": "himu",
+   "text": "तारा पायौ!"
+  },
+  {
+   "id": "pet.himu.proud",
+   "speaker": "himu",
+   "text": "मलाई तिमीमा गर्व छ!"
+  },
+  {
+   "id": "pet.himu.hooray",
+   "speaker": "himu",
+   "text": "हुर्रे!"
+  },
+  {
+   "id": "pet.himu.see_you",
+   "speaker": "himu",
+   "text": "भोलि भेटौंला!"
+  },
+  {
+   "id": "pet.himu.bye",
+   "speaker": "himu",
+   "text": "टाटा!"
+  },
+  {
+   "id": "pet.himu.tickles",
+   "speaker": "himu",
+   "text": "हिहि, काउकुती लाग्यो!"
+  },
+  {
+   "id": "pet.himu.love_you",
+   "speaker": "himu",
+   "text": "म तिमीलाई माया गर्छु!"
+  },
+  {
+   "id": "pet.himu.lets_play",
+   "speaker": "himu",
+   "text": "खेलौं!"
+  },
+  {
+   "id": "pet.himu.happy_meet",
+   "speaker": "himu",
+   "text": "भेटेर धेरै खुसी लाग्यो!"
+  },
+  {
+   "id": "pet.himu.own1",
+   "speaker": "himu",
+   "text": "ठिहि, तर मेरो मन न्यानो छ!"
+  },
+  {
+   "id": "pet.himu.own2",
+   "speaker": "himu",
+   "text": "हिउँको बल हाई फाइभ!"
+  },
+  {
+   "id": "pet.himu.own3",
+   "speaker": "himu",
+   "text": "म ठूलो छु तर अलि लजालु।"
+  },
+  {
+   "id": "pet.himu.own4",
+   "speaker": "himu",
+   "text": "न्यानो गरी सिकौं।"
+  },
+  {
+   "id": "pet.mimi.hi_friend",
+   "speaker": "mimi",
+   "text": "नमस्ते साथी!"
+  },
+  {
+   "id": "pet.mimi.yay_here",
+   "speaker": "mimi",
+   "text": "याहू, तिमी आयौ!"
+  },
+  {
+   "id": "pet.mimi.learn_together",
+   "speaker": "mimi",
+   "text": "सँगै सिकौं!"
+  },
+  {
+   "id": "pet.mimi.start_today",
+   "speaker": "mimi",
+   "text": "आजको पाठ सुरु गरौं!"
+  },
+  {
+   "id": "pet.mimi.yay",
+   "speaker": "mimi",
+   "text": "याहू!"
+  },
+  {
+   "id": "pet.mimi.you_did_it",
+   "speaker": "mimi",
+   "text": "तिमीले गर्यौ!"
+  },
+  {
+   "id": "pet.mimi.great_job",
+   "speaker": "mimi",
+   "text": "स्याबास!"
+  },
+  {
+   "id": "pet.mimi.so_clever",
+   "speaker": "mimi",
+   "text": "वाह, कति बाठो!"
+  },
+  {
+   "id": "pet.mimi.high_five",
+   "speaker": "mimi",
+   "text": "हाई फाइभ!"
+  },
+  {
+   "id": "pet.mimi.oopsie",
+   "speaker": "mimi",
+   "text": "ओहो! फेरि गरौं त!"
+  },
+  {
+   "id": "pet.mimi.you_can",
+   "speaker": "mimi",
+   "text": "तिमी सक्छौ!"
+  },
+  {
+   "id": "pet.mimi.ill_help",
+   "speaker": "mimi",
+   "text": "म मद्दत गर्छु!"
+  },
+  {
+   "id": "pet.mimi.your_turn",
+   "speaker": "mimi",
+   "text": "तिम्रो पालो!"
+  },
+  {
+   "id": "pet.mimi.say_it",
+   "speaker": "mimi",
+   "text": "भनौं न, भनौं न!"
+  },
+  {
+   "id": "pet.mimi.listening",
+   "speaker": "mimi",
+   "text": "म सुन्दैछु!"
+  },
+  {
+   "id": "pet.mimi.again_again",
+   "speaker": "mimi",
+   "text": "फेरि, फेरि!"
+  },
+  {
+   "id": "pet.mimi.like_word",
+   "speaker": "mimi",
+   "text": "मलाई त्यो शब्द मन पर्यो!"
+  },
+  {
+   "id": "pet.mimi.got_star",
+   "speaker": "mimi",
+   "text": "तारा पायौ!"
+  },
+  {
+   "id": "pet.mimi.proud",
+   "speaker": "mimi",
+   "text": "मलाई तिमीमा गर्व छ!"
+  },
+  {
+   "id": "pet.mimi.hooray",
+   "speaker": "mimi",
+   "text": "हुर्रे!"
+  },
+  {
+   "id": "pet.mimi.see_you",
+   "speaker": "mimi",
+   "text": "भोलि भेटौंला!"
+  },
+  {
+   "id": "pet.mimi.bye",
+   "speaker": "mimi",
+   "text": "टाटा!"
+  },
+  {
+   "id": "pet.mimi.tickles",
+   "speaker": "mimi",
+   "text": "हिहि, काउकुती लाग्यो!"
+  },
+  {
+   "id": "pet.mimi.love_you",
+   "speaker": "mimi",
+   "text": "म तिमीलाई माया गर्छु!"
+  },
+  {
+   "id": "pet.mimi.lets_play",
+   "speaker": "mimi",
+   "text": "खेलौं!"
+  },
+  {
+   "id": "pet.mimi.happy_meet",
+   "speaker": "mimi",
+   "text": "भेटेर धेरै खुसी लाग्यो!"
+  },
+  {
+   "id": "pet.mimi.own1",
+   "speaker": "mimi",
+   "text": "म्याउ! एकदम ठीक!"
+  },
+  {
+   "id": "pet.mimi.own2",
+   "speaker": "mimi",
+   "text": "झम्टिहाल!"
+  },
+  {
+   "id": "pet.mimi.own3",
+   "speaker": "mimi",
+   "text": "बिरालाको अँगालो!"
+  },
+  {
+   "id": "pet.mimi.own4",
+   "speaker": "mimi",
+   "text": "मेरा जुँगा हल्लिँदैछन्!"
+  },
+  {
+   "id": "pet.pandu.hi_friend",
+   "speaker": "pandu",
+   "text": "नमस्ते साथी!"
+  },
+  {
+   "id": "pet.pandu.yay_here",
+   "speaker": "pandu",
+   "text": "याहू, तिमी आयौ!"
+  },
+  {
+   "id": "pet.pandu.learn_together",
+   "speaker": "pandu",
+   "text": "सँगै सिकौं!"
+  },
+  {
+   "id": "pet.pandu.start_today",
+   "speaker": "pandu",
+   "text": "आजको पाठ सुरु गरौं!"
+  },
+  {
+   "id": "pet.pandu.yay",
+   "speaker": "pandu",
+   "text": "याहू!"
+  },
+  {
+   "id": "pet.pandu.you_did_it",
+   "speaker": "pandu",
+   "text": "तिमीले गर्यौ!"
+  },
+  {
+   "id": "pet.pandu.great_job",
+   "speaker": "pandu",
+   "text": "स्याबास!"
+  },
+  {
+   "id": "pet.pandu.so_clever",
+   "speaker": "pandu",
+   "text": "वाह, कति बाठो!"
+  },
+  {
+   "id": "pet.pandu.high_five",
+   "speaker": "pandu",
+   "text": "हाई फाइभ!"
+  },
+  {
+   "id": "pet.pandu.oopsie",
+   "speaker": "pandu",
+   "text": "ओहो! फेरि गरौं त!"
+  },
+  {
+   "id": "pet.pandu.you_can",
+   "speaker": "pandu",
+   "text": "तिमी सक्छौ!"
+  },
+  {
+   "id": "pet.pandu.ill_help",
+   "speaker": "pandu",
+   "text": "म मद्दत गर्छु!"
+  },
+  {
+   "id": "pet.pandu.your_turn",
+   "speaker": "pandu",
+   "text": "तिम्रो पालो!"
+  },
+  {
+   "id": "pet.pandu.say_it",
+   "speaker": "pandu",
+   "text": "भनौं न, भनौं न!"
+  },
+  {
+   "id": "pet.pandu.listening",
+   "speaker": "pandu",
+   "text": "म सुन्दैछु!"
+  },
+  {
+   "id": "pet.pandu.again_again",
+   "speaker": "pandu",
+   "text": "फेरि, फेरि!"
+  },
+  {
+   "id": "pet.pandu.like_word",
+   "speaker": "pandu",
+   "text": "मलाई त्यो शब्द मन पर्यो!"
+  },
+  {
+   "id": "pet.pandu.got_star",
+   "speaker": "pandu",
+   "text": "तारा पायौ!"
+  },
+  {
+   "id": "pet.pandu.proud",
+   "speaker": "pandu",
+   "text": "मलाई तिमीमा गर्व छ!"
+  },
+  {
+   "id": "pet.pandu.hooray",
+   "speaker": "pandu",
+   "text": "हुर्रे!"
+  },
+  {
+   "id": "pet.pandu.see_you",
+   "speaker": "pandu",
+   "text": "भोलि भेटौंला!"
+  },
+  {
+   "id": "pet.pandu.bye",
+   "speaker": "pandu",
+   "text": "टाटा!"
+  },
+  {
+   "id": "pet.pandu.tickles",
+   "speaker": "pandu",
+   "text": "हिहि, काउकुती लाग्यो!"
+  },
+  {
+   "id": "pet.pandu.love_you",
+   "speaker": "pandu",
+   "text": "म तिमीलाई माया गर्छु!"
+  },
+  {
+   "id": "pet.pandu.lets_play",
+   "speaker": "pandu",
+   "text": "खेलौं!"
+  },
+  {
+   "id": "pet.pandu.happy_meet",
+   "speaker": "pandu",
+   "text": "भेटेर धेरै खुसी लाग्यो!"
+  },
+  {
+   "id": "pet.pandu.own1",
+   "speaker": "pandu",
+   "text": "खाजा? ठट्टा गरेको!"
+  },
+  {
+   "id": "pet.pandu.own2",
+   "speaker": "pandu",
+   "text": "हाई… होइन, म ब्युँझेकै छु!"
+  },
+  {
+   "id": "pet.pandu.own3",
+   "speaker": "pandu",
+   "text": "अँगालो हाल्ने बेला!"
+  },
+  {
+   "id": "pet.pandu.own4",
+   "speaker": "pandu",
+   "text": "बिस्तारै बिस्तारै, जाऔं।"
+  },
+  {
+   "id": "pet.stardust.hi_friend",
+   "speaker": "stardust",
+   "text": "नमस्ते साथी!"
+  },
+  {
+   "id": "pet.stardust.yay_here",
+   "speaker": "stardust",
+   "text": "याहू, तिमी आयौ!"
+  },
+  {
+   "id": "pet.stardust.learn_together",
+   "speaker": "stardust",
+   "text": "सँगै सिकौं!"
+  },
+  {
+   "id": "pet.stardust.start_today",
+   "speaker": "stardust",
+   "text": "आजको पाठ सुरु गरौं!"
+  },
+  {
+   "id": "pet.stardust.yay",
+   "speaker": "stardust",
+   "text": "याहू!"
+  },
+  {
+   "id": "pet.stardust.you_did_it",
+   "speaker": "stardust",
+   "text": "तिमीले गर्यौ!"
+  },
+  {
+   "id": "pet.stardust.great_job",
+   "speaker": "stardust",
+   "text": "स्याबास!"
+  },
+  {
+   "id": "pet.stardust.so_clever",
+   "speaker": "stardust",
+   "text": "वाह, कति बाठो!"
+  },
+  {
+   "id": "pet.stardust.high_five",
+   "speaker": "stardust",
+   "text": "हाई फाइभ!"
+  },
+  {
+   "id": "pet.stardust.oopsie",
+   "speaker": "stardust",
+   "text": "ओहो! फेरि गरौं त!"
+  },
+  {
+   "id": "pet.stardust.you_can",
+   "speaker": "stardust",
+   "text": "तिमी सक्छौ!"
+  },
+  {
+   "id": "pet.stardust.ill_help",
+   "speaker": "stardust",
+   "text": "म मद्दत गर्छु!"
+  },
+  {
+   "id": "pet.stardust.your_turn",
+   "speaker": "stardust",
+   "text": "तिम्रो पालो!"
+  },
+  {
+   "id": "pet.stardust.say_it",
+   "speaker": "stardust",
+   "text": "भनौं न, भनौं न!"
+  },
+  {
+   "id": "pet.stardust.listening",
+   "speaker": "stardust",
+   "text": "म सुन्दैछु!"
+  },
+  {
+   "id": "pet.stardust.again_again",
+   "speaker": "stardust",
+   "text": "फेरि, फेरि!"
+  },
+  {
+   "id": "pet.stardust.like_word",
+   "speaker": "stardust",
+   "text": "मलाई त्यो शब्द मन पर्यो!"
+  },
+  {
+   "id": "pet.stardust.got_star",
+   "speaker": "stardust",
+   "text": "तारा पायौ!"
+  },
+  {
+   "id": "pet.stardust.proud",
+   "speaker": "stardust",
+   "text": "मलाई तिमीमा गर्व छ!"
+  },
+  {
+   "id": "pet.stardust.hooray",
+   "speaker": "stardust",
+   "text": "हुर्रे!"
+  },
+  {
+   "id": "pet.stardust.see_you",
+   "speaker": "stardust",
+   "text": "भोलि भेटौंला!"
+  },
+  {
+   "id": "pet.stardust.bye",
+   "speaker": "stardust",
+   "text": "टाटा!"
+  },
+  {
+   "id": "pet.stardust.tickles",
+   "speaker": "stardust",
+   "text": "हिहि, काउकुती लाग्यो!"
+  },
+  {
+   "id": "pet.stardust.love_you",
+   "speaker": "stardust",
+   "text": "म तिमीलाई माया गर्छु!"
+  },
+  {
+   "id": "pet.stardust.lets_play",
+   "speaker": "stardust",
+   "text": "खेलौं!"
+  },
+  {
+   "id": "pet.stardust.happy_meet",
+   "speaker": "stardust",
+   "text": "भेटेर धेरै खुसी लाग्यो!"
+  },
+  {
+   "id": "pet.stardust.own1",
+   "speaker": "stardust",
+   "text": "टिलिक टिलिक!"
+  },
+  {
+   "id": "pet.stardust.own2",
+   "speaker": "stardust",
+   "text": "जादु जस्तै!"
+  },
+  {
+   "id": "pet.stardust.own3",
+   "speaker": "stardust",
+   "text": "रङ थपौं!"
+  },
+  {
+   "id": "pet.stardust.own4",
+   "speaker": "stardust",
+   "text": "इच्छा माग!"
+  },
+  {
+   "id": "pet.roary.hi_friend",
+   "speaker": "roary",
+   "text": "नमस्ते साथी!"
+  },
+  {
+   "id": "pet.roary.yay_here",
+   "speaker": "roary",
+   "text": "याहू, तिमी आयौ!"
+  },
+  {
+   "id": "pet.roary.learn_together",
+   "speaker": "roary",
+   "text": "सँगै सिकौं!"
+  },
+  {
+   "id": "pet.roary.start_today",
+   "speaker": "roary",
+   "text": "आजको पाठ सुरु गरौं!"
+  },
+  {
+   "id": "pet.roary.yay",
+   "speaker": "roary",
+   "text": "याहू!"
+  },
+  {
+   "id": "pet.roary.you_did_it",
+   "speaker": "roary",
+   "text": "तिमीले गर्यौ!"
+  },
+  {
+   "id": "pet.roary.great_job",
+   "speaker": "roary",
+   "text": "स्याबास!"
+  },
+  {
+   "id": "pet.roary.so_clever",
+   "speaker": "roary",
+   "text": "वाह, कति बाठो!"
+  },
+  {
+   "id": "pet.roary.high_five",
+   "speaker": "roary",
+   "text": "हाई फाइभ!"
+  },
+  {
+   "id": "pet.roary.oopsie",
+   "speaker": "roary",
+   "text": "ओहो! फेरि गरौं त!"
+  },
+  {
+   "id": "pet.roary.you_can",
+   "speaker": "roary",
+   "text": "तिमी सक्छौ!"
+  },
+  {
+   "id": "pet.roary.ill_help",
+   "speaker": "roary",
+   "text": "म मद्दत गर्छु!"
+  },
+  {
+   "id": "pet.roary.your_turn",
+   "speaker": "roary",
+   "text": "तिम्रो पालो!"
+  },
+  {
+   "id": "pet.roary.say_it",
+   "speaker": "roary",
+   "text": "भनौं न, भनौं न!"
+  },
+  {
+   "id": "pet.roary.listening",
+   "speaker": "roary",
+   "text": "म सुन्दैछु!"
+  },
+  {
+   "id": "pet.roary.again_again",
+   "speaker": "roary",
+   "text": "फेरि, फेरि!"
+  },
+  {
+   "id": "pet.roary.like_word",
+   "speaker": "roary",
+   "text": "मलाई त्यो शब्द मन पर्यो!"
+  },
+  {
+   "id": "pet.roary.got_star",
+   "speaker": "roary",
+   "text": "तारा पायौ!"
+  },
+  {
+   "id": "pet.roary.proud",
+   "speaker": "roary",
+   "text": "मलाई तिमीमा गर्व छ!"
+  },
+  {
+   "id": "pet.roary.hooray",
+   "speaker": "roary",
+   "text": "हुर्रे!"
+  },
+  {
+   "id": "pet.roary.see_you",
+   "speaker": "roary",
+   "text": "भोलि भेटौंला!"
+  },
+  {
+   "id": "pet.roary.bye",
+   "speaker": "roary",
+   "text": "टाटा!"
+  },
+  {
+   "id": "pet.roary.tickles",
+   "speaker": "roary",
+   "text": "हिहि, काउकुती लाग्यो!"
+  },
+  {
+   "id": "pet.roary.love_you",
+   "speaker": "roary",
+   "text": "म तिमीलाई माया गर्छु!"
+  },
+  {
+   "id": "pet.roary.lets_play",
+   "speaker": "roary",
+   "text": "खेलौं!"
+  },
+  {
+   "id": "pet.roary.happy_meet",
+   "speaker": "roary",
+   "text": "भेटेर धेरै खुसी लाग्यो!"
+  },
+  {
+   "id": "pet.roary.own1",
+   "speaker": "roary",
+   "text": "ह्वाँ! तिमी च्याम्पियन!"
+  },
+  {
+   "id": "pet.roary.own2",
+   "speaker": "roary",
+   "text": "साहसी बन, सानो साथी!"
+  },
+  {
+   "id": "pet.roary.own3",
+   "speaker": "roary",
+   "text": "सिकाइको राजा!"
+  },
+  {
+   "id": "pet.roary.own4",
+   "speaker": "roary",
+   "text": "ठूलो स्वरमा ह्वाँ गरौं!"
+  }
+ ]
+}

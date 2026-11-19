@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/unlock.did_it_20.asha.tmp.wav",
+    "duration": 2.76
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.06, "value": "B" },
+    { "start": 0.06, "end": 0.10, "value": "C" },
+    { "start": 0.10, "end": 0.18, "value": "A" },
+    { "start": 0.18, "end": 0.39, "value": "C" },
+    { "start": 0.39, "end": 0.53, "value": "F" },
+    { "start": 0.53, "end": 0.74, "value": "B" },
+    { "start": 0.74, "end": 0.88, "value": "X" },
+    { "start": 0.88, "end": 0.94, "value": "B" },
+    { "start": 0.94, "end": 0.99, "value": "E" },
+    { "start": 0.99, "end": 1.06, "value": "F" },
+    { "start": 1.06, "end": 1.20, "value": "B" },
+    { "start": 1.20, "end": 1.48, "value": "C" },
+    { "start": 1.48, "end": 1.90, "value": "B" },
+    { "start": 1.90, "end": 2.05, "value": "F" },
+    { "start": 2.05, "end": 2.12, "value": "B" },
+    { "start": 2.12, "end": 2.20, "value": "A" },
+    { "start": 2.20, "end": 2.32, "value": "D" },
+    { "start": 2.32, "end": 2.38, "value": "C" },
+    { "start": 2.38, "end": 2.48, "value": "A" },
+    { "start": 2.48, "end": 2.56, "value": "E" },
+    { "start": 2.56, "end": 2.76, "value": "X" }
+  ]
+}

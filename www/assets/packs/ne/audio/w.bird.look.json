@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/w.bird.look.tmp.wav",
+    "duration": 1.56
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "B" },
+    { "start": 0.05, "end": 0.17, "value": "C" },
+    { "start": 0.17, "end": 0.24, "value": "B" },
+    { "start": 0.24, "end": 0.38, "value": "F" },
+    { "start": 0.38, "end": 0.52, "value": "C" },
+    { "start": 0.52, "end": 0.66, "value": "E" },
+    { "start": 0.66, "end": 0.87, "value": "C" },
+    { "start": 0.87, "end": 1.14, "value": "X" },
+    { "start": 1.14, "end": 1.21, "value": "B" },
+    { "start": 1.21, "end": 1.48, "value": "C" },
+    { "start": 1.48, "end": 1.55, "value": "B" },
+    { "start": 1.55, "end": 1.56, "value": "X" }
+  ]
+}

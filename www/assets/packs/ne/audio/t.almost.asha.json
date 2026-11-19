@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/t.almost.asha.tmp.wav",
+    "duration": 1.07
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.15, "value": "B" },
+    { "start": 0.15, "end": 0.43, "value": "C" },
+    { "start": 0.43, "end": 1.06, "value": "B" },
+    { "start": 1.06, "end": 1.07, "value": "X" }
+  ]
+}

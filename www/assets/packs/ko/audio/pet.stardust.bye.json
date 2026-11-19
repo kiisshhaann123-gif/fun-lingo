@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.stardust.bye.tmp.wav",
+    "duration": 1.30
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.06, "value": "B" },
+    { "start": 0.06, "end": 0.21, "value": "A" },
+    { "start": 0.21, "end": 0.63, "value": "F" },
+    { "start": 0.63, "end": 0.70, "value": "C" },
+    { "start": 0.70, "end": 0.77, "value": "E" },
+    { "start": 0.77, "end": 0.84, "value": "B" },
+    { "start": 0.84, "end": 1.30, "value": "X" }
+  ]
+}

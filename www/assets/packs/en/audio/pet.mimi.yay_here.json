@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/pet.mimi.yay_here.tmp.wav",
+    "duration": 1.48
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.33, "value": "X" },
+    { "start": 0.33, "end": 0.48, "value": "E" },
+    { "start": 0.48, "end": 1.16, "value": "F" },
+    { "start": 1.16, "end": 1.28, "value": "A" },
+    { "start": 1.28, "end": 1.42, "value": "B" },
+    { "start": 1.42, "end": 1.48, "value": "X" }
+  ]
+}

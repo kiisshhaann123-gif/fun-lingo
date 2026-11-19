@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.gaju.hi_friend.tmp.wav",
+    "duration": 1.22
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.03, "value": "X" },
+    { "start": 0.03, "end": 0.09, "value": "B" },
+    { "start": 0.09, "end": 0.28, "value": "C" },
+    { "start": 0.28, "end": 0.35, "value": "E" },
+    { "start": 0.35, "end": 0.42, "value": "F" },
+    { "start": 0.42, "end": 0.56, "value": "B" },
+    { "start": 0.56, "end": 0.84, "value": "E" },
+    { "start": 0.84, "end": 0.91, "value": "F" },
+    { "start": 0.91, "end": 0.98, "value": "B" },
+    { "start": 0.98, "end": 1.22, "value": "X" }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/pet.gaju.start_today.tmp.wav",
+    "duration": 1.64
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.21, "value": "D" },
+    { "start": 0.21, "end": 0.28, "value": "B" },
+    { "start": 0.28, "end": 0.35, "value": "F" },
+    { "start": 0.35, "end": 0.43, "value": "A" },
+    { "start": 0.43, "end": 0.63, "value": "D" },
+    { "start": 0.63, "end": 0.68, "value": "C" },
+    { "start": 0.68, "end": 0.93, "value": "B" },
+    { "start": 0.93, "end": 1.28, "value": "F" },
+    { "start": 1.28, "end": 1.63, "value": "B" },
+    { "start": 1.63, "end": 1.64, "value": "X" }
+  ]
+}

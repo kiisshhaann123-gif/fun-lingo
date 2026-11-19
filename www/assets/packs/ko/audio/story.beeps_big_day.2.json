@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/story.beeps_big_day.2.tmp.wav",
+    "duration": 2.11
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.06, "value": "B" },
+    { "start": 0.06, "end": 0.25, "value": "C" },
+    { "start": 0.25, "end": 0.32, "value": "E" },
+    { "start": 0.32, "end": 0.53, "value": "B" },
+    { "start": 0.53, "end": 0.77, "value": "X" },
+    { "start": 0.77, "end": 0.84, "value": "B" },
+    { "start": 0.84, "end": 0.97, "value": "C" },
+    { "start": 0.97, "end": 1.11, "value": "B" },
+    { "start": 1.11, "end": 1.19, "value": "A" },
+    { "start": 1.19, "end": 1.30, "value": "C" },
+    { "start": 1.30, "end": 1.37, "value": "F" },
+    { "start": 1.37, "end": 1.62, "value": "B" },
+    { "start": 1.62, "end": 1.70, "value": "A" },
+    { "start": 1.70, "end": 1.89, "value": "B" },
+    { "start": 1.89, "end": 2.10, "value": "C" },
+    { "start": 2.10, "end": 2.11, "value": "X" }
+  ]
+}

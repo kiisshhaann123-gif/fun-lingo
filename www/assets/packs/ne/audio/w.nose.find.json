@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/w.nose.find.tmp.wav",
+    "duration": 1.07
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.04, "value": "B" },
+    { "start": 0.04, "end": 0.15, "value": "C" },
+    { "start": 0.15, "end": 0.29, "value": "D" },
+    { "start": 0.29, "end": 0.36, "value": "C" },
+    { "start": 0.36, "end": 0.57, "value": "B" },
+    { "start": 0.57, "end": 0.85, "value": "F" },
+    { "start": 0.85, "end": 1.06, "value": "B" },
+    { "start": 1.06, "end": 1.07, "value": "X" }
+  ]
+}

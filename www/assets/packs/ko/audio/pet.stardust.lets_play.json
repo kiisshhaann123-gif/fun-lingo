@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.stardust.lets_play.tmp.wav",
+    "duration": 2.11
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.13, "value": "E" },
+    { "start": 0.13, "end": 0.20, "value": "B" },
+    { "start": 0.20, "end": 0.62, "value": "A" },
+    { "start": 0.62, "end": 0.76, "value": "B" },
+    { "start": 0.76, "end": 2.11, "value": "X" }
+  ]
+}

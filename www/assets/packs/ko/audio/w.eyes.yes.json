@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/w.eyes.yes.tmp.wav",
+    "duration": 1.14
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.07, "value": "A" },
+    { "start": 0.07, "end": 0.15, "value": "C" },
+    { "start": 0.15, "end": 0.29, "value": "B" },
+    { "start": 0.29, "end": 0.36, "value": "C" },
+    { "start": 0.36, "end": 0.64, "value": "E" },
+    { "start": 0.64, "end": 0.92, "value": "B" },
+    { "start": 0.92, "end": 1.13, "value": "F" },
+    { "start": 1.13, "end": 1.14, "value": "X" }
+  ]
+}

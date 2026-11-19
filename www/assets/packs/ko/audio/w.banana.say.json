@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/w.banana.say.tmp.wav",
+    "duration": 0.67
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.04, "value": "A" },
+    { "start": 0.04, "end": 0.45, "value": "C" },
+    { "start": 0.45, "end": 0.66, "value": "B" },
+    { "start": 0.66, "end": 0.67, "value": "X" }
+  ]
+}

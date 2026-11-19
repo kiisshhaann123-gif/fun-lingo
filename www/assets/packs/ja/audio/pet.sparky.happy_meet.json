@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.sparky.happy_meet.tmp.wav",
+    "duration": 1.30
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.13, "value": "C" },
+    { "start": 0.13, "end": 0.20, "value": "B" },
+    { "start": 0.20, "end": 0.28, "value": "A" },
+    { "start": 0.28, "end": 0.64, "value": "B" },
+    { "start": 0.64, "end": 0.71, "value": "A" },
+    { "start": 0.71, "end": 0.87, "value": "F" },
+    { "start": 0.87, "end": 1.29, "value": "B" },
+    { "start": 1.29, "end": 1.30, "value": "X" }
+  ]
+}

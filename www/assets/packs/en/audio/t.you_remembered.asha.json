@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/t.you_remembered.asha.tmp.wav",
+    "duration": 1.14
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.24, "value": "F" },
+    { "start": 0.24, "end": 0.31, "value": "B" },
+    { "start": 0.31, "end": 0.39, "value": "A" },
+    { "start": 0.39, "end": 0.48, "value": "C" },
+    { "start": 0.48, "end": 0.60, "value": "A" },
+    { "start": 0.60, "end": 0.75, "value": "E" },
+    { "start": 0.75, "end": 1.03, "value": "B" },
+    { "start": 1.03, "end": 1.14, "value": "X" }
+  ]
+}

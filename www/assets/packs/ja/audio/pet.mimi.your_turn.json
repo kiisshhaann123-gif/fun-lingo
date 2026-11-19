@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.mimi.your_turn.tmp.wav",
+    "duration": 1.56
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.25, "value": "B" },
+    { "start": 0.25, "end": 0.46, "value": "E" },
+    { "start": 0.46, "end": 0.64, "value": "B" },
+    { "start": 0.64, "end": 0.77, "value": "C" },
+    { "start": 0.77, "end": 1.12, "value": "B" },
+    { "start": 1.12, "end": 1.19, "value": "E" },
+    { "start": 1.19, "end": 1.26, "value": "B" },
+    { "start": 1.26, "end": 1.56, "value": "X" }
+  ]
+}

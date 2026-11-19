@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/unlock.this_is_roary.leo.tmp.wav",
+    "duration": 1.22
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.07, "value": "X" },
+    { "start": 0.07, "end": 0.65, "value": "B" },
+    { "start": 0.65, "end": 0.86, "value": "E" },
+    { "start": 0.86, "end": 0.93, "value": "F" },
+    { "start": 0.93, "end": 1.21, "value": "B" },
+    { "start": 1.21, "end": 1.22, "value": "X" }
+  ]
+}

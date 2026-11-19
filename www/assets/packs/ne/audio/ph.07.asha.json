@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/ph.07.asha.tmp.wav",
+    "duration": 2.19
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.03, "value": "B" },
+    { "start": 0.03, "end": 0.06, "value": "A" },
+    { "start": 0.06, "end": 0.26, "value": "C" },
+    { "start": 0.26, "end": 0.33, "value": "B" },
+    { "start": 0.33, "end": 0.41, "value": "A" },
+    { "start": 0.41, "end": 0.54, "value": "C" },
+    { "start": 0.54, "end": 0.68, "value": "B" },
+    { "start": 0.68, "end": 0.82, "value": "C" },
+    { "start": 0.82, "end": 0.96, "value": "D" },
+    { "start": 0.96, "end": 1.10, "value": "B" },
+    { "start": 1.10, "end": 1.30, "value": "X" },
+    { "start": 1.30, "end": 1.38, "value": "B" },
+    { "start": 1.38, "end": 1.55, "value": "A" },
+    { "start": 1.55, "end": 1.83, "value": "C" },
+    { "start": 1.83, "end": 2.18, "value": "B" },
+    { "start": 2.18, "end": 2.19, "value": "X" }
+  ]
+}

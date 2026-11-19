@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/w.black.find.tmp.wav",
+    "duration": 1.22
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.32, "value": "C" },
+    { "start": 0.32, "end": 0.39, "value": "E" },
+    { "start": 0.39, "end": 0.53, "value": "A" },
+    { "start": 0.53, "end": 0.86, "value": "B" },
+    { "start": 0.86, "end": 0.93, "value": "E" },
+    { "start": 0.93, "end": 1.21, "value": "B" },
+    { "start": 1.21, "end": 1.22, "value": "X" }
+  ]
+}

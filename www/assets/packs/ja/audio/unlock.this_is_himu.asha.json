@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/unlock.this_is_himu.asha.tmp.wav",
+    "duration": 1.72
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.16, "value": "B" },
+    { "start": 0.16, "end": 0.24, "value": "A" },
+    { "start": 0.24, "end": 0.31, "value": "B" },
+    { "start": 0.31, "end": 0.37, "value": "C" },
+    { "start": 0.37, "end": 0.44, "value": "B" },
+    { "start": 0.44, "end": 0.51, "value": "C" },
+    { "start": 0.51, "end": 0.72, "value": "E" },
+    { "start": 0.72, "end": 1.72, "value": "X" }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.stardust.proud.tmp.wav",
+    "duration": 2.69
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.18, "value": "B" },
+    { "start": 0.18, "end": 0.24, "value": "A" },
+    { "start": 0.24, "end": 0.30, "value": "B" },
+    { "start": 0.30, "end": 0.38, "value": "A" },
+    { "start": 0.38, "end": 0.44, "value": "C" },
+    { "start": 0.44, "end": 0.57, "value": "F" },
+    { "start": 0.57, "end": 0.64, "value": "B" },
+    { "start": 0.64, "end": 0.78, "value": "E" },
+    { "start": 0.78, "end": 0.85, "value": "C" },
+    { "start": 0.85, "end": 0.92, "value": "B" },
+    { "start": 0.92, "end": 1.43, "value": "X" },
+    { "start": 1.43, "end": 1.48, "value": "B" },
+    { "start": 1.48, "end": 1.53, "value": "C" },
+    { "start": 1.53, "end": 1.61, "value": "A" },
+    { "start": 1.61, "end": 1.88, "value": "C" },
+    { "start": 1.88, "end": 2.65, "value": "B" },
+    { "start": 2.65, "end": 2.69, "value": "X" }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/w.green.look.tmp.wav",
+    "duration": 1.41
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.06, "value": "X" },
+    { "start": 0.06, "end": 0.22, "value": "B" },
+    { "start": 0.22, "end": 0.29, "value": "E" },
+    { "start": 0.29, "end": 0.37, "value": "A" },
+    { "start": 0.37, "end": 0.43, "value": "B" },
+    { "start": 0.43, "end": 0.56, "value": "C" },
+    { "start": 0.56, "end": 0.70, "value": "B" },
+    { "start": 0.70, "end": 0.89, "value": "X" },
+    { "start": 0.89, "end": 1.26, "value": "B" },
+    { "start": 1.26, "end": 1.33, "value": "F" },
+    { "start": 1.33, "end": 1.40, "value": "B" },
+    { "start": 1.40, "end": 1.41, "value": "X" }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/story.beeps_big_day.8.tmp.wav",
+    "duration": 4.59
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.09, "value": "C" },
+    { "start": 0.09, "end": 0.16, "value": "A" },
+    { "start": 0.16, "end": 0.47, "value": "F" },
+    { "start": 0.47, "end": 0.54, "value": "G" },
+    { "start": 0.54, "end": 0.96, "value": "B" },
+    { "start": 0.96, "end": 1.35, "value": "X" },
+    { "start": 1.35, "end": 1.49, "value": "C" },
+    { "start": 1.49, "end": 1.70, "value": "B" },
+    { "start": 1.70, "end": 1.78, "value": "A" },
+    { "start": 1.78, "end": 1.90, "value": "C" },
+    { "start": 1.90, "end": 2.04, "value": "E" },
+    { "start": 2.04, "end": 2.11, "value": "G" },
+    { "start": 2.11, "end": 2.18, "value": "H" },
+    { "start": 2.18, "end": 2.37, "value": "D" },
+    { "start": 2.37, "end": 2.42, "value": "C" },
+    { "start": 2.42, "end": 2.97, "value": "B" },
+    { "start": 2.97, "end": 3.05, "value": "C" },
+    { "start": 3.05, "end": 3.13, "value": "A" },
+    { "start": 3.13, "end": 3.30, "value": "H" },
+    { "start": 3.30, "end": 3.37, "value": "C" },
+    { "start": 3.37, "end": 3.58, "value": "B" },
+    { "start": 3.58, "end": 3.65, "value": "F" },
+    { "start": 3.65, "end": 3.72, "value": "C" },
+    { "start": 3.72, "end": 3.79, "value": "B" },
+    { "start": 3.79, "end": 4.21, "value": "D" },
+    { "start": 4.21, "end": 4.35, "value": "E" },
+    { "start": 4.35, "end": 4.59, "value": "X" }
+  ]
+}

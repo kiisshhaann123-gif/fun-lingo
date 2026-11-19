@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/pet.gaju.happy_meet.tmp.wav",
+    "duration": 1.95
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.04, "value": "A" },
+    { "start": 0.04, "end": 0.11, "value": "C" },
+    { "start": 0.11, "end": 0.17, "value": "B" },
+    { "start": 0.17, "end": 0.26, "value": "A" },
+    { "start": 0.26, "end": 0.51, "value": "B" },
+    { "start": 0.51, "end": 0.58, "value": "E" },
+    { "start": 0.58, "end": 0.72, "value": "F" },
+    { "start": 0.72, "end": 0.79, "value": "C" },
+    { "start": 0.79, "end": 0.87, "value": "A" },
+    { "start": 0.87, "end": 1.02, "value": "B" },
+    { "start": 1.02, "end": 1.16, "value": "F" },
+    { "start": 1.16, "end": 1.29, "value": "A" },
+    { "start": 1.29, "end": 1.54, "value": "B" },
+    { "start": 1.54, "end": 1.89, "value": "F" },
+    { "start": 1.89, "end": 1.95, "value": "X" }
+  ]
+}

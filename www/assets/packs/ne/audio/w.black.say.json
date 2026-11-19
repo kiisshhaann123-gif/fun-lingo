@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/w.black.say.tmp.wav",
+    "duration": 1.72
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.24, "value": "C" },
+    { "start": 0.24, "end": 0.38, "value": "B" },
+    { "start": 0.38, "end": 0.52, "value": "E" },
+    { "start": 0.52, "end": 0.80, "value": "F" },
+    { "start": 0.80, "end": 1.71, "value": "B" },
+    { "start": 1.71, "end": 1.72, "value": "X" }
+  ]
+}

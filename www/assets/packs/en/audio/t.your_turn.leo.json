@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/t.your_turn.leo.tmp.wav",
+    "duration": 1.72
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.10, "value": "X" },
+    { "start": 0.10, "end": 0.17, "value": "C" },
+    { "start": 0.17, "end": 0.24, "value": "E" },
+    { "start": 0.24, "end": 0.31, "value": "B" },
+    { "start": 0.31, "end": 0.59, "value": "E" },
+    { "start": 0.59, "end": 0.73, "value": "C" },
+    { "start": 0.73, "end": 1.72, "value": "X" }
+  ]
+}

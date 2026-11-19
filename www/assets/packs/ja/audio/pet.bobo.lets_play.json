@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.bobo.lets_play.tmp.wav",
+    "duration": 1.41
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.07, "value": "B" },
+    { "start": 0.07, "end": 0.14, "value": "C" },
+    { "start": 0.14, "end": 0.28, "value": "F" },
+    { "start": 0.28, "end": 0.35, "value": "B" },
+    { "start": 0.35, "end": 0.63, "value": "E" },
+    { "start": 0.63, "end": 0.77, "value": "F" },
+    { "start": 0.77, "end": 0.88, "value": "A" },
+    { "start": 0.88, "end": 1.25, "value": "X" },
+    { "start": 1.25, "end": 1.40, "value": "B" },
+    { "start": 1.40, "end": 1.41, "value": "X" }
+  ]
+}

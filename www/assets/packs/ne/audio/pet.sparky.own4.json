@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/pet.sparky.own4.tmp.wav",
+    "duration": 1.64
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.08, "value": "B" },
+    { "start": 0.08, "end": 0.41, "value": "F" },
+    { "start": 0.41, "end": 0.50, "value": "A" },
+    { "start": 0.50, "end": 0.63, "value": "C" },
+    { "start": 0.63, "end": 0.77, "value": "B" },
+    { "start": 0.77, "end": 0.84, "value": "C" },
+    { "start": 0.84, "end": 1.40, "value": "B" },
+    { "start": 1.40, "end": 1.64, "value": "X" }
+  ]
+}

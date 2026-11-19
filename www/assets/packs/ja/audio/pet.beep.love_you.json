@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.beep.love_you.tmp.wav",
+    "duration": 0.99
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.21, "value": "C" },
+    { "start": 0.21, "end": 0.28, "value": "B" },
+    { "start": 0.28, "end": 0.98, "value": "C" },
+    { "start": 0.98, "end": 0.99, "value": "X" }
+  ]
+}

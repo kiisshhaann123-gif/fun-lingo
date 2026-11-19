@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/t.lets_sing.leo.tmp.wav",
+    "duration": 1.07
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.25, "value": "B" },
+    { "start": 0.25, "end": 0.53, "value": "C" },
+    { "start": 0.53, "end": 0.81, "value": "E" },
+    { "start": 0.81, "end": 1.07, "value": "X" }
+  ]
+}

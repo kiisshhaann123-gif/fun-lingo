@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/pet.gaju.learn_together.tmp.wav",
+    "duration": 1.56
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.07, "value": "B" },
+    { "start": 0.07, "end": 0.13, "value": "F" },
+    { "start": 0.13, "end": 0.27, "value": "G" },
+    { "start": 0.27, "end": 0.34, "value": "E" },
+    { "start": 0.34, "end": 0.62, "value": "B" },
+    { "start": 0.62, "end": 0.83, "value": "X" },
+    { "start": 0.83, "end": 0.88, "value": "B" },
+    { "start": 0.88, "end": 0.93, "value": "A" },
+    { "start": 0.93, "end": 0.99, "value": "C" },
+    { "start": 0.99, "end": 1.05, "value": "A" },
+    { "start": 1.05, "end": 1.11, "value": "F" },
+    { "start": 1.11, "end": 1.17, "value": "A" },
+    { "start": 1.17, "end": 1.27, "value": "C" },
+    { "start": 1.27, "end": 1.48, "value": "H" },
+    { "start": 1.48, "end": 1.55, "value": "B" },
+    { "start": 1.55, "end": 1.56, "value": "X" }
+  ]
+}

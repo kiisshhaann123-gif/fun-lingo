@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/pet.pandu.hooray.tmp.wav",
+    "duration": 1.14
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.01, "value": "X" },
+    { "start": 0.01, "end": 0.05, "value": "B" },
+    { "start": 0.05, "end": 0.23, "value": "D" },
+    { "start": 0.23, "end": 0.30, "value": "C" },
+    { "start": 0.30, "end": 0.37, "value": "B" },
+    { "start": 0.37, "end": 0.65, "value": "C" },
+    { "start": 0.65, "end": 0.93, "value": "B" },
+    { "start": 0.93, "end": 1.14, "value": "X" }
+  ]
+}

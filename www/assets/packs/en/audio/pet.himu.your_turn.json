@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/en/audio/pet.himu.your_turn.tmp.wav",
+    "duration": 1.07
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.10, "value": "X" },
+    { "start": 0.10, "end": 0.16, "value": "C" },
+    { "start": 0.16, "end": 0.70, "value": "E" },
+    { "start": 0.70, "end": 0.84, "value": "C" },
+    { "start": 0.84, "end": 1.07, "value": "X" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ko/audio/w.egg.say.tmp.wav",
+    "duration": 0.75
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.07, "value": "G" },
+    { "start": 0.07, "end": 0.13, "value": "C" },
+    { "start": 0.13, "end": 0.20, "value": "B" },
+    { "start": 0.20, "end": 0.62, "value": "C" },
+    { "start": 0.62, "end": 0.75, "value": "X" }
+  ]
+}

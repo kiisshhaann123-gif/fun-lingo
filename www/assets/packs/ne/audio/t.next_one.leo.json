@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/t.next_one.leo.tmp.wav",
+    "duration": 0.67
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.19, "value": "C" },
+    { "start": 0.19, "end": 0.47, "value": "B" },
+    { "start": 0.47, "end": 0.67, "value": "X" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/w.baby.say.tmp.wav",
+    "duration": 2.11
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.13, "value": "A" },
+    { "start": 0.13, "end": 0.46, "value": "B" },
+    { "start": 0.46, "end": 1.51, "value": "C" },
+    { "start": 1.51, "end": 2.00, "value": "B" },
+    { "start": 2.00, "end": 2.10, "value": "A" },
+    { "start": 2.10, "end": 2.11, "value": "X" }
+  ]
+}

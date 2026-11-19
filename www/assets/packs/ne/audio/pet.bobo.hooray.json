@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ne/audio/pet.bobo.hooray.tmp.wav",
+    "duration": 1.14
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.04, "value": "B" },
+    { "start": 0.04, "end": 0.08, "value": "A" },
+    { "start": 0.08, "end": 0.22, "value": "F" },
+    { "start": 0.22, "end": 0.36, "value": "E" },
+    { "start": 0.36, "end": 0.71, "value": "C" },
+    { "start": 0.71, "end": 0.99, "value": "B" },
+    { "start": 0.99, "end": 1.14, "value": "X" }
+  ]
+}

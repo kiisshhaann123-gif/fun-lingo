@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "soundFile": "/Users/kishan/Website/toddler-lang-app/www/assets/packs/ja/audio/unlock.who_new_friend.leo.tmp.wav",
+    "duration": 2.03
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.02, "value": "X" },
+    { "start": 0.02, "end": 0.07, "value": "B" },
+    { "start": 0.07, "end": 0.12, "value": "C" },
+    { "start": 0.12, "end": 0.19, "value": "B" },
+    { "start": 0.19, "end": 0.26, "value": "C" },
+    { "start": 0.26, "end": 0.54, "value": "B" },
+    { "start": 0.54, "end": 0.68, "value": "F" },
+    { "start": 0.68, "end": 0.76, "value": "A" },
+    { "start": 0.76, "end": 1.11, "value": "F" },
+    { "start": 1.11, "end": 1.18, "value": "B" },
+    { "start": 1.18, "end": 1.47, "value": "A" },
+    { "start": 1.47, "end": 1.56, "value": "B" },
+    { "start": 1.56, "end": 1.84, "value": "C" },
+    { "start": 1.84, "end": 1.92, "value": "A" },
+    { "start": 1.92, "end": 1.97, "value": "D" },
+    { "start": 1.97, "end": 2.02, "value": "B" },
+    { "start": 2.02, "end": 2.03, "value": "X" }
+  ]
+}
